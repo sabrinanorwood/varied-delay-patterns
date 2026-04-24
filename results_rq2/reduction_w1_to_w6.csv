@@ -1,0 +1,5 @@
+condition,mean_initial_w1,mean_initial_w6,n_users_w1,n_users_w6,absolute_reduction,relative_reduction
+ABC,159.65,95.42,55,55,64.23,40.2
+ACC,154.39,78.95,57,57,75.44,48.9
+BCC,135.43,78.96,49,49,56.47,41.7
+CCC,150.12,89.44,57,57,60.68,40.4

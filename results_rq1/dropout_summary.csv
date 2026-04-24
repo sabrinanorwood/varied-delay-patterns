@@ -1,0 +1,5 @@
+condition,n_total,n_dropout,n_complete,dropout_rate
+CCC,213,156,57,73.2
+ABC,207,152,55,73.4
+ACC,227,170,57,74.9
+BCC,236,187,49,79.2
