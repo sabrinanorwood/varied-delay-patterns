@@ -101,8 +101,6 @@ results_rq1 <- tidy(model_rq1, exponentiate = TRUE, conf.int = TRUE) %>%
     OR   = round(estimate, 3),
     CI   = paste0("[", round(conf.low, 3), ", ", round(conf.high, 3), "]"),
     p    = case_when(p.value < .001 ~ "< .001",
-                     p.value < .01  ~ "< .01",
-                     p.value < .05  ~ "< .05",
                      TRUE           ~ as.character(round(p.value, 3)))
   ) %>%
   select(Predictor = term, OR, `95% CI` = CI, p) 
@@ -133,8 +131,6 @@ pairwise_rq1 <- emmeans(model_rq1, ~ condition) %>%
   mutate(
     across(where(is.numeric), ~ round(.x, 3)),
     p = case_when(p.value < .001 ~ "< .001",
-                  p.value < .01  ~ "< .01",
-                  p.value < .05  ~ "< .05",
                   TRUE           ~ as.character(round(p.value, 3)))
   )
 
