@@ -1,0 +1,6 @@
+Predictor,Rate Ratio,95% CI,p
+(Intercept),33.045,"[28.406, 38.57]",< .001
+conditionABC,1.02,"[0.855, 1.216]",0.828
+conditionACC,0.83,"[0.697, 0.988]",0.036
+conditionBCC,1.019,"[0.85, 1.222]",0.841
+attempted_w1,1.005,"[1.005, 1.006]",< .001

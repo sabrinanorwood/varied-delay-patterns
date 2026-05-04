@@ -1,0 +1,7 @@
+Predictor,Rate Ratio,95% CI,p
+(Intercept),0.219,"[0.197, 0.244]",< .001
+conditionABC,1.104,"[0.972, 1.253]",0.127
+conditionACC,1.099,"[0.968, 1.248]",0.146
+conditionBCC,1.003,"[0.88, 1.144]",0.96
+dismissed_w1,1.006,"[1.005, 1.008]",< .001
+attempted_w1,0.998,"[0.998, 0.999]",< .001
