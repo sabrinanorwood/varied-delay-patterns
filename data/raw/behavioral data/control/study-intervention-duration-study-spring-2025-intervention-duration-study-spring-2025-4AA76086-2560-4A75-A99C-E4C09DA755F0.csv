@@ -1,0 +1,16 @@
+timezone,interventionType,interventionDuration,app,timestamp,resolution,isReIntervention
+America/Chicago,breathingExercise,6,instagram,1753148343.916048,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753270315.666991,openedApp,False
+America/Chicago,breathingExercise,6,instagram,1753304532.28858,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375695.143454,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375697.461962,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375700.043098,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375701.611641,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375703.180862,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375706.3589,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375719.560145,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375721.2755442,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375766.712584,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753375792.914722,dismissedAppOpening,False
+America/Chicago,breathingExercise,6,instagram,1753396226.156596,openedApp,False
+America/Chicago,breathingExercise,6,instagram,1753399651.2218518,dismissedAppOpening,False

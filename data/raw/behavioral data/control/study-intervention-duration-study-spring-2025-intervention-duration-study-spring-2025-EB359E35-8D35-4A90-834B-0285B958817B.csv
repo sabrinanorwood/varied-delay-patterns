@@ -1,0 +1,125 @@
+timestamp,isReIntervention,interventionDuration,app,timezone,interventionType,resolution,purpose
+1752084836.820827,False,6,facebook,America/New_York,breathingExercise,openedApp,Relax
+1752085158.6558099,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1752088419.544324,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752088479.231219,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752110267.714675,False,6,instagram,America/New_York,breathingExercise,dismissedAppOpening,
+1752143161.061051,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752143800.403257,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752145965.7504349,False,6,tikTok,America/New_York,breathingExercise,openedApp,Bored
+1752167491.953137,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1752176140.314866,False,6,instagram,America/New_York,breathingExercise,openedApp,Bored
+1752176459.586277,False,6,instagram,America/New_York,breathingExercise,openedApp,Bored
+1752251461.236753,False,6,instagram,America/New_York,breathingExercise,openedApp,Search Info
+1752258859.802587,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752280770.4850168,False,6,instagram,America/New_York,breathingExercise,openedApp,Search Info
+1752314102.070745,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1752314406.4489632,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1752405605.5636659,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752406097.243829,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752446334.626114,False,6,instagram,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1752452738.080795,False,6,tikTok,America/New_York,breathingExercise,dismissedAppOpening,
+1752452745.755642,False,6,tikTok,America/New_York,breathingExercise,dismissedAppOpening,
+1752452749.272345,False,6,tikTok,America/New_York,breathingExercise,dismissedAppOpening,
+1752452769.8445091,False,6,tikTok,America/New_York,breathingExercise,openedApp,Bored
+1752522539.62634,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1752536684.1736422,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752538595.34019,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752573265.258415,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752585120.9941192,False,6,facebook,America/New_York,breathingExercise,openedApp,Message
+1752598734.075482,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752599241.333499,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752625989.5722651,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1752695660.666012,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752712388.983653,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752756682.750184,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1752784194.042038,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752794530.019106,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752837136.932304,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752845624.617475,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1752845678.729245,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1752845742.329171,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1752845920.6983871,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1752866667.493496,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1752871999.079716,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752923223.5500522,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752923447.5184488,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752925400.318795,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1752936081.869528,False,6,facebook,America/New_York,breathingExercise,openedApp,Bored
+1752936584.692707,False,6,instagram,America/New_York,breathingExercise,dismissedAppOpening,
+1752945951.8343868,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752972121.1272368,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1752972455.64344,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1753010027.679992,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753011132.036618,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753012228.656618,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1753012249.5490022,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753097441.4171848,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753109124.418347,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753110138.9159799,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753110927.253432,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753122074.943578,False,6,facebook,America/New_York,breathingExercise,openedApp,Bored
+1753129830.891704,False,6,instagram,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1753178923.792585,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753180281.929467,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1753180305.506247,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753205697.069862,False,6,facebook,America/New_York,breathingExercise,openedApp,Bored
+1753210404.442703,False,6,instagram,America/New_York,breathingExercise,openedApp,Bored
+1753270380.421381,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1753270873.639405,False,6,instagram,America/New_York,breathingExercise,dismissedAppOpening,
+1753273335.673465,False,6,instagram,America/New_York,breathingExercise,openedApp,Search Info
+1753289891.526835,False,6,facebook,America/New_York,breathingExercise,openedApp,Bored
+1753293862.196645,False,6,facebook,America/New_York,breathingExercise,openedApp,Bored
+1753304795.5703812,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753357646.705258,False,6,instagram,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1753358156.810988,False,6,instagram,America/New_York,breathingExercise,dismissedAppOpening,
+1753362262.3670878,False,6,facebook,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1753362966.6163468,False,6,facebook,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1753367351.050272,False,6,instagram,America/New_York,breathingExercise,dismissedAppOpening,
+1753372912.226934,False,6,instagram,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1753373166.995388,False,6,facebook,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1753373392.721747,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1753376485.3760118,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1753379614.693285,False,6,instagram,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1753389600.156488,False,6,instagram,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1753455326.408331,False,6,instagram,America/New_York,breathingExercise,openedApp,Bored
+1753479276.886168,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1753479584.1033502,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1753574519.385818,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1753619968.845957,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753623812.058577,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753659647.917591,False,6,facebook,America/New_York,breathingExercise,openedApp,Bored
+1753707481.701987,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753708452.4893398,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753712152.446518,False,6,instagram,America/New_York,breathingExercise,openedApp,Search Info
+1753718561.449585,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1753739442.663437,False,6,instagram,America/New_York,breathingExercise,openedApp,Search Info
+1753783495.7593431,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753786156.179778,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753786358.24435,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1753786375.407001,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753787896.912521,False,6,facebook,America/New_York,breathingExercise,dismissedAppOpening,
+1753797683.326295,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1753805784.1010442,False,6,tikTok,America/New_York,breathingExercise,openedApp,Search Info
+1753808644.475126,False,6,instagram,America/New_York,breathingExercise,openedApp,Post something
+1753822464.2694159,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1753826040.096482,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753874299.0915232,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753891065.8980222,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1753892328.519452,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753893791.6461968,False,6,instagram,America/New_York,breathingExercise,dismissedAppOpening,
+1753893917.949741,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753910837.893588,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1753964562.6474051,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1753992527.608077,False,6,instagram,America/New_York,breathingExercise,openedApp,Escape / Avoid
+1753999652.64567,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1754004073.662741,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1754048667.6832008,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1754049846.441503,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1754066761.8204389,False,6,instagram,America/New_York,breathingExercise,openedApp,Bored
+1754067699.2394161,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1754070180.7004008,False,6,tikTok,America/New_York,breathingExercise,openedApp,Bored
+1754072574.4865432,False,6,facebook,America/New_York,breathingExercise,openedApp,Search Info
+1754079202.63189,False,6,instagram,America/New_York,breathingExercise,openedApp,Stay In the Loop
+1754083076.901078,False,6,instagram,America/New_York,breathingExercise,openedApp,Search Info
+1754083717.383759,False,6,facebook,America/New_York,breathingExercise,openedApp,Stay In the Loop

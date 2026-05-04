@@ -1,0 +1,87 @@
+timestamp,timezone,interventionType,app,interventionDuration,isReIntervention,resolution,purpose,timeIntervalUntilReIntervention
+1751037791.3277822,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,
+1751060220.463423,America/Toronto,breathingExercise,facebook,1.5,False,openedApp,Message,
+1751060563.7290468,America/Toronto,breathingExercise,facebook,1.5,False,openedApp,Message,
+1751060587.884208,America/Toronto,breathingExercise,facebook,1.5,False,openedApp,Message,
+1751060607.0448198,America/Toronto,breathingExercise,facebook,1.5,False,dismissedAppOpening,,
+1751060681.847918,America/Toronto,breathingExercise,facebook,1.5,False,dismissedAppOpening,,
+1751060684.7200599,America/Toronto,breathingExercise,facebook,1.5,False,dismissedAppOpening,,
+1751060687.5536551,America/Toronto,breathingExercise,facebook,1.5,False,dismissedAppOpening,,
+1751112348.8866029,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751136253.766375,America/Toronto,breathingExercise,facebook,1.5,False,openedApp,Message,120.0
+1751138487.3447251,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Post something,180.0
+1751138568.740385,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751138588.3697119,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Post something,60.0
+1751138729.660109,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Post something,180.0
+1751138910.26753,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Post something,180.0
+1751139073.2226992,America/Toronto,breathingExercise,facebook,1.5,False,openedApp,Post something,180.0
+1751139271.902227,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751154203.3849468,America/Toronto,breathingExercise,facebook,1.5,False,openedApp,Stay In the Loop,180.0
+1751154402.589241,America/Toronto,breathingExercise,facebook,1.5,False,dismissedAppOpening,,
+1751157830.864625,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Check likes,120.0
+1751161370.7030668,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Check likes,120.0
+1751219874.199336,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,60.0
+1751296984.462582,America/Toronto,breathingExercise,facebook,1.5,False,openedApp,Check likes,180.0
+1751297186.6306438,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Check likes,300.0
+1751297825.808007,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Check likes,180.0
+1751298026.4014812,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Stay In the Loop,360.0
+1751298115.476719,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Check likes,300.0
+1751388076.8358011,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,480.0
+1751388156.150095,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,420.0
+1751388321.316827,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,360.0
+1751421101.8204331,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751482852.457768,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,480.0
+1751483005.865351,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,420.0
+1751546546.161037,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Stay In the Loop,180.0
+1751568460.121917,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,420.0
+1751568916.0609589,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,360.0
+1751599284.725069,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Stay In the Loop,600.0
+1751638189.56498,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,300.0
+1751653100.334313,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,480.0
+1751659922.018598,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,360.0
+1751660277.347785,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751665819.416918,America/Toronto,breathingExercise,facebook,1.5,False,openedApp,Stay In the Loop,240.0
+1751679319.319715,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Stay In the Loop,720.0
+1751684759.697876,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Stay In the Loop,900.0
+1751685690.89466,America/Toronto,breathingExercise,instagram,1.5,True,openedApp,Stay In the Loop,480.0
+1751716859.4811459,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Escape / Avoid,600.0
+1751800019.075248,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Stay In the Loop,480.0
+1751826140.342247,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Stay In the Loop,900.0
+1751826646.738842,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Stay In the Loop,840.0
+1751881720.029486,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Stay In the Loop,420.0
+1751882080.331924,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751898031.533781,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,420.0
+1751898577.897406,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751902180.20322,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751909570.625598,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Post something,300.0
+1751910900.229696,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751987069.4851341,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1751987121.754253,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,660.0
+1751987427.03721,America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,,
+1752111217.4168348,America/Toronto,breathingExercise,facebook,1.5,False,dismissedAppOpening,,
+1752113886.409387,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Message,480.0
+1752165641.3622441,America/Toronto,breathingExercise,instagram,1.5,False,openedApp,Work,240.0
+1752192162.862948,America/Toronto,breathingExercise,facebook,1.5,False,openedApp,Message,660.0
+1752279539.877452,America/Toronto,breathingExercise,facebook,6.0,False,openedApp,Stay In the Loop,420.0
+1752789829.516041,America/Toronto,breathingExercise,instagram,6.0,False,dismissedAppOpening,,
+1752896877.255672,America/Toronto,breathingExercise,facebook,6.0,False,openedApp,Stay In the Loop,180.0
+1752897090.794187,America/Toronto,breathingExercise,facebook,6.0,False,openedApp,Stay In the Loop,540.0
+1752897690.7094321,America/Toronto,breathingExercise,instagram,6.0,False,dismissedAppOpening,,
+1752935219.781536,America/Toronto,breathingExercise,facebook,6.0,False,openedApp,Message,480.0
+1752956548.1402621,America/Toronto,breathingExercise,facebook,6.0,False,dismissedAppOpening,,
+1753145657.500423,America/Toronto,breathingExercise,facebook,6.0,False,openedApp,Stay In the Loop,480.0
+1753190215.9038439,America/Toronto,breathingExercise,facebook,6.0,False,openedApp,Stay In the Loop,480.0
+1753228877.130863,America/Toronto,breathingExercise,instagram,6.0,False,openedApp,Stay In the Loop,480.0
+1753229177.438689,America/Toronto,breathingExercise,instagram,6.0,False,dismissedAppOpening,,
+1753277626.6288838,America/Toronto,breathingExercise,instagram,6.0,False,openedApp,Post something,540.0
+1753278197.5589108,America/Toronto,breathingExercise,instagram,6.0,True,openedApp,Post something,360.0
+1753311931.8938751,America/Toronto,breathingExercise,facebook,6.0,False,openedApp,Post something,600.0
+1753467071.914294,America/Toronto,breathingExercise,instagram,6.0,False,openedApp,Work,540.0
+1753467108.683752,America/Toronto,breathingExercise,instagram,6.0,False,openedApp,Work,600.0
+1753634381.469481,America/Toronto,breathingExercise,instagram,6.0,False,openedApp,Post something,720.0
+1753663549.477357,America/Toronto,breathingExercise,facebook,6.0,False,openedApp,Stay In the Loop,480.0
+1753726894.961564,America/Toronto,breathingExercise,facebook,6.0,False,openedApp,Work,540.0
+1753804376.196239,America/Toronto,breathingExercise,instagram,6.0,False,openedApp,Work,480.0
+1753873499.8125072,America/Toronto,breathingExercise,instagram,6.0,False,dismissedAppOpening,,
+1753873524.893292,America/Toronto,breathingExercise,instagram,6.0,False,openedApp,Stay In the Loop,480.0
+1753998721.354486,America/Toronto,breathingExercise,facebook,6.0,False,dismissedAppOpening,,

@@ -1,0 +1,43 @@
+resolution,app,timestamp,isReIntervention,timezone,interventionType,interventionDuration,purpose
+dismissedByStructuredIntervention,tikTok,1752696165.011014,False,America/Chicago,structured,,
+dismissedByStructuredIntervention,reddit,1752696237.071923,False,America/Chicago,structured,,
+dismissedAppOpening,reddit,1752710237.5333428,False,America/Chicago,breathingExercise,6.0,
+openedApp,reddit,1752711814.8264909,False,America/Chicago,breathingExercise,6.0,Entertainment
+openedApp,tikTok,1752712321.253181,False,America/Chicago,breathingExercise,6.0,Escape / Avoid
+dismissedAppOpening,reddit,1752712825.208537,False,America/Chicago,breathingExercise,6.0,
+openedApp,tikTok,1752714314.483594,False,America/Chicago,breathingExercise,6.0,Toilet
+openedApp,reddit,1752720491.337465,False,America/Chicago,breathingExercise,6.0,Search Info
+dismissedAppOpening,reddit,1752720911.686126,False,America/Chicago,breathingExercise,6.0,
+openedApp,reddit,1752721489.605402,False,America/Chicago,breathingExercise,6.0,Search Info
+openedApp,reddit,1752721852.606203,False,America/Chicago,breathingExercise,6.0,Search Info
+dismissedAppOpening,reddit,1752741855.352155,False,America/Chicago,breathingExercise,6.0,
+openedApp,tikTok,1752742006.062357,False,America/Chicago,breathingExercise,6.0,Toilet
+openedApp,tikTok,1752742412.7999868,False,America/Chicago,breathingExercise,6.0,Toilet
+dismissedByStructuredIntervention,reddit,1752756468.7736912,False,America/Chicago,structured,,
+dismissedAppOpening,reddit,1752762948.289465,False,America/Chicago,breathingExercise,6.0,
+dismissedByStructuredIntervention,reddit,1752762948.36643,False,America/Chicago,structured,,
+dismissedAppOpening,reddit,1752765770.957487,False,America/Chicago,breathingExercise,6.0,
+dismissedAppOpening,tikTok,1752766965.1933231,False,America/Chicago,breathingExercise,6.0,
+openedApp,reddit,1752770311.134939,False,America/Chicago,breathingExercise,6.0,Relax
+dismissedAppOpening,reddit,1752772283.462647,False,America/Chicago,breathingExercise,6.0,
+dismissedAppOpening,reddit,1752773780.327894,False,America/Chicago,breathingExercise,6.0,
+dismissedAppOpening,reddit,1752774751.55099,False,America/Chicago,breathingExercise,6.0,
+dismissedAppOpening,reddit,1752776303.556423,False,America/Chicago,breathingExercise,6.0,
+openedApp,reddit,1752776320.49201,False,America/Chicago,breathingExercise,6.0,Toilet
+dismissedAppOpening,reddit,1752777364.067766,False,America/Chicago,breathingExercise,6.0,
+dismissedAppOpening,tikTok,1752782278.045294,False,America/Chicago,breathingExercise,6.0,
+dismissedByStructuredIntervention,reddit,1752786514.8014178,False,America/Chicago,structured,,
+dismissedAppOpening,reddit,1752807777.032506,False,America/Chicago,breathingExercise,6.0,
+dismissedAppOpening,reddit,1752807808.080682,False,America/Chicago,breathingExercise,6.0,
+openedApp,reddit,1752807827.631779,False,America/Chicago,breathingExercise,6.0,Escape / Avoid
+dismissedAppOpening,reddit,1752808074.2333589,False,America/Chicago,breathingExercise,6.0,
+openedApp,reddit,1752808120.9416451,False,America/Chicago,breathingExercise,6.0,Escape / Avoid
+openedApp,reddit,1752808170.470845,False,America/Chicago,breathingExercise,6.0,Escape / Avoid
+closedApp,tikTok,1752809074.52985,False,America/Chicago,,,
+closedApp,tikTok,1752809075.9039721,False,America/Chicago,,,
+closedApp,tikTok,1752837634.423255,False,America/Chicago,,,
+closedApp,tikTok,1752837677.201904,False,America/Chicago,,,
+closedApp,tikTok,1752837683.4487848,False,America/Chicago,,,
+closedApp,tikTok,1752837894.195273,False,America/Chicago,,,
+closedApp,reddit,1752809261.586018,False,America/Chicago,,,
+closedApp,reddit,1752809279.995296,False,America/Chicago,,,

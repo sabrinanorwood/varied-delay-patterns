@@ -1,0 +1,542 @@
+timestamp,interventionType,app,interventionDuration,timezone,isReIntervention,resolution,purpose
+1748966727.951822,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1748968279.1155062,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1748970375.6740642,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1748971841.0324159,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1748973336.616883,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Post something
+1748973435.8271508,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Post something
+1748978354.750939,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749003030.672145,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749003507.248352,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749004900.339695,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749010012.4447,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749012129.46908,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749012645.140922,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749013658.279885,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749025236.208081,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Message
+1749025639.4854832,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749028104.133172,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1749028344.168684,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749031199.497665,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Post something
+1749031402.5826988,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Post something
+1749032770.563196,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749034650.302538,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749037825.1100988,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749039792.372785,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Message
+1749040624.112853,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749051673.9905381,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749058293.6323152,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stalk crush
+1749063300.384135,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749064046.628958,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749090263.946862,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749101698.81738,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749101882.12709,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749103121.382127,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749103329.9555979,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749107723.389096,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749107797.918314,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749107948.501473,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749108179.192964,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749108182.137723,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749108498.256446,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749109649.367336,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749110788.18952,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749117116.141664,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749121840.0270162,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749121907.325912,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Can’t sleep
+1749122217.224567,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749122770.240407,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Escape / Avoid
+1749123267.788752,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749133035.9750519,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749134070.559188,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749139051.652789,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749140918.894661,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Toilet
+1749143550.122273,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749143809.313345,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749144821.32248,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749145518.647766,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749146856.7801461,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749147326.041033,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749148444.2410522,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749150704.5397382,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749150747.6240091,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749154512.731282,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749182446.547631,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749190390.0067759,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749195553.2088041,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1749196200.925984,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749199693.9464478,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749201101.935514,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749210588.56984,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749210873.970776,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749211921.497591,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749217728.135027,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749224369.198461,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749227917.055413,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749236352.566403,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749239666.2416658,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749268337.031852,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749279607.113957,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749280407.790501,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749280696.276855,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749282017.463547,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749282880.1310039,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749287020.158411,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749288675.635473,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749290629.944467,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749290666.112881,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749290703.239542,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749290730.025944,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749298577.7172751,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749301003.631535,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749304082.049195,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749305876.8555079,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749307040.823333,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749312891.754317,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749313032.4053621,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749313797.285641,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749314919.1649451,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749319796.589536,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749320147.247364,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749320744.975613,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749327043.80997,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749327540.5494351,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749332394.438175,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749334605.6853461,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749335954.0166578,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749337951.205106,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749353228.556975,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749354655.786339,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749359022.034638,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749369255.901737,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749369264.217243,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Post something
+1749369529.4685578,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Post something
+1749369631.789863,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Post something
+1749370038.610565,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749371405.950276,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749371965.096365,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749374033.483458,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749374493.6785169,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749375770.9700851,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749381956.749107,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749383780.394054,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749386858.740938,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749387924.2393641,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749400571.2398329,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749401982.1336598,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749407355.0427508,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749407969.761868,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749435281.286977,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749446785.233077,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749447043.140002,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749451257.470346,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749451395.2310162,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749460639.996238,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749461067.01176,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749461072.7438312,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749464227.851069,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749468002.773253,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749468299.082336,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749475584.966377,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749488900.5665731,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749496340.692172,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749497028.013021,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749519485.1419458,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749523731.502149,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749530692.768652,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749534700.3931599,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749534709.122322,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749534797.6528091,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749550481.4994621,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749559498.018949,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749561675.765558,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749576145.849442,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749577709.31917,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749579217.179065,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749581105.542544,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749581337.756305,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749587706.32215,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749612728.716168,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749622784.048099,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749623156.076256,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749623345.0749269,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749628536.458873,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749630915.148298,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749643426.853941,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749646159.782658,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749650283.6754189,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749652708.6271849,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749654917.18404,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749658838.692494,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749659133.4529052,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749695045.309318,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749703601.438312,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749703747.549747,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749704829.62356,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749704838.9080791,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749705521.597271,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749710784.0642629,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749716751.5352511,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749720908.001889,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749721017.357779,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749727307.0283298,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749729538.751525,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749729661.5666552,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749734433.022986,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749739251.134572,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749741099.364153,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749743978.9433,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749748409.0738769,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749748531.456664,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749749932.314958,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Search Info
+1749755445.091282,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749755616.772747,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749757712.236795,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749781043.743942,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749801632.425795,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749801838.49017,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749805639.644475,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749810837.26945,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749816711.5242171,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749816727.0934172,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749816833.8034801,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749822874.3517041,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749827978.0017571,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749829834.043808,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749830937.827183,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749832514.2353601,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749834314.2160769,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749839250.284167,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749840389.958191,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749844779.565213,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749845833.520191,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749871692.43863,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749885133.0786638,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749890362.846675,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749898272.591236,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749905575.0416389,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749913667.126278,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749914194.137799,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749915026.332504,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1749920144.6054769,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1749926322.143282,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1749928892.898409,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1749930597.362839,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1749954234.658362,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749961560.4300652,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1749967213.8763618,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1749970646.473143,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749972079.0403419,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Post something
+1749972501.160949,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1749973077.215833,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Post something
+1749979494.436275,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749989746.3938131,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1749996346.008909,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1749997983.941331,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1750001414.424722,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750003941.50134,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1750009398.80751,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1750013268.346812,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750035067.576035,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750048644.2913408,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750061720.453639,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1750061787.529234,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1750067727.417527,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750068014.4473991,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1750075436.09091,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1750075822.94419,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1750075839.601904,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1750081402.9980922,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Bored
+1750082042.415149,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1750088587.677273,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1750090592.20452,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1750097241.3441138,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1750099232.853504,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1750099425.415996,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1750133073.6964622,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1750133149.480541,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1750144598.996839,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1750145229.393542,breathingExercise,instagram,1.5,Asia/Kolkata,False,dismissedAppOpening,
+1750152837.9518042,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1750157297.726637,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Entertainment
+1750164398.158207,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750164796.9402761,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750168193.004708,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750174478.005964,breathingExercise,instagram,1.5,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750176485.0336928,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Message
+1750182424.983676,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750184807.106079,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750213560.00569,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750233509.120463,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750238936.89116,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750248207.932447,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750248280.109962,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750249806.6294389,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750255889.127625,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750258817.185917,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750263324.355392,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750263661.559098,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750270142.414444,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750270567.0516238,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750274868.422574,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750303096.698032,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750320045.68031,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750326563.861372,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750328877.188596,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750337377.059442,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750338506.569071,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750347132.0066462,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750353817.071755,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750355399.832981,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750401754.429949,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750407167.17855,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750407940.9652982,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750408061.4112802,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750416446.612339,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750416890.165513,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750422274.475944,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750422503.618377,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750438646.394055,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750440055.389636,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750440862.185066,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750442941.283181,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1750450282.624453,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750474010.492938,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Escape / Avoid
+1750481038.518441,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750482615.5377579,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Relax
+1750483498.13919,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750507353.371346,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750508639.1086478,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750514946.1200562,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750519236.358186,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750523396.573195,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750528509.998481,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750551286.6349878,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750560963.224071,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750565485.954862,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750569757.016551,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1750571464.189762,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750572534.970158,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750573276.301569,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750573279.425002,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750573836.1030378,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750578288.5540261,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750579836.870432,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Message
+1750580413.2746491,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750582595.85851,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750583844.7133079,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750585385.934813,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750590731.522486,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750598116.1782088,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1750604656.727114,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750610161.39379,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750644589.901902,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750645027.869053,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750680847.936655,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750683630.68049,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750685680.361139,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750689805.2760038,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750693527.725302,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Message
+1750693996.372373,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750754655.441139,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750766518.58359,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750768001.536621,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750770470.49821,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750775863.111074,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750776144.0383,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750782176.381442,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750786619.300229,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750817910.078481,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750832911.4728398,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750834029.9763498,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750841668.5581799,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750842957.122725,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750851133.885531,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750852470.005124,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1750854033.7962809,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1750859415.976591,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750861526.1140451,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750863888.5147738,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1750867733.300259,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1750872795.938321,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750878105.667619,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750878869.241343,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1750906329.3523011,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1750909090.160016,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750930286.098915,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750931439.1063972,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750936950.811557,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750939730.306357,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1750951226.9298592,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750955569.690466,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750956920.3814669,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1750964845.320996,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1750991734.578845,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751010932.664278,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751029293.0034351,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751029523.6181278,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751032061.6892362,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751045473.409886,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751059615.979914,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1751066008.937243,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751085229.539859,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751096843.9638271,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751097928.033063,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751100873.226358,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751108036.985666,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751108723.59198,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751108738.923502,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751110359.5899038,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1751112753.379245,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751114262.488286,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751121446.226925,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751126349.845135,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751126989.388843,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751127011.340321,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Search Info
+1751130959.257399,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751155776.010229,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751171560.17066,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751175799.2834659,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751191942.74973,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1751202882.123057,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751204436.189911,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751214437.4832149,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751221890.594758,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751261506.745315,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751288392.6190572,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751299293.777886,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751303514.7222881,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1751307353.4971352,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751308195.618434,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Message
+1751342875.140864,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751345868.617713,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751346314.0275269,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751368862.550702,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751370854.9958239,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751371683.131021,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1751379787.710287,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751380193.082783,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751383205.428966,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751389176.1564422,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751393321.1508532,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751395717.735457,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751423648.2843518,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751444117.753423,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751458206.331186,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751459389.151216,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751462436.4254332,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751463820.813246,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751467107.480063,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Relax
+1751475719.079451,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1751480905.002979,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751506880.056633,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751511244.778287,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751519494.408628,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751532239.20088,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751539199.073643,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751543895.9928799,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751547974.467249,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751548676.417927,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1751558043.270334,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751561896.836409,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751562258.772595,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751617826.497148,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751627819.848805,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751634295.6763148,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751636019.606073,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751644105.200839,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751649655.047233,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751668264.860426,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751690073.1604528,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751695414.6793242,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751699473.425982,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751703390.394051,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Relax
+1751717632.42134,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751718337.50569,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751724422.8221889,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751729785.298015,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Search Info
+1751738032.47222,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751739004.8484979,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751740342.991191,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Post something
+1751747776.669534,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1751748380.714291,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751760440.925725,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751768778.0186892,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751768796.710861,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751771974.740246,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751774385.602382,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751775876.836813,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751781601.032584,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751793054.274417,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751798497.073553,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751805285.9315891,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751812122.417499,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751817160.936316,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751825090.3461828,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751825405.8871589,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751853724.499079,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751868896.1328468,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751877605.043612,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751897069.745825,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1751903106.4971461,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Message
+1751907623.73519,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751908728.952631,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1751912927.561959,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751947995.560883,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751975386.28233,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751989381.0601978,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1751996390.8163362,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752035569.47199,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752048688.41474,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1752052360.766469,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752063989.852202,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752072530.5573292,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752086596.954431,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752096838.967719,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1752121634.759073,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752138538.944933,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752149452.994936,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1752150246.695801,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1752155137.5253701,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752158797.092667,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752162905.9706821,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752167615.8361979,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752170446.834367,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1752173623.46734,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752200720.352679,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752209340.5725288,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752210443.629009,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752224374.044949,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752224739.331522,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752244698.887558,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752247910.606866,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752254221.1756182,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752265868.146821,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1752300336.930589,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752309162.7531362,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752314639.184242,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752321770.4573622,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752321786.54128,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752332324.976575,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752333945.245682,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1752334378.7522302,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752337428.942216,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Relax
+1752339362.403141,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752341342.3030682,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752343702.375314,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752346634.7863579,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1752347104.498112,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752347109.8975039,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752347276.7034168,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1752352450.1426048,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1752377311.298883,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752384322.450036,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752386482.129527,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752392648.23679,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752394440.8394299,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752399852.216234,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752401451.67009,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop
+1752410437.4725451,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Entertainment
+1752414595.4673119,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Bored
+1752416132.6331968,breathingExercise,instagram,6.0,Asia/Kolkata,False,dismissedAppOpening,
+1752416363.364613,breathingExercise,instagram,6.0,Asia/Kolkata,False,openedApp,Stay In the Loop

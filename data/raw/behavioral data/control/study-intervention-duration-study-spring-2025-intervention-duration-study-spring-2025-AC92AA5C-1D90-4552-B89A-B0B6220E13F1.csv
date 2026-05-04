@@ -1,0 +1,8 @@
+interventionType,resolution,timestamp,isReIntervention,timezone,interventionDuration,app
+breathingExercise,dismissedAppOpening,1748697494.30274,False,Europe/Prague,6,brawlStars
+breathingExercise,dismissedAppOpening,1748843902.595094,False,Europe/Prague,6,brawlStars
+breathingExercise,dismissedAppOpening,1748843904.707335,False,Europe/Prague,6,brawlStars
+breathingExercise,openedApp,1748844016.476124,False,Europe/Prague,6,brawlStars
+breathingExercise,dismissedAppOpening,1748844228.0015712,False,Europe/Prague,6,brawlStars
+breathingExercise,dismissedAppOpening,1748931833.868506,False,Europe/Prague,6,brawlStars
+breathingExercise,dismissedAppOpening,1748931849.616579,False,Europe/Prague,6,brawlStars

@@ -1,0 +1,948 @@
+timezone,purpose,isReIntervention,app,interventionType,timestamp,resolution,interventionDuration,timeIntervalUntilReIntervention
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1751023310.67578,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751024787.86874,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751024951.89573,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751026158.317492,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,youtube,breathingExercise,1751026268.223298,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1751026918.5513911,openedApp,3.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1751028471.9426808,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751033824.299607,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1751033836.1012459,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751036133.779769,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751036193.9059072,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751036236.922611,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751036239.926818,dismissedAppOpening,3.0,
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1751036287.904035,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751036400.172361,dismissedAppOpening,3.0,
+Europe/Bratislava,Idk,False,instagram,breathingExercise,1751036415.112833,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751036728.0802941,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751037170.4647632,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751040170.598295,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751041071.730345,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751042301.7965078,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751063953.886156,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751073826.355407,dismissedAppOpening,3.0,
+Europe/Bratislava,Stay In the Loop,False,instagram,breathingExercise,1751075448.5711641,openedApp,3.0,
+Europe/Bratislava,Stay In the Loop,False,facebook,breathingExercise,1751100543.749102,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751100904.392657,dismissedAppOpening,3.0,
+Europe/Bratislava,Stay In the Loop,False,instagram,breathingExercise,1751101089.067328,openedApp,3.0,
+Europe/Bratislava,Idk,False,instagram,breathingExercise,1751104410.625078,openedApp,3.0,
+Europe/Bratislava,Stay In the Loop,False,instagram,breathingExercise,1751105037.008479,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751105729.2925239,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751105740.811754,openedApp,3.0,
+Europe/Bratislava,Stay In the Loop,False,instagram,breathingExercise,1751105875.2410269,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751106832.758905,dismissedAppOpening,3.0,
+Europe/Bratislava,Relax,False,instagram,breathingExercise,1751106855.640166,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751107513.80949,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751107911.190361,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751108073.400574,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751108634.0211082,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,youtube,breathingExercise,1751108768.274538,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751108771.280019,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751108782.892973,openedApp,3.0,
+Europe/Bratislava,Stay In the Loop,False,instagram,breathingExercise,1751113022.640722,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751119380.200966,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1751119452.986373,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751119614.455714,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751121846.476558,openedApp,3.0,
+Europe/Bratislava,Stay In the Loop,False,instagram,breathingExercise,1751122235.45562,openedApp,3.0,
+Europe/Bratislava,Relax,False,instagram,breathingExercise,1751122908.871969,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751123200.2326632,dismissedAppOpening,3.0,
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1751123247.876359,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751124946.121639,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751125208.259479,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751125241.0812201,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751126041.686805,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751133070.221414,openedApp,3.0,
+Europe/Bratislava,Stay In the Loop,False,instagram,breathingExercise,1751135782.59076,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751136471.011929,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751137211.650447,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751137930.319946,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751138021.780511,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751140376.252616,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751140880.4858809,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751140902.02932,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751141112.532494,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751141249.9383159,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751141475.09452,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1751141519.866427,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751141829.8039,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751142357.65633,dismissedAppOpening,3.0,
+Europe/Bratislava,Idk,False,instagram,breathingExercise,1751142368.161388,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751143962.8708348,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751147231.475078,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751178789.739682,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751179280.115783,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751182210.2234201,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751183807.450261,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751183965.633678,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751185093.729734,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751185681.661502,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751186618.570246,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751192800.782292,openedApp,3.0,60.0
+Europe/Bratislava,,True,instagram,breathingExercise,1751192886.496907,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751192904.185724,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751193624.794658,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751193630.699132,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751197253.352745,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,breathingExercise,1751197623.020616,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751201583.665453,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751211321.242229,openedApp,3.0,
+Europe/Bratislava,Toilet,False,facebook,breathingExercise,1751211663.85998,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751211811.292499,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751218831.155974,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751220655.7703319,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751222096.7177892,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751224685.572262,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751225335.432771,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751228187.189601,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751229075.69224,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751230184.0289779,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751230502.916548,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751261766.338696,openedApp,3.0,240.0
+Europe/Bratislava,Toilet,False,facebook,breathingExercise,1751262931.057701,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751268917.490186,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751279347.898584,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751283771.2083569,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751286492.610519,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751287186.671648,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751289929.887728,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751291001.272783,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751291015.0895329,openedApp,3.0,300.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751291331.418587,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751295721.1428041,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751295727.870363,openedApp,3.0,540.0
+Europe/Bratislava,Entertainment,True,instagram,breathingExercise,1751296294.050816,openedApp,3.0,480.0
+Europe/Bratislava,Relax,False,facebook,breathingExercise,1751296818.331667,openedApp,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751296986.293231,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751296988.350009,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751297018.448139,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751297833.559085,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751307360.453099,openedApp,3.0,480.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751307465.666333,openedApp,3.0,420.0
+Europe/Bratislava,,False,instagram,breathingExercise,1751307945.8438668,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1751308017.4672542,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751308029.4560719,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751308400.864073,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751308415.254209,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751309413.509674,openedApp,3.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751309472.2247,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751311409.460597,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751312211.335887,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751317850.725741,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751317864.727992,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751344739.056106,openedApp,3.0,240.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751347931.708925,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751348119.275567,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751348652.963186,openedApp,3.0,180.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751350214.5976272,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751351172.070225,openedApp,3.0,60.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751358121.5176558,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751361147.540132,openedApp,3.0,60.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751361331.554795,openedApp,3.0,180.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751365549.6319609,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751365557.8972101,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751365781.934005,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751369607.65014,openedApp,3.0,180.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751376860.716219,openedApp,3.0,
+Europe/Bratislava,,False,youtube,breathingExercise,1751378411.613361,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751378415.677312,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751379126.9786491,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751380953.908187,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751381455.2667332,openedApp,3.0,180.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751382111.534147,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751382608.029604,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751385059.447926,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751385309.294883,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751390189.545685,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751390236.661059,openedApp,3.0,300.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751391195.004216,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751433635.727592,openedApp,3.0,120.0
+Europe/Bratislava,Work,True,instagram,breathingExercise,1751433787.1193252,openedApp,3.0,60.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751449499.026112,openedApp,3.0,60.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751450565.54845,dismissedAppOpening,3.0,
+Europe/Bratislava,Work,False,instagram,breathingExercise,1751452794.384624,openedApp,3.0,180.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751454422.526917,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751461642.085647,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751464155.179192,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751464168.730214,openedApp,3.0,600.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751464335.404141,openedApp,3.0,300.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751464978.148491,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751465088.5124202,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751465108.35482,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751470719.1457229,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751470732.5809078,openedApp,3.0,120.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751473666.922107,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751482958.960623,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751483097.12218,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751488222.263957,openedApp,3.0,180.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751488420.822762,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,breathingExercise,1751488630.086334,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751516727.880935,openedApp,3.0,60.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751529952.329548,openedApp,3.0,60.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751541039.935677,openedApp,3.0,120.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751541077.71902,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751544538.526078,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751544676.920556,openedApp,3.0,60.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751550660.803481,openedApp,3.0,420.0
+Europe/Bratislava,Entertainment,True,instagram,breathingExercise,1751551099.254358,openedApp,3.0,420.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751556749.031477,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751556809.6325212,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751561019.339113,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751561133.0875602,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751561188.526908,openedApp,3.0,600.0
+Europe/Bratislava,Entertainment,False,youtube,breathingExercise,1751566311.5843701,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751566412.133337,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751566725.037339,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751573610.6071239,openedApp,3.0,120.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751604036.0909,openedApp,3.0,60.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751604115.808124,openedApp,3.0,240.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751604367.8837218,openedApp,3.0,60.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751606820.933347,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751607915.200527,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751610037.475095,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751610053.217524,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751610266.1529741,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751610636.4090018,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751611351.975956,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751611694.646089,openedApp,3.0,300.0
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751612343.1514602,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751614398.618534,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751615263.147232,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751616420.874357,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1751620245.278728,openedApp,3.0,
+Europe/Bratislava,Relax,False,youtube,breathingExercise,1751622819.528235,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751624167.891988,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751624514.4790158,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751625264.92238,openedApp,3.0,
+Europe/Bratislava,,False,youtube,breathingExercise,1751626147.9428701,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751626243.3888469,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751627287.770067,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751627301.8032598,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751629528.005642,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751629899.286365,openedApp,3.0,720.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751632689.2254481,openedApp,3.0,600.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751635487.0866508,openedApp,3.0,180.0
+Europe/Bratislava,Entertainment,False,youtube,breathingExercise,1751639579.979109,openedApp,3.0,
+Europe/Bratislava,,False,youtube,breathingExercise,1751640314.966531,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751640407.230407,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751640852.053155,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751641697.73753,openedApp,3.0,840.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751642659.5840259,openedApp,3.0,1080.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751643155.9192939,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751643407.949068,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751643735.3537068,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751645133.9650059,openedApp,3.0,900.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751646052.55905,openedApp,3.0,
+Europe/Bratislava,Stay In the Loop,False,facebook,breathingExercise,1751646106.790607,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751646388.0675058,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751646391.967369,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751646398.073843,openedApp,3.0,660.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751647031.388171,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751668250.498763,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751671524.636699,openedApp,3.0,120.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751698246.145108,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751705939.198993,openedApp,3.0,60.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751706074.0335178,openedApp,3.0,240.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1751706860.3790011,openedApp,3.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751708376.4925032,openedApp,3.0,300.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751708746.076729,openedApp,3.0,300.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751709058.821722,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751730291.218614,openedApp,3.0,240.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751730546.093945,openedApp,3.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751730679.8198872,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751735556.165123,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751739714.111171,openedApp,3.0,240.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751740906.626682,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751741356.65102,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751746353.04875,openedApp,3.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751750083.415135,openedApp,3.0,180.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751750279.40889,openedApp,3.0,540.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751785359.189497,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751785584.191345,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751788265.387347,openedApp,3.0,300.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751788595.9683142,openedApp,3.0,600.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751789079.985034,openedApp,3.0,600.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751789694.7983088,openedApp,3.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751791346.418744,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751791398.821958,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751797151.162117,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751807641.655132,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751809004.2035751,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751810038.612986,openedApp,3.0,240.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751810525.449967,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751810644.095295,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751811006.7323608,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751812023.693447,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751812358.881623,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1751817558.284109,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751821496.191139,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751821548.9536219,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751822211.675115,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751823141.6322231,openedApp,3.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751825630.063641,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751825641.128048,openedApp,3.0,
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1751825824.043055,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751825933.291465,dismissedAppOpening,3.0,
+Europe/Bratislava,Message,False,facebook,breathingExercise,1751826297.294897,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751826588.625875,openedApp,3.0,600.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751827054.596393,openedApp,3.0,300.0
+Europe/Bratislava,,True,instagram,breathingExercise,1751827361.9527988,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1751827375.435709,openedApp,3.0,900.0
+Europe/Bratislava,,False,instagram,breathingExercise,1751828279.113169,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751828337.1422539,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751828428.778969,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751833942.664388,openedApp,3.0,360.0
+Europe/Bratislava,Entertainment,True,instagram,breathingExercise,1751834319.423387,openedApp,3.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751866174.896809,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751867955.6960459,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751870885.8377728,openedApp,3.0,60.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751872141.977202,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751872326.0593271,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751886117.6955729,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751888105.65538,openedApp,3.0,180.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751888396.646707,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751899474.804658,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751899568.070053,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751899752.282957,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751900005.818544,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751900230.395158,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751900549.350172,openedApp,3.0,480.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1751901047.6892672,openedApp,3.0,300.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751901364.212281,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751904610.105803,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751904726.8939319,openedApp,3.0,180.0
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1751904830.552977,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751909586.738027,openedApp,3.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751912820.922399,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751913018.714065,dismissedAppOpening,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751913071.1704879,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751913107.8368878,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751913385.591552,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1751919382.745336,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751919576.010613,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751919736.0279799,openedApp,3.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751919768.726023,openedApp,3.0,300.0
+Europe/Bratislava,Entertainment,True,instagram,breathingExercise,1751920086.3824139,openedApp,3.0,540.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751948436.610971,openedApp,3.0,60.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751951820.525713,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751953730.381278,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751966262.189056,openedApp,3.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1751969116.411776,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751971223.856221,openedApp,3.0,300.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1751981905.957891,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751981925.578318,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751982232.387823,openedApp,3.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751982400.6689382,openedApp,3.0,300.0
+Europe/Bratislava,Entertainment,True,instagram,breathingExercise,1751982717.274128,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751983914.697077,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751984203.7495809,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1751984658.986388,dismissedAppOpening,3.0,
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1751984886.6156878,openedApp,3.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1751985353.498425,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752004911.514807,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752007888.532607,openedApp,3.0,360.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752008320.1496,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752034810.8026261,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752034985.1965199,openedApp,3.0,120.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752041794.650305,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752043118.951291,openedApp,3.0,60.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1752043198.151723,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752051171.4027991,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752059197.624655,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752065018.433298,openedApp,3.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752065051.3264341,openedApp,3.0,120.0
+Europe/Bratislava,Toilet,True,instagram,breathingExercise,1752065191.10681,openedApp,3.0,240.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752070948.325485,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752071604.2205791,openedApp,3.0,420.0
+Europe/Bratislava,Relax,True,instagram,breathingExercise,1752072038.910145,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752073895.627228,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1752074002.798989,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1752074064.747243,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1752074064.788136,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752080100.125138,openedApp,3.0,240.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752080363.584793,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752085403.151531,openedApp,3.0,300.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752085719.353341,openedApp,3.0,240.0
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1752087879.31382,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752097297.302987,openedApp,3.0,180.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752120808.0799,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752126452.464144,openedApp,3.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752135001.200523,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752140817.5442328,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752140960.412127,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752142667.053011,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752143375.4769192,openedApp,3.0,360.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752143767.577157,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752145009.592465,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752149355.075052,openedApp,3.0,180.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1752149550.083576,openedApp,3.0,360.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752149683.416501,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752151465.434551,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752153860.408611,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752158687.352625,dismissedAppOpening,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752161878.446759,openedApp,3.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752164060.250011,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752179646.641434,openedApp,3.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752179840.9631271,openedApp,3.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752210739.32285,openedApp,3.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752210825.702492,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752211133.3441281,openedApp,3.0,180.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752213661.790282,openedApp,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752213995.4874392,dismissedAppOpening,3.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752215783.176614,openedApp,3.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752231002.741938,openedApp,3.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752231115.9228249,openedApp,3.0,240.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752241980.222033,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752242256.174115,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752242351.384531,openedApp,6.0,360.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752242730.807219,openedApp,6.0,780.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752244534.196694,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752245615.870144,openedApp,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752248827.705138,openedApp,6.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752249814.1908689,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752249843.1290941,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752250391.6166291,openedApp,6.0,720.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752251046.6102,openedApp,6.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752251191.342413,openedApp,6.0,300.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1752251514.7416801,openedApp,6.0,960.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752262584.4338279,openedApp,6.0,420.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752263026.9021459,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752263287.278566,openedApp,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752263311.608652,openedApp,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752265995.5479841,openedApp,6.0,900.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752266571.534977,openedApp,6.0,780.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752266620.4142408,openedApp,6.0,540.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752266655.682046,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752266670.030113,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752298599.9555058,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752298609.228719,openedApp,6.0,480.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752300142.530354,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752302394.797522,openedApp,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752303577.955779,openedApp,6.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752308479.729485,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752314796.7144141,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752329706.3462849,openedApp,6.0,420.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752329928.897475,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752329953.178244,openedApp,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752330168.611372,openedApp,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752333586.842411,openedApp,6.0,300.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752333908.480335,openedApp,6.0,720.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752344847.431629,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752344959.806999,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752345134.60106,openedApp,6.0,480.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752346106.63796,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752349413.0483952,openedApp,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752352931.123518,openedApp,6.0,480.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752355340.907234,openedApp,6.0,480.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752355754.022186,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752357412.63429,openedApp,6.0,480.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752358919.66939,openedApp,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752359080.572252,openedApp,6.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752377758.4228802,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752377792.179445,openedApp,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752377843.2389622,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752377848.242854,openedApp,6.0,600.0
+Europe/Bratislava,Stay In the Loop,True,instagram,breathingExercise,1752378469.258813,openedApp,6.0,840.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752386714.7121181,openedApp,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752401859.351691,openedApp,6.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752404167.544004,openedApp,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752404249.510744,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752404269.0270061,openedApp,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752404347.803005,openedApp,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752409446.377685,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752409639.0412369,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752410009.180582,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752421882.110091,openedApp,6.0,420.0
+Europe/Bratislava,Idk,False,instagram,breathingExercise,1752424239.092305,openedApp,6.0,540.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752424818.518933,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752431482.254915,openedApp,6.0,360.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1752431862.2066169,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752432412.306645,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752432654.753539,dismissedAppOpening,6.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752432674.6258302,openedApp,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752435598.289857,openedApp,6.0,240.0
+Europe/Bratislava,,False,youtube,breathingExercise,1752435848.1586099,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752439396.886255,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752466257.158471,openedApp,6.0,60.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752479685.690841,openedApp,6.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752480542.855536,openedApp,6.0,180.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752480584.8186479,openedApp,6.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752480797.2855148,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752481764.504247,openedApp,6.0,120.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752481798.42397,openedApp,6.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752481906.668349,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752481912.5852861,openedApp,6.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752486999.6896958,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752499858.855877,openedApp,6.0,300.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752500193.219633,openedApp,6.0,360.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752500882.089981,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752502906.549107,openedApp,6.0,60.0
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1752502992.001367,openedApp,6.0,180.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752504709.405709,openedApp,6.0,60.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752509196.792235,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,breathingExercise,1752509508.315452,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1752509558.776032,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752520230.65906,openedApp,6.0,240.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752520492.213598,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752521745.421101,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752521805.7237191,openedApp,6.0,60.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752556678.228788,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752559761.1108341,openedApp,6.0,180.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752559907.178833,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752568489.645663,openedApp,6.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752573587.915608,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752582976.844255,openedApp,6.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752584912.352479,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752585154.115541,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752585356.423135,openedApp,6.0,60.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752585436.539147,openedApp,6.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752587491.3227901,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752587582.565094,openedApp,6.0,720.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752587959.17021,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752590056.59255,openedApp,6.0,300.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752590379.219946,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752590885.4865031,openedApp,6.0,60.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1752590967.944038,openedApp,6.0,480.0
+Europe/Bratislava,,False,youtube,breathingExercise,1752591453.361191,dismissedAppOpening,6.0,
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1752591473.384722,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752592340.412445,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752592372.393085,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752599384.8293018,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752603708.108755,openedApp,6.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752603899.6492882,openedApp,6.0,240.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752609030.713896,openedApp,6.0,180.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752609295.726108,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752609302.31875,openedApp,6.0,540.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752609938.084969,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1752609955.368888,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752639115.820262,openedApp,6.0,60.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752644842.0819468,openedApp,6.0,180.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752676879.6377668,openedApp,6.0,180.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752683483.916662,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752683798.4616752,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752685032.3059602,openedApp,6.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752685208.515312,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752685308.132786,openedApp,6.0,240.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752685568.7812061,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752686164.236269,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752686660.3682132,openedApp,6.0,60.0
+Europe/Bratislava,,False,instagram,breathingExercise,1752686826.483554,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752686829.8485951,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752686831.990337,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752686856.8293262,openedApp,6.0,240.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752686946.031608,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752689751.537679,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752689819.223057,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752689831.584368,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752694249.697551,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752694270.025588,openedApp,6.0,300.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752694709.1314359,dismissedAppOpening,6.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1752694732.015829,openedApp,6.0,480.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752695334.41862,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752695817.854415,openedApp,6.0,360.0
+Europe/Bratislava,Check likes,False,facebook,breathingExercise,1752729866.6162028,openedApp,6.0,240.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752729895.385061,openedApp,6.0,360.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752730635.809294,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1752730660.745064,openedApp,6.0,900.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752738287.907716,openedApp,6.0,300.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752738608.810917,openedApp,6.0,360.0
+Europe/Bratislava,,True,instagram,breathingExercise,1752738972.067428,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752738990.0503988,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,askForTimeLimit,1752740920.74088,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752741431.0391688,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752741573.145165,openedApp,6.0,240.0
+Europe/Bratislava,,False,instagram,breathingExercise,1752743254.604725,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752745035.975245,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752745361.275271,openedApp,6.0,420.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752745763.797765,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752745772.885477,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752745775.426964,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752753245.723157,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752754414.8845,dismissedAppOpening,6.0,
+Europe/Bratislava,Work,False,instagram,breathingExercise,1752754443.7707062,openedApp,6.0,660.0
+Europe/Bratislava,Search Info,False,facebook,breathingExercise,1752754716.042986,openedApp,6.0,420.0
+Europe/Bratislava,,True,facebook,breathingExercise,1752755190.271501,dismissedAppOpening,6.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1752755215.2367349,openedApp,6.0,1140.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1752755498.474802,openedApp,6.0,780.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752756286.2798262,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752756343.466401,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752758439.4393,openedApp,6.0,240.0
+Europe/Bratislava,Toilet,False,instagram,breathingExercise,1752758667.583616,openedApp,6.0,60.0
+Europe/Bratislava,,False,youtube,breathingExercise,1752758795.2452579,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,youtube,breathingExercise,1752758871.8271399,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752759612.769541,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1752759735.915543,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,breathingExercise,1752759851.3751059,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752759941.2036052,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,askForTimeLimit,1752760001.250231,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,askForTimeLimit,1752760003.451658,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752760167.543936,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1752760170.7507582,dismissedAppOpening,6.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1752761676.852917,openedApp,6.0,540.0
+Europe/Bratislava,Post something,True,instagram,breathingExercise,1752762237.275702,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752762838.112218,openedApp,6.0,660.0
+Europe/Bratislava,Toilet,False,instagram,breathingExercise,1752763868.289032,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,breathingExercise,1752763979.3498058,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752763982.8002791,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752763986.262165,dismissedAppOpening,6.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1752764100.880173,openedApp,6.0,1140.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752764819.240845,openedApp,6.0,300.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752766353.832982,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752776551.3479471,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752776568.3238811,openedApp,6.0,900.0
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1752777088.3469682,openedApp,6.0,780.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752812121.602304,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752819256.551019,openedApp,6.0,540.0
+Europe/Bratislava,Toilet,False,instagram,breathingExercise,1752819590.8053908,openedApp,6.0,300.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752819909.982421,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752821730.2597852,openedApp,6.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1752824372.36369,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752824376.897759,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752827546.2218142,openedApp,6.0,360.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1752836095.37073,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752836236.18608,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752836430.678148,openedApp,6.0,300.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1752844632.27595,openedApp,6.0,120.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752851579.026217,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752858253.115756,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752873634.091701,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752884484.864026,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752884722.3202338,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752913478.754901,openedApp,6.0,360.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752913859.1698341,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752932114.704835,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752932203.693418,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752932515.525595,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752932738.6492028,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752932868.736151,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,breathingExercise,1752937739.711008,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752937752.639556,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1752938546.0004811,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752938981.351217,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752951442.672076,openedApp,6.0,480.0
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1752954607.3158689,openedApp,6.0,300.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1752957119.398786,openedApp,6.0,600.0
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1752996270.9723191,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1752996813.9177508,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1752997155.4400182,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753002987.7457418,openedApp,6.0,240.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753003254.7838578,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753006278.684299,openedApp,6.0,300.0
+Europe/Bratislava,,False,youtube,breathingExercise,1753010556.4963531,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,youtube,breathingExercise,1753010557.991117,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753013535.203399,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753013659.980678,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753014176.6112452,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753014182.194843,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1753014221.222855,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753014256.358341,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753014350.242727,openedApp,6.0,240.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753018522.813892,openedApp,6.0,480.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753026471.444646,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753026873.800222,openedApp,6.0,540.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753027440.615066,openedApp,6.0,300.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753027730.379058,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753028552.479228,openedApp,6.0,540.0
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1753029352.740896,openedApp,6.0,900.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753030082.663059,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753030130.4084868,openedApp,6.0,660.0
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1753040923.538301,openedApp,6.0,600.0
+Europe/Bratislava,Bored,True,youtube,breathingExercise,1753041592.631178,openedApp,6.0,480.0
+Europe/Bratislava,Can’t sleep,True,youtube,breathingExercise,1753042091.1763868,openedApp,6.0,360.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753042345.044158,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753042361.905684,openedApp,6.0,540.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753083290.792969,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753083314.612129,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753084088.184026,openedApp,6.0,180.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753093592.229455,dismissedAppOpening,6.0,
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1753101259.882103,openedApp,6.0,300.0
+Europe/Bratislava,Stay In the Loop,False,instagram,breathingExercise,1753105126.2052069,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1753106333.5656738,openedApp,6.0,1020.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753114479.9643512,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753121278.843412,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753121722.0111961,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753123858.155151,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753131417.120617,openedApp,6.0,120.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753157711.198103,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753162075.8931642,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753162132.080735,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753170703.3629398,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753176189.28026,openedApp,6.0,180.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753177941.740048,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753192643.32944,openedApp,6.0,300.0
+Europe/Bratislava,Entertainment,True,instagram,breathingExercise,1753192969.162962,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753193725.064086,dismissedAppOpening,6.0,
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1753194518.8645148,openedApp,6.0,720.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753194968.224751,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753195127.922624,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753195785.176167,openedApp,6.0,420.0
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1753204052.254126,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753208904.062564,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753209943.504874,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753209968.746603,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753212568.834876,openedApp,6.0,360.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1753212956.78296,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753213348.09829,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753216504.626327,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753247568.899929,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753249196.3556828,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753254784.379564,openedApp,6.0,300.0
+Europe/Bratislava,Toilet,False,instagram,breathingExercise,1753261640.344948,openedApp,6.0,120.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753261782.249588,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753267673.2588081,openedApp,6.0,180.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753270498.424913,openedApp,6.0,240.0
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1753278574.09254,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753279016.562519,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753279209.464561,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753283685.179377,openedApp,6.0,360.0
+Europe/Bratislava,Escape / Avoid,True,facebook,breathingExercise,1753284068.757633,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1753284308.769347,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753285895.616025,dismissedAppOpening,6.0,
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1753293207.8013,openedApp,6.0,300.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753293387.406887,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753294896.728726,openedApp,6.0,420.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753300142.150425,openedApp,6.0,540.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753304932.633362,openedApp,6.0,300.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1753305310.17155,openedApp,6.0,360.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753305517.895492,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753335549.716465,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753338904.376515,openedApp,6.0,300.0
+Europe/Bratislava,Work,False,instagram,breathingExercise,1753344158.4668999,openedApp,6.0,600.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753344780.282504,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753345462.9447222,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753345768.2076201,dismissedAppOpening,6.0,
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1753345793.1442208,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753346117.9705238,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753347697.486722,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753347906.160184,dismissedAppOpening,6.0,
+Europe/Bratislava,Relax,False,instagram,breathingExercise,1753348775.679476,openedApp,6.0,720.0
+Europe/Bratislava,Relax,False,instagram,breathingExercise,1753348928.9918861,openedApp,6.0,720.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753349669.59693,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753351265.6801538,openedApp,6.0,300.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1753352546.148861,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1753353098.1193209,openedApp,6.0,780.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1753360174.350986,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753361749.285995,openedApp,6.0,780.0
+Europe/Bratislava,Escape / Avoid,False,youtube,breathingExercise,1753362555.260322,openedApp,6.0,1380.0
+Europe/Bratislava,Escape / Avoid,True,youtube,breathingExercise,1753363955.760349,openedApp,6.0,1440.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753372349.771754,openedApp,6.0,420.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753373586.485851,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753384550.4723082,dismissedAppOpening,6.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753385463.27229,openedApp,6.0,540.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753386342.545302,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753386366.478149,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753386423.09617,openedApp,6.0,900.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753386788.025414,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753387093.75351,openedApp,6.0,720.0
+Europe/Bratislava,Escape / Avoid,False,facebook,breathingExercise,1753388200.815463,openedApp,6.0,540.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753390337.474303,openedApp,6.0,540.0
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1753419073.149607,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753467938.7244182,openedApp,6.0,120.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753468079.764463,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753469787.549993,openedApp,6.0,660.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753472177.389955,openedApp,6.0,660.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753472884.388826,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753475515.204927,openedApp,6.0,540.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753476075.199916,openedApp,6.0,360.0
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1753512525.800374,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753513946.366488,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753517388.221758,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753523066.5247688,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753524239.816949,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753524685.316042,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753529774.310289,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753535975.005361,openedApp,6.0,840.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753536851.5532231,openedApp,6.0,660.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753549416.670926,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753549538.100167,openedApp,6.0,420.0
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1753563889.642268,openedApp,6.0,360.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753596836.4027262,openedApp,6.0,480.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753597033.366533,openedApp,6.0,540.0
+Europe/Bratislava,Entertainment,True,instagram,breathingExercise,1753597594.409916,openedApp,6.0,420.0
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1753598042.4357271,openedApp,6.0,480.0
+Europe/Bratislava,Post something,True,facebook,breathingExercise,1753598540.454445,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753600326.4895,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753602132.029602,openedApp,6.0,840.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753610990.754003,openedApp,6.0,480.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753611491.861517,openedApp,6.0,780.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753612969.1598392,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1753613120.55306,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753615748.039098,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753626363.194314,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753626555.1671329,openedApp,6.0,840.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1753627416.640564,openedApp,6.0,1200.0
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1753628777.7001061,openedApp,6.0,720.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753629889.068927,openedApp,6.0,540.0
+Europe/Bratislava,Bored,True,facebook,breathingExercise,1753630457.169324,openedApp,6.0,780.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753640550.10253,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753643063.748211,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753643113.567796,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753643744.470165,openedApp,6.0,660.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753644425.173713,openedApp,6.0,900.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753645348.338558,openedApp,6.0,480.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753645838.661874,dismissedAppOpening,6.0,
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753646014.220943,openedApp,6.0,1020.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753647058.891656,openedApp,6.0,720.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753676116.2946029,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753676132.932934,openedApp,6.0,60.0
+Europe/Bratislava,Work,False,instagram,breathingExercise,1753695254.288552,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753700132.5152779,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753711037.124354,openedApp,6.0,540.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753711596.6349158,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,structured,1753711597.604563,dismissedByStructuredIntervention,,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753713005.07086,openedApp,6.0,480.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753713148.13414,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753713164.925404,openedApp,6.0,420.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753713306.592365,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753713755.707547,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753713758.207994,dismissedAppOpening,6.0,
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1753762601.992636,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753770818.562535,openedApp,6.0,180.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753779626.62351,openedApp,6.0,300.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753782273.943021,openedApp,6.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753786781.3343291,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753787651.138153,openedApp,6.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753795656.6152968,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1753795664.186298,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,youtube,structured,1753797652.6943011,dismissedByStructuredIntervention,,
+Europe/Bratislava,,False,youtube,structured,1753797675.76913,dismissedByStructuredIntervention,,
+Europe/Bratislava,,False,youtube,structured,1753797684.455426,dismissedByStructuredIntervention,,
+Europe/Bratislava,,False,youtube,structured,1753797705.539289,dismissedByStructuredIntervention,,
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1753797730.532195,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753797872.121099,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,facebook,breathingExercise,1753808487.3729,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1753809298.056344,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753810414.4243588,openedApp,6.0,420.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1753810834.6592531,openedApp,6.0,420.0
+Europe/Bratislava,,False,youtube,breathingExercise,1753812098.9178529,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753820328.000665,openedApp,6.0,300.0
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1753820658.120153,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753855526.2850041,openedApp,6.0,120.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753859215.869138,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753870081.559519,openedApp,6.0,480.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753870585.0557709,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753878434.745974,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753882148.379278,openedApp,6.0,240.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753882423.723763,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753882443.54227,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753882810.6170058,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753884740.37045,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753885449.5505738,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753885679.268786,openedApp,6.0,300.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1753886000.925453,openedApp,6.0,540.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753890467.206186,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753892980.804574,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753893682.159754,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753894006.510356,openedApp,6.0,600.0
+Europe/Bratislava,,True,instagram,breathingExercise,1753894625.4398232,dismissedAppOpening,6.0,
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1753904063.412898,openedApp,6.0,240.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753935601.425259,openedApp,6.0,120.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753938462.628298,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753939822.3908281,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753940162.843724,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753941430.442295,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753943563.440613,openedApp,6.0,240.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753962063.745254,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753963940.701905,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753964642.703047,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753965331.9278622,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753966381.7124171,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753967343.033716,openedApp,6.0,360.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753968589.9073892,openedApp,6.0,480.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753969076.607692,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1753969122.289233,openedApp,6.0,360.0
+Europe/Bratislava,Entertainment,False,facebook,breathingExercise,1753969502.072503,openedApp,6.0,600.0
+Europe/Bratislava,,False,facebook,breathingExercise,1753972211.280432,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753972228.743688,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753972595.4203758,openedApp,6.0,540.0
+Europe/Bratislava,,False,instagram,breathingExercise,1753973237.170731,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753973415.685978,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753988119.5389152,openedApp,6.0,720.0
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1753988881.881839,openedApp,6.0,780.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1753989448.177496,openedApp,6.0,720.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754026014.8666859,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754039106.9681969,openedApp,6.0,540.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1754043088.126182,openedApp,6.0,480.0
+Europe/Bratislava,,False,facebook,breathingExercise,1754050611.4299421,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1754050627.284803,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754052096.686695,openedApp,6.0,720.0
+Europe/Bratislava,,False,instagram,breathingExercise,1754052828.834676,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754053261.8947592,openedApp,6.0,480.0
+Europe/Bratislava,Escape / Avoid,True,instagram,breathingExercise,1754053765.9601011,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,youtube,breathingExercise,1754054424.984731,openedApp,6.0,540.0
+Europe/Bratislava,Bored,True,youtube,breathingExercise,1754054984.378463,openedApp,6.0,1740.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754057716.1702828,openedApp,6.0,720.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754061065.242625,openedApp,6.0,1200.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754061572.288239,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754072914.330298,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754073846.20478,openedApp,6.0,780.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1754074006.225817,openedApp,6.0,660.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754074703.557287,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754075067.019109,openedApp,6.0,480.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1754075315.079817,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754075682.312527,openedApp,6.0,540.0
+Europe/Bratislava,,False,facebook,breathingExercise,1754077415.372437,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754077432.7900848,openedApp,6.0,480.0
+Europe/Bratislava,,False,instagram,structured,1754078435.091994,dismissedByStructuredIntervention,,
+Europe/Bratislava,,False,instagram,breathingExercise,1754078626.947859,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754116038.805665,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,structured,1754116235.191307,dismissedByStructuredIntervention,,
+Europe/Bratislava,Relax,False,instagram,breathingExercise,1754116260.8220282,openedApp,6.0,300.0
+Europe/Bratislava,,False,instagram,structured,1754116260.941087,dismissedByStructuredIntervention,,
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1754116580.3662739,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754119957.336617,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754121562.9612942,openedApp,6.0,540.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1754122252.910174,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,structured,1754154801.266712,dismissedByStructuredIntervention,,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754154823.713392,openedApp,6.0,420.0
+Europe/Bratislava,,False,instagram,structured,1754154823.8545408,dismissedByStructuredIntervention,,
+Europe/Bratislava,Entertainment,False,instagram,breathingExercise,1754162853.663665,openedApp,6.0,720.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754173719.952698,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754174440.521863,openedApp,6.0,960.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754175292.440164,openedApp,6.0,780.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754176583.779026,openedApp,6.0,660.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754177957.0808911,openedApp,6.0,660.0
+Europe/Bratislava,Post something,False,instagram,breathingExercise,1754181811.136765,openedApp,6.0,480.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1754205864.046733,openedApp,6.0,660.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1754206544.37625,openedApp,6.0,720.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1754207625.640051,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754212453.483547,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754212785.402367,openedApp,6.0,720.0
+Europe/Bratislava,,False,instagram,breathingExercise,1754219815.249582,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754220422.158671,openedApp,6.0,840.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1754221287.282452,openedApp,6.0,720.0
+Europe/Bratislava,Bored,True,facebook,breathingExercise,1754222025.25821,openedApp,6.0,540.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1754223024.017211,openedApp,6.0,420.0
+Europe/Bratislava,,True,instagram,breathingExercise,1754223447.239677,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754223491.198186,openedApp,6.0,840.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754227990.574562,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754228109.3983889,openedApp,6.0,720.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754232406.246583,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754235280.126174,openedApp,6.0,600.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1754235900.724251,openedApp,6.0,660.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1754237016.622089,openedApp,6.0,660.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754247894.151995,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754285342.91182,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,breathingExercise,1754287434.125195,dismissedAppOpening,6.0,
+Europe/Bratislava,,False,instagram,breathingExercise,1754294979.073269,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754309041.469421,openedApp,6.0,540.0
+Europe/Bratislava,,False,instagram,breathingExercise,1754309157.8329291,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754313043.393914,openedApp,6.0,600.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754319212.890959,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1754319719.548327,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754321103.57859,openedApp,6.0,720.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754324645.0314178,openedApp,6.0,420.0
+Europe/Bratislava,Bored,False,facebook,breathingExercise,1754329878.115532,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754332187.924375,openedApp,6.0,540.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754340010.2849112,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754371065.417027,openedApp,6.0,540.0
+Europe/Bratislava,Escape / Avoid,False,instagram,breathingExercise,1754372213.005944,openedApp,6.0,300.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754391017.864451,openedApp,6.0,360.0
+Europe/Bratislava,,False,instagram,breathingExercise,1754391125.520773,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754391640.82166,openedApp,6.0,600.0
+Europe/Bratislava,,False,instagram,breathingExercise,1754394695.686703,dismissedAppOpening,6.0,
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754402050.850666,openedApp,6.0,480.0
+Europe/Bratislava,Bored,False,instagram,breathingExercise,1754405627.872019,openedApp,6.0,540.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1754406190.004827,openedApp,6.0,540.0
+Europe/Bratislava,Bored,True,instagram,breathingExercise,1754406731.449199,openedApp,6.0,300.0

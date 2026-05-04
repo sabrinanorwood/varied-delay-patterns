@@ -1,0 +1,12 @@
+interventionDuration,interventionType,timestamp,purpose,timezone,timeIntervalUntilReIntervention,isReIntervention,app,resolution,terminationReason
+1.5,breathingExercise,1752869453.99258,Unterhaltung,Europe/Berlin,60.0,0.0,youtube,openedApp,
+,,1752869458.74798,,Europe/Berlin,,0.0,youtube,closedApp,
+1.5,breathingExercise,1752870366.9028258,Unterhaltung,Europe/Berlin,,0.0,youtube,openedApp,
+,,1752874624.609254,,Europe/Berlin,,0.0,youtube,closedApp,
+,,1752875923.334717,,Europe/Berlin,,0.0,youtube,closedApp,
+1.5,breathingExercise,1752876501.767959,Unterhaltung,Europe/Berlin,1800.0,0.0,youtube,openedApp,
+1.5,breathingExercise,1753247115.2097511,Unterhaltung,Europe/Berlin,,0.0,youtube,openedApp,
+,,1753247410.189194,,Europe/Berlin,,0.0,youtube,closedApp,
+1.5,breathingExercise,1753247434.158124,,Europe/Berlin,,0.0,youtube,dismissedAppOpening,
+1.5,breathingExercise,1753247454.94145,,Europe/Berlin,,0.0,youtube,dismissedAppOpening,
+,,1753388043.921164,,,,,,,terminatedByUser

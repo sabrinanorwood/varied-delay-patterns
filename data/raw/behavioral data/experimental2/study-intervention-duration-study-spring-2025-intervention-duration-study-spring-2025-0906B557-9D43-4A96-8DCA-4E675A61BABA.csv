@@ -1,0 +1,8 @@
+resolution,isReIntervention,timezone,interventionType,interventionDuration,app,timestamp,purpose
+dismissedAppOpening,False,Europe/Moscow,breathingExercise,1.5,tikTok,1750828771.202375,
+dismissedAppOpening,False,Europe/Moscow,breathingExercise,1.5,tikTok,1750828956.055997,
+dismissedAppOpening,False,Europe/Moscow,breathingExercise,1.5,tikTok,1750829042.599334,
+dismissedAppOpening,False,Europe/Moscow,breathingExercise,1.5,tikTok,1750829046.73661,
+openedApp,False,Europe/Moscow,breathingExercise,1.5,tikTok,1750837119.31058,В туалете
+dismissedAppOpening,False,Europe/Moscow,breathingExercise,1.5,tikTok,1751283685.456126,
+openedApp,False,Europe/Moscow,breathingExercise,1.5,tikTok,1751283696.641953,Поискать информацию

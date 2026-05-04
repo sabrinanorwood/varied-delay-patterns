@@ -1,0 +1,2 @@
+resolution,app,timezone,timestamp,interventionType,interventionDuration,isReIntervention
+dismissedAppOpening,snapchat,Europe/Paris,1752388736.022049,breathingExercise,1.5,False

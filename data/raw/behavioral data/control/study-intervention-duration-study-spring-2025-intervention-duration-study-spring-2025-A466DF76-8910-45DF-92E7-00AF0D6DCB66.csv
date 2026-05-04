@@ -1,0 +1,355 @@
+interventionType,app,interventionDuration,timestamp,isReIntervention,resolution,timezone,purpose
+breathingExercise,youtube,6.0,1748512069.6105142,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1748538886.510171,False,openedApp,Asia/Kolkata,Bored
+breathingExercise,youtube,6.0,1748590765.0197968,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1748591782.739396,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1748592379.68156,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1748604820.750836,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1748604843.855581,False,openedApp,Asia/Kolkata,Search Info
+breathingExercise,youtube,6.0,1748618497.2473311,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1748619630.382609,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1748621435.648895,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748628468.860888,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1748633033.646163,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1748633053.916088,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748693694.240407,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748710301.388346,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748759077.5989819,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748776197.241461,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748811385.740947,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748813464.482615,False,openedApp,Asia/Kolkata,Escape / Avoid
+,youtube,,1748538888.608571,False,closedApp,Asia/Kolkata,
+,youtube,,1748540491.872359,False,closedApp,Asia/Kolkata,
+,youtube,,1748591743.849098,False,closedApp,Asia/Kolkata,
+,youtube,,1748591820.7962809,False,closedApp,Asia/Kolkata,
+,youtube,,1748593159.9304361,False,closedApp,Asia/Kolkata,
+,youtube,,1748605312.238976,False,closedApp,Asia/Kolkata,
+,youtube,,1748618619.1453118,False,closedApp,Asia/Kolkata,
+,youtube,,1748619632.578229,False,closedApp,Asia/Kolkata,
+,youtube,,1748619751.2022529,False,closedApp,Asia/Kolkata,
+,youtube,,1748620581.53638,False,closedApp,Asia/Kolkata,
+,youtube,,1748621526.747517,False,closedApp,Asia/Kolkata,
+,youtube,,1748629537.391021,False,closedApp,Asia/Kolkata,
+,youtube,,1748630872.645512,False,closedApp,Asia/Kolkata,
+,youtube,,1748630881.0290341,False,closedApp,Asia/Kolkata,
+,youtube,,1748631404.081017,False,closedApp,Asia/Kolkata,
+,youtube,,1748633056.199816,False,closedApp,Asia/Kolkata,
+,youtube,,1748634066.1051822,False,closedApp,Asia/Kolkata,
+,youtube,,1748693957.040083,False,closedApp,Asia/Kolkata,
+,youtube,,1748694337.464919,False,closedApp,Asia/Kolkata,
+,youtube,,1748710306.5223088,False,closedApp,Asia/Kolkata,
+,youtube,,1748710413.276847,False,closedApp,Asia/Kolkata,
+,youtube,,1748710703.3035688,False,closedApp,Asia/Kolkata,
+,youtube,,1748759182.251585,False,closedApp,Asia/Kolkata,
+,youtube,,1748759198.263591,False,closedApp,Asia/Kolkata,
+,youtube,,1748760414.020049,False,closedApp,Asia/Kolkata,
+,youtube,,1748762993.820049,False,closedApp,Asia/Kolkata,
+,youtube,,1748777808.758743,False,closedApp,Asia/Kolkata,
+,youtube,,1748779140.114839,False,closedApp,Asia/Kolkata,
+,youtube,,1748812270.024654,False,closedApp,Asia/Kolkata,
+,youtube,,1748813561.438964,False,closedApp,Asia/Kolkata,
+,youtube,,1748817584.080164,False,closedApp,Asia/Kolkata,
+breathingExercise,youtube,6.0,1748882355.965732,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748893226.664655,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748939331.490744,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748946314.069864,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748952831.4589949,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1748952857.1115909,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1748978616.039129,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749014048.5251222,False,openedApp,Asia/Kolkata,Search Info
+breathingExercise,youtube,6.0,1749027106.844353,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1749034116.793048,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749054430.099729,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749058673.136698,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749061360.4233499,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749063233.7824411,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749068441.209636,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1749070776.324595,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749121723.7630172,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749124496.6984391,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749134839.162657,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1749148907.503061,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749205336.612097,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1749216716.905611,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749230880.668786,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749231388.658802,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1749235638.8218632,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749237127.564451,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749239184.564265,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749243510.8482618,False,openedApp,Asia/Kolkata,Bored
+,youtube,,1748882873.8744578,False,closedApp,Asia/Kolkata,
+,youtube,,1748883286.327836,False,closedApp,Asia/Kolkata,
+,youtube,,1748893228.598769,False,closedApp,Asia/Kolkata,
+,youtube,,1748895043.207345,False,closedApp,Asia/Kolkata,
+,youtube,,1748940651.32101,False,closedApp,Asia/Kolkata,
+,youtube,,1748942453.187918,False,closedApp,Asia/Kolkata,
+,youtube,,1748944814.28912,False,closedApp,Asia/Kolkata,
+,youtube,,1748947324.304275,False,closedApp,Asia/Kolkata,
+,youtube,,1748949756.906712,False,closedApp,Asia/Kolkata,
+,youtube,,1748955283.1119561,False,closedApp,Asia/Kolkata,
+,youtube,,1748955474.066114,False,closedApp,Asia/Kolkata,
+,youtube,,1748955544.8498821,False,closedApp,Asia/Kolkata,
+,youtube,,1748981513.5296102,False,closedApp,Asia/Kolkata,
+,youtube,,1749014731.51541,False,closedApp,Asia/Kolkata,
+,youtube,,1749014790.1074781,False,closedApp,Asia/Kolkata,
+,youtube,,1749015068.180788,False,closedApp,Asia/Kolkata,
+,youtube,,1749016568.576675,False,closedApp,Asia/Kolkata,
+,youtube,,1749028403.162493,False,closedApp,Asia/Kolkata,
+,youtube,,1749035508.903856,False,closedApp,Asia/Kolkata,
+,youtube,,1749056808.6402879,False,closedApp,Asia/Kolkata,
+,youtube,,1749059984.296525,False,closedApp,Asia/Kolkata,
+,youtube,,1749062429.3472362,False,closedApp,Asia/Kolkata,
+,youtube,,1749063981.425962,False,closedApp,Asia/Kolkata,
+,youtube,,1749068548.2970052,False,closedApp,Asia/Kolkata,
+,youtube,,1749071198.8915591,False,closedApp,Asia/Kolkata,
+,youtube,,1749071219.853818,False,closedApp,Asia/Kolkata,
+,youtube,,1749071263.24508,False,closedApp,Asia/Kolkata,
+,youtube,,1749071278.683738,False,closedApp,Asia/Kolkata,
+,youtube,,1749071304.746691,False,closedApp,Asia/Kolkata,
+,youtube,,1749071386.730036,False,closedApp,Asia/Kolkata,
+,youtube,,1749071406.207903,False,closedApp,Asia/Kolkata,
+,youtube,,1749071429.5267,False,closedApp,Asia/Kolkata,
+,youtube,,1749071435.345541,False,closedApp,Asia/Kolkata,
+,youtube,,1749071440.657495,False,closedApp,Asia/Kolkata,
+,youtube,,1749071443.6260018,False,closedApp,Asia/Kolkata,
+,youtube,,1749071451.724196,False,closedApp,Asia/Kolkata,
+,youtube,,1749071453.056119,False,closedApp,Asia/Kolkata,
+,youtube,,1749071463.676052,False,closedApp,Asia/Kolkata,
+,youtube,,1749071507.376512,False,closedApp,Asia/Kolkata,
+,youtube,,1749071510.428355,False,closedApp,Asia/Kolkata,
+,youtube,,1749072855.845027,False,closedApp,Asia/Kolkata,
+,youtube,,1749072865.9606252,False,closedApp,Asia/Kolkata,
+,youtube,,1749072866.457735,False,closedApp,Asia/Kolkata,
+,youtube,,1749072878.767838,False,closedApp,Asia/Kolkata,
+,youtube,,1749073031.671544,False,closedApp,Asia/Kolkata,
+,youtube,,1749073270.073238,False,closedApp,Asia/Kolkata,
+,youtube,,1749073510.345109,False,closedApp,Asia/Kolkata,
+,youtube,,1749074107.902097,False,closedApp,Asia/Kolkata,
+,youtube,,1749074219.515174,False,closedApp,Asia/Kolkata,
+,youtube,,1749074296.133704,False,closedApp,Asia/Kolkata,
+,youtube,,1749074603.525741,False,closedApp,Asia/Kolkata,
+,youtube,,1749122226.4191961,False,closedApp,Asia/Kolkata,
+,youtube,,1749122232.1626348,False,closedApp,Asia/Kolkata,
+,youtube,,1749122709.658667,False,closedApp,Asia/Kolkata,
+,youtube,,1749127965.5575628,False,closedApp,Asia/Kolkata,
+,youtube,,1749129079.964299,False,closedApp,Asia/Kolkata,
+,youtube,,1749135077.8142881,False,closedApp,Asia/Kolkata,
+,youtube,,1749151150.6156101,False,closedApp,Asia/Kolkata,
+,youtube,,1749152628.366562,False,closedApp,Asia/Kolkata,
+,youtube,,1749153218.2805429,False,closedApp,Asia/Kolkata,
+,youtube,,1749206665.275207,False,closedApp,Asia/Kolkata,
+,youtube,,1749217291.2744431,False,closedApp,Asia/Kolkata,
+,youtube,,1749233997.3807402,False,closedApp,Asia/Kolkata,
+,youtube,,1749234547.39591,False,closedApp,Asia/Kolkata,
+,youtube,,1749235801.6996322,False,closedApp,Asia/Kolkata,
+,youtube,,1749236005.322288,False,closedApp,Asia/Kolkata,
+,youtube,,1749238014.3175511,False,closedApp,Asia/Kolkata,
+,youtube,,1749239553.898709,False,closedApp,Asia/Kolkata,
+,youtube,,1749240783.7248921,False,closedApp,Asia/Kolkata,
+,youtube,,1749241303.456839,False,closedApp,Asia/Kolkata,
+,youtube,,1749245179.320934,False,closedApp,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749268514.457137,False,openedApp,Asia/Kolkata,Escape / Avoid
+,youtube,,1749268523.608572,False,closedApp,Asia/Kolkata,
+,youtube,,1749269314.029774,False,closedApp,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749270364.653823,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749270514.37998,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749279707.940806,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749283787.1142879,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749326873.1028929,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749331110.087256,False,openedApp,Asia/Kolkata,Escape / Avoid
+,youtube,,1749271135.13491,False,closedApp,Asia/Kolkata,
+,youtube,,1749271142.515133,False,closedApp,Asia/Kolkata,
+,youtube,,1749271754.316174,False,closedApp,Asia/Kolkata,
+,youtube,,1749274358.223247,False,closedApp,Asia/Kolkata,
+,youtube,,1749282238.6317968,False,closedApp,Asia/Kolkata,
+,youtube,,1749285273.348404,False,closedApp,Asia/Kolkata,
+,youtube,,1749328712.7872128,False,closedApp,Asia/Kolkata,
+,youtube,,1749333137.015199,False,closedApp,Asia/Kolkata,
+,youtube,,1749334724.0744128,False,closedApp,Asia/Kolkata,
+,youtube,,1749334738.41113,False,closedApp,Asia/Kolkata,
+,youtube,,1749334750.842564,False,closedApp,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749335760.9229,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749364838.772913,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749372571.706452,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749379449.600719,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749405129.504468,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749447843.415608,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749449673.25414,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749466410.5394049,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749469348.0361729,False,openedApp,Asia/Kolkata,Escape / Avoid
+,youtube,,1749337184.970438,False,closedApp,Asia/Kolkata,
+,youtube,,1749338158.45239,False,closedApp,Asia/Kolkata,
+,youtube,,1749364924.284764,False,closedApp,Asia/Kolkata,
+,youtube,,1749364938.4652638,False,closedApp,Asia/Kolkata,
+,youtube,,1749365403.735623,False,closedApp,Asia/Kolkata,
+,youtube,,1749374400.708226,False,closedApp,Asia/Kolkata,
+,youtube,,1749379760.415371,False,closedApp,Asia/Kolkata,
+,youtube,,1749379776.340085,False,closedApp,Asia/Kolkata,
+,youtube,,1749379835.41626,False,closedApp,Asia/Kolkata,
+,youtube,,1749380692.9768739,False,closedApp,Asia/Kolkata,
+,youtube,,1749380710.409172,False,closedApp,Asia/Kolkata,
+,youtube,,1749380793.37204,False,closedApp,Asia/Kolkata,
+,youtube,,1749410377.170233,False,closedApp,Asia/Kolkata,
+,youtube,,1749447993.612616,False,closedApp,Asia/Kolkata,
+,youtube,,1749450274.3981838,False,closedApp,Asia/Kolkata,
+,youtube,,1749450376.0479078,False,closedApp,Asia/Kolkata,
+,youtube,,1749452131.61161,False,closedApp,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749480508.933255,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749483100.57967,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749488918.412703,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749499460.75436,False,openedApp,Asia/Kolkata,Can’t sleep
+breathingExercise,youtube,6.0,1749502664.3519769,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749529661.567723,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749534921.848157,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749537251.209797,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749540135.956975,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749577868.303053,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749585218.509265,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749588419.8745089,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749588442.637773,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749627725.3654141,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749635968.294786,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749662778.808357,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749708991.344092,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749714199.102917,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749747382.513564,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1749749916.153295,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749752780.264055,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749814838.0613642,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749825223.2678041,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749838243.9567719,False,openedApp,Asia/Kolkata,Search Info
+breathingExercise,youtube,6.0,1749845921.314734,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749927566.69023,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749930552.877321,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749934732.1445,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749962943.897192,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749965301.1629062,False,openedApp,Asia/Kolkata,Entertainment
+breathingExercise,youtube,6.0,1749967348.4376512,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1749992565.572185,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750003858.99173,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750019323.531538,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750078845.54145,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750082317.856374,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750100626.375155,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750102065.675669,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750161074.5588999,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750169021.918326,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750173912.3516111,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750177371.159912,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750187952.557195,False,openedApp,Asia/Kolkata,Escape / Avoid
+,youtube,,1749481088.344672,False,closedApp,Asia/Kolkata,
+,youtube,,1749483877.546369,False,closedApp,Asia/Kolkata,
+,youtube,,1749499465.8132129,False,closedApp,Asia/Kolkata,
+,youtube,,1749500840.219833,False,closedApp,Asia/Kolkata,
+,youtube,,1749500848.061307,False,closedApp,Asia/Kolkata,
+,youtube,,1749503340.169038,False,closedApp,Asia/Kolkata,
+,youtube,,1749529722.942338,False,closedApp,Asia/Kolkata,
+,youtube,,1749529726.826515,False,closedApp,Asia/Kolkata,
+,youtube,,1749532240.528197,False,closedApp,Asia/Kolkata,
+,youtube,,1749539328.302024,False,closedApp,Asia/Kolkata,
+,youtube,,1749578810.271296,False,closedApp,Asia/Kolkata,
+,youtube,,1749586271.055677,False,closedApp,Asia/Kolkata,
+,youtube,,1749590181.371961,False,closedApp,Asia/Kolkata,
+,youtube,,1749627950.16263,False,closedApp,Asia/Kolkata,
+,youtube,,1749631355.2652578,False,closedApp,Asia/Kolkata,
+,youtube,,1749632278.004595,False,closedApp,Asia/Kolkata,
+,youtube,,1749635972.6527681,False,closedApp,Asia/Kolkata,
+,youtube,,1749641864.708972,False,closedApp,Asia/Kolkata,
+,youtube,,1749662782.331204,False,closedApp,Asia/Kolkata,
+,youtube,,1749664388.0968971,False,closedApp,Asia/Kolkata,
+,youtube,,1749668124.679275,False,closedApp,Asia/Kolkata,
+,youtube,,1749709012.274804,False,closedApp,Asia/Kolkata,
+,youtube,,1749709366.091236,False,closedApp,Asia/Kolkata,
+,youtube,,1749714205.593096,False,closedApp,Asia/Kolkata,
+,youtube,,1749715158.025188,False,closedApp,Asia/Kolkata,
+,youtube,,1749751188.371517,False,closedApp,Asia/Kolkata,
+,youtube,,1749754380.282234,False,closedApp,Asia/Kolkata,
+,youtube,,1749815049.82438,False,closedApp,Asia/Kolkata,
+,youtube,,1749815056.813746,False,closedApp,Asia/Kolkata,
+,youtube,,1749815247.811374,False,closedApp,Asia/Kolkata,
+,youtube,,1749818145.454618,False,closedApp,Asia/Kolkata,
+,youtube,,1749827316.362869,False,closedApp,Asia/Kolkata,
+,youtube,,1749839873.8467379,False,closedApp,Asia/Kolkata,
+,youtube,,1749840206.386856,False,closedApp,Asia/Kolkata,
+,youtube,,1749840822.532593,False,closedApp,Asia/Kolkata,
+,youtube,,1749841088.9202929,False,closedApp,Asia/Kolkata,
+,youtube,,1749846049.5756779,False,closedApp,Asia/Kolkata,
+,youtube,,1749847308.006,False,closedApp,Asia/Kolkata,
+,youtube,,1749927674.928931,False,closedApp,Asia/Kolkata,
+,youtube,,1749927958.263873,False,closedApp,Asia/Kolkata,
+,youtube,,1749928843.267595,False,closedApp,Asia/Kolkata,
+,youtube,,1749928860.479214,False,closedApp,Asia/Kolkata,
+,youtube,,1749929493.270546,False,closedApp,Asia/Kolkata,
+,youtube,,1749933430.6868792,False,closedApp,Asia/Kolkata,
+,youtube,,1749934733.974376,False,closedApp,Asia/Kolkata,
+,youtube,,1749936341.660681,False,closedApp,Asia/Kolkata,
+,youtube,,1749964540.910781,False,closedApp,Asia/Kolkata,
+,youtube,,1749966165.905329,False,closedApp,Asia/Kolkata,
+,youtube,,1749967356.007721,False,closedApp,Asia/Kolkata,
+,youtube,,1749969268.183206,False,closedApp,Asia/Kolkata,
+,youtube,,1749971037.538961,False,closedApp,Asia/Kolkata,
+,youtube,,1749996576.289684,False,closedApp,Asia/Kolkata,
+,youtube,,1749998059.9874911,False,closedApp,Asia/Kolkata,
+,youtube,,1750004466.259155,False,closedApp,Asia/Kolkata,
+,youtube,,1750021232.0079799,False,closedApp,Asia/Kolkata,
+,youtube,,1750023235.5843282,False,closedApp,Asia/Kolkata,
+,youtube,,1750080065.282607,False,closedApp,Asia/Kolkata,
+,youtube,,1750085053.208641,False,closedApp,Asia/Kolkata,
+,youtube,,1750103611.516872,False,closedApp,Asia/Kolkata,
+,youtube,,1750163044.2036839,False,closedApp,Asia/Kolkata,
+,youtube,,1750163044.25102,False,closedApp,Asia/Kolkata,
+,youtube,,1750163236.6961288,False,closedApp,Asia/Kolkata,
+,youtube,,1750164259.490071,False,closedApp,Asia/Kolkata,
+,youtube,,1750166850.8924608,False,closedApp,Asia/Kolkata,
+,youtube,,1750169267.6039438,False,closedApp,Asia/Kolkata,
+,youtube,,1750170000.780919,False,closedApp,Asia/Kolkata,
+,youtube,,1750174515.6736,False,closedApp,Asia/Kolkata,
+,youtube,,1750178492.566658,False,closedApp,Asia/Kolkata,
+breathingExercise,youtube,6.0,1750254126.152873,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1750254143.5445461,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750277109.9761338,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1750277276.1504002,False,openedApp,Asia/Kolkata,Escape / Avoid
+,youtube,,1750254146.88942,False,closedApp,Asia/Kolkata,
+,youtube,,1750254486.5416489,False,closedApp,Asia/Kolkata,
+,youtube,,1750255032.33213,False,closedApp,Asia/Kolkata,
+,youtube,,1750255032.859057,False,closedApp,Asia/Kolkata,
+,youtube,,1750277966.451235,False,closedApp,Asia/Kolkata,
+,youtube,,1750278057.305084,False,closedApp,Asia/Kolkata,
+,youtube,,1750280212.265429,False,closedApp,Asia/Kolkata,
+breathingExercise,youtube,6.0,1750331104.3087711,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750336699.5746632,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750338676.636148,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750402313.1455169,False,dismissedAppOpening,Asia/Kolkata,
+breathingExercise,youtube,6.0,1750402329.427974,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750406829.466041,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750416113.853713,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750425883.776274,False,dismissedAppOpening,Asia/Kolkata,
+,youtube,,1750331128.279727,False,closedApp,Asia/Kolkata,
+,youtube,,1750331199.460713,False,closedApp,Asia/Kolkata,
+,youtube,,1750331252.479347,False,closedApp,Asia/Kolkata,
+,youtube,,1750331354.058106,False,closedApp,Asia/Kolkata,
+,youtube,,1750331994.702549,False,closedApp,Asia/Kolkata,
+,youtube,,1750336709.44068,False,closedApp,Asia/Kolkata,
+,youtube,,1750337774.934211,False,closedApp,Asia/Kolkata,
+,youtube,,1750337778.8880439,False,closedApp,Asia/Kolkata,
+,youtube,,1750341998.035985,False,closedApp,Asia/Kolkata,
+,youtube,,1750342839.29066,False,closedApp,Asia/Kolkata,
+,youtube,,1750402368.715475,False,closedApp,Asia/Kolkata,
+,youtube,,1750402368.90792,False,closedApp,Asia/Kolkata,
+,youtube,,1750402615.5018911,False,closedApp,Asia/Kolkata,
+,youtube,,1750406831.80554,False,closedApp,Asia/Kolkata,
+,youtube,,1750408681.043036,False,closedApp,Asia/Kolkata,
+,youtube,,1750416293.3224459,False,closedApp,Asia/Kolkata,
+,youtube,,1750416294.816124,False,closedApp,Asia/Kolkata,
+,youtube,,1750416296.114311,False,closedApp,Asia/Kolkata,
+,youtube,,1750417946.629869,False,closedApp,Asia/Kolkata,
+,youtube,,1750418007.380866,False,closedApp,Asia/Kolkata,
+,youtube,,1750418018.221302,False,closedApp,Asia/Kolkata,
+,youtube,,1750418019.346919,False,closedApp,Asia/Kolkata,
+,youtube,,1750418911.119111,False,closedApp,Asia/Kolkata,
+,youtube,,1750418912.077822,False,closedApp,Asia/Kolkata,
+,youtube,,1750420588.081349,False,closedApp,Asia/Kolkata,
+,youtube,,1750420593.007619,False,closedApp,Asia/Kolkata,
+,youtube,,1750421870.338907,False,closedApp,Asia/Kolkata,
+breathingExercise,youtube,6.0,1750425901.7473211,False,openedApp,Asia/Kolkata,Escape / Avoid
+breathingExercise,youtube,6.0,1750434287.72092,False,openedApp,Asia/Kolkata,Escape / Avoid

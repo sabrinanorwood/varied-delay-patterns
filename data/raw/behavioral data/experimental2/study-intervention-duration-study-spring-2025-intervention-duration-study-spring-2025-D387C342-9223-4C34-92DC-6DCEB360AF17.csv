@@ -1,0 +1,2 @@
+timezone,timeIntervalUntilReIntervention,resolution,interventionType,isReIntervention,app,interventionDuration,timestamp
+America/Toronto,300,openedApp,askForTimeLimit,False,instagram,1.5,1752168713.298174

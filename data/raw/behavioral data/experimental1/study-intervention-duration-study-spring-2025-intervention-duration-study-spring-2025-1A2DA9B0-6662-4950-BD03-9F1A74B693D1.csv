@@ -1,0 +1,1170 @@
+app,isReIntervention,timestamp,timezone,purpose,resolution,interventionType,interventionDuration,timeIntervalUntilReIntervention
+instagram,False,1751775706.022242,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,
+instagram,False,1751780099.674659,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,
+instagram,False,1751780534.485032,America/New_York,Message,openedApp,breathingExercise,1.5,
+instagram,False,1751812998.401555,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,480.0
+instagram,False,1751815037.3059611,America/New_York,Post something,openedApp,breathingExercise,1.5,240.0
+instagram,False,1751815357.563801,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1751827974.099719,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,240.0
+instagram,True,1751828230.298149,America/New_York,Bored,openedApp,breathingExercise,1.5,240.0
+instagram,False,1751838316.6136131,America/New_York,Toilet,openedApp,breathingExercise,1.5,360.0
+instagram,False,1751839064.7562509,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,360.0
+instagram,False,1751839456.7133799,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,360.0
+instagram,False,1751841028.809268,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1751842482.538666,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,180.0
+instagram,False,1751848051.767565,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,240.0
+instagram,False,1751850185.833405,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,False,1751854664.122726,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1020.0
+instagram,True,1751854678.8301802,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1751854995.690755,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1200.0
+instagram,False,1751895528.9461231,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1751896196.7771611,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1751896286.72787,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1751898108.20967,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,480.0
+instagram,False,1751901916.380632,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,240.0
+instagram,True,1751902193.869446,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1751910236.03494,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1751913142.802228,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1260.0
+instagram,False,1751914447.824194,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,False,1751947285.2880368,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,True,1751947630.0509071,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1751947953.2409968,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1751949012.623492,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1751982918.7901611,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,False,1751985001.321405,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,False,1751986032.196348,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1751986389.5178099,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,240.0
+instagram,True,1751986703.433723,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752002481.014684,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1320.0
+instagram,False,1752003291.275694,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752004117.448895,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,960.0
+instagram,False,1752004610.3731031,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752004910.557852,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752005533.0717301,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,960.0
+instagram,False,1752028765.885528,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752029256.088877,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1752029732.295117,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752029873.632811,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,780.0
+instagram,False,1752088883.508733,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752089495.4825292,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,480.0
+instagram,False,1752089944.492377,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752089958.287255,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752090305.625451,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752092255.428359,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752092811.646208,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1752093362.56635,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752094042.154307,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752123501.8591552,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,480.0
+instagram,False,1752124903.267243,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752124943.8954601,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1752151754.769865,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752158984.2462358,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1752188317.833579,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,True,1752188760.095509,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,True,1752189423.136585,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,960.0
+instagram,False,1752194859.973971,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,True,1752195294.133384,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1752195764.554626,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1200.0
+instagram,False,1752196762.7128649,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752198288.7514138,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752198665.57231,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752203814.716537,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752204283.095798,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752204694.080504,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752212041.5069451,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,True,1752212352.238821,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1200.0
+instagram,False,1752212863.20087,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,960.0
+instagram,False,1752213339.219801,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752214565.60168,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,False,1752215951.239887,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752216532.281084,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752216544.07063,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752220187.350765,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752220584.3679361,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752221334.8164,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752222763.031779,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752250157.0156689,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752262310.619168,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752325220.856467,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,240.0
+instagram,False,1752335714.493279,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,True,1752336041.225544,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1752340368.951357,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752340829.286766,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752340873.415062,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,480.0
+instagram,False,1752341196.9096541,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,720.0
+instagram,False,1752345107.531677,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,780.0
+instagram,False,1752345820.776767,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1752351838.427851,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752381972.74605,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752382331.692027,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752382922.386203,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752382952.457265,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752417230.847081,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,360.0
+instagram,False,1752427797.405585,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,480.0
+instagram,False,1752428197.784518,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,720.0
+instagram,False,1752428577.182201,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752441326.153182,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752442030.590828,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,False,1752448640.111269,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1752450173.4247541,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,960.0
+instagram,False,1752450556.6483002,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752450888.031986,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752451518.6044211,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752452322.772176,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752456755.1960568,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,True,1752456767.306281,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752457123.647692,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752457454.735238,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752459998.365052,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,True,1752460438.485409,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752460935.437773,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1260.0
+instagram,False,1752461270.309013,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1080.0
+instagram,False,1752462364.826076,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,480.0
+instagram,True,1752462845.93894,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,720.0
+instagram,False,1752464792.9053988,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,720.0
+instagram,False,1752465168.8479872,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752496639.94562,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752498137.100627,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752506019.43169,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752523186.711715,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752523540.791946,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752523933.189043,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,780.0
+instagram,False,1752524325.0702639,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752525429.8411179,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752526981.177024,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1200.0
+instagram,False,1752546054.217303,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,480.0
+instagram,False,1752546852.601181,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752548207.7165298,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,480.0
+instagram,False,1752548654.8316898,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,720.0
+instagram,False,1752551333.05199,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752585415.042609,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752616310.901253,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752629401.923501,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752635360.0315142,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752636021.8984652,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752636101.334367,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,False,1752636425.64643,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752636807.362922,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752661876.421955,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,420.0
+instagram,False,1752685261.244957,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752686158.300312,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752686551.817836,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1020.0
+instagram,False,1752686948.985208,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752687818.807455,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1200.0
+instagram,False,1752688194.463262,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1200.0
+instagram,False,1752688564.543906,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1500.0
+instagram,False,1752689647.478952,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752692436.193805,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752693824.3018441,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752700174.701859,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752700749.181592,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752701931.1427422,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1140.0
+instagram,False,1752702992.739996,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1380.0
+instagram,False,1752703340.9572558,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1200.0
+instagram,False,1752703779.654999,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1320.0
+instagram,False,1752704215.345677,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1380.0
+instagram,False,1752704676.5404181,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752704756.953443,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752707870.022902,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1380.0
+instagram,True,1752708194.57531,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1560.0
+instagram,False,1752710751.502976,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752711478.250502,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752711488.349876,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1500.0
+instagram,False,1752712456.005702,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1080.0
+instagram,False,1752717689.256616,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752725525.812584,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,540.0
+instagram,False,1752775562.005115,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1020.0
+instagram,False,1752781970.539635,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1620.0
+instagram,False,1752789056.66025,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752794590.310153,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,720.0
+instagram,False,1752799936.017665,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752800437.065445,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1380.0
+instagram,False,1752803595.987564,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,780.0
+instagram,False,1752813440.3593202,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752813471.222896,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752844855.3802671,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752845319.0663362,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1080.0
+instagram,False,1752846148.540654,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,660.0
+instagram,False,1752847078.11754,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752847395.077335,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752848843.5617151,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,600.0
+instagram,False,1752849452.575252,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,720.0
+instagram,False,1752850065.531258,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1260.0
+instagram,False,1752851577.3901339,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1320.0
+instagram,False,1752851957.8935618,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752858306.465668,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752858793.346688,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1140.0
+instagram,False,1752859186.8212209,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1200.0
+instagram,False,1752865942.4968219,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,False,1752867993.4315271,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752873113.163969,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752873588.441749,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1200.0
+instagram,False,1752877520.200834,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752878006.12133,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752878011.332401,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752878013.597777,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752886343.465098,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1380.0
+instagram,False,1752886967.9652228,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,960.0
+instagram,False,1752895938.1229901,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1560.0
+instagram,False,1752896600.566592,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1140.0
+instagram,False,1752896956.838584,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,780.0
+instagram,False,1752897412.241706,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1080.0
+instagram,False,1752897822.7716122,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,960.0
+instagram,False,1752898235.5797548,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,780.0
+instagram,False,1752933987.072166,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,720.0
+instagram,False,1752934842.3436189,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752935235.7615418,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,780.0
+instagram,False,1752939978.3339682,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,300.0
+instagram,False,1752947017.1508632,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1140.0
+instagram,False,1752947432.207222,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752947435.135468,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752947684.766171,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1080.0
+instagram,False,1752949111.707436,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752949749.119282,America/New_York,,dismissedAppOpening,breathingExercise,1.5,
+instagram,False,1752951920.101708,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,900.0
+instagram,False,1752952588.794019,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,60.0
+instagram,True,1752952680.3420482,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,1380.0
+instagram,False,1752954677.646697,America/New_York,Stay In the Loop,openedApp,breathingExercise,1.5,840.0
+instagram,False,1752961055.3525429,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+instagram,False,1752962224.603627,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1752964219.012434,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+instagram,False,1752964606.121385,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1752964618.754287,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1752966658.423674,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+instagram,True,1752967577.835074,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1260.0
+instagram,False,1752972560.829057,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1140.0
+instagram,False,1752976626.940853,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+instagram,False,1752977061.429677,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,False,1752981778.0109758,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1140.0
+instagram,False,1752982376.9277968,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,2160.0
+instagram,False,1752982770.090251,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1752982780.970254,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1740.0
+instagram,False,1753058757.091042,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1753063516.6612558,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,False,1753066617.6205611,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+instagram,False,1753120046.6804318,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1380.0
+instagram,False,1753120622.223211,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,960.0
+instagram,False,1753123968.6066399,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,960.0
+instagram,False,1753125022.9006371,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1080.0
+instagram,False,1753125447.432173,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1200.0
+instagram,False,1753134192.050976,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1753134555.055619,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,False,1753134972.021284,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1753134983.2023702,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+instagram,False,1753154987.7231941,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+instagram,False,1753156328.150032,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+instagram,False,1753156715.861257,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1753156772.7731671,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1753156925.726826,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1020.0
+instagram,False,1753194645.854495,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,False,1753242567.003982,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,480.0
+instagram,False,1753278240.059665,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,360.0
+youtube,False,1753281871.9528341,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,
+youtube,False,1753281894.6702971,America/New_York,,closedApp,,,
+youtube,False,1753281917.245856,America/New_York,,closedApp,,,
+youtube,False,1753283231.246337,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,
+youtube,False,1753283871.207186,America/New_York,,closedApp,,,
+youtube,False,1753283903.83355,America/New_York,,closedApp,,,
+spotify,False,1753283891.5281348,America/New_York,,closedApp,,,
+youtube,False,1753284449.3251982,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,
+youtube,False,1753284502.026929,America/New_York,,closedApp,,,
+youtube,False,1753284790.481426,America/New_York,,closedApp,,,
+youtube,False,1753285117.1957278,America/New_York,,closedApp,,,
+youtube,False,1753285126.0493112,America/New_York,,closedApp,,,
+youtube,False,1753285155.444755,America/New_York,,closedApp,,,
+youtube,False,1753285363.525473,America/New_York,,closedApp,,,
+youtube,False,1753285460.5291371,America/New_York,,closedApp,,,
+youtube,False,1753286958.05281,America/New_York,,closedApp,,,
+youtube,False,1753287483.874136,America/New_York,,closedApp,,,
+youtube,False,1753287601.901762,America/New_York,,closedApp,,,
+youtube,False,1753290062.907202,America/New_York,,closedApp,,,
+reddit,False,1753291885.8223162,America/New_York,,closedApp,,,
+instagram,False,1753292185.273018,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1753293079.574893,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1080.0
+youtube,False,1753293950.330676,America/New_York,,closedApp,,,
+youtube,False,1753293995.593937,America/New_York,,closedApp,,,
+youtube,False,1753294022.6092281,America/New_York,,closedApp,,,
+youtube,False,1753294046.5616379,America/New_York,,closedApp,,,
+youtube,False,1753294116.023334,America/New_York,,closedApp,,,
+youtube,False,1753294122.588337,America/New_York,,closedApp,,,
+youtube,False,1753294344.72402,America/New_York,,closedApp,,,
+youtube,False,1753294399.768065,America/New_York,,closedApp,,,
+youtube,False,1753294426.340241,America/New_York,,closedApp,,,
+youtube,False,1753294588.4374409,America/New_York,,closedApp,,,
+youtube,False,1753294673.390534,America/New_York,,closedApp,,,
+youtube,False,1753296124.2478008,America/New_York,,closedApp,,,
+youtube,False,1753296274.268598,America/New_York,,closedApp,,,
+youtube,False,1753296544.1165671,America/New_York,,closedApp,,,
+youtube,False,1753296596.228781,America/New_York,,closedApp,,,
+youtube,False,1753296618.318331,America/New_York,,closedApp,,,
+youtube,False,1753296779.4092898,America/New_York,,closedApp,,,
+youtube,False,1753296786.239589,America/New_York,,closedApp,,,
+youtube,False,1753296802.567546,America/New_York,,closedApp,,,
+youtube,False,1753297039.8408298,America/New_York,,closedApp,,,
+youtube,False,1753298238.721426,America/New_York,,closedApp,,,
+youtube,False,1753299340.649524,America/New_York,,closedApp,,,
+youtube,False,1753300129.413791,America/New_York,,closedApp,,,
+youtube,False,1753300532.56247,America/New_York,,closedApp,,,
+youtube,False,1753301137.037277,America/New_York,,closedApp,,,
+youtube,False,1753301173.008226,America/New_York,,closedApp,,,
+youtube,False,1753301404.6130571,America/New_York,,closedApp,,,
+youtube,False,1753303621.555142,America/New_York,,closedApp,,,
+youtube,False,1753303717.955169,America/New_York,,closedApp,,,
+youtube,False,1753303802.7900639,America/New_York,,closedApp,,,
+youtube,False,1753303830.727951,America/New_York,,closedApp,,,
+youtube,False,1753303845.7379808,America/New_York,,closedApp,,,
+youtube,False,1753304286.053389,America/New_York,,closedApp,,,
+youtube,False,1753304417.025327,America/New_York,,closedApp,,,
+youtube,False,1753304473.8544111,America/New_York,,closedApp,,,
+youtube,False,1753305131.231977,America/New_York,,closedApp,,,
+youtube,False,1753305494.163533,America/New_York,,closedApp,,,
+youtube,False,1753305505.7102761,America/New_York,,closedApp,,,
+youtube,False,1753305548.148911,America/New_York,,closedApp,,,
+youtube,False,1753305770.945853,America/New_York,,closedApp,,,
+youtube,False,1753305815.7854838,America/New_York,,closedApp,,,
+youtube,False,1753306050.869794,America/New_York,,closedApp,,,
+youtube,False,1753306068.593826,America/New_York,,closedApp,,,
+youtube,False,1753306155.004655,America/New_York,,closedApp,,,
+youtube,False,1753307603.92361,America/New_York,,closedApp,,,
+youtube,False,1753307918.6972609,America/New_York,,closedApp,,,
+youtube,False,1753308196.6044688,America/New_York,,closedApp,,,
+youtube,False,1753308225.14398,America/New_York,,closedApp,,,
+youtube,False,1753308283.647459,America/New_York,,closedApp,,,
+youtube,False,1753310332.377922,America/New_York,,closedApp,,,
+youtube,False,1753313208.702485,America/New_York,,closedApp,,,
+reddit,False,1753294039.682406,America/New_York,,closedApp,,,
+reddit,False,1753294061.942031,America/New_York,,closedApp,,,
+reddit,False,1753294085.062118,America/New_York,,closedApp,,,
+reddit,False,1753294137.010889,America/New_York,,closedApp,,,
+reddit,False,1753294620.131474,America/New_York,,closedApp,,,
+instagram,False,1753314251.963835,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+youtube,False,1753315827.6047668,America/New_York,,closedApp,,,
+youtube,False,1753315911.594774,America/New_York,,closedApp,,,
+youtube,False,1753316685.846822,America/New_York,,closedApp,,,
+youtube,False,1753317211.1518512,America/New_York,,closedApp,,,
+youtube,False,1753319491.924782,America/New_York,,closedApp,,,
+youtube,False,1753319656.964524,America/New_York,,closedApp,,,
+youtube,False,1753321454.215198,America/New_York,,closedApp,,,
+youtube,False,1753321460.424519,America/New_York,,closedApp,,,
+youtube,False,1753321467.935595,America/New_York,,closedApp,,,
+youtube,False,1753321511.43854,America/New_York,,closedApp,,,
+youtube,False,1753322343.0157828,America/New_York,,closedApp,,,
+youtube,False,1753322366.135302,America/New_York,,closedApp,,,
+reddit,False,1753315662.079664,America/New_York,,closedApp,,,
+reddit,False,1753315711.932445,America/New_York,,closedApp,,,
+instagram,False,1753322382.642776,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,240.0
+youtube,False,1753322474.158893,America/New_York,,closedApp,,,
+youtube,False,1753322774.826675,America/New_York,,closedApp,,,
+twitter,False,1753323088.9045448,America/New_York,,closedApp,,,
+bandcamp,False,1753322903.081713,America/New_York,,closedApp,,,
+bandcamp,False,1753322950.0144439,America/New_York,,closedApp,,,
+bandcamp,False,1753322998.0889878,America/New_York,,closedApp,,,
+instagram,False,1753323101.50173,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1080.0
+instagram,False,1753323979.218958,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+youtube,False,1753325962.9207559,America/New_York,,closedApp,,,
+youtube,False,1753326139.506372,America/New_York,,closedApp,,,
+youtube,False,1753326207.0708961,America/New_York,,closedApp,,,
+youtube,False,1753327913.831387,America/New_York,,closedApp,,,
+youtube,False,1753330184.369308,America/New_York,,closedApp,,,
+youtube,False,1753330798.380975,America/New_York,,closedApp,,,
+youtube,False,1753330798.479405,America/New_York,,closedApp,,,
+youtube,False,1753330875.823018,America/New_York,,closedApp,,,
+youtube,False,1753332307.019648,America/New_York,,closedApp,,,
+youtube,False,1753332582.28542,America/New_York,,closedApp,,,
+youtube,False,1753333747.2796159,America/New_York,,closedApp,,,
+reddit,False,1753327933.316823,America/New_York,,closedApp,,,
+reddit,False,1753327970.694165,America/New_York,,closedApp,,,
+reddit,False,1753328017.538773,America/New_York,,closedApp,,,
+reddit,False,1753328179.41467,America/New_York,,closedApp,,,
+reddit,False,1753328260.282862,America/New_York,,closedApp,,,
+reddit,False,1753328272.152036,America/New_York,,closedApp,,,
+reddit,False,1753328347.469634,America/New_York,,closedApp,,,
+reddit,False,1753328359.095746,America/New_York,,closedApp,,,
+reddit,False,1753328420.339219,America/New_York,,closedApp,,,
+reddit,False,1753328463.525379,America/New_York,,closedApp,,,
+reddit,False,1753328465.564615,America/New_York,,closedApp,,,
+reddit,False,1753328555.860203,America/New_York,,closedApp,,,
+reddit,False,1753328581.078,America/New_York,,closedApp,,,
+reddit,False,1753328654.551978,America/New_York,,closedApp,,,
+reddit,False,1753329206.104799,America/New_York,,closedApp,,,
+reddit,False,1753329306.6334271,America/New_York,,closedApp,,,
+reddit,False,1753329335.8805308,America/New_York,,closedApp,,,
+reddit,False,1753329560.805942,America/New_York,,closedApp,,,
+reddit,False,1753329567.556447,America/New_York,,closedApp,,,
+reddit,False,1753330194.950134,America/New_York,,closedApp,,,
+reddit,False,1753330265.382184,America/New_York,,closedApp,,,
+reddit,False,1753332304.639502,America/New_York,,closedApp,,,
+reddit,False,1753332366.901043,America/New_York,,closedApp,,,
+reddit,False,1753332394.8739219,America/New_York,,closedApp,,,
+reddit,False,1753332415.607209,America/New_York,,closedApp,,,
+reddit,False,1753332432.7418761,America/New_York,,closedApp,,,
+reddit,False,1753332718.576241,America/New_York,,closedApp,,,
+reddit,False,1753332740.27497,America/New_York,,closedApp,,,
+reddit,False,1753332935.0745811,America/New_York,,closedApp,,,
+reddit,False,1753333055.8380241,America/New_York,,closedApp,,,
+reddit,False,1753333091.650728,America/New_York,,closedApp,,,
+reddit,False,1753333110.573324,America/New_York,,closedApp,,,
+reddit,False,1753333110.637809,America/New_York,,closedApp,,,
+reddit,False,1753333137.779803,America/New_York,,closedApp,,,
+reddit,False,1753333185.0855641,America/New_York,,closedApp,,,
+reddit,False,1753333231.2771502,America/New_York,,closedApp,,,
+reddit,False,1753333767.138545,America/New_York,,closedApp,,,
+reddit,False,1753333788.993814,America/New_York,,closedApp,,,
+reddit,False,1753333789.1122751,America/New_York,,closedApp,,,
+reddit,False,1753333802.9424949,America/New_York,,closedApp,,,
+reddit,False,1753333814.766686,America/New_York,,closedApp,,,
+reddit,False,1753333823.9480739,America/New_York,,closedApp,,,
+reddit,False,1753333922.108695,America/New_York,,closedApp,,,
+reddit,False,1753333950.5751,America/New_York,,closedApp,,,
+reddit,False,1753334025.007637,America/New_York,,closedApp,,,
+reddit,False,1753334042.218865,America/New_York,,closedApp,,,
+reddit,False,1753334060.746848,America/New_York,,closedApp,,,
+reddit,False,1753334088.764993,America/New_York,,closedApp,,,
+reddit,False,1753334153.823683,America/New_York,,closedApp,,,
+reddit,False,1753334168.128011,America/New_York,,closedApp,,,
+twitter,False,1753333845.550727,America/New_York,,closedApp,,,
+twitter,False,1753334027.666452,America/New_York,,closedApp,,,
+theGuardian,False,1753330771.326792,America/New_York,,closedApp,,,
+instagram,False,1753358390.9989681,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,240.0
+instagram,False,1753358679.205903,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,420.0
+youtube,False,1753359764.392657,America/New_York,,closedApp,,,
+youtube,False,1753360418.23961,America/New_York,,closedApp,,,
+youtube,False,1753361522.427034,America/New_York,,closedApp,,,
+youtube,False,1753361775.095123,America/New_York,,closedApp,,,
+youtube,False,1753361956.315088,America/New_York,,closedApp,,,
+youtube,False,1753362052.7841291,America/New_York,,closedApp,,,
+youtube,False,1753363236.336389,America/New_York,,closedApp,,,
+youtube,False,1753363470.294786,America/New_York,,closedApp,,,
+youtube,False,1753365348.695791,America/New_York,,closedApp,,,
+youtube,False,1753365634.2135239,America/New_York,,closedApp,,,
+youtube,False,1753365676.5695639,America/New_York,,closedApp,,,
+youtube,False,1753365736.651496,America/New_York,,closedApp,,,
+youtube,False,1753365873.892346,America/New_York,,closedApp,,,
+youtube,False,1753366212.723724,America/New_York,,closedApp,,,
+youtube,False,1753366681.960332,America/New_York,,closedApp,,,
+youtube,False,1753367406.088239,America/New_York,,closedApp,,,
+youtube,False,1753367554.318208,America/New_York,,closedApp,,,
+youtube,False,1753367578.827733,America/New_York,,closedApp,,,
+youtube,False,1753368122.404159,America/New_York,,closedApp,,,
+youtube,False,1753369224.718995,America/New_York,,closedApp,,,
+youtube,False,1753384181.36018,America/New_York,,closedApp,,,
+youtube,False,1753385188.0025458,America/New_York,,closedApp,,,
+reddit,False,1753358808.740118,America/New_York,,closedApp,,,
+reddit,False,1753359182.620214,America/New_York,,closedApp,,,
+reddit,False,1753359311.710795,America/New_York,,closedApp,,,
+reddit,False,1753359502.025538,America/New_York,,closedApp,,,
+reddit,False,1753359608.989133,America/New_York,,closedApp,,,
+reddit,False,1753359675.867262,America/New_York,,closedApp,,,
+reddit,False,1753359713.095244,America/New_York,,closedApp,,,
+reddit,False,1753359724.26664,America/New_York,,closedApp,,,
+reddit,False,1753359752.6060882,America/New_York,,closedApp,,,
+reddit,False,1753359858.1044888,America/New_York,,closedApp,,,
+reddit,False,1753359864.269669,America/New_York,,closedApp,,,
+reddit,False,1753360020.777481,America/New_York,,closedApp,,,
+reddit,False,1753361603.7269921,America/New_York,,closedApp,,,
+reddit,False,1753361639.3890371,America/New_York,,closedApp,,,
+reddit,False,1753361644.696902,America/New_York,,closedApp,,,
+reddit,False,1753361655.175483,America/New_York,,closedApp,,,
+reddit,False,1753361656.286593,America/New_York,,closedApp,,,
+reddit,False,1753361666.942862,America/New_York,,closedApp,,,
+reddit,False,1753361731.7624269,America/New_York,,closedApp,,,
+reddit,False,1753361750.484993,America/New_York,,closedApp,,,
+reddit,False,1753361766.285684,America/New_York,,closedApp,,,
+reddit,False,1753363505.700105,America/New_York,,closedApp,,,
+reddit,False,1753363569.0510159,America/New_York,,closedApp,,,
+reddit,False,1753363653.23437,America/New_York,,closedApp,,,
+reddit,False,1753363741.264812,America/New_York,,closedApp,,,
+reddit,False,1753363763.872556,America/New_York,,closedApp,,,
+reddit,False,1753363798.3171968,America/New_York,,closedApp,,,
+reddit,False,1753363798.415594,America/New_York,,closedApp,,,
+reddit,False,1753363816.728199,America/New_York,,closedApp,,,
+reddit,False,1753384818.287504,America/New_York,,closedApp,,,
+reddit,False,1753384824.501886,America/New_York,,closedApp,,,
+reddit,False,1753384980.429539,America/New_York,,closedApp,,,
+reddit,False,1753385006.699333,America/New_York,,closedApp,,,
+reddit,False,1753385274.2854872,America/New_York,,closedApp,,,
+reddit,False,1753387666.7049232,America/New_York,,closedApp,,,
+reddit,False,1753387671.084703,America/New_York,,closedApp,,,
+reddit,False,1753387671.1327991,America/New_York,,closedApp,,,
+reddit,False,1753387673.627456,America/New_York,,closedApp,,,
+reddit,False,1753387697.922868,America/New_York,,closedApp,,,
+reddit,False,1753387703.990343,America/New_York,,closedApp,,,
+reddit,False,1753387724.473196,America/New_York,,closedApp,,,
+imgur,False,1753363744.805099,America/New_York,,closedApp,,,
+instagram,False,1753413174.880573,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,960.0
+instagram,False,1753413500.366729,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,False,1753413879.355701,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1753413909.119141,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,960.0
+instagram,False,1753415298.235884,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+youtube,False,1753416204.582807,America/New_York,,closedApp,,,
+youtube,False,1753416583.794982,America/New_York,,closedApp,,,
+youtube,False,1753417394.869338,America/New_York,,closedApp,,,
+youtube,False,1753417467.829529,America/New_York,,closedApp,,,
+youtube,False,1753417511.592653,America/New_York,,closedApp,,,
+youtube,False,1753417864.891016,America/New_York,,closedApp,,,
+youtube,False,1753417896.330114,America/New_York,,closedApp,,,
+youtube,False,1753417998.970288,America/New_York,,closedApp,,,
+youtube,False,1753418068.6755729,America/New_York,,closedApp,,,
+youtube,False,1753418240.123269,America/New_York,,closedApp,,,
+youtube,False,1753419226.055748,America/New_York,,closedApp,,,
+youtube,False,1753419427.9476662,America/New_York,,closedApp,,,
+youtube,False,1753420002.20874,America/New_York,,closedApp,,,
+youtube,False,1753420811.30192,America/New_York,,closedApp,,,
+youtube,False,1753421114.02458,America/New_York,,closedApp,,,
+youtube,False,1753421833.191411,America/New_York,,closedApp,,,
+youtube,False,1753422216.9825091,America/New_York,,closedApp,,,
+youtube,False,1753422250.094545,America/New_York,,closedApp,,,
+youtube,False,1753422404.442275,America/New_York,,closedApp,,,
+youtube,False,1753422449.875875,America/New_York,,closedApp,,,
+youtube,False,1753422630.881908,America/New_York,,closedApp,,,
+youtube,False,1753422955.29199,America/New_York,,closedApp,,,
+reddit,False,1753416229.869125,America/New_York,,closedApp,,,
+reddit,False,1753416251.864345,America/New_York,,closedApp,,,
+reddit,False,1753416433.760817,America/New_York,,closedApp,,,
+reddit,False,1753416463.4475121,America/New_York,,closedApp,,,
+reddit,False,1753416496.9017549,America/New_York,,closedApp,,,
+reddit,False,1753416554.774426,America/New_York,,closedApp,,,
+reddit,False,1753422901.19016,America/New_York,,closedApp,,,
+reddit,False,1753451687.941485,America/New_York,,closedApp,,,
+reddit,False,1753451720.649459,America/New_York,,closedApp,,,
+reddit,False,1753451728.611895,America/New_York,,closedApp,,,
+reddit,False,1753451757.835243,America/New_York,,closedApp,,,
+reddit,False,1753451759.106772,America/New_York,,closedApp,,,
+reddit,False,1753451764.4052,America/New_York,,closedApp,,,
+reddit,False,1753451815.818233,America/New_York,,closedApp,,,
+reddit,False,1753451839.039124,America/New_York,,closedApp,,,
+reddit,False,1753452040.0230222,America/New_York,,closedApp,,,
+instagram,False,1753452365.9640598,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+instagram,True,1753453101.678131,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,True,1753453955.7564979,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1753454578.422179,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1200.0
+youtube,False,1753459127.930152,America/New_York,,closedApp,,,
+reddit,False,1753460925.452808,America/New_York,,closedApp,,,
+reddit,False,1753460955.376309,America/New_York,,closedApp,,,
+reddit,False,1753461074.4701772,America/New_York,,closedApp,,,
+instagram,False,1753461098.557028,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,480.0
+youtube,False,1753461629.0123801,America/New_York,,closedApp,,,
+youtube,False,1753462024.5836859,America/New_York,,closedApp,,,
+youtube,False,1753462030.655559,America/New_York,,closedApp,,,
+youtube,False,1753462039.0004,America/New_York,,closedApp,,,
+youtube,False,1753462278.307953,America/New_York,,closedApp,,,
+youtube,False,1753462359.648083,America/New_York,,closedApp,,,
+youtube,False,1753462404.483242,America/New_York,,closedApp,,,
+youtube,False,1753462625.72504,America/New_York,,closedApp,,,
+youtube,False,1753465621.1268759,America/New_York,,closedApp,,,
+youtube,False,1753467066.3104548,America/New_York,,closedApp,,,
+youtube,False,1753468725.946439,America/New_York,,closedApp,,,
+youtube,False,1753468765.058805,America/New_York,,closedApp,,,
+youtube,False,1753468782.103976,America/New_York,,closedApp,,,
+youtube,False,1753468868.8801708,America/New_York,,closedApp,,,
+youtube,False,1753468920.171531,America/New_York,,closedApp,,,
+youtube,False,1753468960.1306171,America/New_York,,closedApp,,,
+youtube,False,1753469038.558327,America/New_York,,closedApp,,,
+youtube,False,1753470764.831918,America/New_York,,closedApp,,,
+youtube,False,1753472560.1195369,America/New_York,,closedApp,,,
+youtube,False,1753472595.577874,America/New_York,,closedApp,,,
+youtube,False,1753472604.6052341,America/New_York,,closedApp,,,
+youtube,False,1753477003.104492,America/New_York,,closedApp,,,
+youtube,False,1753477319.697775,America/New_York,,closedApp,,,
+youtube,False,1753477351.6229901,America/New_York,,closedApp,,,
+reddit,False,1753461129.214016,America/New_York,,closedApp,,,
+reddit,False,1753461141.021534,America/New_York,,closedApp,,,
+reddit,False,1753469119.769108,America/New_York,,closedApp,,,
+instagram,False,1753477362.494036,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+youtube,False,1753477726.070435,America/New_York,,closedApp,,,
+youtube,False,1753478388.786818,America/New_York,,closedApp,,,
+instagram,False,1753479647.327671,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+youtube,False,1753479682.171591,America/New_York,,closedApp,,,
+youtube,False,1753480732.388651,America/New_York,,closedApp,,,
+youtube,False,1753480801.403935,America/New_York,,closedApp,,,
+youtube,False,1753481477.356473,America/New_York,,closedApp,,,
+youtube,False,1753482206.260221,America/New_York,,closedApp,,,
+youtube,False,1753482212.7309442,America/New_York,,closedApp,,,
+youtube,False,1753482461.3184,America/New_York,,closedApp,,,
+youtube,False,1753482511.362946,America/New_York,,closedApp,,,
+youtube,False,1753482772.276736,America/New_York,,closedApp,,,
+youtube,False,1753482861.097296,America/New_York,,closedApp,,,
+youtube,False,1753483183.240896,America/New_York,,closedApp,,,
+youtube,False,1753483608.1130981,America/New_York,,closedApp,,,
+youtube,False,1753483842.980891,America/New_York,,closedApp,,,
+youtube,False,1753483846.701641,America/New_York,,closedApp,,,
+youtube,False,1753494352.365449,America/New_York,,closedApp,,,
+reddit,False,1753482732.208664,America/New_York,,closedApp,,,
+reddit,False,1753483089.236465,America/New_York,,closedApp,,,
+reddit,False,1753483104.448833,America/New_York,,closedApp,,,
+reddit,False,1753483113.341343,America/New_York,,closedApp,,,
+reddit,False,1753483161.051229,America/New_York,,closedApp,,,
+reddit,False,1753483366.443233,America/New_York,,closedApp,,,
+reddit,False,1753483596.746196,America/New_York,,closedApp,,,
+reddit,False,1753483600.771368,America/New_York,,closedApp,,,
+reddit,False,1753494446.296833,America/New_York,,closedApp,,,
+reddit,False,1753494557.434753,America/New_York,,closedApp,,,
+instagram,False,1753494596.317878,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+instagram,False,1753495306.400954,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1753496486.333986,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,False,1753497192.414182,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1200.0
+instagram,False,1753498275.4083061,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1020.0
+youtube,False,1753499027.578923,America/New_York,,closedApp,,,
+youtube,False,1753499165.7407188,America/New_York,,closedApp,,,
+youtube,False,1753499500.0220861,America/New_York,,closedApp,,,
+youtube,False,1753499694.431956,America/New_York,,closedApp,,,
+youtube,False,1753499820.231155,America/New_York,,closedApp,,,
+instagram,False,1753499830.89225,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,960.0
+youtube,False,1753500010.154294,America/New_York,,closedApp,,,
+youtube,False,1753500192.76637,America/New_York,,closedApp,,,
+youtube,False,1753501907.499587,America/New_York,,closedApp,,,
+youtube,False,1753502589.9349508,America/New_York,,closedApp,,,
+youtube,False,1753503091.0904841,America/New_York,,closedApp,,,
+instagram,False,1753503101.4082499,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+youtube,False,1753504034.0142589,America/New_York,,closedApp,,,
+youtube,False,1753504068.753243,America/New_York,,closedApp,,,
+youtube,False,1753504977.965619,America/New_York,,closedApp,,,
+youtube,False,1753504986.262889,America/New_York,,closedApp,,,
+youtube,False,1753505026.704323,America/New_York,,closedApp,,,
+youtube,False,1753505117.256239,America/New_York,,closedApp,,,
+youtube,False,1753505347.7398381,America/New_York,,closedApp,,,
+youtube,False,1753537144.0086498,America/New_York,,closedApp,,,
+youtube,False,1753537155.091796,America/New_York,,closedApp,,,
+youtube,False,1753537823.805434,America/New_York,,closedApp,,,
+youtube,False,1753540506.441005,America/New_York,,closedApp,,,
+youtube,False,1753541296.875898,America/New_York,,closedApp,,,
+youtube,False,1753541309.7567248,America/New_York,,closedApp,,,
+youtube,False,1753541317.732485,America/New_York,,closedApp,,,
+youtube,False,1753541624.232573,America/New_York,,closedApp,,,
+youtube,False,1753541869.078187,America/New_York,,closedApp,,,
+youtube,False,1753541934.847149,America/New_York,,closedApp,,,
+youtube,False,1753542004.450879,America/New_York,,closedApp,,,
+youtube,False,1753543243.0551891,America/New_York,,closedApp,,,
+reddit,False,1753537097.827221,America/New_York,,closedApp,,,
+reddit,False,1753537134.263021,America/New_York,,closedApp,,,
+reddit,False,1753543473.486064,America/New_York,,closedApp,,,
+reddit,False,1753543495.714299,America/New_York,,closedApp,,,
+reddit,False,1753543499.294859,America/New_York,,closedApp,,,
+reddit,False,1753543500.1135092,America/New_York,,closedApp,,,
+reddit,False,1753543557.1311312,America/New_York,,closedApp,,,
+instagram,False,1753558893.873446,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+youtube,False,1753561292.2720962,America/New_York,,closedApp,,,
+youtube,False,1753561414.387405,America/New_York,,closedApp,,,
+youtube,False,1753561430.651452,America/New_York,,closedApp,,,
+youtube,False,1753562040.146017,America/New_York,,closedApp,,,
+youtube,False,1753562533.483951,America/New_York,,closedApp,,,
+youtube,False,1753562755.187646,America/New_York,,closedApp,,,
+youtube,False,1753563313.735209,America/New_York,,closedApp,,,
+youtube,False,1753563481.235745,America/New_York,,closedApp,,,
+instagram,False,1753563490.744636,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+instagram,False,1753578392.8872309,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+youtube,False,1753563644.979679,America/New_York,,closedApp,,,
+youtube,False,1753563918.532341,America/New_York,,closedApp,,,
+youtube,False,1753564815.366936,America/New_York,,closedApp,,,
+youtube,False,1753564934.443246,America/New_York,,closedApp,,,
+youtube,False,1753580862.0780969,America/New_York,,closedApp,,,
+youtube,False,1753581549.942597,America/New_York,,closedApp,,,
+youtube,False,1753582468.50295,America/New_York,,closedApp,,,
+youtube,False,1753582586.0704541,America/New_York,,closedApp,,,
+youtube,False,1753586566.1409621,America/New_York,,closedApp,,,
+youtube,False,1753587292.378784,America/New_York,,closedApp,,,
+reddit,False,1753587317.044179,America/New_York,,closedApp,,,
+reddit,False,1753587356.564965,America/New_York,,closedApp,,,
+reddit,False,1753589022.462779,America/New_York,,closedApp,,,
+reddit,False,1753589264.1588511,America/New_York,,closedApp,,,
+reddit,False,1753589309.894885,America/New_York,,closedApp,,,
+instagram,False,1753589843.9903588,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,540.0
+instagram,False,1753590432.8803082,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,420.0
+reddit,False,1753590550.552814,America/New_York,,closedApp,,,
+instagram,False,1753622161.79875,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+youtube,False,1753625120.885459,America/New_York,,closedApp,,,
+reddit,False,1753590761.081042,America/New_York,,closedApp,,,
+reddit,False,1753590763.802845,America/New_York,,closedApp,,,
+reddit,False,1753590769.9086618,America/New_York,,closedApp,,,
+reddit,False,1753590779.1445389,America/New_York,,closedApp,,,
+reddit,False,1753590907.352923,America/New_York,,closedApp,,,
+reddit,False,1753590920.33651,America/New_York,,closedApp,,,
+reddit,False,1753591192.170321,America/New_York,,closedApp,,,
+reddit,False,1753591221.6117449,America/New_York,,closedApp,,,
+reddit,False,1753591244.386043,America/New_York,,closedApp,,,
+reddit,False,1753591327.7137651,America/New_York,,closedApp,,,
+reddit,False,1753591377.117931,America/New_York,,closedApp,,,
+reddit,False,1753591459.657666,America/New_York,,closedApp,,,
+reddit,False,1753591588.541939,America/New_York,,closedApp,,,
+reddit,False,1753591643.7382278,America/New_York,,closedApp,,,
+reddit,False,1753595068.6968842,America/New_York,,closedApp,,,
+reddit,False,1753622675.231526,America/New_York,,closedApp,,,
+reddit,False,1753622721.596216,America/New_York,,closedApp,,,
+reddit,False,1753623874.697033,America/New_York,,closedApp,,,
+instagram,False,1753625147.7607079,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+instagram,False,1753627326.424244,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+reddit,False,1753628524.3393621,America/New_York,,closedApp,,,
+reddit,False,1753628548.849473,America/New_York,,closedApp,,,
+reddit,False,1753628571.105252,America/New_York,,closedApp,,,
+reddit,False,1753628591.124524,America/New_York,,closedApp,,,
+reddit,False,1753628616.17803,America/New_York,,closedApp,,,
+reddit,False,1753628627.0079498,America/New_York,,closedApp,,,
+reddit,False,1753628662.238327,America/New_York,,closedApp,,,
+instagram,False,1753629427.791745,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+reddit,False,1753629487.184946,America/New_York,,closedApp,,,
+reddit,False,1753629492.812406,America/New_York,,closedApp,,,
+reddit,False,1753629500.2546868,America/New_York,,closedApp,,,
+instagram,False,1753670234.41608,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,False,1753671589.991633,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1753672391.698271,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+youtube,False,1753674046.8560848,America/New_York,,closedApp,,,
+youtube,False,1753674967.571868,America/New_York,,closedApp,,,
+youtube,False,1753675055.999768,America/New_York,,closedApp,,,
+youtube,False,1753675229.637048,America/New_York,,closedApp,,,
+youtube,False,1753675280.010402,America/New_York,,closedApp,,,
+youtube,False,1753676228.291115,America/New_York,,closedApp,,,
+instagram,False,1753676411.65562,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+instagram,False,1753677136.202879,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+youtube,False,1753677621.374661,America/New_York,,closedApp,,,
+reddit,False,1753677648.205415,America/New_York,,closedApp,,,
+reddit,False,1753677721.61557,America/New_York,,closedApp,,,
+reddit,False,1753677726.638849,America/New_York,,closedApp,,,
+reddit,False,1753677803.179743,America/New_York,,closedApp,,,
+instagram,False,1753677811.665097,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+instagram,True,1753678549.480548,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+youtube,False,1753681054.4508672,America/New_York,,closedApp,,,
+youtube,False,1753707850.2949739,America/New_York,,closedApp,,,
+youtube,False,1753710392.677424,America/New_York,,closedApp,,,
+reddit,False,1753680706.415063,America/New_York,,closedApp,,,
+reddit,False,1753680746.324665,America/New_York,,closedApp,,,
+reddit,False,1753680778.410394,America/New_York,,closedApp,,,
+reddit,False,1753680823.932636,America/New_York,,closedApp,,,
+reddit,False,1753680843.0263739,America/New_York,,closedApp,,,
+reddit,False,1753681172.874671,America/New_York,,closedApp,,,
+reddit,False,1753710435.994913,America/New_York,,closedApp,,,
+instagram,False,1753711893.0182528,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,360.0
+instagram,False,1753715731.459337,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,420.0
+googleDrive,False,1753736584.1729321,America/New_York,,closedApp,,,
+googleDrive,False,1753736643.181531,America/New_York,,closedApp,,,
+instagram,False,1753736807.631027,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+instagram,False,1753749408.086235,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1020.0
+cnn,False,1753749811.3284922,America/New_York,,closedApp,,,
+cnn,False,1753749860.0703192,America/New_York,,closedApp,,,
+cnn,False,1753749889.6308699,America/New_York,,closedApp,,,
+instagram,False,1753750137.242748,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,960.0
+instagram,False,1753751585.592988,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+reddit,False,1753752135.993722,America/New_York,,closedApp,,,
+reddit,False,1753752175.2826772,America/New_York,,closedApp,,,
+reddit,False,1753752383.237546,America/New_York,,closedApp,,,
+reddit,False,1753752398.3763251,America/New_York,,closedApp,,,
+googleDrive,False,1753752179.7011142,America/New_York,,closedApp,,,
+instagram,False,1753753223.353797,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1080.0
+youtube,False,1753754113.681641,America/New_York,,closedApp,,,
+youtube,False,1753754147.050757,America/New_York,,closedApp,,,
+youtube,False,1753754631.049948,America/New_York,,closedApp,,,
+youtube,False,1753754680.586947,America/New_York,,closedApp,,,
+youtube,False,1753754834.4510741,America/New_York,,closedApp,,,
+youtube,False,1753756337.549514,America/New_York,,closedApp,,,
+youtube,False,1753756426.82124,America/New_York,,closedApp,,,
+youtube,False,1753756495.114647,America/New_York,,closedApp,,,
+youtube,False,1753756589.775375,America/New_York,,closedApp,,,
+youtube,False,1753757463.733173,America/New_York,,closedApp,,,
+instagram,False,1753757553.7895532,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,False,1753758315.2120252,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+youtube,False,1753760473.607998,America/New_York,,closedApp,,,
+youtube,False,1753760568.942703,America/New_York,,closedApp,,,
+youtube,False,1753761198.261589,America/New_York,,closedApp,,,
+youtube,False,1753761865.897884,America/New_York,,closedApp,,,
+instagram,False,1753761875.8608599,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+youtube,False,1753762734.825305,America/New_York,,closedApp,,,
+youtube,False,1753762860.491548,America/New_York,,closedApp,,,
+youtube,False,1753763556.1732569,America/New_York,,closedApp,,,
+youtube,False,1753763825.6759748,America/New_York,,closedApp,,,
+youtube,False,1753763868.0883632,America/New_York,,closedApp,,,
+youtube,False,1753763964.104809,America/New_York,,closedApp,,,
+youtube,False,1753764605.0606198,America/New_York,,closedApp,,,
+youtube,False,1753764781.6605759,America/New_York,,closedApp,,,
+youtube,False,1753764844.3114939,America/New_York,,closedApp,,,
+youtube,False,1753764986.6491308,America/New_York,,closedApp,,,
+youtube,False,1753765859.836965,America/New_York,,closedApp,,,
+youtube,False,1753798292.7931209,America/New_York,,closedApp,,,
+youtube,False,1753805324.237393,America/New_York,,closedApp,,,
+youtube,False,1753805375.006318,America/New_York,,closedApp,,,
+reddit,False,1753765915.094007,America/New_York,,closedApp,,,
+reddit,False,1753766273.095995,America/New_York,,closedApp,,,
+reddit,False,1753798422.87675,America/New_York,,closedApp,,,
+reddit,False,1753798425.2196589,America/New_York,,closedApp,,,
+reddit,False,1753798426.292506,America/New_York,,closedApp,,,
+reddit,False,1753798428.0674171,America/New_York,,closedApp,,,
+reddit,False,1753798429.4022079,America/New_York,,closedApp,,,
+reddit,False,1753798431.893111,America/New_York,,closedApp,,,
+reddit,False,1753805312.7866,America/New_York,,closedApp,,,
+instagram,False,1753806047.981878,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1753806058.6551309,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+youtube,False,1753807082.921654,America/New_York,,closedApp,,,
+youtube,False,1753807210.262275,America/New_York,,closedApp,,,
+youtube,False,1753807218.278603,America/New_York,,closedApp,,,
+youtube,False,1753808142.891263,America/New_York,,closedApp,,,
+youtube,False,1753808149.191994,America/New_York,,closedApp,,,
+youtube,False,1753808995.605638,America/New_York,,closedApp,,,
+instagram,False,1753809613.927634,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,540.0
+instagram,False,1753810277.911938,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1020.0
+youtube,False,1753811359.720937,America/New_York,,closedApp,,,
+youtube,False,1753811843.120522,America/New_York,,closedApp,,,
+youtube,False,1753811874.727161,America/New_York,,closedApp,,,
+youtube,False,1753812038.705792,America/New_York,,closedApp,,,
+youtube,False,1753812235.044461,America/New_York,,closedApp,,,
+youtube,False,1753813502.26588,America/New_York,,closedApp,,,
+instagram,False,1753813513.420834,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+youtube,False,1753813674.087902,America/New_York,,closedApp,,,
+youtube,False,1753813688.9460711,America/New_York,,closedApp,,,
+youtube,False,1753813832.963661,America/New_York,,closedApp,,,
+youtube,False,1753813836.724549,America/New_York,,closedApp,,,
+youtube,False,1753813840.838665,America/New_York,,closedApp,,,
+youtube,False,1753814586.26973,America/New_York,,closedApp,,,
+youtube,False,1753814706.3413801,America/New_York,,closedApp,,,
+youtube,False,1753814871.8122969,America/New_York,,closedApp,,,
+youtube,False,1753815357.507561,America/New_York,,closedApp,,,
+youtube,False,1753815373.192223,America/New_York,,closedApp,,,
+instagram,False,1753815397.1633492,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+youtube,False,1753816202.3053389,America/New_York,,closedApp,,,
+youtube,False,1753816549.526556,America/New_York,,closedApp,,,
+reddit,False,1753816568.1303139,America/New_York,,closedApp,,,
+instagram,False,1753822865.564578,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+youtube,False,1753824106.566119,America/New_York,,closedApp,,,
+youtube,False,1753824403.0356998,America/New_York,,closedApp,,,
+youtube,False,1753824410.232417,America/New_York,,closedApp,,,
+youtube,False,1753825541.210962,America/New_York,,closedApp,,,
+youtube,False,1753825546.36335,America/New_York,,closedApp,,,
+youtube,False,1753826173.079459,America/New_York,,closedApp,,,
+youtube,False,1753826181.426948,America/New_York,,closedApp,,,
+youtube,False,1753826244.04326,America/New_York,,closedApp,,,
+youtube,False,1753826261.7298799,America/New_York,,closedApp,,,
+youtube,False,1753826359.51918,America/New_York,,closedApp,,,
+youtube,False,1753826892.476058,America/New_York,,closedApp,,,
+youtube,False,1753826905.149438,America/New_York,,closedApp,,,
+youtube,False,1753826971.9098039,America/New_York,,closedApp,,,
+youtube,False,1753827081.185278,America/New_York,,closedApp,,,
+youtube,False,1753827202.7371268,America/New_York,,closedApp,,,
+reddit,False,1753827910.564777,America/New_York,,closedApp,,,
+reddit,False,1753827993.363692,America/New_York,,closedApp,,,
+reddit,False,1753828116.9305649,America/New_York,,closedApp,,,
+reddit,False,1753828140.349196,America/New_York,,closedApp,,,
+reddit,False,1753828366.909721,America/New_York,,closedApp,,,
+reddit,False,1753828386.017796,America/New_York,,closedApp,,,
+instagram,False,1753828580.836111,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+youtube,False,1753829838.3826551,America/New_York,,closedApp,,,
+youtube,False,1753830192.706456,America/New_York,,closedApp,,,
+youtube,False,1753831520.0648022,America/New_York,,closedApp,,,
+youtube,False,1753832809.028424,America/New_York,,closedApp,,,
+youtube,False,1753833353.534082,America/New_York,,closedApp,,,
+youtube,False,1753833648.475359,America/New_York,,closedApp,,,
+youtube,False,1753833680.233282,America/New_York,,closedApp,,,
+youtube,False,1753833863.707532,America/New_York,,closedApp,,,
+youtube,False,1753834103.802953,America/New_York,,closedApp,,,
+youtube,False,1753835479.5426621,America/New_York,,closedApp,,,
+youtube,False,1753835589.9617949,America/New_York,,closedApp,,,
+youtube,False,1753837829.004518,America/New_York,,closedApp,,,
+youtube,False,1753838509.771587,America/New_York,,closedApp,,,
+youtube,False,1753840509.716908,America/New_York,,closedApp,,,
+youtube,False,1753840744.8647308,America/New_York,,closedApp,,,
+youtube,False,1753840783.643931,America/New_York,,closedApp,,,
+youtube,False,1753840867.9525142,America/New_York,,closedApp,,,
+youtube,False,1753840919.8112679,America/New_York,,closedApp,,,
+youtube,False,1753841036.603296,America/New_York,,closedApp,,,
+youtube,False,1753841129.414001,America/New_York,,closedApp,,,
+youtube,False,1753842663.578802,America/New_York,,closedApp,,,
+reddit,False,1753828660.866612,America/New_York,,closedApp,,,
+reddit,False,1753829272.715672,America/New_York,,closedApp,,,
+reddit,False,1753829870.208313,America/New_York,,closedApp,,,
+reddit,False,1753829981.503666,America/New_York,,closedApp,,,
+reddit,False,1753829983.290606,America/New_York,,closedApp,,,
+reddit,False,1753848836.392085,America/New_York,,closedApp,,,
+reddit,False,1753848883.984891,America/New_York,,closedApp,,,
+reddit,False,1753873319.947003,America/New_York,,closedApp,,,
+reddit,False,1753873477.901795,America/New_York,,closedApp,,,
+amazon,False,1753873618.5380468,America/New_York,,closedApp,,,
+amazon,False,1753873635.19436,America/New_York,,closedApp,,,
+amazon,False,1753873785.078398,America/New_York,,closedApp,,,
+amazon,False,1753873996.6598601,America/New_York,,closedApp,,,
+amazon,False,1753874092.929051,America/New_York,,closedApp,,,
+amazon,False,1753874203.921537,America/New_York,,closedApp,,,
+amazon,False,1753874222.959527,America/New_York,,closedApp,,,
+payPal,False,1753832801.627716,America/New_York,,closedApp,,,
+instagram,False,1753874442.355993,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+instagram,False,1753875378.441904,America/New_York,,closedApp,,,
+instagram,False,1753875409.969164,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1753876027.204068,America/New_York,,closedApp,,,
+youtube,False,1753875611.637164,America/New_York,,closedApp,,,
+youtube,False,1753875677.2663999,America/New_York,,closedApp,,,
+youtube,False,1753875733.925538,America/New_York,,closedApp,,,
+youtube,False,1753875744.205316,America/New_York,,closedApp,,,
+youtube,False,1753875762.16214,America/New_York,,closedApp,,,
+youtube,False,1753875784.106194,America/New_York,,closedApp,,,
+youtube,False,1753875916.233399,America/New_York,,closedApp,,,
+reddit,False,1753875566.792573,America/New_York,,closedApp,,,
+instagram,False,1753876037.031475,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1080.0
+instagram,False,1753876103.083103,America/New_York,,closedApp,,,
+instagram,False,1753876117.938503,America/New_York,,closedApp,,,
+instagram,False,1753876148.142873,America/New_York,,closedApp,,,
+instagram,False,1753876391.113675,America/New_York,,closedApp,,,
+instagram,False,1753876416.718367,America/New_York,,closedApp,,,
+youtube,False,1753879724.3467422,America/New_York,,closedApp,,,
+youtube,False,1753879834.726888,America/New_York,,closedApp,,,
+youtube,False,1753879887.0162191,America/New_York,,closedApp,,,
+youtube,False,1753879988.308957,America/New_York,,closedApp,,,
+youtube,False,1753880415.159964,America/New_York,,closedApp,,,
+youtube,False,1753881031.902254,America/New_York,,closedApp,,,
+youtube,False,1753881138.7864618,America/New_York,,closedApp,,,
+youtube,False,1753882389.4193568,America/New_York,,closedApp,,,
+reddit,False,1753876450.880856,America/New_York,,closedApp,,,
+reddit,False,1753878733.269656,America/New_York,,closedApp,,,
+instagram,False,1753888896.424837,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1753903947.938157,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+instagram,False,1753905383.0414839,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+instagram,False,1753906020.933064,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,960.0
+instagram,False,1753906627.886569,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+reddit,False,1753908466.167316,America/New_York,,closedApp,,,
+reddit,False,1753910011.185041,America/New_York,,closedApp,,,
+instagram,False,1753910105.2215,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+instagram,False,1753910753.291432,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1753929364.744226,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,840.0
+reddit,False,1753929806.470152,America/New_York,,closedApp,,,
+reddit,False,1753929882.641505,America/New_York,,closedApp,,,
+reddit,False,1753929917.565795,America/New_York,,closedApp,,,
+reddit,False,1753930529.449026,America/New_York,,closedApp,,,
+instagram,False,1753930970.698155,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+reddit,False,1753931262.281781,America/New_York,,closedApp,,,
+reddit,False,1753931530.352416,America/New_York,,closedApp,,,
+reddit,False,1753931660.225308,America/New_York,,closedApp,,,
+instagram,False,1753931742.598055,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,1020.0
+instagram,False,1753932353.8050041,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+reddit,False,1753932363.454818,America/New_York,,closedApp,,,
+reddit,False,1753932365.0735621,America/New_York,,closedApp,,,
+youtube,False,1753932373.103704,America/New_York,,closedApp,,,
+youtube,False,1753935688.593796,America/New_York,,closedApp,,,
+youtube,False,1753935943.241722,America/New_York,,closedApp,,,
+youtube,False,1753936086.03821,America/New_York,,closedApp,,,
+youtube,False,1753936269.884282,America/New_York,,closedApp,,,
+reddit,False,1753935950.036958,America/New_York,,closedApp,,,
+instagram,False,1753937065.182416,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,540.0
+instagram,True,1753937654.320838,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,540.0
+instagram,False,1753938314.716218,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+youtube,False,1753938631.915638,America/New_York,,closedApp,,,
+youtube,False,1753938695.804637,America/New_York,,closedApp,,,
+youtube,False,1753938738.640089,America/New_York,,closedApp,,,
+youtube,False,1753938791.810773,America/New_York,,closedApp,,,
+youtube,False,1753939000.1126862,America/New_York,,closedApp,,,
+youtube,False,1753939524.414194,America/New_York,,closedApp,,,
+youtube,False,1753965328.379422,America/New_York,,closedApp,,,
+youtube,False,1753966754.668581,America/New_York,,closedApp,,,
+youtube,False,1753966774.5563421,America/New_York,,closedApp,,,
+youtube,False,1753966852.811037,America/New_York,,closedApp,,,
+youtube,False,1753966875.278329,America/New_York,,closedApp,,,
+reddit,False,1753965376.809382,America/New_York,,closedApp,,,
+reddit,False,1753965409.442034,America/New_York,,closedApp,,,
+reddit,False,1753965636.2009048,America/New_York,,closedApp,,,
+reddit,False,1753965689.940465,America/New_York,,closedApp,,,
+reddit,False,1753966750.775358,America/New_York,,closedApp,,,
+reddit,False,1753966755.692352,America/New_York,,closedApp,,,
+reddit,False,1753966876.279331,America/New_York,,closedApp,,,
+reddit,False,1753966936.216422,America/New_York,,closedApp,,,
+instagram,False,1753967005.559091,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,960.0
+instagram,False,1753968691.102676,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,480.0
+youtube,False,1753971420.179115,America/New_York,,closedApp,,,
+youtube,False,1753976327.013438,America/New_York,,closedApp,,,
+instagram,False,1753977302.612901,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+youtube,False,1753977462.011306,America/New_York,,closedApp,,,
+youtube,False,1753984773.017829,America/New_York,,closedApp,,,
+youtube,False,1753985028.1396499,America/New_York,,closedApp,,,
+youtube,False,1753985085.896204,America/New_York,,closedApp,,,
+youtube,False,1753985304.9150681,America/New_York,,closedApp,,,
+youtube,False,1753985421.196467,America/New_York,,closedApp,,,
+youtube,False,1753985479.9626641,America/New_York,,closedApp,,,
+youtube,False,1753985515.017933,America/New_York,,closedApp,,,
+youtube,False,1753985529.0275578,America/New_York,,closedApp,,,
+youtube,False,1753985685.068367,America/New_York,,closedApp,,,
+youtube,False,1753985702.019948,America/New_York,,closedApp,,,
+youtube,False,1753986251.1391149,America/New_York,,closedApp,,,
+youtube,False,1753986290.8921518,America/New_York,,closedApp,,,
+youtube,False,1753986356.1255531,America/New_York,,closedApp,,,
+youtube,False,1753986380.4387789,America/New_York,,closedApp,,,
+youtube,False,1753986384.344574,America/New_York,,closedApp,,,
+youtube,False,1753986469.8902931,America/New_York,,closedApp,,,
+youtube,False,1753986906.145747,America/New_York,,closedApp,,,
+youtube,False,1753986960.453113,America/New_York,,closedApp,,,
+youtube,False,1753987183.965127,America/New_York,,closedApp,,,
+reddit,False,1753977518.599771,America/New_York,,closedApp,,,
+reddit,False,1753977551.877036,America/New_York,,closedApp,,,
+reddit,False,1753977558.242854,America/New_York,,closedApp,,,
+reddit,False,1753977931.403846,America/New_York,,closedApp,,,
+reddit,False,1753982487.400642,America/New_York,,closedApp,,,
+reddit,False,1753982516.499522,America/New_York,,closedApp,,,
+reddit,False,1753982522.736263,America/New_York,,closedApp,,,
+reddit,False,1753982532.7039862,America/New_York,,closedApp,,,
+reddit,False,1753982592.1501741,America/New_York,,closedApp,,,
+reddit,False,1753982673.65222,America/New_York,,closedApp,,,
+reddit,False,1753982702.101846,America/New_York,,closedApp,,,
+reddit,False,1753982725.861438,America/New_York,,closedApp,,,
+reddit,False,1753982753.4379501,America/New_York,,closedApp,,,
+reddit,False,1753982799.69375,America/New_York,,closedApp,,,
+reddit,False,1753982842.4898782,America/New_York,,closedApp,,,
+reddit,False,1753982908.010134,America/New_York,,closedApp,,,
+reddit,False,1753982909.767906,America/New_York,,closedApp,,,
+reddit,False,1753982910.270062,America/New_York,,closedApp,,,
+reddit,False,1753982911.2603788,America/New_York,,closedApp,,,
+reddit,False,1753982911.848075,America/New_York,,closedApp,,,
+reddit,False,1753982916.565319,America/New_York,,closedApp,,,
+reddit,False,1753982928.527629,America/New_York,,closedApp,,,
+reddit,False,1753984753.665314,America/New_York,,closedApp,,,
+instagram,False,1753989264.487382,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+youtube,False,1753992091.692163,America/New_York,,closedApp,,,
+youtube,False,1753992220.023659,America/New_York,,closedApp,,,
+youtube,False,1753992718.500741,America/New_York,,closedApp,,,
+instagram,False,1753993168.358119,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+instagram,False,1754021380.8671498,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+youtube,False,1754023268.4504972,America/New_York,,closedApp,,,
+youtube,False,1754023283.9480019,America/New_York,,closedApp,,,
+youtube,False,1754023608.751302,America/New_York,,closedApp,,,
+youtube,False,1754024226.615518,America/New_York,,closedApp,,,
+youtube,False,1754024247.1733,America/New_York,,closedApp,,,
+youtube,False,1754024332.09872,America/New_York,,closedApp,,,
+youtube,False,1754024669.012136,America/New_York,,closedApp,,,
+youtube,False,1754024729.392991,America/New_York,,closedApp,,,
+instagram,False,1754024740.078384,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+youtube,False,1754025131.425601,America/New_York,,closedApp,,,
+youtube,False,1754025644.384746,America/New_York,,closedApp,,,
+youtube,False,1754025790.991696,America/New_York,,closedApp,,,
+instagram,False,1754026619.464744,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+youtube,False,1754027248.151953,America/New_York,,closedApp,,,
+youtube,False,1754052707.0619478,America/New_York,,closedApp,,,
+youtube,False,1754055375.613853,America/New_York,,closedApp,,,
+youtube,False,1754056195.2275538,America/New_York,,closedApp,,,
+youtube,False,1754056444.9210649,America/New_York,,closedApp,,,
+youtube,False,1754056785.801283,America/New_York,,closedApp,,,
+reddit,False,1754052758.598449,America/New_York,,closedApp,,,
+reddit,False,1754052789.453179,America/New_York,,closedApp,,,
+reddit,False,1754055479.846215,America/New_York,,closedApp,,,
+reddit,False,1754055484.185783,America/New_York,,closedApp,,,
+reddit,False,1754055495.72248,America/New_York,,closedApp,,,
+instagram,False,1754058531.640497,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+googleDrive,False,1754058808.328382,America/New_York,,closedApp,,,
+googleDrive,False,1754059347.852056,America/New_York,,closedApp,,,
+instagram,False,1754059791.106875,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,300.0
+youtube,False,1754060065.969389,America/New_York,,closedApp,,,
+youtube,False,1754060108.516182,America/New_York,,closedApp,,,
+twitter,False,1754060083.4866219,America/New_York,,closedApp,,,
+instagram,True,1754060186.144685,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+instagram,False,1754060883.695446,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1754060939.506237,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+youtube,False,1754062066.352003,America/New_York,,closedApp,,,
+instagram,False,1754062151.5377321,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+youtube,False,1754062918.500751,America/New_York,,closedApp,,,
+youtube,False,1754063947.457573,America/New_York,,closedApp,,,
+youtube,False,1754063959.2820969,America/New_York,,closedApp,,,
+youtube,False,1754063994.9631639,America/New_York,,closedApp,,,
+youtube,False,1754064017.120131,America/New_York,,closedApp,,,
+youtube,False,1754064215.34145,America/New_York,,closedApp,,,
+youtube,False,1754064218.9877791,America/New_York,,closedApp,,,
+youtube,False,1754066150.505183,America/New_York,,closedApp,,,
+youtube,False,1754066336.023416,America/New_York,,closedApp,,,
+youtube,False,1754066350.575814,America/New_York,,closedApp,,,
+reddit,False,1754065239.39777,America/New_York,,closedApp,,,
+reddit,False,1754065639.756322,America/New_York,,closedApp,,,
+reddit,False,1754065864.7212691,America/New_York,,closedApp,,,
+instagram,False,1754069308.533452,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+instagram,False,1754070932.064569,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,900.0
+instagram,False,1754071659.827909,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1754071756.1518059,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+youtube,False,1754072221.078695,America/New_York,,closedApp,,,
+youtube,False,1754072274.167839,America/New_York,,closedApp,,,
+youtube,False,1754072354.198635,America/New_York,,closedApp,,,
+youtube,False,1754072406.5681949,America/New_York,,closedApp,,,
+youtube,False,1754072528.01423,America/New_York,,closedApp,,,
+instagram,False,1754072630.085547,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,540.0
+youtube,False,1754072961.7154598,America/New_York,,closedApp,,,
+youtube,False,1754073489.749311,America/New_York,,closedApp,,,
+youtube,False,1754073516.031561,America/New_York,,closedApp,,,
+youtube,False,1754073528.3954449,America/New_York,,closedApp,,,
+youtube,False,1754073542.1534991,America/New_York,,closedApp,,,
+youtube,False,1754073596.470989,America/New_York,,closedApp,,,
+youtube,False,1754073605.840876,America/New_York,,closedApp,,,
+youtube,False,1754075065.589829,America/New_York,,closedApp,,,
+reddit,False,1754073588.7903519,America/New_York,,closedApp,,,
+instagram,False,1754075441.3029141,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+youtube,False,1754075580.109751,America/New_York,,closedApp,,,
+instagram,False,1754076105.702462,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1754076197.637037,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+youtube,False,1754080110.533073,America/New_York,,closedApp,,,
+youtube,False,1754080354.906656,America/New_York,,closedApp,,,
+youtube,False,1754080599.9001431,America/New_York,,closedApp,,,
+youtube,False,1754080626.845818,America/New_York,,closedApp,,,
+youtube,False,1754080743.3290129,America/New_York,,closedApp,,,
+youtube,False,1754080876.44578,America/New_York,,closedApp,,,
+youtube,False,1754080990.578033,America/New_York,,closedApp,,,
+reddit,False,1754080193.761314,America/New_York,,closedApp,,,
+instagram,False,1754081165.362086,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,720.0
+instagram,False,1754107996.376845,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,780.0
+youtube,False,1754110431.600615,America/New_York,,closedApp,,,
+youtube,False,1754110444.14538,America/New_York,,closedApp,,,
+youtube,False,1754110462.635696,America/New_York,,closedApp,,,
+youtube,False,1754110636.99024,America/New_York,,closedApp,,,
+youtube,False,1754110753.7075849,America/New_York,,closedApp,,,
+youtube,False,1754110969.8423371,America/New_York,,closedApp,,,
+reddit,False,1754109130.615364,America/New_York,,closedApp,,,
+reddit,False,1754109629.832823,America/New_York,,closedApp,,,
+reddit,False,1754110988.57978,America/New_York,,closedApp,,,
+reddit,False,1754111017.260872,America/New_York,,closedApp,,,
+instagram,False,1754111030.328496,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,660.0
+youtube,False,1754111421.880939,America/New_York,,closedApp,,,
+youtube,False,1754111929.494419,America/New_York,,closedApp,,,
+youtube,False,1754112239.806144,America/New_York,,closedApp,,,
+youtube,False,1754112581.610725,America/New_York,,closedApp,,,
+youtube,False,1754112901.7704558,America/New_York,,closedApp,,,
+youtube,False,1754113030.468027,America/New_York,,closedApp,,,
+youtube,False,1754113201.5980911,America/New_York,,closedApp,,,
+youtube,False,1754113335.4216409,America/New_York,,closedApp,,,
+youtube,False,1754113385.912293,America/New_York,,closedApp,,,
+youtube,False,1754113504.1629,America/New_York,,closedApp,,,
+youtube,False,1754114398.156662,America/New_York,,closedApp,,,
+youtube,False,1754136695.39017,America/New_York,,closedApp,,,
+youtube,False,1754137370.810789,America/New_York,,closedApp,,,
+instagram,False,1754137390.1005812,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,480.0
+youtube,False,1754140506.940635,America/New_York,,closedApp,,,
+youtube,False,1754140525.779676,America/New_York,,closedApp,,,
+youtube,False,1754140549.204317,America/New_York,,closedApp,,,
+youtube,False,1754140903.7798839,America/New_York,,closedApp,,,
+youtube,False,1754141043.0660229,America/New_York,,closedApp,,,
+youtube,False,1754141067.8245049,America/New_York,,closedApp,,,
+youtube,False,1754141089.615193,America/New_York,,closedApp,,,
+youtube,False,1754141376.929288,America/New_York,,closedApp,,,
+youtube,False,1754142263.7891932,America/New_York,,closedApp,,,
+youtube,False,1754142742.5150142,America/New_York,,closedApp,,,
+youtube,False,1754142793.808119,America/New_York,,closedApp,,,
+youtube,False,1754143154.435698,America/New_York,,closedApp,,,
+youtube,False,1754143243.846647,America/New_York,,closedApp,,,
+youtube,False,1754143420.310927,America/New_York,,closedApp,,,
+youtube,False,1754143501.801717,America/New_York,,closedApp,,,
+youtube,False,1754143525.655983,America/New_York,,closedApp,,,
+youtube,False,1754143781.310642,America/New_York,,closedApp,,,
+instagram,False,1754146224.195874,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,600.0
+instagram,False,1754156364.281316,America/New_York,,dismissedAppOpening,breathingExercise,3.0,
+instagram,False,1754157589.351807,America/New_York,Stay In the Loop,openedApp,breathingExercise,3.0,420.0
+instagram,False,1754169754.428927,America/New_York,Stay In the Loop,openedApp,breathingExercise,6.0,780.0
+youtube,False,1754171345.056085,America/New_York,,closedApp,,,
+youtube,False,1754172067.396274,America/New_York,,closedApp,,,
+youtube,False,1754172723.025249,America/New_York,,closedApp,,,
+reddit,False,1754171017.25953,America/New_York,,closedApp,,,
+reddit,False,1754171067.5690122,America/New_York,,closedApp,,,
+instagram,False,1754172740.005743,America/New_York,Stay In the Loop,openedApp,breathingExercise,6.0,840.0
+youtube,False,1754173323.838036,America/New_York,,closedApp,,,
+youtube,False,1754175979.067803,America/New_York,,closedApp,,,
+instagram,False,1754182840.7807589,America/New_York,Stay In the Loop,openedApp,breathingExercise,6.0,1020.0
+youtube,False,1754183661.694264,America/New_York,,closedApp,,,
+youtube,False,1754184240.973124,America/New_York,,closedApp,,,
+youtube,False,1754184872.558608,America/New_York,,closedApp,,,
+youtube,False,1754184875.669847,America/New_York,,closedApp,,,
+youtube,False,1754185429.553412,America/New_York,,closedApp,,,
+instagram,False,1754185561.943038,America/New_York,Stay In the Loop,openedApp,breathingExercise,6.0,960.0
+youtube,False,1754185978.985033,America/New_York,,closedApp,,,
+youtube,False,1754186983.293603,America/New_York,,closedApp,,,
+instagram,False,1754187001.2916121,America/New_York,Stay In the Loop,openedApp,breathingExercise,6.0,1020.0
+youtube,False,1754187549.871166,America/New_York,,closedApp,,,
+youtube,False,1754189670.356258,America/New_York,,closedApp,,,
+youtube,False,1754189796.379774,America/New_York,,closedApp,,,
+youtube,False,1754190226.643337,America/New_York,,closedApp,,,
+youtube,False,1754192346.7986212,America/New_York,,closedApp,,,
+reddit,False,1754192481.246995,America/New_York,,closedApp,,,
+twitter,False,1754187589.9197311,America/New_York,,closedApp,,,
+instagram,False,1754192882.220145,America/New_York,,dismissedAppOpening,breathingExercise,6.0,
+instagram,False,1754221196.398948,America/New_York,,dismissedAppOpening,breathingExercise,6.0,

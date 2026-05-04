@@ -1,0 +1,826 @@
+timezone,interventionDuration,app,interventionType,resolution,isReIntervention,timestamp,timeIntervalUntilReIntervention,purpose
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748440881.481611,,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,dismissedAppOpening,False,1748440884.9417958,,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1748440898.530016,540.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748442494.5423598,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748443412.372335,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748444181.481139,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748445788.059866,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748446463.592198,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748446849.820014,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748447708.106658,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748453816.849121,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748454461.8421211,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748455354.2366738,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748458445.908317,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748459114.1048641,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748459745.82087,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748466958.893518,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748467522.824084,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748468013.18605,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748471685.962528,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748472878.1572719,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748475184.8842359,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748476712.5663571,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748484231.097126,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748484618.636354,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748484620.93491,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748484662.789362,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748485230.537468,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748485599.90957,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748488117.3521938,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748521702.419986,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748522027.9714432,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748522983.585928,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748523503.221123,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748525465.622542,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748526011.6182761,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748526511.566483,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748527650.355348,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748528612.846108,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748533403.188345,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748534156.149417,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748537907.8721619,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748542611.306089,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748543139.0212312,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748545180.6269941,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748547111.445125,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748547672.9879022,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748549368.428388,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748550222.820242,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748552129.180094,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748553536.325767,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748555067.172317,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748557308.573494,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748557830.987304,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748563269.014292,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748565137.710633,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748565449.415341,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748568480.923209,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748569187.855126,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748569568.509141,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748570069.9472508,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748570463.112859,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748571142.16384,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748571408.209917,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748571789.803156,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748572169.254746,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748605390.4347692,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748606435.640827,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748607536.149104,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748608297.86199,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748608635.465688,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748609184.8383222,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748609902.0479732,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748610839.381707,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748611202.6463308,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748611205.502389,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748612331.308316,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748613029.735962,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748613750.1663752,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748614018.665845,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748614548.929595,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748614879.0348868,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748615206.5663362,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748615839.189386,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748620076.9017072,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748621922.965599,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748625877.4963741,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748625891.941186,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748627954.642678,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748628479.270525,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748629263.946356,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748629586.0853739,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748630709.8442888,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748632458.105557,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748645229.120605,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748653929.273683,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748657383.104068,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748657645.434084,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748659578.2738519,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748660276.207807,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748661345.599381,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748691717.226702,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748694060.684351,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748696655.303469,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748710447.653074,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748710656.660383,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748710844.4110131,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748712184.221108,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748713933.440552,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748720340.716381,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748720814.511219,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748722604.204803,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748723692.43155,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748723930.0372128,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748724884.0581942,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748726449.926672,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748739153.471873,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748742966.396336,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748743999.3159308,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748744025.403383,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748744041.216207,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748744535.828357,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748744989.798308,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748746060.098637,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748747804.113343,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748748184.072993,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748748437.7318249,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748749909.759574,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748751252.682784,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748751962.555606,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748752045.2262468,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748754821.757625,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748755528.6854491,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748756917.288167,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748782991.913286,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748788719.385602,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748790212.348593,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748790697.578526,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748790708.089473,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748794429.1462278,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748796161.495081,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748797272.634985,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748797419.410962,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748798372.2555928,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748799138.715075,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748800464.334817,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748803315.865127,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1748803623.478497,720.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748803722.228935,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748803931.416152,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748807799.21703,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748810835.81397,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748811184.880375,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748812618.651506,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748815257.092951,,Bored
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1748815988.3180962,240.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748816053.352775,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748817498.652299,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748817772.5149179,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748826437.1028972,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748827955.7488852,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748828396.184634,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748828626.808598,,Bored
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1748831191.8138041,60.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748862495.075742,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748863296.4964209,,Bored
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1748864489.209902,780.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748866545.3345551,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748866747.8479528,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748868903.0265632,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748873238.435886,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748875313.345674,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748876304.3782291,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748877447.739276,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748883037.2284431,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748885768.2546802,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748887600.023762,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748888058.310858,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748888069.939867,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748888201.6628509,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748888688.203,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748889026.348449,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748891370.489548,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748893989.77606,,Search Info
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748894282.591213,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748897223.908916,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748898140.192868,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748900096.974292,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748901704.0763679,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748902996.446703,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748904162.356499,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748907949.587579,,Bored
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748911058.277878,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748912274.225332,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748912982.028729,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748913011.7359881,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1748914932.1373072,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748964860.494566,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748964877.116541,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1748974216.261544,,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1748988062.1692781,840.0,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1748988290.559067,780.0,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1748988686.766252,960.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749036839.463747,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749037673.752761,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749038378.5741181,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749039681.992686,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749040360.720458,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749040825.446656,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749042156.884951,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749042674.121717,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749049382.074708,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749050336.992093,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749050842.246881,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749051940.114032,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749055879.94974,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749058547.2326941,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749060899.468944,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749062080.734565,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749063365.8161721,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749064335.833322,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749065061.306191,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749065860.662119,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749067048.400775,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749073059.431974,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749073775.4579911,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749082553.4288402,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749087914.568692,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749089983.439334,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749090332.8552818,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749090629.437079,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749095048.438438,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749095331.535193,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749096764.885684,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749127050.81959,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749127562.720814,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749129692.598785,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749132652.427011,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749134514.490411,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749135388.558327,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749136064.264688,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749136339.598404,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1749137244.065638,780.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749139595.851427,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749140600.217658,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749141326.041201,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749144954.7715669,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749152545.194258,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749153527.065557,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749154892.254034,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749159702.50358,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749161661.074432,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749162005.401084,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749163496.935061,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749163815.260885,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749165039.4975882,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1749166130.714106,780.0,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1749166322.121659,240.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749175859.658465,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749176220.7284899,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749177491.427157,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749177910.877883,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749178291.9290261,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749179011.9287581,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,dismissedAppOpening,False,1749184282.285726,,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1749184291.071999,780.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749214502.738255,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749217953.5472941,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749218535.183564,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749220646.8664489,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749222403.823555,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749227136.6717749,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749227145.392051,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749227508.9411669,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749231979.114153,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749233501.211309,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749235236.687943,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749240251.565114,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749241642.333064,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749242360.2324538,,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1749242365.689673,780.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749243265.777316,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749243589.9443998,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749246695.816308,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749247261.687776,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749270518.3937569,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749294264.2320108,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749301616.634603,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1749302413.631571,840.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749302489.3633409,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749304480.9278731,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749321373.3547258,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749321761.7181048,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749323300.571361,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749326133.311271,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749326214.215389,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749329784.6133862,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749343830.819308,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749348243.0870771,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749348804.844439,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749349555.197422,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749387185.2678108,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749393974.587205,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749397860.9283628,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749400032.899945,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749400752.828656,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749401227.709923,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749402682.226999,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749402977.959549,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749406803.9239101,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749419582.570905,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749422263.500138,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749424274.365015,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749425773.821568,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749428344.8585482,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749432316.184204,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749437065.747889,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749437882.536248,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749438258.569762,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749439020.516403,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749441999.154121,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749449422.690464,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749477255.213557,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749478339.193736,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749478720.156128,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749488235.678839,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749497413.602102,,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,dismissedAppOpening,False,1749499646.476365,,
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1749512259.288779,600.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749525953.436907,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749572333.708277,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749573967.079237,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749576681.430064,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749578927.553146,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749580092.066088,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1749580925.077204,840.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749581308.5901031,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,reddit,askForTimeLimit,openedApp,False,1749583007.775406,540.0,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749584630.187119,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749586374.224304,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,dismissedAppOpening,False,1749591595.742095,,
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749591604.7829108,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749592265.302562,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749593867.908912,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749608410.460078,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749609296.6581059,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749612791.895905,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749614884.3670158,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749639165.0179129,,Escape / Avoid
+America/Indiana/Indianapolis,1.5,instagram,breathingExercise,openedApp,False,1749640409.241328,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749651464.4674501,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749652706.441001,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749654063.9356232,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749654469.275809,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749683222.6469111,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749684269.708808,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749685250.390328,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749685833.510407,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749687018.853075,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749694646.624445,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749696138.30447,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749696712.106869,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749697460.51426,,Entertainment
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749697833.2404718,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1749698054.5768762,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1749698058.0600471,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749698086.291459,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749698305.84462,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749701155.381248,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749704152.571391,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749729378.6098351,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749729624.085979,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749730623.901365,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749738973.068398,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749742723.386033,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749746729.976587,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749747408.6770458,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749754454.129568,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749764651.4585938,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749782771.511557,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749783329.579368,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749783863.681639,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749784847.0158172,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1749812096.005355,420.0,
+America/Indiana/Indianapolis,6.0,reddit,breathingExercise,openedApp,False,1749812673.068666,1680.0,Search Info
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749813864.1644301,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749816214.98383,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749817762.1000872,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749819308.874584,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749820370.3734221,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749824956.624041,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749825601.534978,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749825862.3438048,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749826720.944189,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749827042.3444629,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749827593.669312,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1749828952.4544802,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749832151.210185,,Entertainment
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749833034.114231,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749833475.740098,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749833875.356199,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749834784.3027039,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749838745.890398,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1749839788.7332249,,
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1749840306.970076,660.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749841478.4214559,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1749842276.198275,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749842293.994458,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749842695.298816,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749842927.3974628,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749859118.9246922,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749870327.0079288,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1749870868.953712,900.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749871360.9179192,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749873738.941539,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1749874474.457407,540.0,
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1749875000.9739661,780.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749875826.368809,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749876454.0876021,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749881301.068657,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1749884139.2231889,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749884303.018413,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749884759.286384,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749885161.996562,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749886786.451504,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749887103.7028642,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749906118.371501,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749911649.396778,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1749913049.017702,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749913067.694021,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749913413.798326,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749920532.947963,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749930601.611392,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749932298.155342,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749945316.734777,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749945730.7738628,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749946010.32588,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749946435.2799048,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749971216.5412068,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749985326.508121,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749986983.344527,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1749989558.215153,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1749990644.880175,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750002242.536958,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750009625.444349,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750015816.55409,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750023094.120956,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750023097.013873,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750023125.668058,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750025387.936427,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750025745.8576488,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750030552.280706,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750033036.863051,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750033663.890121,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750034379.76975,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750034397.908211,,Entertainment
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750034872.6949959,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750038044.812119,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750038047.474073,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750038295.996007,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750038951.1800861,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750040036.072692,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750043967.335218,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750075096.044959,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1750075915.32602,1260.0,
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1750076906.1385999,1440.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750077788.1087332,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750086189.584048,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750090809.7822452,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750090831.473147,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750114757.834396,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750117629.805645,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750118764.713278,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750120841.307436,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750121915.34763,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750122190.654815,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750122465.168215,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750122468.116592,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750122505.773631,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750123535.558455,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750124206.7750769,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750124962.622808,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750127093.7479548,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750128966.034151,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750132174.19786,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750133683.041343,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1750138675.133607,1200.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750139501.4105859,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750139753.3906422,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750162802.9218721,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750164634.332196,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750165925.96983,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750173195.776824,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750174054.131635,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750175153.180232,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750176261.928268,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750177137.0696821,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750178830.280799,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750187292.205017,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750188348.8172069,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750188792.853767,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1750191017.396455,900.0,
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,dismissedAppOpening,False,1750191695.9606729,,
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1750193451.425336,1500.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750194355.141601,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1750197232.664429,1080.0,
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1750197643.7334309,60.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750198365.177604,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750198633.535783,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750199745.2447371,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750211285.480233,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750211862.797708,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750212205.2829242,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750213930.1651878,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750214873.0070539,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750215224.140598,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750216628.5174909,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750216972.5990539,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750218570.4474878,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750245689.3847718,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750245720.536728,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750249973.1736479,,Entertainment
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750252404.7860808,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750254869.457295,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750255586.956336,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750283752.1890678,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1750289371.7387109,1200.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750289932.549717,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750291955.2007,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750300432.587013,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750300982.833727,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750303409.6988149,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750307056.677174,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750334523.702796,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750336565.760289,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750338276.034939,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750339974.496875,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750339978.934335,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750340001.140516,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750340058.7489939,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750340283.7321901,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750340888.3284101,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750390051.051456,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750415448.339113,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750451434.268354,,
+America/Detroit,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750451437.554095,,
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750451654.105318,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750452341.412657,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750471688.245523,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750474455.310648,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750475253.922213,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750476706.101125,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750503590.752623,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750508602.052837,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750510090.77283,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750513551.108186,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750514366.165673,,
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750514467.076098,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750520904.603436,,
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750520941.2970262,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750521306.499755,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750521963.637351,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750522347.597085,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750525286.510117,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750526554.234572,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750529078.132001,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750529400.851599,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750536208.023072,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750537803.129051,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750538240.330709,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750544534.680537,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750545818.8150449,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750548790.843295,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750553109.6952481,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750558269.0923948,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750588278.9768748,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750589485.1063452,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750592650.41657,,Escape / Avoid
+America/Detroit,6.0,instagram,breathingExercise,openedApp,False,1750599181.633239,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750641329.215893,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750642431.616585,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750642758.930554,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750644376.9244308,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750644795.553973,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750645028.4925818,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750645972.090045,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750646766.86853,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750680319.544091,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750680337.07516,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750682708.929275,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750683528.949514,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750684820.342064,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750687201.654484,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750690550.9256248,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750691569.785411,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750694276.9085631,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750696237.424933,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750699204.161257,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750704246.6694489,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750705186.949607,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750705975.576922,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750706349.589542,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750708180.129391,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750709240.57215,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750710487.4806871,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750710656.99842,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750711484.8191981,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750711752.473865,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750719618.13313,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750721941.292729,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750724668.962492,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750730991.356371,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750731038.280781,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750731390.876378,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750732052.4549909,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750732354.072617,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750732552.6562328,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750734549.958019,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750734750.64852,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750735031.8050961,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750736153.684276,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750736446.328376,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750736985.9434729,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750737263.292311,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750764263.5828152,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750764772.86854,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750768449.343097,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750770272.4682631,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750773511.187706,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750773792.28881,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750774060.851987,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750778492.911571,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750781914.34888,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750782682.330347,,Entertainment
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750786525.615199,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750788340.223898,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750796275.2643251,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750797076.9522061,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750797740.4359388,,Entertainment
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750798999.857657,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750804860.460643,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750808535.985841,,
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1750808542.8197641,1980.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750808773.700132,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750809852.3081641,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750811368.973796,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750816242.521822,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750816714.0002851,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750826441.712167,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750826682.795511,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750854681.432915,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750855619.476567,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750857624.128567,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750898550.247003,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750904003.314997,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750904714.017231,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750905877.704108,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750906619.568263,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750908248.583445,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750908666.830415,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1750914759.7742271,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750943044.2204452,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750944478.6976972,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750945428.969578,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750947465.1908178,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750950544.2674909,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750951211.187526,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750953838.578083,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750955116.9153461,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750961974.651013,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750962441.191963,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750962958.579354,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750963575.5901709,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750968310.477248,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750969579.995589,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750971429.054368,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750977064.248743,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750983744.1324801,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750985457.272649,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750995546.118555,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750995846.19811,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1750998514.861817,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751021580.570282,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751022052.9510741,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751022208.09639,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751023068.635336,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751023090.444158,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751026908.726316,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751030155.415996,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751031419.9119139,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751034374.2629418,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751035116.908228,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751035688.2423701,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751038209.0487819,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751039790.032096,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751043363.814426,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751045682.8392038,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751045716.3197432,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751081468.8896232,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751083064.716044,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751107369.990505,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751109361.749361,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751114181.3790631,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751154300.211257,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751165301.9256082,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751166961.1967502,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751168825.882998,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751194992.6081362,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751197090.092978,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751200551.163224,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751210220.580194,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751210760.629819,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751220039.185192,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751223082.425283,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751223361.714139,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751224291.8828192,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751229969.5538201,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751234102.3409638,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751239257.1701689,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751243025.6709661,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751243309.016663,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751244060.15815,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751244623.673826,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751251658.813982,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751256742.987778,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751258679.8265681,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751258965.4215832,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751285829.350531,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751286975.928687,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1751287203.948082,1080.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751287662.687217,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751289144.441176,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1751310859.1554608,1200.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751323219.6628819,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751326036.383347,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751326381.1163368,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751329791.1468039,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751331442.7607188,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751332940.502584,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751333597.998771,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751334523.151926,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751335409.6450071,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751335708.299761,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751335994.3122349,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751336599.880485,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751337595.4684649,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751373264.747867,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751376046.676828,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,reddit,askForTimeLimit,openedApp,False,1751377683.924563,600.0,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751377934.584223,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751377962.624851,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751391259.734641,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751391598.2896872,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751391880.2779999,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751406561.0708761,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751424612.5514379,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751428672.1660872,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751458449.657292,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751462019.201064,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751469241.49144,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751477383.533371,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751481569.1458,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751484830.7234201,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751486820.6747699,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751488400.558876,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751489400.080546,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751489782.294702,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751491359.8944669,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751491724.988017,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751503563.1279058,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751503852.968915,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751503872.710414,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751504705.188424,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751506642.43485,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751507790.814711,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751508568.182917,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751509852.089499,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751510904.376236,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751511430.073848,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751512829.1801271,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751515829.518841,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751521293.7445421,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751525083.714747,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751525874.013001,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751527285.832551,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751527791.9561749,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751542271.07343,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751543389.969006,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751545186.032028,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751545621.274935,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751553283.5511441,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751555559.070385,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751572894.355476,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751572912.3275352,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751574564.352106,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751574581.3510342,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751576025.894825,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751576733.9706059,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751578551.573069,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751579555.71167,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751597945.808891,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751598676.078885,,
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751628824.180707,,Escape / Avoid
+America/Indiana/Indianapolis,6.0,instagram,breathingExercise,openedApp,False,1751629681.506174,,Escape / Avoid
+America/Chicago,6.0,instagram,breathingExercise,openedApp,False,1751644922.537715,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751664849.458399,,Escape / Avoid
+America/New_York,6.0,reddit,askForTimeLimit,openedApp,False,1751676280.445224,1140.0,
+America/New_York,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751685009.860544,,
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751685035.870998,,Escape / Avoid
+America/New_York,6.0,reddit,askForTimeLimit,openedApp,False,1751687774.285828,960.0,
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751717210.46084,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751741486.092133,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,dismissedAppOpening,False,1751742059.929708,,
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751765228.3556771,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751779618.916809,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751812423.93941,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751833138.816774,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751833421.9548988,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751840336.479739,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751851968.564395,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751854081.594544,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751883112.409909,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751884969.849844,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751887742.7569451,,Escape / Avoid
+America/New_York,6.0,instagram,breathingExercise,openedApp,False,1751888155.914593,,Escape / Avoid

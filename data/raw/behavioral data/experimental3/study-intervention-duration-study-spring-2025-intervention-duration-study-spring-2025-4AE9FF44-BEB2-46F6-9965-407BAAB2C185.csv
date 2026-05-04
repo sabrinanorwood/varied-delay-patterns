@@ -1,0 +1,232 @@
+timezone,resolution,isReIntervention,interventionDuration,timestamp,app,interventionType,purpose,timeIntervalUntilReIntervention
+Europe/Amsterdam,dismissedAppOpening,False,3,1751008643.876116,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751016426.502171,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,3,1751019868.52034,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,3,1751040960.094073,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751042620.609741,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,3,1751051189.480606,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,3,1751052027.590873,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,3,1751056156.299426,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751101422.290203,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,3,1751104682.546629,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751124437.307167,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,3,1751134998.926724,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,True,3,1751135208.34156,brave,breathingExercise,Zoek informatie,120.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751136342.4437551,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,3,1751191110.519938,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751191156.334507,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751196863.360116,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751196875.739907,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751211988.670277,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,False,3,1751212014.2802281,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751214450.718888,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751214500.56176,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751218791.254775,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751219521.260035,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751222396.609325,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751258065.193938,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751258146.858317,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751276495.975068,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751276618.7369452,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751279521.2886128,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,False,3,1751279722.440607,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751280071.783104,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751280085.347653,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751287371.531228,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751303319.209478,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751309279.681669,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751316084.3508291,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751318467.382087,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751319037.978641,brave,breathingExercise,Zoek informatie,120.0
+Europe/Amsterdam,openedApp,False,3,1751366194.406272,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751393410.7729201,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751396131.062016,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751404915.0168052,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751456045.0116339,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751464874.929566,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751473775.011989,brave,breathingExercise,Zoek informatie,120.0
+Europe/Amsterdam,openedApp,False,3,1751561964.658074,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751566551.140826,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751573947.834712,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,False,3,1751603695.1362429,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751629298.769656,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751643208.6802192,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751646519.563997,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751659058.667846,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751660222.6572719,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751666289.454694,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751666397.8036861,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751700037.922682,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751722028.970202,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751737789.3212972,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751742355.3156161,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,3,1751742359.2361321,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751743623.681946,brave,breathingExercise,Zoek informatie,240.0
+Europe/Amsterdam,openedApp,False,3,1751781895.5361629,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751782167.837928,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751782317.934309,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751801411.863999,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751801794.301385,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751802400.12718,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751811048.270127,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,False,3,1751820283.361448,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751822496.181359,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1751832496.380619,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1751833780.044847,brave,breathingExercise,Zoek informatie,120.0
+Europe/Amsterdam,openedApp,False,3,1751863671.610542,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751865170.845582,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,False,3,1751901181.9133968,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,False,3,1751921659.200463,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,False,3,1751922372.7095408,brave,breathingExercise,Zoek informatie,120.0
+Europe/Amsterdam,openedApp,False,3,1751924061.0338159,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1751985733.9816031,brave,breathingExercise,Zoek informatie,120.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1751996941.479434,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,3,1752000748.423338,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1752008255.992604,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,openedApp,False,3,1752039375.859164,brave,breathingExercise,Zoek informatie,240.0
+Europe/Amsterdam,openedApp,False,3,1752043907.837321,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1752044125.4530458,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1752053606.461986,brave,breathingExercise,Zoek informatie,300.0
+Europe/Amsterdam,openedApp,False,3,1752057032.741957,brave,breathingExercise,Zoek informatie,120.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1752060944.9081922,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1752061040.603692,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1752092469.706233,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1752130803.201997,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,False,3,1752166391.5487928,brave,breathingExercise,Zoek informatie,180.0
+Europe/Amsterdam,openedApp,False,3,1752166920.295295,brave,breathingExercise,Zoek informatie,60.0
+Europe/Amsterdam,dismissedAppOpening,False,3,1752168099.477505,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,3,1752168186.20046,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752236336.793546,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752241542.98001,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752241925.634362,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752242356.138266,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752249640.722848,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752264063.2543159,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752264279.270636,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752266488.47136,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752266739.2719731,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752304220.704854,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752309088.982765,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752309665.907703,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752309692.847461,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752320071.219051,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752330379.038855,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752342787.894075,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752346144.23636,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752346304.447771,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752385646.652885,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752388191.009747,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752411881.9024038,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752413180.747984,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752424756.207539,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752427170.4548821,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752495673.931929,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752496230.3196611,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752503076.916572,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752510822.704379,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752512770.2629719,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752520679.992423,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752522069.5010781,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752524216.223476,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752574448.409406,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752574471.0498462,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752598165.698079,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752659787.4414139,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752662880.5909982,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752671230.968103,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752675959.7907119,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752682640.764388,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752730723.291057,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752737507.186382,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752742485.627551,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752784528.977642,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752787842.799271,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752847554.937206,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752859699.320193,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1752870407.817546,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1752914948.808148,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752920186.140347,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752949229.336656,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752954851.784709,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1752991058.943794,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753020859.185133,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753026883.852035,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753027189.0316548,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753042166.648199,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753043538.413817,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753043789.958648,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753043794.756666,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1753043823.0764961,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753084531.7160258,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753086013.67419,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753117987.262044,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753131286.469495,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753162500.278714,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753167466.834167,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1753176438.903671,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753191380.162901,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753194944.791733,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753201646.477514,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753214945.811816,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753249296.979826,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753267852.403132,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753269097.247715,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753287805.29638,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753291872.2635179,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753299352.5082722,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1753338034.29247,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753349415.616781,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753353860.452588,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753367800.245908,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753367853.6246371,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1753372608.809492,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753375916.7330232,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753420483.364332,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753428156.513516,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753428198.8362122,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1753434179.739624,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753452424.919249,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753454027.702001,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753455823.117295,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753457416.376337,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753467659.8204122,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753472771.877006,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753552479.232216,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753555868.717696,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1753563168.5932698,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753594389.0538511,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753599504.429168,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1753634241.357984,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753635698.447777,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753646794.843889,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753682305.082069,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753719119.5231938,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753719549.857297,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753724384.7210798,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753765867.53893,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753807462.5442019,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753871820.4974399,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753882239.872285,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753894724.800757,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1753938780.061603,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1753961319.395893,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753979363.09512,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753994363.718497,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1753994942.172062,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1754029405.5847979,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,6,1754029408.461369,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1754034904.449592,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1754042606.833125,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1754051443.757557,brave,breathingExercise,,
+Europe/Amsterdam,dismissedAppOpening,False,6,1754051446.95171,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1754067143.423335,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1754071732.3840442,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1754129355.089457,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1754129782.808782,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1754130070.370136,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1754138704.837531,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1754159898.735368,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1754166701.142276,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,openedApp,False,6,1754221161.36405,brave,breathingExercise,Zoek informatie,
+Europe/Amsterdam,dismissedAppOpening,False,6,1754221369.77871,brave,breathingExercise,,
+Europe/Amsterdam,openedApp,False,6,1754221465.5042238,brave,breathingExercise,Zoek informatie,

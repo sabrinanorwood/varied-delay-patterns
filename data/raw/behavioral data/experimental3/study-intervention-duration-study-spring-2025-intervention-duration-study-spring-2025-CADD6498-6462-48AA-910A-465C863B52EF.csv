@@ -1,0 +1,2 @@
+interventionType,timezone,resolution,timestamp,app,interventionDuration,isReIntervention
+breathingExercise,America/Chicago,dismissedAppOpening,1749522228.847066,duckDuckGoBrowser,3,False

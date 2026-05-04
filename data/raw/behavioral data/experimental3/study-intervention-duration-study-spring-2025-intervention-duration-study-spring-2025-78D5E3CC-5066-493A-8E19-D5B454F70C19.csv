@@ -1,0 +1,326 @@
+isReIntervention,timezone,interventionType,timestamp,interventionDuration,app,resolution,purpose
+False,America/Toronto,breathingExercise,1752413867.886292,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752423294.970152,3,instagram,openedApp,Stay In the Loop
+False,America/Toronto,breathingExercise,1752423601.944809,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752426395.43663,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752426397.634943,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752426672.999004,3,instagram,openedApp,Check likes
+False,America/Toronto,breathingExercise,1752427197.849926,3,instagram,openedApp,Message
+False,America/Toronto,breathingExercise,1752428253.2732801,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752428439.258153,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752429532.512632,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752431739.805532,3,instagram,openedApp,Message
+False,America/Toronto,breathingExercise,1752433515.388011,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752435306.5494962,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752435443.852899,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752436145.7141318,3,tikTok,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752437023.7983131,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752437247.16733,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752437262.38867,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752442542.344455,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752442543.86034,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752442842.461705,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752443255.824831,3,facebook,openedApp,Message
+False,America/Toronto,breathingExercise,1752455203.833963,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752495740.4734988,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752497051.213927,3,instagram,openedApp,Stay In the Loop
+False,America/Toronto,breathingExercise,1752498975.848227,3,facebook,openedApp,Message
+False,America/Toronto,breathingExercise,1752499059.556974,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752499063.8360481,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752508422.714643,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752509348.092016,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752509364.621963,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752511547.911672,3,instagram,openedApp,Message
+False,America/Toronto,breathingExercise,1752512579.311049,3,instagram,openedApp,Stay In the Loop
+False,America/Toronto,breathingExercise,1752512611.955919,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752512612.985085,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752516405.012929,3,instagram,openedApp,Message
+False,America/Toronto,breathingExercise,1752517430.191791,3,instagram,openedApp,Message
+False,America/Toronto,breathingExercise,1752519861.021096,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752519862.311549,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752522265.517324,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752525159.97372,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752525203.506325,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752527961.144706,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752533685.942234,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752536822.0195022,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752536823.9404979,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752537498.580004,3,facebook,openedApp,Message
+False,America/Toronto,breathingExercise,1752537524.066663,3,instagram,openedApp,Stay In the Loop
+False,America/Toronto,breathingExercise,1752537808.730299,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752573623.6221561,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752584270.853754,3,instagram,openedApp,Stay In the Loop
+False,America/Toronto,breathingExercise,1752584319.599321,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752584516.539089,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752584551.863824,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752584553.35771,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752595408.436438,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752598183.876019,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752598185.647201,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752598194.4784741,3,instagram,openedApp,Message
+False,America/Toronto,breathingExercise,1752602020.557248,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752602967.695329,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752602980.315607,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752603977.142581,3,facebook,openedApp,Message
+False,America/Toronto,breathingExercise,1752608600.052022,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752608608.038258,3,instagram,openedApp,Message
+False,America/Toronto,breathingExercise,1752613968.8422,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752614046.061605,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752617188.446691,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752617212.7681541,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752617273.9838471,3,facebook,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752619251.527731,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752619260.318852,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752619649.140092,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752620786.374562,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752621621.6053271,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752623321.662312,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752624774.586491,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752626126.378261,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752627251.377287,3,tikTok,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752633193.2767382,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752663241.603487,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752663870.201906,3,tikTok,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752668373.4682279,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752668816.288847,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752668885.67293,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752676940.798773,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752681627.204196,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752686136.3526769,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752686601.979465,3,facebook,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752686847.468772,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752686872.118671,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752688720.796115,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752692945.9921021,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752697515.913828,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752701692.920152,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752703781.106386,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752704056.772408,3,facebook,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752706338.946702,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752706414.537842,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752706858.1818662,3,tikTok,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752707317.70418,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752708512.2632298,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752708761.783235,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752708771.057156,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752710732.368877,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752711002.64017,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752711975.478794,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752714737.827883,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752716234.353972,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752746601.461399,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752761419.4645882,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752763842.971657,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752763881.714654,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752763979.963476,3,facebook,openedApp,Stay In the Loop
+False,America/Toronto,breathingExercise,1752764649.131628,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752776252.060217,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752777027.5413651,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752777235.448086,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752782725.456996,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752787682.44058,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752789757.481528,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752789799.3613338,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752789855.8638182,3,tikTok,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752790912.236623,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752791368.638511,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752791455.1884918,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752792580.7495909,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752793362.801063,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752793371.452724,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752794515.2501469,3,tikTok,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752794525.6492429,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752795608.3267112,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752796053.736834,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752796055.262656,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752796064.646467,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752796397.809221,3,facebook,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752797192.1538692,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752798327.655542,3,tikTok,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752799592.907567,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752842018.8439,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752842377.90818,3,facebook,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752842521.71614,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752842524.0854192,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752844165.194973,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752845413.810876,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752845572.166724,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752848908.105527,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752856652.440061,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752860406.9293408,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752862134.874704,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752863721.495434,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752863723.000736,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752871676.861459,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752872614.878121,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752874896.5410872,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752874983.9432,3,facebook,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752875030.9592361,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1752878278.71614,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752878280.265099,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752878292.662149,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752885691.00565,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752935415.794529,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752935460.8126621,3,facebook,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752943279.9550261,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752945376.3207889,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752946672.784711,3,facebook,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752951380.421294,3,facebook,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752951392.1987128,3,facebook,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752951439.977953,3,facebook,openedApp,Toilet
+False,America/Toronto,breathingExercise,1752952648.476635,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752952987.279148,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752953880.052156,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752956703.70205,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752957372.325593,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752957514.395409,3,tikTok,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752961667.899862,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752964872.374924,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1752966538.9187732,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752966573.8018498,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752966575.971972,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752966921.786425,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752966954.947929,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1752968612.91503,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753004091.549831,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753004222.9979439,3,tikTok,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1753023672.3323832,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753025047.981818,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753038378.841662,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753038472.295588,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753042160.095336,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753047649.059047,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753048324.280993,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753049645.310816,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753050048.372551,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753051544.791892,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753053630.4474611,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753053639.631135,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753053784.242835,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753056871.1607141,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753058383.817593,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753092047.763523,3,instagram,openedApp,Relax
+False,America/Toronto,breathingExercise,1753101564.374265,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753101666.510104,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753105961.211195,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753114123.193079,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753117742.5157619,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753117869.477151,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753118741.591614,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753123497.544034,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753126093.10853,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753126101.615278,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753137452.094757,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753137465.0526319,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753137709.637004,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753140470.083051,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753140915.166631,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753142592.0523891,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753144043.9499788,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753144927.431378,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753146083.955946,3,instagram,openedApp,Bored
+False,America/Toronto,breathingExercise,1753177621.676434,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753178274.4823909,3,tikTok,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753187235.083672,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753189871.519349,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753192237.854494,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753192489.0638208,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753192615.2034411,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753192720.67663,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753192957.995308,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753194709.264573,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753195265.822845,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753202157.621783,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753203992.684116,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753204590.926878,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753204688.5662541,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753207887.1042628,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753209849.41224,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753210125.1412249,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753212315.059402,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753214570.106405,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753215169.6288772,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753215171.159647,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753215175.06559,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753219120.700427,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753222980.508112,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753224767.629675,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753226882.0733628,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753227406.5628061,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753229442.458311,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753229817.604457,3,tikTok,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753229829.8467789,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753229994.7639031,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753231691.509571,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753233992.320154,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753235668.396337,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753242820.065277,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753243813.0022569,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753271727.3558822,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753271809.9039888,3,tikTok,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753276733.035788,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753276741.874682,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753282535.371855,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753285983.036272,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753293079.514964,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753303031.548728,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1753305046.223067,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753305060.685089,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753305327.525733,3,tikTok,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1753305578.050156,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753307395.534521,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753307691.369255,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753310125.7440128,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753310201.811002,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753311372.888967,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753311977.268259,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753314549.49115,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753314597.388258,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753315284.731639,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753315379.800381,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753315840.299211,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753316096.893131,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753318239.1052818,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753318248.327382,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1753318376.893126,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753320297.606937,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1753353790.945689,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753354901.788681,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753359717.662689,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753360397.9148211,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753362724.698203,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753362844.698055,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753364061.53545,3,tikTok,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753365204.884937,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753365462.3471851,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753365473.326404,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753370972.38293,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753372289.0686631,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753372542.7925959,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753376058.755453,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753382455.416768,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753388607.8601809,3,instagram,openedApp,Toilet
+False,America/Toronto,breathingExercise,1753388769.2566671,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753391350.865535,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753393221.937217,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753393359.4561172,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753393369.441077,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753393842.727345,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753398783.306525,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1753399390.2620912,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1753399926.706753,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753400225.472561,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753400582.7955241,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753403304.4406052,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753405871.4975739,3,instagram,openedApp,Entertainment
+False,America/Toronto,breathingExercise,1753405920.1712651,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753406042.727504,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753438360.534931,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753438553.850749,3,tikTok,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753438602.618845,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753446809.2304049,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753447271.226376,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753452052.7694402,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753452150.839473,3,instagram,dismissedAppOpening,
+False,America/Toronto,breathingExercise,1753455678.7969341,3,instagram,openedApp,Escape / Avoid
+False,America/Toronto,breathingExercise,1753457639.548932,3,instagram,openedApp,Escape / Avoid

@@ -1,0 +1,188 @@
+resolution,interventionDuration,app,timestamp,isReIntervention,interventionType,timezone,purpose
+dismissedAppOpening,3,tikTok,1750516014.812885,False,breathingExercise,America/Los_Angeles,
+openedApp,3,instagram,1750528190.3113031,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,3,instagram,1750543046.8753572,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,3,tikTok,1750546492.4355369,False,breathingExercise,America/Los_Angeles,Search Info
+dismissedAppOpening,3,instagram,1750555516.287246,False,breathingExercise,America/Los_Angeles,
+openedApp,3,instagram,1750555555.817069,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1750557651.759167,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+dismissedAppOpening,3,instagram,1750559264.798938,False,breathingExercise,America/Los_Angeles,
+openedApp,3,tikTok,1750563325.48684,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1750563855.48591,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,3,tikTok,1750564170.034494,False,breathingExercise,America/Los_Angeles,Work
+openedApp,3,instagram,1750605992.1344619,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1750609875.6385279,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,3,tikTok,1750615139.973854,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1750634695.0436502,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1750634789.673975,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1750647956.379098,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1750740745.6541939,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+dismissedAppOpening,3,tikTok,1750740907.785664,False,breathingExercise,America/Los_Angeles,
+openedApp,3,tikTok,1750740943.125112,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+dismissedAppOpening,3,tikTok,1750741101.400815,False,breathingExercise,America/Los_Angeles,
+openedApp,3,instagram,1750744231.833349,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,3,instagram,1750744372.847779,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,3,tikTok,1750805508.2917871,False,breathingExercise,America/Los_Angeles,Work
+openedApp,3,instagram,1750822690.297363,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1750831532.79249,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1750855746.120307,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,3,tikTok,1750856366.0540462,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,3,tikTok,1750867615.476774,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1750898635.269419,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1750901102.4789572,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1750907682.154481,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+openedApp,3,instagram,1750918567.206172,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1750921673.328996,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1750946068.8996549,False,breathingExercise,America/Los_Angeles,Entertainment
+dismissedAppOpening,3,tikTok,1750946159.101203,False,breathingExercise,America/Los_Angeles,
+openedApp,3,tikTok,1750946172.53615,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,3,tikTok,1750946388.502748,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,3,tikTok,1750946448.76383,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,3,tikTok,1750946682.646323,False,breathingExercise,America/Los_Angeles,Entertainment
+dismissedAppOpening,3,tikTok,1750988239.4648662,False,breathingExercise,America/Los_Angeles,
+dismissedAppOpening,3,tikTok,1750988490.100754,False,breathingExercise,America/Los_Angeles,
+openedApp,3,instagram,1750996197.961168,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1750999179.574736,False,breathingExercise,America/Los_Angeles,Search Info
+dismissedAppOpening,3,instagram,1751064875.618109,False,breathingExercise,America/Los_Angeles,
+openedApp,3,tikTok,1751074200.457675,False,breathingExercise,America/Los_Angeles,Search Info
+dismissedAppOpening,3,tikTok,1751074376.98612,False,breathingExercise,America/Los_Angeles,
+openedApp,3,instagram,1751074387.815363,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1751074446.777203,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1751089207.8620281,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1751091523.0106711,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1751092320.3503752,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1751093126.469528,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1751118560.844121,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,3,tikTok,1751118980.612258,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,3,tikTok,1751153840.00349,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1751180682.790709,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1751183609.704702,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,3,tikTok,1751183652.900896,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,3,tikTok,1751184288.9178681,False,breathingExercise,America/Los_Angeles,Work
+openedApp,3,tikTok,1751203739.838797,False,breathingExercise,America/Los_Angeles,Work
+openedApp,3,tikTok,1751211326.017103,False,breathingExercise,America/Los_Angeles,Work
+openedApp,3,tikTok,1751211542.960767,False,breathingExercise,America/Los_Angeles,Work
+openedApp,3,instagram,1751258411.1503658,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+dismissedAppOpening,3,tikTok,1751349110.183749,False,breathingExercise,America/Los_Angeles,
+openedApp,3,tikTok,1751368142.707917,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,3,tikTok,1751370510.716933,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,3,instagram,1751370562.760184,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,3,tikTok,1751377840.080282,False,breathingExercise,America/Los_Angeles,Post something
+openedApp,3,tikTok,1751427218.707442,False,breathingExercise,America/Los_Angeles,Work
+openedApp,3,tikTok,1751441371.6669989,False,breathingExercise,America/Los_Angeles,Work
+openedApp,3,tikTok,1751455959.506525,False,breathingExercise,America/Los_Angeles,Work
+openedApp,3,instagram,1751468977.069231,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,3,tikTok,1751513963.162194,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,tikTok,1751515501.319933,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,3,tikTok,1751516566.5625129,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,3,instagram,1751644096.227357,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,3,instagram,1751647067.110859,False,breathingExercise,America/Los_Angeles,Search Info
+dismissedAppOpening,3,instagram,1751647434.441818,False,breathingExercise,America/Los_Angeles,
+openedApp,3,instagram,1751647641.850902,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,3,tikTok,1751653092.128048,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,3,tikTok,1751671703.447777,False,breathingExercise,America/Los_Angeles,Search Info
+dismissedAppOpening,3,tikTok,1751682494.520595,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1751785316.404995,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1751785746.939976,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1751860122.026017,False,breathingExercise,America/Los_Angeles,Relax
+dismissedAppOpening,6,instagram,1751860827.990969,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1751860847.434142,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,tikTok,1751862860.887929,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,instagram,1751903474.2029018,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1751903997.6276789,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1751921122.159144,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1751921187.302984,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,6,instagram,1751931352.3644881,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1751953830.134375,False,breathingExercise,America/Los_Angeles,Relax
+dismissedAppOpening,6,instagram,1751982262.248273,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1751982286.04247,False,breathingExercise,America/Los_Angeles,Post something
+openedApp,6,instagram,1751982918.532642,False,breathingExercise,America/Los_Angeles,Post something
+dismissedAppOpening,6,instagram,1751983122.2662811,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1751983137.4647799,False,breathingExercise,America/Los_Angeles,Bored
+dismissedAppOpening,6,instagram,1751983433.39816,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1751983803.4680161,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1752067764.888486,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,6,instagram,1752068754.358728,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,instagram,1752069834.453985,False,breathingExercise,America/Los_Angeles,Post something
+dismissedAppOpening,6,instagram,1752070544.48225,False,breathingExercise,America/Los_Angeles,
+dismissedAppOpening,6,instagram,1752071289.365119,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1752110646.130494,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,6,instagram,1752110794.519328,False,breathingExercise,America/Los_Angeles,Can’t sleep
+dismissedAppOpening,6,instagram,1752111307.726774,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1752111327.5574532,False,breathingExercise,America/Los_Angeles,Stay In the Loop
+openedApp,6,instagram,1752113055.441952,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,instagram,1752122152.9245958,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,6,tikTok,1752196631.935533,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+openedApp,6,tikTok,1752196747.9381142,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+dismissedAppOpening,6,tikTok,1752197013.987009,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1752204283.0038009,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,6,instagram,1752206759.695751,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1752226973.938586,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,6,instagram,1752228007.994246,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,6,instagram,1752282516.8902988,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,instagram,1752295197.5394459,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,instagram,1752296647.650132,False,breathingExercise,America/Los_Angeles,Post something
+openedApp,6,instagram,1752330251.614977,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1752356895.6165528,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,tikTok,1752378708.5417929,False,breathingExercise,America/Los_Angeles,Relax
+dismissedAppOpening,6,tikTok,1752379718.4571,False,breathingExercise,America/Los_Angeles,
+openedApp,6,tikTok,1752381131.98423,False,breathingExercise,America/Los_Angeles,Stalk crush
+dismissedAppOpening,6,tikTok,1752381195.5135221,False,breathingExercise,America/Los_Angeles,
+dismissedAppOpening,6,tikTok,1752381210.916294,False,breathingExercise,America/Los_Angeles,
+openedApp,6,tikTok,1752381228.2924461,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+dismissedAppOpening,6,tikTok,1752381552.735477,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1752383030.320136,False,breathingExercise,America/Los_Angeles,Relax
+openedApp,6,instagram,1752383810.5396218,False,breathingExercise,America/Los_Angeles,Relax
+dismissedAppOpening,6,instagram,1752427593.465709,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1752447739.98016,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,6,tikTok,1752458375.9413218,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,tikTok,1752459597.625229,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,tikTok,1752468801.192061,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,tikTok,1752553769.0194268,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+openedApp,6,tikTok,1752554027.20053,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,tikTok,1752554384.75912,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+openedApp,6,instagram,1752557586.330277,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1752557773.8032122,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1752629653.892517,False,breathingExercise,America/Los_Angeles,Can’t sleep
+dismissedAppOpening,6,instagram,1752629817.6904922,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1752641915.810755,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1752645343.983576,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,6,instagram,1752673945.1615481,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,tikTok,1752731108.500649,False,breathingExercise,America/Los_Angeles,Entertainment
+dismissedAppOpening,6,tikTok,1752732584.428402,False,breathingExercise,America/Los_Angeles,
+dismissedAppOpening,6,instagram,1752732595.202966,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1752732626.99736,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+openedApp,6,instagram,1752776555.241246,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1752814634.469749,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,tikTok,1752817595.0299768,False,breathingExercise,America/Los_Angeles,Message
+openedApp,6,instagram,1752831644.803592,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1752835161.02193,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,tikTok,1752835866.984315,False,breathingExercise,America/Los_Angeles,Entertainment
+openedApp,6,instagram,1752965656.130824,False,breathingExercise,America/Denver,Bored
+openedApp,6,instagram,1752975802.112191,False,breathingExercise,America/Denver,Bored
+openedApp,6,tikTok,1752982286.432014,False,breathingExercise,America/Denver,Can’t sleep
+dismissedAppOpening,6,instagram,1752990426.629679,False,breathingExercise,America/Denver,
+openedApp,6,tikTok,1753028260.664557,False,breathingExercise,America/Denver,Entertainment
+openedApp,6,instagram,1753073799.997298,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1753234667.129689,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1753240486.927644,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+openedApp,6,instagram,1753240615.47418,False,breathingExercise,America/Los_Angeles,Can’t sleep
+openedApp,6,tikTok,1753240664.8467999,False,breathingExercise,America/Los_Angeles,Can’t sleep
+dismissedAppOpening,6,tikTok,1753241557.864523,False,breathingExercise,America/Los_Angeles,
+openedApp,6,tikTok,1753254555.83428,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,tikTok,1753255256.402211,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,tikTok,1753277978.61269,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,tikTok,1753278861.773819,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1753569805.814964,False,breathingExercise,America/Los_Angeles,Search Info
+openedApp,6,instagram,1753588480.718579,False,breathingExercise,America/Los_Angeles,Bored
+dismissedAppOpening,6,instagram,1753589257.6225991,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1753846940.616549,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1753937271.992261,False,breathingExercise,America/Los_Angeles,Bored
+dismissedAppOpening,6,instagram,1753967493.325439,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1753967549.039334,False,breathingExercise,America/Los_Angeles,Message
+dismissedAppOpening,6,instagram,1753967891.101867,False,breathingExercise,America/Los_Angeles,
+dismissedAppOpening,6,instagram,1753968588.6649199,False,breathingExercise,America/Los_Angeles,
+openedApp,6,instagram,1753971500.252053,False,breathingExercise,America/Los_Angeles,Bored
+openedApp,6,instagram,1753971787.409285,False,breathingExercise,America/Los_Angeles,Escape / Avoid
+openedApp,6,instagram,1753972000.5834188,False,breathingExercise,America/Los_Angeles,Check likes
+openedApp,6,instagram,1753972386.628818,False,breathingExercise,America/Los_Angeles,Bored

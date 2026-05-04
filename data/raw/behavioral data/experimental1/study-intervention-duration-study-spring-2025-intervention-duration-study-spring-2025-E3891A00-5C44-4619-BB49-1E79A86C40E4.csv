@@ -1,0 +1,178 @@
+timestamp,interventionType,app,timezone,resolution,isReIntervention,interventionDuration,purpose
+1749880967.420481,breathingExercise,instagram,Europe/Oslo,dismissedAppOpening,False,1.5,
+1749882275.23771,breathingExercise,instagram,Europe/Oslo,dismissedAppOpening,False,1.5,
+1749883666.982141,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Stay In the Loop
+1749891311.968437,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Search Info
+1749914812.563947,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Stay In the Loop
+1749915490.488455,,facebook,Europe/Oslo,openedApp,False,,
+1749915610.488456,,facebook,Europe/Oslo,closedApp,False,,
+1749915610.488456,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1749919831.957951,,facebook,Europe/Oslo,openedApp,False,,
+1749919951.957951,,facebook,Europe/Oslo,closedApp,False,,
+1749919951.957951,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1749920961.600106,,instagram,Europe/Oslo,openedApp,False,,
+1749921081.600107,,instagram,Europe/Oslo,closedApp,False,,
+1749921081.600107,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1749922194.66754,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Relax
+1749922567.836962,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Search Info
+1749923053.664167,,facebook,Europe/Oslo,openedApp,False,,
+1749923173.664167,,facebook,Europe/Oslo,closedApp,False,,
+1749923173.664167,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1749923248.203424,,instagram,Europe/Oslo,openedApp,False,,
+1749923368.203425,,instagram,Europe/Oslo,closedApp,False,,
+1749923368.203425,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1749930160.33374,,facebook,Europe/Oslo,openedApp,False,,
+1749930280.33374,,facebook,Europe/Oslo,closedApp,False,,
+1749930280.33374,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1749930560.230578,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Search Info
+1749968234.516099,,instagram,Europe/Oslo,openedApp,False,,
+1749968354.516099,,instagram,Europe/Oslo,closedApp,False,,
+1749968354.516099,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1749968799.471597,,tikTok,Europe/Oslo,openedApp,False,,
+1749969039.471597,,tikTok,Europe/Oslo,closedApp,False,,
+1749969039.471597,,tikTok,Europe/Oslo,dismissedAppOpening,False,,
+1749968989.827621,,instagram,Europe/Oslo,openedApp,False,,
+1749969109.827621,,instagram,Europe/Oslo,closedApp,False,,
+1749969109.827621,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1749971564.992739,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Entertainment
+1749972269.8547,,instagram,Europe/Oslo,openedApp,False,,
+1749972389.8547,,instagram,Europe/Oslo,closedApp,False,,
+1749972389.8547,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1749972656.588348,,facebook,Europe/Oslo,openedApp,False,,
+1749972776.588348,,facebook,Europe/Oslo,closedApp,False,,
+1749972776.588348,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1749974381.380117,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Entertainment
+1749974655.6102219,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Entertainment
+1749984181.606787,,facebook,Europe/Oslo,openedApp,False,,
+1749984301.606787,,facebook,Europe/Oslo,closedApp,False,,
+1749984301.606787,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1749986519.451345,,instagram,Europe/Oslo,openedApp,False,,
+1749986639.451345,,instagram,Europe/Oslo,closedApp,False,,
+1749986639.451346,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1749987957.6589952,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Entertainment
+1749988342.2331882,,tikTok,Europe/Oslo,openedApp,False,,
+1749988582.233189,,tikTok,Europe/Oslo,closedApp,False,,
+1749988582.233189,,tikTok,Europe/Oslo,dismissedAppOpening,False,,
+1749990301.806108,breathingExercise,facebook,Europe/Oslo,openedApp,False,1.5,Entertainment
+1750007249.3483958,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Entertainment
+1750010987.830021,,facebook,Europe/Oslo,openedApp,False,,
+1750011107.830021,,facebook,Europe/Oslo,closedApp,False,,
+1750011107.8300219,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1750011257.012216,,instagram,Europe/Oslo,openedApp,False,,
+1750011437.012216,,instagram,Europe/Oslo,closedApp,False,,
+1750011437.012216,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1750014915.359067,,facebook,Europe/Oslo,openedApp,False,,
+1750015035.359067,,facebook,Europe/Oslo,closedApp,False,,
+1750015035.359067,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1750050904.230401,,facebook,Europe/Oslo,openedApp,False,,
+1750051024.230401,,facebook,Europe/Oslo,closedApp,False,,
+1750051024.230401,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1750056087.840119,,facebook,Europe/Oslo,openedApp,False,,
+1750056207.840119,,facebook,Europe/Oslo,closedApp,False,,
+1750056207.840119,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1750056994.533657,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Entertainment
+1750057830.724701,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750074098.9576569,,strava,Europe/Oslo,openedApp,False,,
+1750074278.957658,,strava,Europe/Oslo,closedApp,False,,
+1750074278.957658,,strava,Europe/Oslo,dismissedAppOpening,False,,
+1750075195.5476909,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Relax
+1750080816.359324,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Stay In the Loop
+1750086644.717526,,facebook,Europe/Oslo,openedApp,False,,
+1750086764.717526,,facebook,Europe/Oslo,closedApp,False,,
+1750086764.717526,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1750092405.589755,,facebook,Europe/Oslo,openedApp,False,,
+1750092525.589755,,facebook,Europe/Oslo,closedApp,False,,
+1750092525.589755,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1750094168.137454,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750094725.755495,,facebook,Europe/Oslo,openedApp,False,,
+1750094845.755495,,facebook,Europe/Oslo,closedApp,False,,
+1750094845.755495,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1750100935.0248852,breathingExercise,strava,Europe/Oslo,openedApp,False,1.5,Post something
+1750104288.8759289,breathingExercise,facebook,Europe/Oslo,openedApp,False,1.5,Search Info
+1750142338.245456,,strava,Europe/Oslo,openedApp,False,,
+1750142518.245456,,strava,Europe/Oslo,closedApp,False,,
+1750142518.245456,,strava,Europe/Oslo,dismissedAppOpening,False,,
+1750143276.027405,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750143873.020884,,instagram,Europe/Oslo,openedApp,False,,
+1750144173.020884,,instagram,Europe/Oslo,closedApp,False,,
+1750144173.020884,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1750143694.324966,,tikTok,Europe/Oslo,openedApp,False,,
+1750144294.324967,,tikTok,Europe/Oslo,closedApp,False,,
+1750144294.324967,,tikTok,Europe/Oslo,dismissedAppOpening,False,,
+1750144946.16623,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750160857.180523,,facebook,Europe/Oslo,openedApp,False,,
+1750160977.180523,,facebook,Europe/Oslo,closedApp,False,,
+1750160977.180523,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1750161497.107749,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750163792.760176,breathingExercise,facebook,Europe/Oslo,openedApp,False,1.5,Search Info
+1750166161.971977,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Search Info
+1750167205.026789,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750167589.5281081,,facebook,Europe/Oslo,openedApp,False,,
+1750167709.528109,,facebook,Europe/Oslo,closedApp,False,,
+1750167709.528109,,facebook,Europe/Oslo,dismissedAppOpening,False,,
+1750181268.810358,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750185580.79146,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Entertainment
+1750231587.121505,breathingExercise,strava,Europe/Oslo,openedApp,False,1.5,Post something
+1750240951.981538,,instagram,Europe/Oslo,openedApp,False,,
+1750241251.981538,,instagram,Europe/Oslo,closedApp,False,,
+1750241251.981538,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1750254534.443707,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750268107.898623,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Stay In the Loop
+1750268687.9183931,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Entertainment
+1750270428.790113,,instagram,Europe/Oslo,openedApp,False,,
+1750270728.790113,,instagram,Europe/Oslo,closedApp,False,,
+1750270728.790113,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1750272518.550551,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Entertainment
+1750314823.122353,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750336737.834436,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Search Info
+1750339061.742618,,strava,Europe/Oslo,openedApp,False,,
+1750339421.742618,,strava,Europe/Oslo,closedApp,False,,
+1750339421.742618,,strava,Europe/Oslo,dismissedAppOpening,False,,
+1750339127.8007479,,safari,Europe/Oslo,openedApp,False,,
+1750339727.8007479,,safari,Europe/Oslo,closedApp,False,,
+1750339727.8007479,,safari,Europe/Oslo,dismissedAppOpening,False,,
+1750340217.208243,breathingExercise,tikTok,Europe/Oslo,dismissedAppOpening,False,1.5,
+1750352191.7324529,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750359704.826974,,strava,Europe/Oslo,openedApp,False,,
+1750360064.826974,,strava,Europe/Oslo,closedApp,False,,
+1750360064.826974,,strava,Europe/Oslo,dismissedAppOpening,False,,
+1750364445.354121,,tikTok,Europe/Oslo,openedApp,False,,
+1750365045.354121,,tikTok,Europe/Oslo,closedApp,False,,
+1750365045.354121,,tikTok,Europe/Oslo,dismissedAppOpening,False,,
+1750366113.146295,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Stay In the Loop
+1750426272.1022558,,instagram,Europe/Oslo,openedApp,False,,
+1750426572.1022558,,instagram,Europe/Oslo,closedApp,False,,
+1750426572.1022558,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1750439548.519153,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750495062.0795631,breathingExercise,strava,Europe/Oslo,openedApp,False,1.5,Post something
+1750577255.485299,breathingExercise,safari,Europe/Oslo,openedApp,False,1.5,Search Info
+1750596705.704886,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Search Info
+1750616288.253979,,safari,Europe/Oslo,openedApp,False,,
+1750616888.2539802,,safari,Europe/Oslo,closedApp,False,,
+1750616888.2539802,,safari,Europe/Oslo,dismissedAppOpening,False,,
+1750617079.951498,breathingExercise,safari,Europe/Oslo,openedApp,False,1.5,Stay In the Loop
+1750618154.99973,breathingExercise,instagram,Europe/Oslo,dismissedAppOpening,False,1.5,
+1750618181.131486,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Search Info
+1750684217.760594,breathingExercise,safari,Europe/Oslo,openedApp,False,1.5,Search Info
+1750685348.0014749,breathingExercise,safari,Europe/Oslo,openedApp,False,1.5,Search Info
+1750699516.925407,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Stay In the Loop
+1750705782.385775,breathingExercise,strava,Europe/Oslo,dismissedAppOpening,False,1.5,
+1750705917.1678128,breathingExercise,strava,Europe/Oslo,openedApp,False,1.5,Post something
+1750706536.571554,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Post something
+1750705373.882934,,strava,Europe/Oslo,openedApp,False,,
+1750705733.882934,,strava,Europe/Oslo,closedApp,False,,
+1750705733.882934,,strava,Europe/Oslo,dismissedAppOpening,False,,
+1750758323.586359,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750793070.2399092,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Search Info
+1750844441.7605839,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Relax
+1750873835.050943,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Search Info
+1750876412.4691238,breathingExercise,instagram,Europe/Oslo,dismissedAppOpening,False,1.5,
+1750922647.5983748,breathingExercise,safari,Europe/Oslo,openedApp,False,1.5,Search Info
+1750924104.50322,breathingExercise,instagram,Europe/Oslo,openedApp,False,1.5,Search Info
+1750935490.9216099,breathingExercise,strava,Europe/Oslo,openedApp,False,1.5,Search Info
+1750935973.6102881,breathingExercise,strava,Europe/Oslo,openedApp,False,1.5,Search Info
+1750936554.634472,,instagram,Europe/Oslo,openedApp,False,,
+1750936854.6344728,,instagram,Europe/Oslo,closedApp,False,,
+1750936854.6344728,,instagram,Europe/Oslo,dismissedAppOpening,False,,
+1750937472.0093179,breathingExercise,tikTok,Europe/Oslo,openedApp,False,1.5,Breastfeeding
+1750938382.6944342,breathingExercise,strava,Europe/Oslo,openedApp,False,1.5,Entertainment

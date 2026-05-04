@@ -1,0 +1,4 @@
+resolution,app,timezone,isReIntervention,timestamp
+openedApp,tikTok,America/New_York,False,1751625289.124321
+closedApp,tikTok,America/New_York,False,1751625349.124322
+dismissedAppOpening,tikTok,America/New_York,False,1751625349.124322

@@ -1,0 +1,2 @@
+app,interventionDuration,timestamp,interventionType,isReIntervention,timezone,purpose,resolution
+tikTok,1.5,1750714981.413145,breathingExercise,False,Europe/Chisinau,Can’t sleep,openedApp

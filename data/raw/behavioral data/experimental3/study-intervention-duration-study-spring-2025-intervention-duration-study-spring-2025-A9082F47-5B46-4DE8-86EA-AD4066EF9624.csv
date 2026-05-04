@@ -1,0 +1,2 @@
+timestamp,interventionDuration,interventionType,resolution,app,timezone,isReIntervention
+1750535624.536069,3,breathingExercise,dismissedAppOpening,brave,Europe/Berlin,False

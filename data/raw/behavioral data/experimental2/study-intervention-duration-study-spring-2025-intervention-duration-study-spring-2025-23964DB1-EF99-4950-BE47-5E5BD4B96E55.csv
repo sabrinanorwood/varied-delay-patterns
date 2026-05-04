@@ -1,0 +1,11 @@
+purpose,interventionType,app,isReIntervention,timeIntervalUntilReIntervention,timezone,interventionDuration,resolution,timestamp,terminationReason
+Stay In the Loop,breathingExercise,instagram,0.0,180.0,Australia/Melbourne,1.5,openedApp,1750585188.339943,
+,breathingExercise,instagram,0.0,,Australia/Melbourne,1.5,dismissedAppOpening,1750585403.117173,
+,breathingExercise,youtube,0.0,,Australia/Melbourne,1.5,dismissedAppOpening,1750585423.463378,
+Bored,breathingExercise,youtube,0.0,240.0,Australia/Melbourne,1.5,openedApp,1750585433.3970351,
+,breathingExercise,instagram,0.0,,Australia/Melbourne,1.5,dismissedAppOpening,1750585555.677808,
+Stay In the Loop,breathingExercise,instagram,0.0,120.0,Australia/Melbourne,1.5,openedApp,1750587006.374744,
+,breathingExercise,instagram,0.0,,Australia/Melbourne,1.5,dismissedAppOpening,1750589072.037461,
+,breathingExercise,instagram,0.0,,Australia/Melbourne,1.5,dismissedAppOpening,1750589116.983335,
+,breathingExercise,instagram,0.0,,Australia/Melbourne,1.5,dismissedAppOpening,1750589140.379039,
+,,,,,,,,1750589233.631894,terminatedByUser

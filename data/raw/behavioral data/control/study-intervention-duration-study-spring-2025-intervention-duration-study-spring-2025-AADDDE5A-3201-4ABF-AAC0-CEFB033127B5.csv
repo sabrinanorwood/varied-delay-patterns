@@ -1,0 +1,38 @@
+interventionDuration,app,timezone,resolution,isReIntervention,timestamp,timeIntervalUntilReIntervention,interventionType,purpose
+6.0,instagram,Europe/Paris,openedApp,False,1752955760.088846,60.0,askForTimeLimit,
+6.0,instagram,Europe/Paris,dismissedAppOpening,False,1752956468.6842752,,askForTimeLimit,
+6.0,instagram,Europe/Paris,dismissedAppOpening,False,1752959398.902361,,askForTimeLimit,
+6.0,instagram,Europe/Paris,dismissedAppOpening,False,1752959806.310223,,askForTimeLimit,
+6.0,instagram,Europe/Paris,dismissedAppOpening,False,1752962875.547257,,askForTimeLimit,
+6.0,instagram,Europe/Paris,openedApp,False,1752995262.0249019,60.0,askForTimeLimit,
+6.0,instagram,Europe/Paris,openedApp,False,1752995361.684314,60.0,breathingExercise,Stay In the Loop
+6.0,instagram,Europe/Paris,openedApp,False,1753000763.141681,60.0,askForTimeLimit,
+6.0,instagram,Europe/Paris,openedApp,True,1753000857.38655,60.0,breathingExercise,Stay In the Loop
+6.0,instagram,Europe/Paris,openedApp,True,1753000939.7963839,60.0,breathingExercise,Stay In the Loop
+6.0,instagram,Europe/Paris,openedApp,False,1753007513.959807,60.0,askForTimeLimit,
+6.0,instagram,Europe/Paris,openedApp,False,1753020619.452112,60.0,askForTimeLimit,
+6.0,instagram,Europe/Paris,openedApp,False,1753020707.699823,60.0,breathingExercise,Stay In the Loop
+6.0,instagram,Europe/Paris,dismissedAppOpening,True,1753020782.137444,,breathingExercise,
+,instagram,Europe/Paris,openedApp,False,1753293818.6978369,,,
+,instagram,Europe/Paris,closedApp,False,1753294718.6978369,,,
+,instagram,Europe/Paris,dismissedAppOpening,False,1753294718.6978369,,,
+6.0,instagram,Europe/Paris,dismissedAppOpening,False,1753302705.949039,,breathingExercise,
+6.0,instagram,Europe/Paris,openedApp,False,1753306941.144238,,breathingExercise,Escape / Avoid
+6.0,instagram,Europe/Paris,openedApp,False,1753307818.9525208,,breathingExercise,Stalk crush
+6.0,instagram,Europe/Paris,dismissedAppOpening,False,1753308920.788697,,breathingExercise,
+,instagram,Europe/Paris,openedApp,False,1753339257.701654,,,
+,instagram,Europe/Paris,closedApp,False,1753340157.701654,,,
+,instagram,Europe/Paris,dismissedAppOpening,False,1753340157.701654,,,
+6.0,instagram,Europe/Paris,openedApp,False,1753340186.247843,,breathingExercise,Escape / Avoid
+6.0,instagram,Europe/Paris,openedApp,False,1753356201.806536,,breathingExercise,Search Info
+6.0,instagram,Europe/Paris,openedApp,False,1753389751.3227448,,breathingExercise,Bored
+6.0,instagram,Europe/Paris,openedApp,False,1753393634.275132,,breathingExercise,Stay In the Loop
+6.0,instagram,Europe/Paris,openedApp,False,1753559677.396328,,breathingExercise,Stay In the Loop
+6.0,instagram,Europe/Paris,openedApp,False,1753572490.427095,,breathingExercise,Can’t sleep
+6.0,instagram,Europe/Paris,openedApp,False,1753630126.465407,,breathingExercise,Message
+6.0,instagram,Europe/Paris,openedApp,False,1753648107.1748009,,breathingExercise,Post something
+6.0,instagram,Europe/Paris,dismissedAppOpening,False,1753726766.1123219,,breathingExercise,
+6.0,instagram,Europe/Paris,dismissedAppOpening,False,1753810401.642159,,breathingExercise,
+6.0,instagram,Europe/Paris,openedApp,False,1753896850.913711,,breathingExercise,Search Info
+6.0,instagram,Europe/Paris,openedApp,False,1753902925.579413,,breathingExercise,Message
+6.0,instagram,Europe/Paris,openedApp,False,1753941619.588007,,breathingExercise,Escape / Avoid

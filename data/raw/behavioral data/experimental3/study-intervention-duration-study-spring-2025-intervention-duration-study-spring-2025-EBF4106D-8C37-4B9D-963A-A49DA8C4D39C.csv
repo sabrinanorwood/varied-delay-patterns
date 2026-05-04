@@ -1,0 +1,2 @@
+app,timestamp,interventionType,resolution,isReIntervention,interventionDuration,timezone
+safari,1750986528.5244532,breathingExercise,dismissedAppOpening,False,3,Asia/Kolkata

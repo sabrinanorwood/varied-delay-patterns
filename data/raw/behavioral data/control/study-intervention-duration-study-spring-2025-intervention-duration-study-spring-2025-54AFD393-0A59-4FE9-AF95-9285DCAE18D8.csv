@@ -1,0 +1,2 @@
+timezone,interventionDuration,interventionType,app,timestamp,resolution,isReIntervention
+America/Chicago,6,breathingExercise,safari,1751206154.1947122,dismissedAppOpening,False

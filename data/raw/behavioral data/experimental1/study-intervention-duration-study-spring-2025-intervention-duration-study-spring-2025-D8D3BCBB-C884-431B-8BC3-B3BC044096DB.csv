@@ -1,0 +1,6 @@
+interventionType,timestamp,interventionDuration,resolution,timezone,isReIntervention,app,terminationReason
+breathingExercise,1750229566.603982,1.5,dismissedAppOpening,Europe/Kiev,0.0,telegram,
+breathingExercise,1750229666.283455,1.5,dismissedAppOpening,Europe/Kiev,0.0,telegram,
+breathingExercise,1750229795.153326,1.5,dismissedAppOpening,Europe/Kiev,0.0,telegram,
+breathingExercise,1750229802.152636,1.5,dismissedAppOpening,Europe/Kiev,0.0,facebook,
+,1750229825.131826,,,,,,terminatedByUser

@@ -1,0 +1,371 @@
+resolution,timezone,app,interventionDuration,timestamp,isReIntervention,interventionType,purpose
+dismissedAppOpening,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,6.0,1748786259.406348,False,breathingExercise,
+openedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,6.0,1748786315.318081,False,breathingExercise,Search Info
+dismissedAppOpening,Europe/Berlin,hackerNews,6.0,1748786383.077704,False,breathingExercise,
+openedApp,Europe/Berlin,hackerNews,6.0,1748786404.828072,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,hackerNews,6.0,1748786811.899117,False,breathingExercise,
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1748812193.145218,False,breathingExercise,Entertainment
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1748879423.93433,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1748881349.089981,False,breathingExercise,Entertainment
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1748881863.931437,False,breathingExercise,Entertainment
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1748882964.373077,False,breathingExercise,Escape / Avoid
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1748971693.2385402,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1748972504.5363688,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749041277.644973,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749041410.6346412,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749046716.495603,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749046923.666322,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749052573.501564,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749054258.94345,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749061192.102478,False,breathingExercise,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749061228.285347,False,breathingExercise,Escape / Avoid
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749064074.642642,False,breathingExercise,Search Info
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749065722.674248,False,breathingExercise,Escape / Avoid
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1748786320.8795881,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1748880061.702124,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1748880265.695617,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1748881487.873631,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1748882980.204472,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1748883204.904413,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1748974237.575283,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1748974267.367775,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1748974607.241558,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1748974724.881139,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749041321.3966799,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749043923.688169,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749046907.9116158,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749053258.298603,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749060811.40091,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749062758.4747338,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749062983.737149,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749063627.269825,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749063840.349011,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749063857.914847,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749065494.239177,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749066392.0460649,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748812278.319324,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748812381.996021,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748812402.936333,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748812411.299994,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748812502.9455662,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748812519.069782,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748812520.1853728,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748812520.8340101,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748812531.025943,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1748881867.52542,False,,
+closedApp,Europe/Berlin,hackerNews,,1748786415.7556338,False,,
+closedApp,Europe/Berlin,hackerNews,,1748786420.826669,False,,
+closedApp,Europe/Berlin,hackerNews,,1749046927.9878821,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749068197.726136,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749069105.463304,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749069152.547377,False,,
+dismissedAppOpening,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749122617.53273,False,breathingExercise,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749122684.787144,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749130610.7376652,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749132341.9112449,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749134211.51247,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749134465.42794,False,breathingExercise,Search Info
+openedApp,Europe/Berlin,hackerNews,6.0,1749134974.077101,False,breathingExercise,Bored
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749135192.460174,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749137439.409539,False,breathingExercise,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749137463.22184,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749141270.367076,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749148328.604198,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749191204.724616,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749193559.084084,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749194042.8197489,False,breathingExercise,
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749194067.08328,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749122696.365662,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749123031.587919,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749123054.888087,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749131495.6925812,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749134171.279115,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749134946.331114,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749136789.915937,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749137370.66345,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749145305.9225268,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749153958.649187,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749191245.828886,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749193196.492763,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193596.739402,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193618.348618,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193634.8029242,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193636.868649,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193666.985681,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193676.906876,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193678.1273599,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193681.62848,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193697.12143,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193705.1830158,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193714.7287068,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193743.082067,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193747.3418531,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193772.133133,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193909.032902,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193922.806359,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193949.293395,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193981.718935,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193984.429826,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193989.790636,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193991.050205,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193993.171066,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749193995.0632281,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749194090.1970658,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749194135.367838,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749194220.1984181,False,,
+closedApp,Europe/Berlin,hackerNews,,1749134224.564192,False,,
+closedApp,Europe/Berlin,hackerNews,,1749134984.245754,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749201165.336032,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749204938.047868,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749206943.333113,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749217114.0684361,False,breathingExercise,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749217131.221181,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749217516.88802,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749201170.243098,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749201407.303102,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749204973.8878431,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749207026.856673,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749207036.965118,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749217389.4031491,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749217538.79851,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749217586.4083838,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749217595.2701712,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749217645.822871,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749217649.207264,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749217686.471827,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749217909.5927892,False,,
+dismissedAppOpening,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749219365.3316832,False,breathingExercise,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749219417.48246,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749220719.2023082,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749221248.0849319,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749221258.7630548,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749221280.741631,False,,
+openedApp,Europe/Berlin,hackerNews,6.0,1749221300.175084,False,breathingExercise,Escape / Avoid
+closedApp,Europe/Berlin,hackerNews,,1749221308.806679,False,,
+closedApp,Europe/Berlin,hackerNews,,1749221328.942195,False,,
+closedApp,Europe/Berlin,hackerNews,,1749221332.178314,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749223347.6455522,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749223810.68507,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749225305.244876,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749225797.101069,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749231630.8704019,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749333820.6600208,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749335648.1302109,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749336078.772231,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749231676.772301,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749335103.36978,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336102.517187,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336121.376707,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336132.130505,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336132.946426,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336135.1433702,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336200.969075,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336202.4401479,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336212.713834,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336216.756139,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336234.907844,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336291.495391,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336295.171764,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336298.884748,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336302.553154,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336345.7760692,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336360.208833,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336382.229703,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336404.7332911,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749336407.842309,False,,
+openedApp,Europe/Berlin,hackerNews,6.0,1749336582.067491,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,hackerNews,,1749336591.2594972,False,,
+closedApp,Europe/Berlin,hackerNews,,1749336597.277368,False,,
+dismissedAppOpening,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749336860.543892,False,breathingExercise,
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749336882.523196,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,6.0,1749338552.93888,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749378860.7967339,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1749338579.538237,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1749338588.782692,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1749338645.538552,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1749338682.7170339,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749378888.405179,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749379159.982316,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749379374.384338,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749337495.366444,False,,
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749382141.304801,False,breathingExercise,Escape / Avoid
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749382290.157117,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749382721.4096131,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749382940.9432468,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749383298.600477,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749383407.177608,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749382179.874265,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749382702.009218,False,,
+closedApp,Europe/Berlin,hackerNews,,1749382728.432745,False,,
+closedApp,Europe/Berlin,hackerNews,,1749382742.829087,False,,
+closedApp,Europe/Berlin,hackerNews,,1749382958.554218,False,,
+closedApp,Europe/Berlin,hackerNews,,1749382961.1117811,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749392456.893361,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749395922.380058,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749400285.450664,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749393382.805491,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749396303.452167,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749400804.002657,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749405029.832608,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749405032.091714,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749406313.499121,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749406503.0518,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749406718.126151,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749408823.088304,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749410946.927979,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749467419.2266169,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749470796.2325501,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749475589.017191,False,breathingExercise,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749406677.279052,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749409167.640648,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749411052.9766111,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749467837.839905,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749471503.791384,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749406724.457942,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749406766.7292151,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749406767.86614,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749406835.5538092,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749406845.901279,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749406885.7965078,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749406895.443023,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749406905.391707,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749475607.3201652,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749476094.858416,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749476327.328398,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749475814.612642,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749476151.370244,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749476222.744207,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749476238.147197,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749476253.818042,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749476278.084372,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749476742.07409,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749477352.400717,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749477586.191411,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749480151.532332,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749486513.391238,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749486748.480912,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749500249.316206,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749500249.353534,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749505063.5676498,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,hackerNews,6.0,1749553980.8158169,False,breathingExercise,
+openedApp,Europe/Berlin,hackerNews,6.0,1749554002.528641,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749555388.067278,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749564103.595755,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749567016.1244311,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749567108.852888,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749572769.272454,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749477553.064272,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749480248.707388,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749505230.4654222,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749564109.1125221,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749573151.421794,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749486517.218282,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749486531.002619,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749486793.5971599,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749486827.29581,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749486893.7109509,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749486953.945973,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749486977.686232,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749486985.401273,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749486994.8309011,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749487133.662746,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749487148.1925058,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749487188.982338,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749487245.918095,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749487265.469938,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749487292.3717232,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749487347.769273,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749555392.4292889,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749555575.733141,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749555589.44913,False,,
+closedApp,Europe/Berlin,hackerNews,,1749477601.409359,False,,
+closedApp,Europe/Berlin,hackerNews,,1749477636.996519,False,,
+closedApp,Europe/Berlin,hackerNews,,1749500255.3625588,False,,
+closedApp,Europe/Berlin,hackerNews,,1749554012.977215,False,,
+closedApp,Europe/Berlin,hackerNews,,1749554027.567593,False,,
+closedApp,Europe/Berlin,hackerNews,,1749554039.1077461,False,,
+closedApp,Europe/Berlin,hackerNews,,1749554071.677474,False,,
+closedApp,Europe/Berlin,hackerNews,,1749554096.984788,False,,
+closedApp,Europe/Berlin,hackerNews,,1749554105.788796,False,,
+closedApp,Europe/Berlin,hackerNews,,1749567061.840863,False,,
+closedApp,Europe/Berlin,hackerNews,,1749567121.0584822,False,,
+openedApp,Europe/Berlin,hackerNews,6.0,1749579886.625587,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,hackerNews,6.0,1749579922.452555,False,breathingExercise,
+openedApp,Europe/Berlin,hackerNews,6.0,1749725182.446681,False,breathingExercise,Stay In the Loop
+closedApp,Europe/Berlin,hackerNews,,1749579892.822365,False,,
+closedApp,Europe/Berlin,hackerNews,,1749725206.223083,False,,
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749741816.4838262,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749752645.878675,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,zeitOnline,6.0,1749788755.666245,False,breathingExercise,
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749791139.152227,False,breathingExercise,Escape / Avoid
+openedApp,Europe/Berlin,hackerNews,6.0,1749824218.368705,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749824307.17597,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749824646.39825,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749824788.6762772,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749833825.114474,False,breathingExercise,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749741839.274825,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749824653.7297292,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749824865.359325,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749791143.774699,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749791149.444166,False,,
+closedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,,1749791179.413381,False,,
+closedApp,Europe/Berlin,hackerNews,,1749752665.382285,False,,
+closedApp,Europe/Berlin,hackerNews,,1749752680.8630471,False,,
+closedApp,Europe/Berlin,hackerNews,,1749824225.8844662,False,,
+closedApp,Europe/Berlin,hackerNews,,1749824334.199388,False,,
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749833880.272344,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,1F585C6F-BEEC-4167-BB99-0C109027C9A9,6.0,1749833881.5414119,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749842683.4247851,False,breathingExercise,Entertainment
+openedApp,Europe/Berlin,hackerNews,6.0,1749914041.411398,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,6.0,1749927137.690145,False,breathingExercise,Stay In the Loop
+openedApp,Europe/Berlin,hackerNews,6.0,1749956984.832913,False,breathingExercise,Stay In the Loop
+dismissedAppOpening,Europe/Berlin,hackerNews,6.0,1749957332.25519,False,breathingExercise,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010337.275204,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010345.402423,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010370.0948439,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010380.729564,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010454.6994,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010457.481981,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010460.05987,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010479.3077679,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010493.736933,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750010709.133656,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750338674.4179301,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750338679.1371288,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750338697.7434149,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750338699.0368261,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750338703.504308,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750338730.191242,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750338733.750406,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750339211.602603,False,,
+closedApp,Europe/Berlin,76A414B7-FCD8-4D56-B8E8-0F20DABD6466,,1750339369.241679,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749842702.83489,False,,
+closedApp,Europe/Berlin,CCC4B472-EA7A-4A61-9E1C-DFCFE73C6460,,1749927203.469491,False,,
+closedApp,Europe/Berlin,hackerNews,,1749914070.2947788,False,,
+closedApp,Europe/Berlin,hackerNews,,1749957008.032803,False,,
+closedApp,Europe/Berlin,hackerNews,,1749957420.8076,False,,
+closedApp,Europe/Berlin,hackerNews,,1749957626.621397,False,,
+closedApp,Europe/Berlin,hackerNews,,1749957707.568954,False,,
+closedApp,Europe/Berlin,hackerNews,,1749958004.726552,False,,
+closedApp,Europe/Berlin,hackerNews,,1749958012.299727,False,,
+closedApp,Europe/Berlin,hackerNews,,1749958147.721592,False,,
+closedApp,Europe/Berlin,hackerNews,,1749958389.081913,False,,
+closedApp,Europe/Berlin,hackerNews,,1749958440.58168,False,,
+closedApp,Europe/Berlin,hackerNews,,1749958451.623592,False,,
+closedApp,Europe/Berlin,hackerNews,,1749958455.4546251,False,,
+closedApp,Europe/Berlin,hackerNews,,1750010248.035178,False,,
+closedApp,Europe/Berlin,hackerNews,,1750010269.551999,False,,
+closedApp,Europe/Berlin,hackerNews,,1750010289.0374331,False,,
+closedApp,Europe/Berlin,hackerNews,,1750333746.490907,False,,
+closedApp,Europe/Berlin,hackerNews,,1750338646.8253899,False,,
+closedApp,Europe/Berlin,hackerNews,,1750415080.9333549,False,,
+closedApp,Europe/Berlin,hackerNews,,1750504531.4252129,False,,
+closedApp,Europe/Berlin,hackerNews,,1750504572.3782191,False,,
+closedApp,Europe/Berlin,hackerNews,,1750504605.306349,False,,
+closedApp,Europe/Berlin,hackerNews,,1750504628.3515139,False,,
+closedApp,Europe/Berlin,hackerNews,,1750505044.65504,False,,
+closedApp,Europe/Berlin,hackerNews,,1750505087.60982,False,,
+closedApp,Europe/Berlin,hackerNews,,1750505097.595066,False,,
+closedApp,Europe/Berlin,hackerNews,,1750505101.366384,False,,
+closedApp,Europe/Berlin,hackerNews,,1750505122.873688,False,,
+closedApp,Europe/Berlin,hackerNews,,1750517642.0416,False,,

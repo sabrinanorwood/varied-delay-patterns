@@ -1,0 +1,291 @@
+interventionDuration,timestamp,interventionType,app,resolution,timezone,isReIntervention,purpose,timeIntervalUntilReIntervention
+3.0,1750830506.813631,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+40.0,1750832748.701735,breathingExercise,shortcuts,openedApp,America/New_York,False,,
+3.0,1750854522.982312,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1750856192.8385801,breathingExercise,gmail,openedApp,America/New_York,False,Stay In the Loop,
+3.0,1750860252.9818559,breathingExercise,chrome,openedApp,America/New_York,False,Search Info,
+3.0,1750860387.205638,breathingExercise,chrome,openedApp,America/New_York,False,Search Info,
+3.0,1750860770.324934,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+40.0,1750861327.4576159,breathingExercise,shortcuts,openedApp,America/New_York,False,,
+3.0,1750866441.677487,breathingExercise,chrome,openedApp,America/New_York,False,Search Info,
+3.0,1750867936.467568,breathingExercise,gmail,openedApp,America/New_York,False,Message,
+40.0,1750868049.778861,breathingExercise,shortcuts,openedApp,America/New_York,False,,
+3.0,1750868409.356108,breathingExercise,amazon,dismissedAppOpening,America/New_York,False,,
+3.0,1750868530.821608,breathingExercise,amazon,dismissedAppOpening,America/New_York,False,,
+3.0,1750869371.608787,breathingExercise,D422F19A-EAA0-4A9B-82AC-29BD86B08C31,openedApp,America/New_York,False,Search Info,
+3.0,1750873453.212187,breathingExercise,gmail,openedApp,America/New_York,False,Search Info,60.0
+3.0,1750876095.639382,breathingExercise,gmail,openedApp,America/New_York,False,Search Info,300.0
+3.0,1750877053.321501,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1750884742.6716208,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1750884754.521793,breathingExercise,gmail,openedApp,America/New_York,False,Message,60.0
+3.0,1750884827.305182,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1750885106.293365,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1750885314.565998,breathingExercise,facebook,openedApp,America/New_York,False,Stay In the Loop,180.0
+3.0,1750885389.417121,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750885410.41004,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750885486.392597,breathingExercise,facebook,openedApp,America/New_York,False,Stay In the Loop,300.0
+3.0,1750887134.258733,breathingExercise,chrome,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750888669.1807961,breathingExercise,facebook,openedApp,America/New_York,False,Stay In the Loop,180.0
+3.0,1750890348.7824879,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750890361.106477,breathingExercise,gmail,openedApp,America/New_York,False,Message,60.0
+3.0,1750890986.821269,breathingExercise,chrome,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750891577.785141,breathingExercise,amazon,openedApp,America/New_York,False,Search Info,60.0
+3.0,1750891689.538796,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1750892182.2209148,breathingExercise,gmail,openedApp,America/New_York,False,Message,180.0
+3.0,1750892349.46272,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1750893016.241438,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1750893361.649518,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750893487.800888,breathingExercise,chrome,dismissedAppOpening,America/New_York,True,,
+3.0,1750893612.6334372,breathingExercise,tikTok,dismissedAppOpening,America/New_York,False,,
+3.0,1750893638.688633,breathingExercise,tikTok,dismissedAppOpening,America/New_York,False,,
+3.0,1750894462.50135,breathingExercise,chrome,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750894545.5507069,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1750894763.4779701,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750894791.515353,breathingExercise,chrome,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750895199.050272,breathingExercise,gmail,openedApp,America/New_York,False,Message,120.0
+3.0,1750896448.3961349,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750900629.0427408,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750900770.4309602,breathingExercise,chrome,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750901425.972168,breathingExercise,chrome,openedApp,America/New_York,True,Entertainment,600.0
+3.0,1750901787.088547,breathingExercise,chrome,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750902188.2909908,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1750902212.3890991,breathingExercise,chrome,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750902638.823594,breathingExercise,chrome,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750903085.715886,breathingExercise,amazon,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750903336.693887,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1750903409.2556639,breathingExercise,chrome,openedApp,America/New_York,False,Entertainment,
+3.0,1750903661.063767,breathingExercise,amazon,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750904288.289054,breathingExercise,amazon,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750906050.831311,breathingExercise,amazon,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750906258.319413,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750906319.544069,breathingExercise,chrome,openedApp,America/New_York,False,Entertainment,
+3.0,1750906450.050064,breathingExercise,amazon,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750907088.309943,breathingExercise,amazon,openedApp,America/New_York,True,Entertainment,600.0
+3.0,1750907251.420151,breathingExercise,chrome,openedApp,America/New_York,False,Entertainment,
+3.0,1750907703.4194899,breathingExercise,amazon,openedApp,America/New_York,False,Shop,600.0
+3.0,1750907741.578104,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750907795.5109282,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+40.0,1750907888.759068,breathingExercise,shortcuts,openedApp,America/New_York,False,,
+3.0,1750911161.202229,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750911984.330606,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750912208.9854832,breathingExercise,amazon,openedApp,America/New_York,False,Shop,600.0
+3.0,1750943335.2666469,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,300.0
+3.0,1750948512.366802,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1750949771.8740082,breathingExercise,amazon,dismissedAppOpening,America/New_York,False,,
+3.0,1750952619.299073,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1750954322.0304499,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1750960092.197711,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750963675.26911,breathingExercise,gmail,openedApp,America/New_York,False,Message,300.0
+3.0,1750968551.773665,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750972809.1013331,breathingExercise,facebook,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750977425.9013271,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750977432.784494,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750977446.679177,breathingExercise,facebook,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750978002.778782,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750978802.564845,breathingExercise,facebook,openedApp,America/New_York,False,Search Info,420.0
+3.0,1750979213.353936,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750979380.626597,breathingExercise,facebook,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750980657.354568,breathingExercise,amazon,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750990091.243351,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750990109.385984,breathingExercise,facebook,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750991315.339222,breathingExercise,facebook,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750991922.034795,breathingExercise,facebook,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750992385.686802,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750992390.514365,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1750993062.617024,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1750993817.333962,breathingExercise,tikTok,openedApp,America/New_York,False,Search Info,
+3.0,1750993897.1787,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1750996150.920919,breathingExercise,facebook,openedApp,America/New_York,False,Search Info,600.0
+3.0,1750996590.764945,breathingExercise,facebook,openedApp,America/New_York,False,Can’t sleep,480.0
+3.0,1750997537.093305,breathingExercise,tikTok,openedApp,America/New_York,False,Can’t sleep,
+3.0,1750998153.842606,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1750998765.561401,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1750999246.372514,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,420.0
+3.0,1750999631.4515529,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1751038605.8524032,breathingExercise,amazon,dismissedAppOpening,America/New_York,False,,
+3.0,1751041856.8193378,breathingExercise,gmail,openedApp,America/New_York,False,Escape / Avoid,300.0
+3.0,1751043536.761579,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751053748.891183,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751053756.610128,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751060647.009975,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751062567.998363,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1751063223.9437041,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751064991.369722,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751065778.320971,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751071253.726157,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751071572.039161,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751072773.313846,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751073119.797704,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751073289.7706208,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,300.0
+3.0,1751073519.360621,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751074877.535345,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751074949.6867862,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,300.0
+3.0,1751075628.4541469,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751075641.364054,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,300.0
+3.0,1751076223.373548,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,180.0
+3.0,1751077632.571166,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751077799.056536,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751077810.039607,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751078691.079927,breathingExercise,reddit,openedApp,America/New_York,False,Entertainment,
+3.0,1751078811.4820151,breathingExercise,amazon,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751079066.367121,breathingExercise,reddit,openedApp,America/New_York,False,Entertainment,
+3.0,1751079379.639574,breathingExercise,reddit,openedApp,America/New_York,False,Entertainment,
+3.0,1751079651.865909,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751079863.0452409,breathingExercise,amazon,dismissedAppOpening,America/New_York,False,,
+3.0,1751079884.103681,breathingExercise,amazon,openedApp,America/New_York,False,Entertainment,
+3.0,1751080016.006674,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751080760.657085,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1751081398.1659021,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1751083303.62187,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,300.0
+3.0,1751115870.318892,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751116098.640826,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751123124.432735,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751130189.1634002,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751130251.523732,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,300.0
+3.0,1751131575.983227,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751132143.739324,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751133273.9276161,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,300.0
+3.0,1751133623.99282,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751134312.663292,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751134898.069541,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751140775.1753879,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751141218.202882,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751141244.2775378,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,300.0
+3.0,1751141951.1935859,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751144001.900322,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751145660.619113,breathingExercise,facebook,openedApp,America/New_York,False,Escape / Avoid,600.0
+3.0,1751146672.4915118,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,360.0
+3.0,1751147818.568184,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,180.0
+3.0,1751149059.455416,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751149578.026454,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751155717.544858,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751155734.906141,breathingExercise,facebook,openedApp,America/New_York,False,Escape / Avoid,600.0
+3.0,1751158559.537391,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751159895.5716019,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751160952.559104,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751161603.1181378,breathingExercise,amazon,openedApp,America/New_York,False,Entertainment,
+3.0,1751163107.317127,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751163752.650583,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1751164380.248725,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1751167829.368573,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751169173.417583,breathingExercise,facebook,openedApp,America/New_York,False,Entertainment,600.0
+3.0,1751171556.9997559,breathingExercise,tikTok,openedApp,America/New_York,False,Entertainment,
+3.0,1751201485.777923,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,300.0
+3.0,1751206586.317762,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+3.0,1751206841.801529,breathingExercise,amazon,openedApp,America/New_York,False,Entertainment,
+3.0,1751209570.0672588,breathingExercise,gmail,openedApp,America/New_York,False,Entertainment,180.0
+3.0,1751210427.765177,breathingExercise,facebook,dismissedAppOpening,America/New_York,False,,
+3.0,1751210472.738874,breathingExercise,D422F19A-EAA0-4A9B-82AC-29BD86B08C31,openedApp,America/New_York,False,Search Info,
+3.0,1751211474.341558,breathingExercise,D422F19A-EAA0-4A9B-82AC-29BD86B08C31,openedApp,America/New_York,False,Entertainment,
+3.0,1751213098.593464,breathingExercise,gmail,dismissedAppOpening,America/New_York,False,,
+40.0,1751213192.51995,breathingExercise,shortcuts,openedApp,America/New_York,False,,
+3.0,1751215971.2770119,breathingExercise,D422F19A-EAA0-4A9B-82AC-29BD86B08C31,openedApp,America/New_York,False,Entertainment,
+40.0,1751261007.2520971,breathingExercise,shortcuts,openedApp,America/New_York,False,,
+3.0,1751300607.876363,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751315582.9666061,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+,1751315306.791815,,chrome,openedApp,America/New_York,False,,
+,1751315906.791816,,chrome,closedApp,America/New_York,False,,
+,1751315906.791816,,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751315929.092349,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751325964.966043,breathingExercise,facebook,openedApp,America/New_York,False,,
+3.0,1751333985.8272018,breathingExercise,tikTok,openedApp,America/New_York,False,,
+,1751333991.1625118,,tikTok,openedApp,America/New_York,False,,
+,1751334591.1625118,,tikTok,closedApp,America/New_York,False,,
+,1751334591.1625118,,tikTok,dismissedAppOpening,America/New_York,False,,
+3.0,1751410330.602221,breathingExercise,facebook,openedApp,America/New_York,False,,
+3.0,1751506709.871138,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751511459.9550838,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751516552.2903008,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751519748.392863,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751521854.7597718,breathingExercise,instagram,openedApp,America/New_York,False,,
+3.0,1751522043.497882,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751523016.7731938,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751524602.4004931,breathingExercise,tikTok,openedApp,America/New_York,False,,
+3.0,1751552396.599835,breathingExercise,chrome,openedApp,America/New_York,False,,
+,1751573021.472954,,chrome,openedApp,America/New_York,False,,
+,1751573081.472955,,chrome,closedApp,America/New_York,False,,
+,1751573081.472955,,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751574382.8375568,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751585821.993771,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751586138.861074,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751591381.4366899,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751597523.4251208,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751608357.601305,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751635134.1554332,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751636222.952493,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751746017.620573,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751762045.49514,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751762063.463666,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751768276.656564,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751768594.264575,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751768936.616703,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751768988.791304,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751773520.1524239,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751774825.332958,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751810799.9842,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751820338.265095,breathingExercise,chrome,openedApp,America/New_York,False,,
+,1751833831.7945108,,chrome,openedApp,America/New_York,False,,
+,1751833891.7945108,,chrome,closedApp,America/New_York,False,,
+,1751833891.7945108,,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751833903.217953,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+,1751919509.450047,,chrome,openedApp,America/New_York,False,,
+,1751919569.450048,,chrome,closedApp,America/New_York,False,,
+,1751919569.450048,,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751919664.566757,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751922329.624084,breathingExercise,chrome,openedApp,America/New_York,False,,
+,1751926623.441807,,chrome,openedApp,America/New_York,False,,
+,1751926683.441807,,chrome,closedApp,America/New_York,False,,
+,1751926683.441807,,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751927174.659632,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751927872.0481691,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751929271.173728,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+3.0,1751929899.25215,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751980932.657999,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751992839.904622,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1751994627.087985,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1752004768.658973,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1752005813.063175,breathingExercise,youtube,dismissedAppOpening,America/New_York,False,,
+3.0,1752006510.956211,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1752020849.930459,breathingExercise,chrome,openedApp,America/New_York,False,,
+3.0,1752025654.0870628,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+6.0,1752067934.1801639,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+6.0,1752097160.048612,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752162404.339766,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752179290.040403,breathingExercise,chrome,openedApp,America/New_York,False,,
+,1752191284.152736,,chrome,openedApp,America/New_York,False,,
+,1752191344.152736,,chrome,closedApp,America/New_York,False,,
+,1752191344.152736,,chrome,dismissedAppOpening,America/New_York,False,,
+6.0,1752191362.4139838,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752201084.169781,breathingExercise,facebook,openedApp,America/New_York,False,,
+6.0,1752201896.434488,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752202224.8021,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752203121.3656669,breathingExercise,youtube,openedApp,America/New_York,False,,
+6.0,1752208145.163571,breathingExercise,facebook,openedApp,America/New_York,False,,
+6.0,1752208457.1530151,breathingExercise,instagram,dismissedAppOpening,America/New_York,False,,
+6.0,1752262184.514207,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752266649.105514,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752268251.48141,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752275586.073442,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752327890.8425632,breathingExercise,chrome,openedApp,America/New_York,False,,
+,1752328399.746712,,facebook,openedApp,America/New_York,False,,
+,1752328699.7467132,,facebook,closedApp,America/New_York,False,,
+,1752328699.7467132,,facebook,dismissedAppOpening,America/New_York,False,,
+6.0,1752328730.260446,breathingExercise,facebook,openedApp,America/New_York,False,,
+6.0,1752329491.8915892,breathingExercise,tikTok,dismissedAppOpening,America/New_York,False,,
+6.0,1752342255.2953448,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752344281.669911,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752344602.747725,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752345064.675571,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752347141.513762,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752386270.611816,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752386482.4266891,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752436889.114036,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752436889.3791509,breathingExercise,chrome,dismissedAppOpening,America/New_York,False,,
+6.0,1752442781.141537,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752445014.251261,breathingExercise,facebook,openedApp,America/New_York,False,,
+6.0,1752445327.8754969,breathingExercise,chrome,openedApp,America/New_York,False,,
+6.0,1752446391.9362211,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752462809.2193232,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752464669.624413,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752465921.1282868,breathingExercise,tikTok,openedApp,America/New_York,False,,
+6.0,1752469770.429671,breathingExercise,tikTok,openedApp,America/New_York,False,,

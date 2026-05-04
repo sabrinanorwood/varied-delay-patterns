@@ -1,0 +1,9 @@
+resolution,timestamp,isReIntervention,timezone,app,purpose,interventionDuration,interventionType,terminationReason
+openedApp,1749946689.4095159,0.0,America/Chicago,reddit,,,,
+closedApp,1749946749.409517,0.0,America/Chicago,reddit,,,,
+dismissedAppOpening,1749946749.409517,0.0,America/Chicago,reddit,,,,
+openedApp,1749946694.9439158,0.0,America/Chicago,reddit,,,,
+closedApp,1749946754.943917,0.0,America/Chicago,reddit,,,,
+dismissedAppOpening,1749946754.943917,0.0,America/Chicago,reddit,,,,
+openedApp,1749968298.315639,0.0,America/Chicago,reddit,Search Info,6.0,breathingExercise,
+,1749968709.196539,,,,,,,terminatedByUser

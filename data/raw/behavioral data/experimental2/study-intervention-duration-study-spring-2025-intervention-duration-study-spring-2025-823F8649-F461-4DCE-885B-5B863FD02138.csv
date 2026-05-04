@@ -1,0 +1,501 @@
+interventionDuration,isReIntervention,app,resolution,timestamp,interventionType,timezone,purpose
+1.5,False,instagram,openedApp,1749304730.5826979,breathingExercise,Europe/Prague,
+1.5,False,instagram,openedApp,1749329234.145843,breathingExercise,Europe/Prague,Escape / Avoid
+1.5,False,facebook,openedApp,1749329298.830765,breathingExercise,Europe/Prague,Escape / Avoid
+1.5,False,linkedin,openedApp,1749329342.0423799,breathingExercise,Europe/Prague,Escape / Avoid
+1.5,False,facebook,openedApp,1749333195.2644758,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1749335305.748358,breathingExercise,Europe/Prague,
+1.5,False,twitter,openedApp,1749336722.5408258,breathingExercise,Europe/Prague,Entertainment
+1.5,False,twitter,dismissedAppOpening,1749357397.089267,breathingExercise,Europe/Prague,
+1.5,False,twitter,openedApp,1749357415.865758,breathingExercise,Europe/Prague,News
+1.5,False,facebook,dismissedAppOpening,1749368468.485026,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749373051.1027,breathingExercise,Europe/Prague,Relax
+1.5,False,facebook,dismissedAppOpening,1749387356.166826,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749395606.646523,breathingExercise,Europe/Prague,
+1.5,False,instagram,dismissedAppOpening,1749395670.9054542,breathingExercise,Europe/Prague,
+1.5,False,linkedin,openedApp,1749399871.211419,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,openedApp,1749399888.566473,breathingExercise,Europe/Prague,Entertainment
+1.5,False,facebook,dismissedAppOpening,1749410369.4942322,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749416340.047948,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749453214.189767,breathingExercise,Europe/Prague,
+1.5,False,linkedin,openedApp,1749453225.866252,breathingExercise,Europe/Prague,Relax
+1.5,False,facebook,dismissedAppOpening,1749453564.81284,breathingExercise,Europe/Prague,
+1.5,False,instagram,dismissedAppOpening,1749453585.162125,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749462036.017058,breathingExercise,Europe/Prague,
+1.5,False,linkedin,dismissedAppOpening,1749462042.258559,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749462067.842828,breathingExercise,Europe/Prague,
+1.5,False,instagram,dismissedAppOpening,1749462081.4630609,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749470313.989036,breathingExercise,Europe/Prague,Relax
+1.5,False,linkedin,dismissedAppOpening,1749470330.612608,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749474526.872556,breathingExercise,Europe/Prague,Relax
+1.5,False,facebook,dismissedAppOpening,1749475348.186864,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749475361.4651442,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,dismissedAppOpening,1749481872.60372,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749489280.7696218,breathingExercise,Europe/Prague,Search Info
+1.5,False,linkedin,openedApp,1749489348.994705,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,dismissedAppOpening,1749489590.8634028,breathingExercise,Europe/Prague,
+1.5,False,instagram,openedApp,1749489599.8193622,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,openedApp,1749489656.741982,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,dismissedAppOpening,1749489842.578665,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749494661.256164,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,openedApp,1749495685.64729,breathingExercise,Europe/Prague,Toilet
+1.5,False,facebook,openedApp,1749495944.18595,breathingExercise,Europe/Prague,Toilet
+1.5,False,twitter,openedApp,1749502438.809082,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,openedApp,1749528602.076267,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,dismissedAppOpening,1749533781.9536428,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749553448.2705112,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1749560122.551715,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749569355.2947822,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,openedApp,1749574332.858654,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1749580808.631736,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749588867.987566,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,dismissedAppOpening,1749589530.6477032,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749590915.432791,breathingExercise,Europe/Prague,Relax
+1.5,False,instagram,openedApp,1749614381.9507818,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1749615056.569495,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749625702.817769,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749625743.433548,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749647887.131629,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749649646.2146502,breathingExercise,Europe/Prague,
+1.5,False,twitter,openedApp,1749654387.9975019,breathingExercise,Europe/Prague,News
+1.5,False,twitter,openedApp,1749655116.994484,breathingExercise,Europe/Prague,News
+1.5,False,facebook,openedApp,1749678560.027715,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1749679420.062145,breathingExercise,Europe/Prague,
+1.5,False,twitter,openedApp,1749679491.897901,breathingExercise,Europe/Prague,News
+1.5,False,facebook,dismissedAppOpening,1749700026.641117,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749714002.094514,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749735148.547799,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749738246.979223,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,facebook,openedApp,1749748664.922394,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,linkedin,openedApp,1749748692.771257,breathingExercise,Europe/Prague,Relax
+1.5,False,facebook,openedApp,1749757539.297791,breathingExercise,Europe/Prague,Entertainment
+1.5,False,facebook,openedApp,1749757781.384434,breathingExercise,Europe/Prague,Search Info
+1.5,False,linkedin,dismissedAppOpening,1749758162.9393911,breathingExercise,Europe/Prague,
+1.5,False,instagram,openedApp,1749762915.35129,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,facebook,openedApp,1749787308.395936,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,linkedin,dismissedAppOpening,1749787444.5613952,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749813688.468505,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749823817.267281,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749824340.9556808,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749824752.785425,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749825989.558712,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,dismissedAppOpening,1749837193.1129189,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749838567.0855532,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749840171.992447,breathingExercise,Europe/Prague,
+1.5,False,instagram,openedApp,1749876038.0632548,breathingExercise,Europe/Prague,Search Info
+1.5,False,linkedin,dismissedAppOpening,1749876634.625799,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749889581.590726,breathingExercise,Europe/Prague,
+1.5,False,instagram,openedApp,1749900322.719674,breathingExercise,Europe/Prague,Search Info
+1.5,False,instagram,openedApp,1749901881.7409282,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,openedApp,1749917338.3835158,breathingExercise,Europe/Prague,Search Info
+1.5,False,instagram,dismissedAppOpening,1749918753.044565,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749921957.734486,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749923840.64963,breathingExercise,Europe/Prague,
+1.5,False,linkedin,openedApp,1749923859.009457,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,dismissedAppOpening,1749927398.261101,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749934115.6981258,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749934425.987073,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749966308.531588,breathingExercise,Europe/Prague,
+1.5,False,linkedin,openedApp,1749971510.6866279,breathingExercise,Europe/Prague,Relax
+1.5,False,linkedin,openedApp,1749971942.984445,breathingExercise,Europe/Prague,Search Info
+1.5,False,linkedin,dismissedAppOpening,1749972709.764779,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749974105.1908221,breathingExercise,Europe/Prague,
+1.5,False,linkedin,dismissedAppOpening,1749979010.300901,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749988273.221668,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749988284.94566,breathingExercise,Europe/Prague,Relax
+1.5,False,instagram,dismissedAppOpening,1749988838.553627,breathingExercise,Europe/Prague,
+1.5,False,instagram,openedApp,1749992011.248708,breathingExercise,Europe/Prague,Entertainment
+1.5,False,facebook,dismissedAppOpening,1749994350.1704168,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1749994358.361337,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1749996528.9918509,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,dismissedAppOpening,1750006426.666951,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1750007391.130625,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,openedApp,1750016824.0398989,breathingExercise,Europe/Prague,Relax
+1.5,False,facebook,openedApp,1750018311.508679,breathingExercise,Europe/Prague,Relax
+1.5,False,facebook,openedApp,1750043821.179397,breathingExercise,Europe/Prague,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1750051323.933535,breathingExercise,Europe/Prague,
+1.5,False,facebook,dismissedAppOpening,1750051346.7818809,breathingExercise,Europe/Prague,
+1.5,False,facebook,openedApp,1750053622.733325,breathingExercise,Europe/Prague,Search Info
+1.5,False,facebook,dismissedAppOpening,1750054157.574802,breathingExercise,Europe/Prague,
+1.5,False,linkedin,dismissedAppOpening,1750063730.371603,breathingExercise,Europe/Berlin,
+1.5,False,facebook,dismissedAppOpening,1750101929.2336168,breathingExercise,America/New_York,
+1.5,False,instagram,dismissedAppOpening,1750106600.297694,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750113213.055172,breathingExercise,America/New_York,
+1.5,False,linkedin,openedApp,1750113509.0107,breathingExercise,America/New_York,Relax
+1.5,False,facebook,dismissedAppOpening,1750113753.7700372,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750118797.9753718,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750122155.73286,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750122374.416136,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750153846.4126,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,facebook,openedApp,1750154192.481382,breathingExercise,America/New_York,Search Info
+1.5,False,instagram,dismissedAppOpening,1750155021.374176,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750158238.9857259,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750165834.248949,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750189810.8714209,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750196805.371448,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750196904.857589,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750199040.764587,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750199183.588985,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1750200272.57778,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750203924.30638,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750204592.7773662,breathingExercise,America/New_York,Relax
+1.5,False,linkedin,openedApp,1750204606.300878,breathingExercise,America/New_York,Search Info
+1.5,False,facebook,dismissedAppOpening,1750212421.419028,breathingExercise,America/New_York,
+1.5,False,instagram,openedApp,1750212444.030431,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,twitter,openedApp,1750213581.821548,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1750216423.25732,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750237618.772162,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750238517.620652,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750241754.869488,breathingExercise,America/New_York,
+1.5,False,facebook,dismissedAppOpening,1750245518.91652,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750247976.051836,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,facebook,openedApp,1750253580.146925,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1750269239.978239,breathingExercise,America/New_York,
+1.5,False,linkedin,dismissedAppOpening,1750284417.700278,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750291245.4990711,breathingExercise,America/New_York,Relax
+1.5,False,facebook,openedApp,1750291809.80532,breathingExercise,America/New_York,Post something
+1.5,False,facebook,openedApp,1750292069.894998,breathingExercise,America/New_York,Post something
+1.5,False,facebook,openedApp,1750292831.3052192,breathingExercise,America/New_York,Post something
+1.5,False,facebook,dismissedAppOpening,1750294468.929411,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750295534.656094,breathingExercise,America/New_York,Search Info
+1.5,False,facebook,openedApp,1750296053.665298,breathingExercise,America/New_York,Search Info
+1.5,False,facebook,openedApp,1750324444.941903,breathingExercise,America/New_York,Search Info
+1.5,False,instagram,dismissedAppOpening,1750324546.835016,breathingExercise,America/New_York,
+1.5,False,linkedin,dismissedAppOpening,1750324550.253181,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750325677.222044,breathingExercise,America/New_York,Search Info
+1.5,False,facebook,openedApp,1750328483.0247722,breathingExercise,America/New_York,Search Info
+1.5,False,facebook,openedApp,1750338906.820243,breathingExercise,America/New_York,Search Info
+1.5,False,facebook,openedApp,1750340971.130518,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1750345245.485678,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750346924.69206,breathingExercise,America/New_York,Escape / Avoid
+1.5,False,facebook,openedApp,1750351762.0274758,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,facebook,openedApp,1750360303.355523,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,linkedin,dismissedAppOpening,1750364190.180255,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750364292.569504,breathingExercise,America/New_York,Relax
+1.5,False,instagram,dismissedAppOpening,1750364481.878397,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750367619.8709311,breathingExercise,America/New_York,Relax
+1.5,False,facebook,dismissedAppOpening,1750375384.2592468,breathingExercise,America/New_York,
+1.5,False,twitter,dismissedAppOpening,1750375490.3175411,breathingExercise,America/New_York,
+1.5,False,instagram,dismissedAppOpening,1750375616.436555,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750377583.643022,breathingExercise,America/New_York,Search Info
+1.5,False,facebook,dismissedAppOpening,1750409029.8859,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750409146.878973,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,facebook,openedApp,1750416378.859346,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,facebook,dismissedAppOpening,1750427498.72686,breathingExercise,America/New_York,
+1.5,False,twitter,dismissedAppOpening,1750436129.240879,breathingExercise,America/New_York,
+1.5,False,facebook,openedApp,1750460351.940191,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,linkedin,openedApp,1750460784.1180282,breathingExercise,America/New_York,Relax
+1.5,False,facebook,openedApp,1750461404.399804,breathingExercise,America/New_York,Stay In the Loop
+1.5,False,instagram,dismissedAppOpening,1750462026.111815,breathingExercise,America/New_York,
+1.5,False,linkedin,openedApp,1750462318.863986,breathingExercise,America/New_York,Relax
+6.0,False,facebook,dismissedAppOpening,1750500251.164644,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750501126.200934,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,openedApp,1750502770.433501,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1750503678.3607411,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750509139.604443,breathingExercise,America/New_York,Search Info
+6.0,False,linkedin,dismissedAppOpening,1750529888.761298,breathingExercise,America/New_York,
+6.0,False,linkedin,openedApp,1750529981.720399,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,linkedin,dismissedAppOpening,1750534190.29461,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750538035.718579,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750538183.511328,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1750538599.556104,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750538616.27243,breathingExercise,America/New_York,Relax
+6.0,False,facebook,dismissedAppOpening,1750539211.327825,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750542575.687573,breathingExercise,America/New_York,
+6.0,False,linkedin,openedApp,1750543506.38699,breathingExercise,America/New_York,Relax
+6.0,False,facebook,dismissedAppOpening,1750560860.108955,breathingExercise,America/New_York,
+6.0,False,instagram,dismissedAppOpening,1750562100.878757,breathingExercise,America/New_York,
+6.0,False,instagram,openedApp,1750588423.617975,breathingExercise,America/New_York,Search Info
+6.0,False,facebook,dismissedAppOpening,1750588648.936582,breathingExercise,America/New_York,
+6.0,False,linkedin,openedApp,1750590899.185334,breathingExercise,America/New_York,Relax
+6.0,False,facebook,openedApp,1750592688.421716,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1750596933.605867,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750606236.391351,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750611615.761822,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,openedApp,1750612566.425609,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,instagram,dismissedAppOpening,1750620669.2254272,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750630467.8354301,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,twitter,openedApp,1750630639.84339,breathingExercise,America/New_York,News
+6.0,False,twitter,openedApp,1750647202.659185,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1750647964.351373,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750674986.990244,breathingExercise,America/New_York,
+6.0,False,linkedin,openedApp,1750675953.678992,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1750677913.089567,breathingExercise,America/New_York,
+6.0,False,instagram,dismissedAppOpening,1750691611.127279,breathingExercise,America/New_York,
+6.0,False,instagram,openedApp,1750694394.804035,breathingExercise,America/New_York,Escape / Avoid
+6.0,False,instagram,dismissedAppOpening,1750696239.310141,breathingExercise,America/New_York,
+6.0,False,instagram,dismissedAppOpening,1750696715.495913,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750698607.081665,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750707249.76339,breathingExercise,America/New_York,Relax
+6.0,False,facebook,openedApp,1750710043.2841182,breathingExercise,America/New_York,Search Info
+6.0,False,twitter,dismissedAppOpening,1750713132.8033,breathingExercise,America/New_York,
+6.0,False,linkedin,dismissedAppOpening,1750713402.8647861,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750721461.092618,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750723395.604152,breathingExercise,America/New_York,
+6.0,False,twitter,dismissedAppOpening,1750724101.031692,breathingExercise,America/New_York,
+6.0,False,linkedin,dismissedAppOpening,1750724946.165156,breathingExercise,America/New_York,
+6.0,False,twitter,openedApp,1750726052.7210279,breathingExercise,America/New_York,Search Info
+6.0,False,facebook,openedApp,1750729841.717565,breathingExercise,America/New_York,Search Info
+6.0,False,instagram,dismissedAppOpening,1750730289.721717,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750730305.454016,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1750730726.2868161,breathingExercise,America/New_York,
+6.0,False,linkedin,openedApp,1750760951.219552,breathingExercise,America/New_York,Relax
+6.0,False,facebook,dismissedAppOpening,1750761660.360785,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750765371.322433,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750766612.704897,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750785317.257474,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750793710.991708,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750794572.380655,breathingExercise,America/New_York,Entertainment
+6.0,False,facebook,dismissedAppOpening,1750795555.183465,breathingExercise,America/New_York,
+6.0,False,facebook,openedApp,1750795575.935892,breathingExercise,America/New_York,Search Info
+6.0,False,facebook,dismissedAppOpening,1750796346.230356,breathingExercise,America/New_York,
+6.0,False,instagram,dismissedAppOpening,1750846199.394291,breathingExercise,America/New_York,
+6.0,False,instagram,openedApp,1750846220.739728,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,openedApp,1750846340.5926862,breathingExercise,America/New_York,Relax
+6.0,False,facebook,dismissedAppOpening,1750846881.061298,breathingExercise,America/New_York,
+6.0,False,linkedin,openedApp,1750847261.696151,breathingExercise,America/New_York,Relax
+6.0,False,facebook,dismissedAppOpening,1750855260.1113858,breathingExercise,America/New_York,
+6.0,False,linkedin,dismissedAppOpening,1750857020.837569,breathingExercise,America/New_York,
+6.0,False,instagram,openedApp,1750857846.391055,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1750857949.0067868,breathingExercise,America/New_York,
+6.0,False,instagram,dismissedAppOpening,1750868345.709538,breathingExercise,America/New_York,
+6.0,False,instagram,openedApp,1750870517.32684,breathingExercise,America/New_York,Search Info
+6.0,False,facebook,openedApp,1750903153.256335,breathingExercise,America/New_York,Stay In the Loop
+6.0,False,linkedin,openedApp,1750903555.138245,breathingExercise,America/New_York,Search Info
+6.0,False,linkedin,dismissedAppOpening,1750931110.608048,breathingExercise,America/New_York,
+6.0,False,linkedin,openedApp,1750931297.140827,breathingExercise,America/New_York,Search Info
+6.0,False,facebook,openedApp,1750932631.823403,breathingExercise,America/New_York,Relax
+6.0,False,linkedin,openedApp,1750932974.987239,breathingExercise,America/New_York,Relax
+6.0,False,facebook,dismissedAppOpening,1750940304.2101521,breathingExercise,America/New_York,
+6.0,False,linkedin,dismissedAppOpening,1750944816.42921,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750959661.6851358,breathingExercise,America/New_York,
+6.0,False,linkedin,dismissedAppOpening,1750961924.615275,breathingExercise,America/New_York,
+6.0,False,facebook,dismissedAppOpening,1750963234.152178,breathingExercise,America/New_York,
+6.0,False,instagram,openedApp,1750963278.664058,breathingExercise,America/New_York,Relax
+6.0,False,facebook,dismissedAppOpening,1750995473.654299,breathingExercise,Europe/Berlin,
+6.0,False,facebook,openedApp,1750995559.065907,breathingExercise,Europe/Berlin,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1750996213.759862,breathingExercise,Europe/Berlin,
+6.0,False,linkedin,dismissedAppOpening,1750996217.004963,breathingExercise,Europe/Berlin,
+6.0,False,facebook,dismissedAppOpening,1750999203.868023,breathingExercise,Europe/Berlin,
+6.0,False,facebook,dismissedAppOpening,1751006396.970573,breathingExercise,Europe/Prague,
+6.0,False,instagram,dismissedAppOpening,1751006505.242144,breathingExercise,Europe/Prague,
+6.0,False,linkedin,dismissedAppOpening,1751010319.205899,breathingExercise,Europe/Prague,
+6.0,False,linkedin,openedApp,1751010338.1542602,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,dismissedAppOpening,1751024477.509069,breathingExercise,Europe/Prague,
+6.0,False,linkedin,dismissedAppOpening,1751030698.126803,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751062826.494297,breathingExercise,Europe/Prague,Entertainment
+6.0,False,twitter,openedApp,1751073396.350968,breathingExercise,Europe/Prague,News
+6.0,False,linkedin,openedApp,1751094174.631298,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1751097147.805187,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751097480.289764,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751108090.0419412,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751108543.830552,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751109541.8801231,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751138260.9667401,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1751177487.581891,breathingExercise,Europe/Prague,Toilet
+6.0,False,facebook,dismissedAppOpening,1751190254.796956,breathingExercise,Europe/Prague,
+6.0,False,linkedin,openedApp,1751190275.375184,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,dismissedAppOpening,1751193927.790525,breathingExercise,Europe/Prague,
+6.0,False,linkedin,openedApp,1751193945.555428,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751222502.002912,breathingExercise,Europe/Prague,Stalk crush
+6.0,False,instagram,openedApp,1751222631.205779,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1751223210.17492,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,dismissedAppOpening,1751252218.601793,breathingExercise,Europe/Prague,
+6.0,False,linkedin,dismissedAppOpening,1751252227.346013,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751286458.328507,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1751307708.484504,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751318391.320486,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1751345915.696622,breathingExercise,Europe/Prague,Post something
+6.0,False,facebook,openedApp,1751347833.471484,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,instagram,openedApp,1751347982.798234,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1751349708.377888,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,linkedin,openedApp,1751353237.053351,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751356392.308909,breathingExercise,Europe/Prague,Post something
+6.0,False,facebook,dismissedAppOpening,1751357703.0035691,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751361521.0654712,breathingExercise,Europe/Prague,Post something
+6.0,False,instagram,openedApp,1751372677.146333,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,dismissedAppOpening,1751374977.8130531,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751377605.326356,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,instagram,openedApp,1751381252.060574,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1751392864.913296,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1751402106.248239,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751402289.274153,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,linkedin,openedApp,1751443532.787626,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,dismissedAppOpening,1751444604.146148,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751444635.4227061,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751487587.373258,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751487837.66996,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751488377.649343,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1751488683.8344111,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1751488703.7438378,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751514002.47809,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,dismissedAppOpening,1751515730.890131,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751523732.094325,breathingExercise,Europe/Prague,
+6.0,False,instagram,dismissedAppOpening,1751523747.524663,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751533686.278256,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751547989.5435162,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,dismissedAppOpening,1751548204.178339,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1751553525.881187,breathingExercise,Europe/Prague,Entertainment
+6.0,False,facebook,dismissedAppOpening,1751559357.110743,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1751560218.9793339,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751567853.3937988,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1751572110.460588,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751600312.792472,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1751610651.645832,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751611324.6398048,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751616307.067796,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751616928.341917,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751618871.5341492,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751628279.896534,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751640579.51642,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1751642017.0725322,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751656943.2420301,breathingExercise,Europe/Prague,Relax
+6.0,False,instagram,openedApp,1751692227.84887,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1751693677.571794,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751694548.305444,breathingExercise,Europe/Prague,Toilet
+6.0,False,instagram,dismissedAppOpening,1751694585.205168,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751698282.2421079,breathingExercise,Europe/Prague,
+6.0,False,instagram,dismissedAppOpening,1751698605.324916,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751698608.201559,breathingExercise,Europe/Prague,
+6.0,False,linkedin,openedApp,1751699031.875478,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751700745.5487862,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1751700965.68307,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751700972.453229,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751737417.8558478,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751739086.6719599,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,linkedin,openedApp,1751785251.870448,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,dismissedAppOpening,1751789736.369479,breathingExercise,Europe/Prague,
+6.0,False,instagram,dismissedAppOpening,1751789752.259865,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751808052.2008162,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751810861.6004329,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751811153.1719608,breathingExercise,Europe/Prague,Post something
+6.0,False,facebook,openedApp,1751813830.257752,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1751814982.161191,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,instagram,dismissedAppOpening,1751816977.3691201,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751818683.828372,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1751818937.4306269,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1751819571.018333,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1751821081.329976,breathingExercise,Europe/Prague,
+6.0,False,linkedin,openedApp,1751822219.789225,breathingExercise,Europe/Prague,Toilet
+6.0,False,twitter,openedApp,1751822581.606971,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1751833037.189301,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751859406.679302,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1751864695.364583,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1751869067.3411021,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1751870351.195035,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751870430.641212,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751877813.299282,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1751885625.5811129,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751908163.770347,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1751915383.986168,breathingExercise,Europe/Prague,Relax
+6.0,False,instagram,dismissedAppOpening,1751915422.4983191,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751947739.827991,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1751980096.844963,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,openedApp,1751981795.230579,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,linkedin,openedApp,1751981846.049614,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1751984073.650504,breathingExercise,Europe/Prague,
+6.0,False,instagram,dismissedAppOpening,1751984083.288076,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751984729.657885,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751984843.736377,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751992083.637625,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1751993136.278904,breathingExercise,Europe/Prague,
+6.0,False,instagram,dismissedAppOpening,1751993389.412252,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1752034764.140149,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1752048374.090085,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1752056083.597982,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,openedApp,1752056141.859884,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,openedApp,1752057001.277625,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,dismissedAppOpening,1752061849.52349,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752065675.000519,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752076852.959077,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752076869.2257671,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1752080583.264184,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752080807.2979898,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752080812.81581,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1752080965.907845,breathingExercise,Europe/Prague,Entertainment
+6.0,False,facebook,openedApp,1752081467.1418839,breathingExercise,Europe/Prague,Bored
+6.0,False,facebook,openedApp,1752083819.3437982,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,instagram,openedApp,1752083958.2665029,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1752119748.441008,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1752120111.9008489,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1752120285.7592,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,dismissedAppOpening,1752120835.6299648,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752124165.43917,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752138575.7509341,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752154712.936751,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,instagram,dismissedAppOpening,1752157751.23532,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752157755.002007,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752159562.201909,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752165070.802834,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752166539.6035151,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1752206810.945938,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,instagram,openedApp,1752215424.354271,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1752218809.1127539,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752224306.480927,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752232688.624131,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752232705.597441,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752234990.242104,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752253664.5971088,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,openedApp,1752254044.014773,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752257878.534256,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752267300.9917622,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,instagram,openedApp,1752270978.738586,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1752270989.9397302,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1752272228.55863,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1752272462.6856232,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1752272766.165314,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1752306213.123574,breathingExercise,Europe/Prague,
+6.0,False,linkedin,openedApp,1752306235.388733,breathingExercise,Europe/Prague,Relax
+6.0,False,facebook,dismissedAppOpening,1752317759.20945,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1752323993.411721,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,instagram,openedApp,1752324344.174994,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,linkedin,openedApp,1752324449.472338,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1752324589.383089,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,dismissedAppOpening,1752340076.412988,breathingExercise,Europe/Prague,
+6.0,False,instagram,dismissedAppOpening,1752340618.733135,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752392797.236064,breathingExercise,Europe/Prague,
+6.0,False,linkedin,dismissedAppOpening,1752397463.717799,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752406998.710734,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752427309.124301,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752437017.352778,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752469268.225991,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,dismissedAppOpening,1752471965.653393,breathingExercise,Europe/Prague,
+6.0,False,linkedin,openedApp,1752479359.257759,breathingExercise,Europe/Prague,Search Info
+6.0,False,linkedin,openedApp,1752479644.98391,breathingExercise,Europe/Prague,Search Info
+6.0,False,linkedin,openedApp,1752480056.001776,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752480540.6652288,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752487879.485159,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752518358.595214,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752559512.8026218,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752560488.215071,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1752587929.8838658,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,linkedin,openedApp,1752587963.001461,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,dismissedAppOpening,1752588277.118743,breathingExercise,Europe/Prague,
+6.0,False,linkedin,dismissedAppOpening,1752591020.021669,breathingExercise,Europe/Prague,
+6.0,False,linkedin,dismissedAppOpening,1752661534.851762,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752663871.3385072,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,openedApp,1752664172.161981,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,openedApp,1752668716.247349,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752670632.391916,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752679212.44422,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752704739.026402,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1752704785.0398278,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752723332.793149,breathingExercise,Europe/Prague,
+6.0,False,facebook,openedApp,1752746078.5013409,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,openedApp,1752769025.795471,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752770182.703483,breathingExercise,Europe/Prague,
+6.0,False,instagram,openedApp,1752786651.749864,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1752786929.717263,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752842466.264443,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752859479.884234,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752860442.0157042,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752860475.1076221,breathingExercise,Europe/Prague,
+6.0,False,linkedin,openedApp,1752870866.06796,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,facebook,openedApp,1752871287.995048,breathingExercise,Europe/Prague,Search Info
+6.0,False,facebook,dismissedAppOpening,1752873001.3785071,breathingExercise,Europe/Prague,
+6.0,False,linkedin,dismissedAppOpening,1752874582.9655309,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752903719.424562,breathingExercise,Europe/Prague,
+6.0,False,linkedin,openedApp,1752903737.244468,breathingExercise,Europe/Prague,Search Info
+6.0,False,instagram,openedApp,1752903906.548788,breathingExercise,Europe/Prague,Stay In the Loop
+6.0,False,instagram,dismissedAppOpening,1752908553.3044438,breathingExercise,Europe/Prague,
+6.0,False,facebook,dismissedAppOpening,1752911660.090426,breathingExercise,Europe/Prague,

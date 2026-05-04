@@ -1,0 +1,844 @@
+resolution,timezone,timestamp,interventionDuration,app,isReIntervention,interventionType,timeIntervalUntilReIntervention,purpose
+dismissedAppOpening,America/Sao_Paulo,1748699584.379445,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748699809.010394,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748725560.593132,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748725863.580679,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748727038.015991,1.5,whatsAppBusiness,False,breathingExercise,120.0,Pesquisar informações
+openedApp,America/Sao_Paulo,1748727459.6000729,1.5,whatsAppBusiness,False,breathingExercise,60.0,Pesquisar informações
+openedApp,America/Sao_Paulo,1748728952.19806,1.5,whatsAppBusiness,False,breathingExercise,60.0,Pesquisar informações
+openedApp,America/Sao_Paulo,1748729021.220298,1.5,safari,False,breathingExercise,,Pesquisar informações
+openedApp,America/Sao_Paulo,1748729103.013482,1.5,whatsAppBusiness,False,breathingExercise,60.0,Pesquisar informações
+openedApp,America/Sao_Paulo,1748729119.069947,1.5,safari,False,breathingExercise,,Pesquisar informações
+dismissedAppOpening,America/Sao_Paulo,1748729540.301347,1.5,safari,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748729635.837327,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Sao_Paulo,1748729719.0662851,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Sao_Paulo,1748729788.236722,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Sao_Paulo,1748729915.807565,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Sao_Paulo,1748730000.943069,1.5,whatsAppBusiness,False,breathingExercise,420.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748730155.878511,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748730194.3712358,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748736316.1911259,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748736328.680132,1.5,whatsAppBusiness,False,breathingExercise,540.0,Pesquisar informações
+dismissedAppOpening,America/Sao_Paulo,1748736356.2077742,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748736365.4908938,1.5,whatsAppBusiness,False,breathingExercise,600.0,Pesquisar informações
+dismissedAppOpening,America/Sao_Paulo,1748740075.3200998,1.5,safari,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748742223.473733,1.5,whatsAppBusiness,False,breathingExercise,600.0,Pesquisar informações
+openedApp,America/Sao_Paulo,1748743423.44115,1.5,whatsAppBusiness,False,breathingExercise,480.0,Pesquisar informações
+openedApp,America/Sao_Paulo,1748743952.9087,1.5,whatsAppBusiness,True,breathingExercise,60.0,Ficar por dentro
+openedApp,America/Sao_Paulo,1748744031.201498,1.5,whatsAppBusiness,False,breathingExercise,120.0,Pesquisar informações
+dismissedAppOpening,America/Sao_Paulo,1748744130.489417,1.5,safari,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748744137.824986,1.5,safari,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748744169.953695,1.5,safari,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748747952.669971,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748771939.318797,1.5,whatsAppBusiness,False,breathingExercise,540.0,Ficar por dentro
+openedApp,America/Sao_Paulo,1748774649.216992,1.5,whatsAppBusiness,False,breathingExercise,180.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748775830.953724,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748777250.60396,1.5,safari,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748779032.652595,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748779056.343118,1.5,whatsAppBusiness,False,breathingExercise,180.0,Mensagem
+openedApp,America/Sao_Paulo,1748779295.7202082,1.5,whatsAppBusiness,True,breathingExercise,300.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748780801.55798,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748780810.918093,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748780889.121804,1.5,safari,False,breathingExercise,,Pesquisar informações
+openedApp,America/Sao_Paulo,1748781044.1375399,1.5,safari,False,breathingExercise,,Pesquisar informações
+openedApp,America/Sao_Paulo,1748781099.02416,1.5,safari,False,breathingExercise,,Pesquisar informações
+openedApp,America/Sao_Paulo,1748782117.662406,1.5,whatsAppBusiness,False,breathingExercise,180.0,Mensagem
+openedApp,America/Sao_Paulo,1748782217.576559,1.5,instagram,False,breathingExercise,60.0,Entretenimento
+dismissedAppOpening,America/Sao_Paulo,1748782230.869425,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748784172.450629,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748784717.392703,1.5,youtube,False,breathingExercise,,Pesquisar informações
+dismissedAppOpening,America/Sao_Paulo,1748784799.8513188,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748784815.75041,1.5,instagram,False,breathingExercise,300.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748785094.5751529,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748785177.25893,1.5,whatsAppBusiness,False,breathingExercise,420.0,Mensagem
+openedApp,America/Sao_Paulo,1748785322.713149,1.5,whatsAppBusiness,False,breathingExercise,180.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748785449.596424,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748789408.2513509,1.5,whatsAppBusiness,False,breathingExercise,180.0,Mensagem
+openedApp,America/Sao_Paulo,1748789458.554831,1.5,whatsAppBusiness,False,breathingExercise,120.0,Mensagem
+openedApp,America/Sao_Paulo,1748789677.890161,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Sao_Paulo,1748791071.935972,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Sao_Paulo,1748791351.906825,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748791684.161195,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748796179.228682,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748796361.266906,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748796424.235688,1.5,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Sao_Paulo,1748797030.667045,1.5,whatsAppBusiness,False,breathingExercise,60.0,Mensagem
+openedApp,America/Sao_Paulo,1748797055.496522,1.5,instagram,False,breathingExercise,60.0,Mensagem
+openedApp,America/Sao_Paulo,1748797132.5476,1.5,whatsAppBusiness,False,breathingExercise,120.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748799863.732462,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748800292.752079,1.5,whatsAppBusiness,False,breathingExercise,480.0,Mensagem
+openedApp,America/Sao_Paulo,1748804455.484734,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748804535.893208,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748805187.912925,1.5,whatsAppBusiness,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Sao_Paulo,1748806780.573709,1.5,whatsAppBusiness,False,breathingExercise,540.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748806866.154179,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748808850.305818,1.5,instagram,False,breathingExercise,420.0,Distração
+openedApp,America/Sao_Paulo,1748808907.2498698,1.5,youtube,False,breathingExercise,,Distração
+openedApp,America/Sao_Paulo,1748817831.057955,1.5,whatsAppBusiness,False,breathingExercise,240.0,Mensagem
+openedApp,America/Sao_Paulo,1748818003.836626,1.5,whatsAppBusiness,False,breathingExercise,360.0,Entretenimento
+openedApp,America/Sao_Paulo,1748818064.672395,1.5,safari,False,breathingExercise,,Mensagem
+openedApp,America/Sao_Paulo,1748818076.718945,1.5,whatsAppBusiness,False,breathingExercise,240.0,Mensagem
+openedApp,America/Sao_Paulo,1748818103.142236,1.5,safari,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748818114.356955,1.5,twitter,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748818117.9044418,1.5,twitter,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748818126.598171,1.5,safari,False,breathingExercise,,Mensagem
+openedApp,America/Sao_Paulo,1748818368.100443,1.5,whatsAppBusiness,False,breathingExercise,240.0,Mensagem
+openedApp,America/Sao_Paulo,1748818436.0993419,1.5,instagram,False,breathingExercise,180.0,Mensagem
+openedApp,America/Sao_Paulo,1748818472.738538,1.5,whatsAppBusiness,False,breathingExercise,180.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748819045.3686361,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1748821087.311589,1.5,safari,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748822425.3450341,1.5,whatsAppBusiness,False,breathingExercise,240.0,Mensagem
+openedApp,America/Sao_Paulo,1748822502.32929,1.5,safari,False,breathingExercise,,Mensagem
+openedApp,America/Sao_Paulo,1748822519.9726791,1.5,safari,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748822538.1704211,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748822557.575177,1.5,whatsAppBusiness,False,breathingExercise,420.0,Mensagem
+openedApp,America/Sao_Paulo,1748822565.660569,1.5,safari,False,breathingExercise,,Mensagem
+openedApp,America/Sao_Paulo,1748824412.100984,1.5,safari,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748824593.8405871,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748824601.668394,1.5,safari,False,breathingExercise,,Mensagem
+openedApp,America/Sao_Paulo,1748824756.60081,1.5,safari,False,breathingExercise,,Pesquisar informações
+dismissedAppOpening,America/Sao_Paulo,1748825194.1619182,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748825201.823653,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Sao_Paulo,1748825684.074966,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1748829471.1282248,1.5,whatsAppBusiness,False,breathingExercise,180.0,Mensagem
+openedApp,America/Recife,1748840430.623852,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Recife,1748840478.572178,1.5,whatsAppBusiness,False,breathingExercise,480.0,Mensagem
+openedApp,America/Recife,1748840538.513238,1.5,whatsAppBusiness,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1748843671.443403,1.5,whatsAppBusiness,False,breathingExercise,60.0,Mensagem
+dismissedAppOpening,America/Bahia,1748843776.1572561,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748843780.811963,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748843784.750373,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748843944.894322,1.5,safari,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Bahia,1748862719.01984,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748862729.202745,1.5,whatsAppBusiness,False,breathingExercise,60.0,Mensagem
+dismissedAppOpening,America/Bahia,1748863434.6911721,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748864865.4795089,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748876295.149163,1.5,whatsAppBusiness,False,breathingExercise,540.0,Mensagem
+dismissedAppOpening,America/Bahia,1748876358.1798759,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748880757.972858,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748880767.596601,1.5,whatsAppBusiness,False,breathingExercise,360.0,Mensagem
+dismissedAppOpening,America/Bahia,1748880786.301941,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748880862.843061,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748881015.551872,1.5,whatsAppBusiness,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1748881058.4100041,1.5,safari,False,breathingExercise,,Pesquisar informações
+openedApp,America/Bahia,1748881422.407361,1.5,safari,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1748881462.992292,1.5,whatsAppBusiness,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1748881514.335967,1.5,whatsAppBusiness,False,breathingExercise,420.0,Mensagem
+openedApp,America/Bahia,1748881563.765504,1.5,whatsAppBusiness,False,breathingExercise,240.0,Mensagem
+openedApp,America/Bahia,1748881643.001451,1.5,safari,False,breathingExercise,,Pesquisar informações
+dismissedAppOpening,America/Bahia,1748881893.6217608,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748882016.900589,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748882110.8378592,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748884034.458168,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748884263.441819,1.5,whatsAppBusiness,False,breathingExercise,540.0,Mensagem
+dismissedAppOpening,America/Bahia,1748884586.475381,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748884817.7195392,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748884824.184586,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748887561.037352,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748887574.0288801,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748888143.494003,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748888147.6541162,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748888150.9454498,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748899072.838183,1.5,instagram,False,breathingExercise,600.0,Relaxar
+openedApp,America/Bahia,1748899384.1267729,1.5,whatsAppBusiness,False,breathingExercise,300.0,Mensagem
+dismissedAppOpening,America/Bahia,1748900226.2878041,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748900237.939855,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748900285.715944,1.5,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1748900341.357291,1.5,whatsAppBusiness,False,breathingExercise,540.0,Mensagem
+openedApp,America/Bahia,1748900352.1073189,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748900650.3296351,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748900661.490223,1.5,instagram,False,breathingExercise,300.0,Mensagem
+dismissedAppOpening,America/Bahia,1748900971.554926,1.5,instagram,True,breathingExercise,,
+openedApp,America/Bahia,1748900981.1465921,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748901888.9189649,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748901965.2431269,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748902340.0089688,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748902904.249641,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748903702.674715,1.5,safari,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Bahia,1748907696.29104,1.5,youtube,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748907698.926175,1.5,youtube,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748907704.683677,1.5,youtube,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748907709.941842,1.5,youtube,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748907713.246334,1.5,youtube,False,breathingExercise,,
+openedApp,America/Bahia,1748908620.275902,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748917275.953843,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748921210.45687,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748921370.30516,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748923028.5748339,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748923041.207622,1.5,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1748923658.078498,1.5,instagram,True,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1748924259.314972,1.5,instagram,True,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748926801.3830671,1.5,youtube,False,breathingExercise,,Distração
+openedApp,America/Bahia,1748946300.707212,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748947112.5743608,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748950967.162178,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748962600.47113,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748962620.362967,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748962782.386419,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748966835.120326,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748967049.578161,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748967151.72528,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748967459.527055,1.5,instagram,False,breathingExercise,180.0,Mensagem
+openedApp,America/Bahia,1748967653.745647,1.5,instagram,True,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748967958.2245212,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748967962.1553888,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748968004.046005,1.5,safari,False,breathingExercise,,
+openedApp,America/Bahia,1748968012.6301742,1.5,safari,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1748970473.5474591,1.5,whatsAppBusiness,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1748971067.695469,1.5,whatsAppBusiness,False,breathingExercise,480.0,Mensagem
+dismissedAppOpening,America/Bahia,1748971185.292972,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748971188.7346869,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748971218.363281,1.5,safari,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748971418.4345999,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748971422.323688,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748971437.24164,1.5,whatsAppBusiness,False,breathingExercise,180.0,Mensagem
+openedApp,America/Bahia,1748978079.5260139,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748978597.316028,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748978826.574621,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748980989.664803,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748981012.7994199,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748981497.550868,1.5,whatsAppBusiness,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1748984542.327804,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748984773.040018,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748984782.506094,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748985114.5709171,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748985241.680883,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748985409.5704331,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748985412.451119,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748985483.452252,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748985780.40666,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748985831.382555,1.5,whatsAppBusiness,False,breathingExercise,540.0,Mensagem
+openedApp,America/Bahia,1748986009.2161021,1.5,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1748987412.552654,1.5,whatsAppBusiness,False,breathingExercise,300.0,Mensagem
+openedApp,America/Bahia,1748988148.356111,1.5,whatsAppBusiness,True,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748988798.0833511,1.5,whatsAppBusiness,True,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748989151.282222,1.5,whatsAppBusiness,False,breathingExercise,600.0,Trabalho
+openedApp,America/Bahia,1748990236.759171,1.5,whatsAppBusiness,False,breathingExercise,420.0,Mensagem
+openedApp,America/Bahia,1748990320.9559,1.5,whatsAppBusiness,False,breathingExercise,540.0,Mensagem
+dismissedAppOpening,America/Bahia,1748990352.18693,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748990387.788775,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748990428.595622,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748994684.584941,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748995310.071652,1.5,instagram,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748995759.736938,1.5,youtube,False,breathingExercise,,
+openedApp,America/Bahia,1748996412.432901,1.5,instagram,False,breathingExercise,600.0,Sanitário
+openedApp,America/Bahia,1748997032.59254,1.5,instagram,True,breathingExercise,300.0,Mensagem
+openedApp,America/Bahia,1748997341.427477,1.5,instagram,True,breathingExercise,180.0,Mensagem
+openedApp,America/Bahia,1748997620.9924579,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1748997638.948369,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1748997651.8627949,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748998048.4790502,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748998105.482065,1.5,instagram,False,breathingExercise,600.0,Pesquisar informações
+dismissedAppOpening,America/Bahia,1748998222.6056108,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1748998225.860629,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1748998237.6508532,1.5,whatsAppBusiness,False,breathingExercise,600.0,Pesquisar informações
+openedApp,America/Bahia,1748998565.76588,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748998787.234837,1.5,whatsAppBusiness,False,breathingExercise,540.0,Mensagem
+openedApp,America/Bahia,1748999386.033356,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748999602.274271,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748999857.633173,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1748999875.696393,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749000138.375898,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749035398.745908,1.5,whatsAppBusiness,False,breathingExercise,600.0,Ficar por dentro
+dismissedAppOpening,America/Bahia,1749036323.680275,1.5,whatsAppBusiness,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749037689.42262,1.5,whatsAppBusiness,False,breathingExercise,,
+openedApp,America/Bahia,1749037702.1927981,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749037849.668562,1.5,instagram,False,breathingExercise,240.0,Mensagem
+openedApp,America/Bahia,1749037924.73482,1.5,whatsAppBusiness,False,breathingExercise,240.0,Mensagem
+openedApp,America/Bahia,1749038123.116626,1.5,whatsAppBusiness,False,breathingExercise,240.0,Mensagem
+openedApp,America/Bahia,1749042531.497678,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749042801.079588,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749045371.212088,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749047366.668051,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749047555.0453339,1.5,whatsAppBusiness,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749050476.199239,1.5,whatsAppBusiness,True,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749052189.740933,1.5,whatsAppBusiness,True,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749053912.9669771,1.5,whatsAppBusiness,True,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749059190.95066,1.5,instagram,False,breathingExercise,240.0,Mensagem
+openedApp,America/Bahia,1749059448.799539,1.5,instagram,True,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749068321.920182,1.5,instagram,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1749070651.9860868,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749070654.136708,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749075154.043093,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749084512.202695,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749084784.214453,1.5,youtube,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Bahia,1749085181.436933,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749085533.649719,1.5,youtube,False,breathingExercise,,
+openedApp,America/Bahia,1749085759.2516,1.5,youtube,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Bahia,1749087274.113569,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749088970.515018,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749089620.058964,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749098436.467577,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749099004.610353,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749099624.041512,1.5,instagram,True,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749101481.908117,1.5,tikTok,False,breathingExercise,,Sem sono
+openedApp,America/Bahia,1749128548.312141,1.5,youtube,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Bahia,1749128628.2716231,1.5,youtube,False,breathingExercise,,
+openedApp,America/Bahia,1749129143.475253,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749129316.1180968,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749129743.1219292,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749129790.082824,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749129944.011932,1.5,instagram,False,breathingExercise,420.0,Mensagem
+openedApp,America/Bahia,1749155451.1487498,1.5,twitter,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749155452.0659099,1.5,twitter,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749156776.7214909,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749156908.236953,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749157026.815434,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749161725.698693,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749164584.077414,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749165070.606782,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749165701.266305,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749165787.573638,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749165839.785955,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749167106.086746,1.5,youtube,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Bahia,1749168782.238637,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749168794.737165,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749168943.708358,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749169338.508892,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749169623.441719,1.5,instagram,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1749169797.6530461,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749169835.773454,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749169902.989965,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749170307.265203,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749170961.3971748,1.5,instagram,False,breathingExercise,300.0,Mensagem
+openedApp,America/Bahia,1749175052.218049,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749175504.926365,1.5,instagram,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1749214042.3074288,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749214146.733859,1.5,instagram,False,breathingExercise,420.0,Distração
+openedApp,America/Bahia,1749244342.642704,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749264699.57324,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749268951.747853,1.5,tikTok,False,breathingExercise,,Ficar por dentro
+openedApp,America/Bahia,1749269418.521663,1.5,tikTok,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749269576.189199,1.5,instagram,False,breathingExercise,600.0,Ficar por dentro
+dismissedAppOpening,America/Bahia,1749269947.518326,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749270519.847975,1.5,twitter,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749270523.680057,1.5,twitter,False,breathingExercise,,
+openedApp,America/Bahia,1749270724.706176,1.5,instagram,False,breathingExercise,600.0,Pesquisar informações
+openedApp,America/Bahia,1749296901.9272919,1.5,tikTok,False,breathingExercise,,Entretenimento
+openedApp,America/Bahia,1749297944.253168,1.5,tikTok,False,breathingExercise,,Distração
+dismissedAppOpening,America/Bahia,1749298400.8546948,1.5,tikTok,False,breathingExercise,,
+openedApp,America/Bahia,1749298425.445921,1.5,tikTok,False,breathingExercise,,Distração
+openedApp,America/Bahia,1749298781.643948,1.5,tikTok,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749301030.411089,1.5,instagram,False,breathingExercise,600.0,Relaxar
+openedApp,America/Bahia,1749301165.355216,1.5,instagram,False,breathingExercise,600.0,Relaxar
+openedApp,America/Bahia,1749301444.330478,1.5,instagram,False,breathingExercise,360.0,Relaxar
+openedApp,America/Bahia,1749301819.607281,1.5,instagram,True,breathingExercise,240.0,Mensagem
+openedApp,America/Bahia,1749307011.195065,1.5,instagram,False,breathingExercise,120.0,Mensagem
+openedApp,America/Bahia,1749307249.5419688,1.5,instagram,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1749307517.785287,1.5,instagram,False,breathingExercise,180.0,Mensagem
+openedApp,America/Bahia,1749307615.7161388,1.5,instagram,False,breathingExercise,60.0,Mensagem
+openedApp,America/Bahia,1749310002.7786942,1.5,instagram,False,breathingExercise,300.0,Distração
+openedApp,America/Bahia,1749310057.338079,1.5,instagram,False,breathingExercise,300.0,Mensagem
+dismissedAppOpening,America/Bahia,1749310490.002427,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749310539.3625379,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749310817.979597,1.5,instagram,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1749314012.9922,1.5,youtube,False,breathingExercise,,Ficar por dentro
+openedApp,America/Bahia,1749319482.268583,1.5,youtube,False,breathingExercise,,Ficar por dentro
+dismissedAppOpening,America/Bahia,1749321766.968814,1.5,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749321781.207193,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749321800.3114018,1.5,instagram,False,breathingExercise,360.0,Distração
+openedApp,America/Bahia,1749322000.938788,1.5,instagram,False,breathingExercise,360.0,Ficar por dentro
+openedApp,America/Bahia,1749322378.136149,1.5,instagram,True,breathingExercise,180.0,Ficar por dentro
+openedApp,America/Bahia,1749322622.816042,1.5,instagram,False,breathingExercise,120.0,Mensagem
+openedApp,America/Bahia,1749334706.928868,1.5,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1749335475.604021,1.5,instagram,False,breathingExercise,600.0,Distração
+dismissedAppOpening,America/Bahia,1749336127.6713161,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749338417.3837771,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749344382.440856,1.5,instagram,False,breathingExercise,420.0,Mensagem
+openedApp,America/Bahia,1749344776.030498,1.5,instagram,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1749345330.7219229,1.5,instagram,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1749345357.140383,1.5,instagram,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1749345462.472841,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749353640.966395,1.5,instagram,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1749354015.6246061,1.5,instagram,True,breathingExercise,180.0,Mensagem
+openedApp,America/Bahia,1749354204.231678,1.5,instagram,True,breathingExercise,120.0,Mensagem
+openedApp,America/Bahia,1749360867.332818,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749401307.142716,1.5,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1749401770.8131042,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749401986.746253,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749402327.0548291,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749403883.479835,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749404157.77309,1.5,instagram,False,breathingExercise,300.0,Mensagem
+openedApp,America/Bahia,1749404469.875469,1.5,instagram,True,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749405992.979856,1.5,instagram,False,breathingExercise,360.0,Mensagem
+openedApp,America/Bahia,1749406368.380258,1.5,instagram,True,breathingExercise,180.0,Ficar por dentro
+openedApp,America/Bahia,1749406557.4174461,1.5,instagram,True,breathingExercise,120.0,Mensagem
+openedApp,America/Bahia,1749416172.924083,1.5,tikTok,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Bahia,1749417355.09542,1.5,tikTok,False,breathingExercise,,
+openedApp,America/Bahia,1749417382.632107,1.5,tikTok,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749418472.938632,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749427941.655401,1.5,tikTok,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749428513.896967,1.5,tikTok,False,breathingExercise,,Mensagem
+dismissedAppOpening,America/Bahia,1749429138.842149,1.5,youtube,False,breathingExercise,,
+openedApp,America/Bahia,1749429152.695953,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749429825.405278,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749432459.887471,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749483893.604179,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749483922.040369,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749485728.250252,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749486688.477549,1.5,youtube,False,breathingExercise,,Pesquisar informações
+openedApp,America/Bahia,1749503017.649235,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749513367.780906,1.5,twitter,False,breathingExercise,,Ficar por dentro
+dismissedAppOpening,America/Bahia,1749513762.964865,1.5,youtube,False,breathingExercise,,
+openedApp,America/Bahia,1749513796.524708,1.5,youtube,False,breathingExercise,,Distração
+openedApp,America/Bahia,1749513820.6195312,1.5,youtube,False,breathingExercise,,Distração
+openedApp,America/Bahia,1749513868.2044759,1.5,youtube,False,breathingExercise,,Distração
+openedApp,America/Bahia,1749519208.513453,1.5,tikTok,False,breathingExercise,,Distração
+openedApp,America/Bahia,1749521227.931203,1.5,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1749521847.296955,1.5,instagram,True,breathingExercise,300.0,Distração
+openedApp,America/Bahia,1749522066.460662,1.5,youtube,False,breathingExercise,,Verificar curtidas
+openedApp,America/Bahia,1749527661.829011,1.5,youtube,False,breathingExercise,,Ficar por dentro
+openedApp,America/Bahia,1749534522.035984,1.5,instagram,False,breathingExercise,600.0,Sem sono
+dismissedAppOpening,America/Bahia,1749534561.0866551,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749534572.942692,1.5,youtube,False,breathingExercise,,Sem sono
+openedApp,America/Bahia,1749534622.061672,1.5,instagram,False,breathingExercise,600.0,Sem sono
+openedApp,America/Bahia,1749535239.0547562,1.5,instagram,True,breathingExercise,300.0,Sem sono
+openedApp,America/Bahia,1749554113.247637,1.5,instagram,False,breathingExercise,600.0,Pesquisar informações
+dismissedAppOpening,America/Bahia,1749555068.575039,1.5,instagram,True,breathingExercise,,
+openedApp,America/Bahia,1749555096.824935,1.5,twitter,False,breathingExercise,,Distração
+dismissedAppOpening,America/Bahia,1749568146.8087668,1.5,youtube,False,breathingExercise,,
+openedApp,America/Bahia,1749568157.017541,1.5,youtube,False,breathingExercise,,Ficar por dentro
+dismissedAppOpening,America/Bahia,1749571664.449843,1.5,youtube,False,breathingExercise,,
+openedApp,America/Bahia,1749584149.28317,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749584623.012068,1.5,twitter,False,breathingExercise,,Ficar por dentro
+openedApp,America/Bahia,1749586539.743912,1.5,youtube,False,breathingExercise,,Distração
+openedApp,America/Bahia,1749588341.03352,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749599852.4924412,1.5,instagram,False,breathingExercise,480.0,Mensagem
+openedApp,America/Bahia,1749602652.640425,1.5,instagram,False,breathingExercise,540.0,Stalkear a/o crush
+openedApp,America/Bahia,1749603390.583554,1.5,instagram,False,breathingExercise,600.0,Stalkear a/o crush
+openedApp,America/Bahia,1749603436.017509,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749604544.1082702,1.5,twitter,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749610290.10141,1.5,youtube,False,breathingExercise,,Stalkear a/o crush
+openedApp,America/Bahia,1749641277.170627,1.5,instagram,False,breathingExercise,540.0,Mensagem
+openedApp,America/Bahia,1749642172.4165,1.5,instagram,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Bahia,1749642302.848856,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749649349.649284,1.5,instagram,False,breathingExercise,480.0,Mensagem
+dismissedAppOpening,America/Bahia,1749650201.539054,1.5,instagram,True,breathingExercise,,
+openedApp,America/Bahia,1749664249.9598699,1.5,instagram,False,breathingExercise,600.0,Mensagem
+dismissedAppOpening,America/Recife,1749684266.2851892,1.5,youtube,False,breathingExercise,,
+openedApp,America/Recife,1749685143.89658,1.5,instagram,False,breathingExercise,540.0,Sanitário
+openedApp,America/Recife,1749685700.3787432,1.5,instagram,True,breathingExercise,300.0,Mensagem
+openedApp,America/Recife,1749686010.0325642,1.5,instagram,True,breathingExercise,180.0,Mensagem
+openedApp,America/Recife,1749686201.0935411,1.5,instagram,True,breathingExercise,60.0,Postar algo
+openedApp,America/Recife,1749699891.201442,1.5,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1749711040.275309,1.5,instagram,False,breathingExercise,600.0,Sem sono
+openedApp,America/Bahia,1749711659.291647,1.5,instagram,True,breathingExercise,300.0,Postar algo
+openedApp,America/Bahia,1749711956.886739,1.5,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1749734790.706602,1.5,instagram,False,breathingExercise,180.0,Ficar por dentro
+openedApp,America/Bahia,1749735160.366634,1.5,instagram,False,breathingExercise,240.0,Ficar por dentro
+dismissedAppOpening,America/Bahia,1749738468.639906,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749742085.8521628,1.5,instagram,False,breathingExercise,600.0,Ficar por dentro
+dismissedAppOpening,America/Bahia,1749742737.630094,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749742754.344423,1.5,instagram,False,breathingExercise,360.0,Entretenimento
+dismissedAppOpening,America/Bahia,1749743231.219053,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749743248.317501,1.5,instagram,False,breathingExercise,420.0,Pesquisar informações
+openedApp,America/Bahia,1749743667.951326,1.5,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1749747598.198907,1.5,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1749747705.41715,1.5,instagram,False,breathingExercise,600.0,Sanitário
+openedApp,America/Bahia,1749749964.188746,1.5,instagram,False,breathingExercise,480.0,Pesquisar informações
+openedApp,America/Bahia,1749750242.403898,1.5,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1749763690.657265,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749766512.762662,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749766570.917321,1.5,youtube,False,breathingExercise,,Ficar por dentro
+openedApp,America/Bahia,1749769205.703268,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749769413.284749,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Bahia,1749771681.963749,1.5,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1749772014.940288,1.5,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1749776250.20957,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749780715.239007,1.5,instagram,False,breathingExercise,600.0,Verificar curtidas
+openedApp,America/Bahia,1749783507.113552,1.5,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1749826337.745197,1.5,youtube,False,breathingExercise,,Entediado
+openedApp,America/Bahia,1749826865.516263,1.5,youtube,False,breathingExercise,,Distração
+openedApp,America/Bahia,1749827180.254494,1.5,youtube,False,breathingExercise,,Ficar por dentro
+openedApp,America/Bahia,1749827269.563544,1.5,youtube,False,breathingExercise,,Mensagem
+openedApp,America/Fortaleza,1749846285.546242,1.5,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749851310.3959599,1.5,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1749852335.067978,1.5,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1749852671.3811312,1.5,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749853594.718676,1.5,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1749853777.9244099,1.5,instagram,False,breathingExercise,240.0,Postar algo
+openedApp,America/Bahia,1749853806.54265,1.5,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1749865402.1366138,1.5,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1749866019.585352,1.5,instagram,True,breathingExercise,360.0,Entretenimento
+openedApp,America/Bahia,1749868461.762933,1.5,instagram,False,breathingExercise,420.0,Relaxar
+openedApp,America/Bahia,1749871543.3814101,1.5,instagram,False,breathingExercise,600.0,Entediado
+openedApp,America/Bahia,1749876563.886611,1.5,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1749913553.951143,6.0,instagram,False,breathingExercise,600.0,Stalkear a/o crush
+openedApp,America/Bahia,1749914528.830019,6.0,instagram,False,breathingExercise,540.0,Stalkear a/o crush
+dismissedAppOpening,America/Bahia,1749914668.6950998,6.0,youtube,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749914681.209908,6.0,youtube,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749915486.255722,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749915523.760503,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1749918212.737434,6.0,instagram,False,breathingExercise,600.0,Entediado
+openedApp,America/Bahia,1749918766.2415152,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1749922099.199843,6.0,instagram,False,breathingExercise,600.0,Mensagem
+openedApp,America/Bahia,1749922671.888288,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1749949180.469163,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1749949295.967445,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1749949825.067508,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1749950451.521916,6.0,instagram,True,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1749955995.239009,6.0,instagram,False,breathingExercise,600.0,Pesquisar informações
+openedApp,America/Bahia,1749956625.2857099,6.0,instagram,True,breathingExercise,480.0,Postar algo
+dismissedAppOpening,America/Bahia,1749956889.2493181,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1749956891.809161,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1749956934.5193481,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1749956969.517425,6.0,instagram,False,breathingExercise,420.0,Postar algo
+openedApp,America/Bahia,1749957409.450073,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750002371.218917,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1750002997.696804,6.0,instagram,True,breathingExercise,300.0,Entretenimento
+dismissedAppOpening,America/Bahia,1750003361.713685,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1750003696.96013,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750003760.2389178,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750021874.10568,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750022448.69595,6.0,instagram,False,breathingExercise,600.0,Sem sono
+openedApp,America/Bahia,1750024673.185738,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+dismissedAppOpening,America/Bahia,1750025154.1281362,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750025740.439409,6.0,instagram,False,breathingExercise,600.0,Stalkear a/o crush
+openedApp,America/Bahia,1750025857.8860989,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750026482.258318,6.0,instagram,True,breathingExercise,600.0,Relaxar
+openedApp,America/Bahia,1750048977.041699,6.0,instagram,False,breathingExercise,600.0,Sem sono
+dismissedAppOpening,America/Bahia,1750049588.749414,6.0,instagram,True,breathingExercise,,
+dismissedAppOpening,America/Bahia,1750049591.943341,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750075582.611847,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750083945.645541,6.0,instagram,False,breathingExercise,600.0,Entediado
+openedApp,America/Bahia,1750084568.2272081,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750090318.670267,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1750091006.199177,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750091139.0078468,6.0,instagram,False,breathingExercise,420.0,Postar algo
+openedApp,America/Bahia,1750091580.801388,6.0,instagram,True,breathingExercise,60.0,Ficar por dentro
+openedApp,America/Bahia,1750107789.214806,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750107953.854346,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750108082.4354591,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750108985.873155,6.0,instagram,False,breathingExercise,420.0,Postar algo
+openedApp,America/Bahia,1750111514.089253,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1750112350.257257,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1750112353.012089,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1750113127.2417479,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750113148.305262,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750113774.378,6.0,instagram,True,breathingExercise,300.0,Postar algo
+openedApp,America/Bahia,1750114090.988426,6.0,instagram,True,breathingExercise,180.0,Postar algo
+openedApp,America/Bahia,1750114289.545772,6.0,instagram,True,breathingExercise,120.0,Postar algo
+openedApp,America/Bahia,1750114425.799855,6.0,instagram,True,breathingExercise,60.0,Distração
+openedApp,America/Bahia,1750117631.8277102,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750118564.7958589,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750118788.027463,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750122661.107625,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750131591.5936542,6.0,instagram,False,breathingExercise,600.0,Sem sono
+openedApp,America/Bahia,1750132784.197754,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750176625.255597,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750176729.920906,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750177352.02092,6.0,instagram,True,breathingExercise,360.0,Postar algo
+openedApp,America/Bahia,1750177733.94306,6.0,instagram,True,breathingExercise,540.0,Postar algo
+openedApp,America/Bahia,1750178646.0566669,6.0,instagram,False,breathingExercise,420.0,Ficar por dentro
+dismissedAppOpening,America/Bahia,1750179010.397243,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750211019.955504,6.0,instagram,False,breathingExercise,600.0,Sem sono
+dismissedAppOpening,America/Bahia,1750211326.689678,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750211540.081627,6.0,instagram,False,breathingExercise,600.0,Sem sono
+openedApp,America/Bahia,1750212306.700547,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750212907.230238,6.0,instagram,True,breathingExercise,360.0,Postar algo
+openedApp,America/Bahia,1750213268.939486,6.0,instagram,True,breathingExercise,480.0,Sem sono
+openedApp,America/Bahia,1750221704.82002,6.0,instagram,False,breathingExercise,600.0,Relaxar
+openedApp,America/Bahia,1750222329.211091,6.0,instagram,True,breathingExercise,240.0,Entretenimento
+openedApp,America/Bahia,1750275768.417347,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1750276395.905325,6.0,instagram,True,breathingExercise,360.0,Ficar por dentro
+openedApp,America/Bahia,1750277597.894969,6.0,instagram,False,breathingExercise,600.0,Sanitário
+openedApp,America/Bahia,1750282061.7112799,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1750283376.9141622,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750283508.7007709,6.0,instagram,False,breathingExercise,540.0,Ficar por dentro
+openedApp,America/Bahia,1750284031.439069,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1750284091.334856,6.0,instagram,False,breathingExercise,540.0,Postar algo
+openedApp,America/Bahia,1750289423.893406,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1750290870.768065,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1750291492.109023,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750333264.828018,6.0,instagram,False,breathingExercise,420.0,Distração
+dismissedAppOpening,America/Bahia,1750334442.614903,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750342981.04194,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750348567.69644,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750349889.7247329,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+dismissedAppOpening,America/Bahia,1750350032.155679,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750354193.563535,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750360760.429739,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750361386.6363301,6.0,instagram,True,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750371973.603242,6.0,instagram,False,breathingExercise,540.0,Distração
+dismissedAppOpening,America/Bahia,1750379558.800823,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750429495.514961,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1750430021.561386,6.0,instagram,False,breathingExercise,420.0,Postar algo
+openedApp,America/Bahia,1750430987.1690722,6.0,instagram,False,breathingExercise,480.0,Distração
+openedApp,America/Bahia,1750434970.795166,6.0,instagram,False,breathingExercise,600.0,Stalkear a/o crush
+openedApp,America/Bahia,1750444974.117402,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1750445154.470895,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750445862.4050379,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750449386.668562,6.0,instagram,False,breathingExercise,600.0,Stalkear a/o crush
+dismissedAppOpening,America/Bahia,1750464077.178863,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750464290.1529222,6.0,instagram,False,breathingExercise,600.0,Sanitário
+openedApp,America/Bahia,1750469408.764909,6.0,instagram,False,breathingExercise,540.0,Postar algo
+openedApp,America/Bahia,1750484345.2656999,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1750506110.978729,6.0,instagram,False,breathingExercise,540.0,Postar algo
+openedApp,America/Bahia,1750523526.961416,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1750533236.463602,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750533858.391619,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750534711.6055388,6.0,instagram,True,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750534783.687113,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750535413.091488,6.0,instagram,True,breathingExercise,300.0,Postar algo
+dismissedAppOpening,America/Bahia,1750535840.7389688,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1750535843.6458,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750547141.549731,6.0,instagram,False,breathingExercise,600.0,Relaxar
+openedApp,America/Bahia,1750547345.180826,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1750549099.6805449,6.0,instagram,False,breathingExercise,600.0,Sanitário
+dismissedAppOpening,America/Bahia,1750549233.044172,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1750549235.325138,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750549363.064697,6.0,instagram,False,breathingExercise,480.0,Sanitário
+openedApp,America/Bahia,1750555051.0466971,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1750563997.477519,6.0,instagram,False,breathingExercise,540.0,Ficar por dentro
+openedApp,America/Bahia,1750599042.065937,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750602995.352874,6.0,instagram,False,breathingExercise,540.0,Entretenimento
+openedApp,America/Bahia,1750603560.866399,6.0,instagram,True,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1750603918.002737,6.0,instagram,False,breathingExercise,540.0,Postar algo
+openedApp,America/Bahia,1750614387.422233,6.0,instagram,False,breathingExercise,600.0,Entediado
+openedApp,America/Bahia,1750614604.816756,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750693093.7248769,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750696085.730051,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750696665.108879,6.0,instagram,False,breathingExercise,540.0,Postar algo
+openedApp,America/Bahia,1750697519.792728,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1750708449.305558,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750708504.1971579,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750708851.403315,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750708973.3552132,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750710887.283619,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1750711810.983576,6.0,instagram,True,breathingExercise,,
+openedApp,America/Bahia,1750735949.778914,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1750736536.878196,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1750736539.3986192,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1750736622.397883,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750736864.477057,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750737489.623365,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750738107.902611,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750768156.931994,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750769917.011291,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1750770482.328572,6.0,instagram,False,breathingExercise,540.0,Postar algo
+openedApp,America/Bahia,1750770757.765633,6.0,instagram,False,breathingExercise,480.0,Postar algo
+openedApp,America/Bahia,1750771260.262572,6.0,instagram,True,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1750790688.347141,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1750791564.950433,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1750794687.933212,6.0,instagram,False,breathingExercise,,
+openedApp,America/Recife,1750815984.877769,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Recife,1750817504.097245,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Recife,1750817927.498753,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Recife,1750818644.7832909,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750843640.262545,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750848456.3601089,6.0,instagram,False,breathingExercise,540.0,Postar algo
+openedApp,America/Sao_Paulo,1750851653.650549,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750864697.146332,6.0,instagram,False,breathingExercise,480.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1750890196.102231,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1750890215.176237,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750890838.583173,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750891454.328645,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750894299.930248,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750894594.574969,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750940101.991744,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750943602.392933,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1750943878.769212,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1750944435.341111,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750946321.5950809,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750947156.2889528,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750947775.5815802,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750950252.1389241,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750950877.50849,6.0,instagram,True,breathingExercise,360.0,Postar algo
+openedApp,America/Sao_Paulo,1750951698.68997,6.0,instagram,True,breathingExercise,420.0,Postar algo
+openedApp,America/Sao_Paulo,1750956910.7379189,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750957551.5569592,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750957727.3299541,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750957944.122745,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Sao_Paulo,1750958652.178102,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750959264.66608,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+dismissedAppOpening,America/Sao_Paulo,1750963475.373764,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1750964694.845665,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Sao_Paulo,1750964792.855239,6.0,instagram,False,breathingExercise,360.0,Postar algo
+openedApp,America/Sao_Paulo,1750965172.061356,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750965634.589555,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750965814.506217,6.0,instagram,False,breathingExercise,540.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1750968544.247407,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1750968613.0382261,6.0,instagram,False,breathingExercise,480.0,Postar algo
+openedApp,America/Sao_Paulo,1750968921.961259,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1750969365.731291,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Sao_Paulo,1751037454.896193,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751041399.782547,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Sao_Paulo,1751041758.985348,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Sao_Paulo,1751051974.386826,6.0,instagram,False,breathingExercise,600.0,Stalkear a/o crush
+openedApp,America/Sao_Paulo,1751052646.305447,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751052877.153325,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751053502.536648,6.0,instagram,True,breathingExercise,540.0,Postar algo
+openedApp,America/Sao_Paulo,1751077452.130517,6.0,instagram,False,breathingExercise,600.0,Entediado
+openedApp,America/Sao_Paulo,1751078075.109871,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751079140.296673,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751079839.7311978,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751080191.5931082,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751080560.87377,6.0,instagram,False,breathingExercise,420.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751081097.456551,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751108511.9080849,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751108735.5729299,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751109433.7520351,6.0,instagram,True,breathingExercise,540.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751113827.518507,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751115451.5343862,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751120618.271809,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1751120619.98875,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751125959.15238,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Sao_Paulo,1751126581.956204,6.0,instagram,True,breathingExercise,540.0,Postar algo
+openedApp,America/Sao_Paulo,1751128504.141918,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751129449.467304,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751138943.4129739,6.0,instagram,False,breathingExercise,600.0,Distração
+dismissedAppOpening,America/Sao_Paulo,1751139476.92015,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751139530.781822,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751154598.663635,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751156328.927572,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751160030.8121161,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751160163.4810128,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751160787.2530432,6.0,instagram,True,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751164822.954498,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751198604.946083,6.0,instagram,False,breathingExercise,600.0,Distração
+dismissedAppOpening,America/Sao_Paulo,1751199098.27463,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1751199288.489043,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1751199386.905647,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1751200601.272515,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751287702.9809818,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751305814.381397,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751307266.570601,6.0,instagram,True,breathingExercise,600.0,Distração
+dismissedAppOpening,America/Sao_Paulo,1751309099.360254,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751317853.463305,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751318639.525686,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1751328383.695197,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751382527.957281,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Sao_Paulo,1751382564.33395,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751394508.2436728,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751394712.159487,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751422622.970159,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751428430.493001,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751429194.865444,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751446472.761198,6.0,instagram,False,breathingExercise,600.0,Sem sono
+openedApp,America/Sao_Paulo,1751447097.256069,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751447702.097579,6.0,instagram,True,breathingExercise,600.0,Sem sono
+openedApp,America/Sao_Paulo,1751448299.833986,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751448793.849474,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751449834.025126,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Sao_Paulo,1751457595.1853318,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751460173.016882,6.0,instagram,False,breathingExercise,600.0,Pesquisar informações
+dismissedAppOpening,America/Sao_Paulo,1751460769.309565,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751504689.350311,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751552505.3632898,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751568894.682681,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751570416.477178,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751571024.089737,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751571645.536988,6.0,instagram,True,breathingExercise,540.0,Entretenimento
+openedApp,America/Sao_Paulo,1751572189.246403,6.0,instagram,True,breathingExercise,600.0,Relaxar
+openedApp,America/Sao_Paulo,1751588388.332972,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751588717.8233972,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1751588720.240277,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751589379.910022,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751590273.827436,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751591446.022608,6.0,instagram,False,breathingExercise,600.0,Sem sono
+dismissedAppOpening,America/Sao_Paulo,1751638288.465529,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751684745.936493,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751685369.918025,6.0,instagram,True,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751686254.239153,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751686292.847961,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751686919.1032748,6.0,instagram,True,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751687420.7118,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1751687434.330502,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751687456.146181,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751687595.330203,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751688222.477469,6.0,instagram,True,breathingExercise,600.0,Sem sono
+openedApp,America/Sao_Paulo,1751688815.509264,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751689423.2604098,6.0,instagram,True,breathingExercise,600.0,Entretenimento
+dismissedAppOpening,America/Sao_Paulo,1751689791.649257,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751763045.399194,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751763241.766029,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751764330.893869,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751771789.4295,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751772285.792186,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751772906.942128,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751816495.5147781,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751817160.914619,6.0,instagram,True,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751817783.835685,6.0,instagram,True,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751823197.389061,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751828059.092585,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751828252.237175,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Sao_Paulo,1751836753.713794,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751837291.1952639,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Sao_Paulo,1751837904.313003,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751838525.973452,6.0,instagram,True,breathingExercise,480.0,Postar algo
+openedApp,America/Sao_Paulo,1751839027.167544,6.0,instagram,True,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751847435.09782,6.0,instagram,False,breathingExercise,600.0,Distração
+dismissedAppOpening,America/Sao_Paulo,1751847743.6123729,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751847766.149234,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Sao_Paulo,1751848412.706075,6.0,instagram,True,breathingExercise,600.0,Distração
+dismissedAppOpening,America/Sao_Paulo,1751849019.732636,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Sao_Paulo,1751849022.4622679,6.0,instagram,False,breathingExercise,,
+openedApp,America/Sao_Paulo,1751851884.200873,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Sao_Paulo,1751851912.1189961,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Sao_Paulo,1751853711.823591,6.0,instagram,False,breathingExercise,,
+openedApp,America/Recife,1751864156.109538,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Recife,1751864469.430809,6.0,instagram,False,breathingExercise,420.0,Postar algo
+openedApp,America/Recife,1751864514.882022,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+dismissedAppOpening,America/Recife,1751864919.050116,6.0,instagram,False,breathingExercise,,
+openedApp,America/Recife,1751864946.293854,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Recife,1751865070.411416,6.0,instagram,False,breathingExercise,420.0,Postar algo
+openedApp,America/Bahia,1751906178.122682,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1751932172.125149,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1751959941.344769,6.0,instagram,True,breathingExercise,600.0,Sem sono
+openedApp,America/Bahia,1751960571.087792,6.0,instagram,True,breathingExercise,480.0,Sem sono
+openedApp,America/Bahia,1751961068.108947,6.0,instagram,True,breathingExercise,360.0,Sem sono
+openedApp,America/Bahia,1751961448.9868531,6.0,instagram,True,breathingExercise,240.0,Postar algo
+openedApp,America/Bahia,1751988667.377171,6.0,instagram,True,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1752000213.479786,6.0,instagram,False,breathingExercise,600.0,Stalkear a/o crush
+openedApp,America/Bahia,1752008514.870142,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1752008794.6730409,6.0,instagram,False,breathingExercise,600.0,Stalkear a/o crush
+openedApp,America/Bahia,1752009459.153774,6.0,instagram,False,breathingExercise,600.0,Verificar curtidas
+openedApp,America/Bahia,1752010854.721338,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752011975.398366,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752025499.281766,6.0,instagram,True,breathingExercise,600.0,Sem sono
+openedApp,America/Bahia,1752026124.86759,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752026742.490588,6.0,instagram,True,breathingExercise,420.0,Postar algo
+openedApp,America/Bahia,1752026808.0520449,6.0,instagram,False,breathingExercise,360.0,Postar algo
+dismissedAppOpening,America/Bahia,1752027175.5472379,6.0,instagram,True,breathingExercise,,
+openedApp,America/Bahia,1752037213.111645,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+dismissedAppOpening,America/Bahia,1752037661.253629,6.0,instagram,False,breathingExercise,,
+dismissedAppOpening,America/Bahia,1752037663.637195,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1752037681.3662992,6.0,instagram,False,breathingExercise,540.0,Sem sono
+openedApp,America/Bahia,1752037806.583263,6.0,instagram,False,breathingExercise,480.0,Sem sono
+openedApp,America/Bahia,1752069011.176148,6.0,instagram,False,breathingExercise,600.0,Distração
+dismissedAppOpening,America/Bahia,1752070700.116187,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1752070805.879146,6.0,instagram,False,breathingExercise,360.0,Distração
+openedApp,America/Bahia,1752073116.2029219,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1752073229.735625,6.0,instagram,False,breathingExercise,540.0,Distração
+openedApp,America/Bahia,1752074300.660857,6.0,instagram,False,breathingExercise,300.0,Stalkear a/o crush
+openedApp,America/Bahia,1752074623.756122,6.0,instagram,True,breathingExercise,240.0,Postar algo
+openedApp,America/Bahia,1752075449.776129,6.0,instagram,False,breathingExercise,480.0,Postar algo
+dismissedAppOpening,America/Bahia,1752082841.139316,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1752082877.031519,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Recife,1752083596.509537,6.0,instagram,True,breathingExercise,420.0,Ficar por dentro
+openedApp,America/Bahia,1752097869.0019069,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752098211.2802238,6.0,instagram,False,breathingExercise,600.0,Ficar por dentro
+openedApp,America/Bahia,1752098833.6041021,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752098960.57392,6.0,instagram,False,breathingExercise,420.0,Postar algo
+openedApp,America/Bahia,1752102212.164236,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752102834.143849,6.0,instagram,True,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1752105545.338482,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1752105576.1564422,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752105946.690717,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752106571.284754,6.0,instagram,True,breathingExercise,600.0,Sem sono
+openedApp,America/Bahia,1752107172.756359,6.0,instagram,True,breathingExercise,420.0,Postar algo
+openedApp,America/Bahia,1752107592.7874122,6.0,instagram,True,breathingExercise,360.0,Entretenimento
+openedApp,America/Bahia,1752107831.018352,6.0,instagram,False,breathingExercise,600.0,Postar algo
+dismissedAppOpening,America/Bahia,1752111614.148193,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1752114148.096232,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1752114769.300492,6.0,instagram,True,breathingExercise,360.0,Postar algo
+dismissedAppOpening,America/Bahia,1752115208.888912,6.0,instagram,False,breathingExercise,,
+openedApp,America/Bahia,1752141648.1058779,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752142249.676852,6.0,instagram,False,breathingExercise,540.0,Entretenimento
+openedApp,America/Bahia,1752199686.640839,6.0,instagram,False,breathingExercise,600.0,Entretenimento
+openedApp,America/Bahia,1752200249.291295,6.0,instagram,False,breathingExercise,600.0,Distração
+openedApp,America/Bahia,1752201019.02041,6.0,instagram,False,breathingExercise,600.0,Sem sono
+openedApp,America/Bahia,1752201514.5702639,6.0,instagram,False,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752202136.215754,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752202752.418108,6.0,instagram,True,breathingExercise,600.0,Postar algo
+openedApp,America/Bahia,1752203371.930501,6.0,instagram,True,breathingExercise,600.0,Postar algo

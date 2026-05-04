@@ -1,0 +1,620 @@
+timezone,interventionType,app,interventionDuration,isReIntervention,resolution,timestamp,purpose
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749392653.455103,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749392693.681958,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749392880.175638,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749392885.3564491,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749392895.7342691,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749393488.633115,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749393506.146048,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749393647.8403358,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749394838.92668,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749394920.21837,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749394927.475657,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749394971.849409,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749395058.921472,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749395078.0616841,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749395085.775342,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749395091.95457,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749395725.4565802,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749397490.735379,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749397786.1481729,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749397789.3006139,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749397796.901891,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749398143.783133,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749398198.544596,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749398203.015479,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749398211.1572719,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749398239.584165,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749398625.2424731,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749398629.1000361,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749398645.7514238,Search Info
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749398741.422853,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749399090.858875,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749399199.9144459,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749399306.0657969,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749399324.749639,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749399414.711035,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749399469.1734362,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749402242.553155,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749402245.6872149,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749404117.3920789,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749404264.779813,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749404333.1091418,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749405092.846175,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749405100.766708,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749405185.0386,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749405788.069634,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749405882.588434,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749406038.2068381,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749406861.46982,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749406867.379658,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749407150.0507221,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749407761.642806,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749408795.578516,Entertainment
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749408825.784868,Stalk crush
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749409215.891797,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749409921.181032,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749409924.7413,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749409928.5478048,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749412367.423857,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749412538.311744,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749413012.3327909,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749413099.066258,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749413228.1341848,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749413293.185542,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749413627.40655,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749413943.338381,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749414021.172807,Entertainment
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749414060.3831902,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749414166.0738711,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749414175.889847,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749414356.413221,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749414396.438936,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749414496.3605762,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749414618.856278,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749414640.312685,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749414758.004813,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749414851.893087,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749415422.902101,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749415454.964116,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749415502.004346,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749416245.838932,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749416492.090323,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749416516.922499,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749416637.017185,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749416978.7398648,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749418585.943709,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749418597.0728788,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749418722.261146,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749418738.567284,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749418780.608886,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749419138.4070969,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749419263.6892161,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749419280.706351,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749419343.050239,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749419345.609025,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749419355.967516,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749419553.85902,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749419579.098535,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749419618.309382,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749419621.831393,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749419648.349914,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749419654.970036,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749419703.576757,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749419799.847141,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749419880.9863238,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749419887.665993,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749419913.7428842,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749419971.655467,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749420308.3380098,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749420310.662988,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749420313.139731,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749420324.756006,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749420947.170487,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749420949.846417,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749420956.086384,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749421427.759661,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749421431.0890222,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749422274.272181,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749422383.928071,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749422456.606688,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749422705.4705338,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749422708.360141,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749422711.23052,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749422714.7970529,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749423309.9772801,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749423312.9169679,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749423757.267116,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749423760.256768,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749425254.233787,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749426116.4223971,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749426277.3717341,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749426389.684668,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749427131.272948,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749427137.923142,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749427849.58104,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749429028.0646129,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749429158.301924,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749429571.397458,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749429673.17939,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749429825.758642,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749430173.243098,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749430181.844492,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749430200.416091,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749430419.724162,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749430690.890595,Check likes
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749430748.648763,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749430758.374495,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749431292.786957,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749431711.367034,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749431991.544574,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749432064.894432,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749432341.7967591,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749432640.518604,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749432943.121634,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749432960.274281,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749433064.84371,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749433325.380166,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749433335.5244641,Check likes
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749433369.150358,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749433457.85672,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749433460.919461,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749433899.584889,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749434265.0631819,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749434271.4526849,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749434356.420426,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749435593.766747,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749435599.4338799,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749435756.667501,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749436456.861017,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749436575.087494,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749436655.779554,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749436694.431057,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749436711.449295,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749436822.8333821,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749436831.476081,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749436952.251267,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749437071.3088632,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749437115.7870212,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749437141.7074242,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749437160.1775808,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749437285.854466,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749437517.6494431,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749437575.640976,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749437713.704793,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749437719.371727,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749437739.371208,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749438212.364496,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749438419.654988,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749438422.8813648,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749438436.7135448,Check likes
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749438653.702962,Bored
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749439087.094621,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749439135.587984,Check likes
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749439200.9863992,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749439320.294781,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749442567.453994,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749442573.5140262,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749442831.971609,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749442860.743542,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749446382.819658,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749446546.7745419,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749446554.464398,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749446965.226715,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749447132.6455,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749447286.398175,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749447290.13663,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749480356.858671,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749480369.4617472,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749480582.914952,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749481617.953493,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749481622.881886,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749481627.472393,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749481721.736843,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749481808.3016171,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749481813.019578,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749484526.6204472,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749485042.218148,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749485050.26301,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749486245.1593761,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749486646.319215,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749487441.0932431,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749487480.441078,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749487515.831084,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749487518.02366,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749491894.831162,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749492741.5239801,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749493311.423925,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749495207.5887399,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749495210.8505569,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749495286.936531,Post something
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749495386.7384,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749495435.4730592,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749495451.224664,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749495476.050014,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749496184.06875,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749496665.530153,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749497389.308607,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749497391.0267391,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749497393.049336,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749497398.986199,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749497439.845393,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749497623.420852,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749497629.5214748,Check likes
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749497774.748516,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749497786.224612,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749497901.404933,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749498066.046651,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749498628.024776,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749498630.331101,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749498651.849244,Bored
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749498811.213675,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749499053.707145,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749499064.024149,Post something
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749500182.9389539,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749500189.2487679,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749500230.564822,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749500232.127137,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749507030.649898,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749507037.312002,Post something
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749507071.317881,Search Info
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749507120.145313,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749507138.710664,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749507141.074882,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749507170.752585,Entertainment
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749507200.836987,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749507354.1125689,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749511466.873549,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749511477.7435641,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749511503.295445,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749511532.9485521,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749511657.23248,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749511798.662514,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749511900.001604,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749512225.6599689,Entertainment
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749512775.6926088,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749512780.667132,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749513337.370809,Search Info
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749513445.59782,Toilet
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749514629.3757381,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749514634.554323,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749515868.843725,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749515873.8017058,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749515875.859546,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749519560.790687,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749520050.115593,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749520098.518538,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749520105.314413,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749520252.6467252,Stay In the Loop
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749522039.574254,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749522430.2429218,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749522695.0193748,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749522742.783177,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749522811.6786609,Toilet
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749522873.727539,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749523121.958786,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749523179.3936949,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749523231.685451,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749523237.828866,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749524770.422044,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749524802.648236,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749525306.9587588,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749525484.291213,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749526162.0067902,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749526216.537504,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749526221.9580579,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749526295.2497811,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749526305.6980538,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749526489.261931,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749527084.53835,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749527092.555193,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749527096.778811,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749527279.715887,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749527364.536849,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749528155.52126,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749528186.435061,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749528192.132368,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749528276.554784,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749530009.565682,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749530211.062268,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749530222.105585,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749530394.1741982,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749530407.250299,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749531543.148835,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749563410.48392,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749563436.054929,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749563543.479116,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749563561.69009,Entertainment
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749563657.92619,Post something
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749563889.743227,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749564281.275444,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749564807.314488,Post something
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749565167.4205909,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749566893.3034592,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749569943.0895228,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749571949.794704,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749572113.960981,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749572347.987581,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749573962.1703482,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749580452.014852,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749580506.1431441,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749583632.120105,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749584345.47128,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749584422.0232558,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749584424.769154,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749584428.7907891,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749584431.297079,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749584456.195198,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749584805.93764,Stay In the Loop
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749585450.000143,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749585707.032405,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749587511.7576442,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749587525.818783,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749587619.034299,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749587676.694624,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749592233.94624,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749592449.404995,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749592464.897039,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749592630.733653,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749592632.441553,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749592634.253735,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749592639.4812531,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749593189.471961,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749593447.504757,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749595015.729648,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749595018.972328,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749595322.433278,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749595886.613975,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749596884.221363,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749597630.0923781,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749597737.217067,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749597827.943355,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749597983.485044,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749598635.705494,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749601936.6902719,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749602865.688488,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749602868.085853,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749602871.458355,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749602877.4488258,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749603001.4255362,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749603116.818811,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749603205.280195,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749603829.364418,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749605106.71216,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749605117.8250961,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749605320.556028,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749605361.30304,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749605475.289476,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749605484.4582381,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749605777.13098,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749605856.63638,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749605865.517572,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749605977.861661,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749606156.787868,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749606351.486707,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749606361.3428411,Post something
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749606717.964488,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749606852.039441,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749607066.00739,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749607181.6608238,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749607211.857955,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749607415.810958,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749607723.534976,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749607732.52054,Check likes
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749607859.23777,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749607892.127496,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749607906.942785,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749607968.2189631,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749607993.750564,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749608042.7592359,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749608156.291428,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749608265.317723,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749608268.085806,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749608278.4472198,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749609349.250156,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749609355.028219,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749609496.0097551,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749609545.421041,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749609586.3423018,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749609615.801941,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749609699.855204,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749609893.270457,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749609895.8365998,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749609899.207141,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749609901.5535002,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749610601.476493,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749611210.245261,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749611612.462451,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749612297.166534,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749618065.942091,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749618186.656553,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749618234.666961,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749618435.531145,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749618643.138037,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749618750.5139341,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749618820.764498,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749618867.495076,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749618929.3484812,Post something
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749619319.7707748,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749619797.480037,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749619855.936445,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749620335.68838,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749620339.96065,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749620721.513758,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749620851.569145,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749620864.958756,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749621208.590956,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749621402.232492,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749621436.370345,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749621447.7083879,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749621958.2964559,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749623291.095377,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749623536.546255,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749623644.9447289,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749623651.542393,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749623733.963783,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749623755.168538,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749623904.4045792,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749624142.946661,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749624234.252462,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749624370.303047,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749624493.0374122,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749624600.6962829,Post something
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749627364.854168,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749694653.842492,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749694656.5643039,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749694664.5444,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749694818.384522,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749695018.6245441,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749695027.929374,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749695081.514313,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749695090.6513062,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749695354.147365,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749695671.4159532,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749695691.2155461,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749695889.02777,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749695899.423167,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749696461.0875359,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749696532.290889,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749696534.324174,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749697565.950992,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749697847.617883,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749698366.4425302,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749698368.4920459,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749698863.984936,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749701200.56106,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749702026.730962,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749702028.512182,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749702348.938308,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749702471.254109,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749702473.229683,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749702479.8434649,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749702513.3992472,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749740272.3042421,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749740375.9671621,Check likes
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749740406.1234121,Check likes
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749740482.173732,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749740542.8331041,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749741449.141415,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749742549.2083101,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749742563.1769428,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749742570.683763,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749744149.561356,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749744238.316962,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749744242.329886,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749744246.380053,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749744629.480435,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749744636.4882932,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749744665.2930589,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749744780.202162,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749744857.351132,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749747651.153559,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749747679.0303621,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749747683.213923,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749747696.34496,Stalk crush
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749747894.205905,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749749210.7490668,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749749213.740026,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749749221.298595,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749749249.2460608,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749749251.64078,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749749955.1788502,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749749959.973335,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749749962.969902,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749749969.843276,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749749979.5202441,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749751444.3046799,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749751453.931648,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749751454.996337,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749751469.213834,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749751472.9152288,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749751498.053049,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749752133.7638721,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749752142.696681,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749753431.111634,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749753435.299955,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749753450.518214,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749753452.607991,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749753455.130454,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749753459.778029,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749753463.569407,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749753470.945154,Stalk crush
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749753772.509313,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749753851.578207,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749758542.48546,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749758544.6165109,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749758546.473417,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749758548.64924,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749758554.426682,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749769063.662009,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749773934.9490151,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749776069.919152,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749776911.3803082,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749777002.225412,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749777160.698703,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749777357.547246,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749777405.1280231,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749777454.852479,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749777682.5789351,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749777695.9518862,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749777748.4985728,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749777823.288178,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749779716.618133,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749780413.5959148,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749780415.38271,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749780418.700035,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749780420.913321,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749785905.588783,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749786161.024321,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749787883.5987039,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749788076.070595,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749789527.04736,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749789583.648613,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749789651.036793,Post something
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749789925.124453,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749789959.260377,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749790002.1962209,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749790325.279592,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749791199.691039,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749791585.471623,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749791660.0866199,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749791666.675025,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749791692.439373,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749791710.61548,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749792552.162901,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749792565.4982738,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749792617.7423391,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749792652.266403,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749793516.0670118,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749794605.394387,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749830005.566584,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749830009.513784,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749830020.437329,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749841850.8605661,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749841943.493624,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749841977.657875,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749907115.505245,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749907131.656281,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749907136.190083,
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749910299.989017,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749910307.142158,Check likes
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749911278.554903,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749911303.617701,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749911428.551097,
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749911434.208477,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749911443.667422,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749911538.851585,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749913907.098359,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749913939.589659,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749913941.473644,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749913943.945994,
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749913945.805053,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749916830.05597,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749922320.129286,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749922409.289748,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749922460.767334,Message
+America/Toronto,breathingExercise,instagram,1.5,False,dismissedAppOpening,1749922551.022228,
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749922840.161433,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,openedApp,1749922919.431215,Message
+America/Toronto,breathingExercise,instagram,1.5,False,openedApp,1749923108.173339,Message
+America/Toronto,breathingExercise,tikTok,1.5,False,dismissedAppOpening,1749923131.539163,

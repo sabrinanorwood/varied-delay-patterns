@@ -1,0 +1,516 @@
+timestamp,interventionType,resolution,interventionDuration,app,timezone,isReIntervention,purpose,timeIntervalUntilReIntervention
+1751825171.1304522,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1751825187.3292131,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1751825278.5271192,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1751830270.442109,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1751835285.686944,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1751837747.5577269,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751838642.7656279,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751840986.1119561,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751841018.398946,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Ablenkung,
+1751875994.74964,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1751876386.947511,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1751876873.974277,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751879311.386726,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751880066.040153,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1751880130.670321,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751880146.672653,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751880150.360838,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751880155.859478,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751880162.30661,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751880166.081678,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751880185.0184078,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751880314.28963,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1751880343.36311,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1751880365.1661339,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1751880380.549199,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,60.0
+1751889989.473226,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,60.0
+1751895067.657745,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1751895082.380622,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1751902099.295656,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1751902112.316469,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1751902259.907045,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Entspannung,300.0
+1751903682.326168,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,480.0
+1751903717.1404982,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1751905087.668563,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1751913283.928951,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1751918492.1474838,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Langeweile,
+1751920829.275363,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Infos suchen,
+1751921127.547793,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Langeweile,360.0
+1751921513.341868,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Langeweile,360.0
+1751966142.140146,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1751976239.275768,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1751976320.066349,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Entspannung,300.0
+1751976338.695097,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1751977889.721583,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1751980370.9104152,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Klo,240.0
+1751985036.821261,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1751985173.668219,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1751988007.569557,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1751991102.0480819,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1751999393.768577,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1751999531.128567,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,300.0
+1752010202.809925,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752010321.579735,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Klo,
+1752010751.659086,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752013443.572483,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752014133.578973,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Langeweile,
+1752014216.405744,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752015218.053529,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752015733.06452,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752015947.2220922,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752017322.611453,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752044457.73673,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Klo,300.0
+1752047141.4597569,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,180.0
+1752057700.684826,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,180.0
+1752057904.8662848,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Nachricht / Schreiben,300.0
+1752058129.677912,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752064303.660252,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1752066675.697777,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752073020.868002,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752073150.260227,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752079450.28751,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,180.0
+1752079604.4135342,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,300.0
+1752079917.7634091,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752080592.071677,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752081905.124951,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Nachricht / Schreiben,480.0
+1752081927.723113,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Nachricht / Schreiben,600.0
+1752083016.6718001,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,120.0
+1752083941.4458241,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Infos suchen,
+1752084324.0430589,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752085245.1106992,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Klo,240.0
+1752090694.507693,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Langeweile,480.0
+1752091190.528955,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Unterhaltung,120.0
+1752116179.8361402,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752124016.3859959,journaling,dismissedAppOpening,,instagram,Europe/Berlin,False,,
+1752124146.696682,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1752131967.503707,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Infos suchen,360.0
+1752132031.56039,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752133913.028897,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752134046.4100761,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752134260.488855,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1752135555.535914,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1752135812.6332412,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752140030.659831,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1752140215.347806,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,300.0
+1752140290.779146,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1752140370.445678,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752140630.245578,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752140993.461185,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1752142108.485005,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752144202.177895,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752144944.101634,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1752145494.175898,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752145591.04149,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752145816.903012,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1752147524.800356,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1752148533.457844,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1752149174.8008761,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Klo,
+1752149255.34346,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752149271.237714,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Etwas posten,
+1752149350.602617,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752149352.917725,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752150361.545383,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,180.0
+1752150435.790928,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Entspannung,180.0
+1752167569.602388,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1752167811.0008512,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Entspannung,360.0
+1752168093.8414512,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1752171027.35576,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752171511.7464209,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752171517.64781,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752172373.3575048,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752178401.514744,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752178484.5565062,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752178585.506418,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752180611.232596,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752184596.114006,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752222029.9753551,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752223569.8808389,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752224669.7880201,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752232379.242806,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752238321.376909,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752238453.747999,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Etwas posten,360.0
+1752246344.252317,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752249342.449507,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752261080.1014051,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752267571.069587,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,120.0
+1752267701.497741,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1752267711.0036411,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752332372.996395,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752335299.821093,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Infos suchen,
+1752337970.06502,journaling,dismissedAppOpening,,instagram,Europe/Berlin,False,,
+1752337983.980701,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,480.0
+1752338150.101526,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,360.0
+1752338326.7481508,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1752339662.685309,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752343934.8656259,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752347088.014987,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,360.0
+1752347999.906043,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1752354287.27419,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752478159.0409389,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752478934.3441858,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752479189.518604,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,360.0
+1752479552.327887,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752480541.3777452,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752481751.9321032,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752481755.8571491,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752481760.06173,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752482192.389003,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752482512.293155,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1752482748.597076,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752483126.69946,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,True,Unterhaltung,540.0
+1752486854.8625379,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752486908.908973,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Unterhaltung,180.0
+1752487105.761755,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,300.0
+1752487283.215877,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752493979.858228,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752503188.409202,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752504688.288919,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Unterhaltung,240.0
+1752505069.977843,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Etwas posten,240.0
+1752509558.498242,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752509985.562801,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752510360.7863278,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752510476.493528,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752513580.290204,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752513897.0722718,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Etwas posten,480.0
+1752514053.664514,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752514218.420281,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752514534.654978,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752515068.435905,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1752515185.786777,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752515619.402019,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,300.0
+1752519394.005642,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752519768.425384,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,300.0
+1752521776.6908898,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1752570358.948495,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752571948.390427,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752576364.801354,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,420.0
+1752576434.7207189,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1752576484.276648,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752576576.268117,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,300.0
+1752576761.3677468,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,300.0
+1752578273.925286,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,360.0
+1752579167.8544688,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752579822.8634229,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752580407.483715,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752580438.8592029,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752581770.059464,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752581800.968396,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752581817.786107,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,360.0
+1752584372.090594,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752584393.048594,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752584848.575021,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752584854.939252,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1752587629.263489,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752587757.672365,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Etwas posten,
+1752591138.196105,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752593228.491097,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Infos suchen,
+1752594913.322906,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Infos suchen,660.0
+1752595123.717805,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1752595165.380883,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1752598245.2418199,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752606040.422059,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752606120.482743,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752612201.366554,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752612449.0079489,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Etwas posten,360.0
+1752644523.317791,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752646660.350137,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752646710.159194,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752651225.766111,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752651612.1782908,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752658336.240697,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Entspannung,360.0
+1752658714.152262,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Unterhaltung,420.0
+1752659149.412643,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Unterhaltung,300.0
+1752659493.582623,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Unterhaltung,300.0
+1752659805.4069,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752662515.347155,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752662702.78237,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752663563.771453,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752670444.591373,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752672467.857722,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752672512.126226,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752676996.8037329,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752686488.407239,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752693000.990833,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752693384.5412269,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752695777.688453,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,300.0
+1752701619.6764898,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752702325.414353,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,180.0
+1752703114.896055,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Ablenkung,
+1752737670.143588,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Nachricht / Schreiben,360.0
+1752738619.117909,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752754417.978019,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752756663.7530189,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752756677.144587,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Etwas posten,300.0
+1752758006.6844568,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752758414.665307,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Etwas posten,180.0
+1752758537.867389,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1752759083.965273,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,180.0
+1752759311.621038,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Likes checken,180.0
+1752763978.261485,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Nachricht / Schreiben,240.0
+1752767254.2426891,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Nachricht / Schreiben,300.0
+1752767714.517322,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752767943.980176,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Nachricht / Schreiben,300.0
+1752769111.182821,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752776557.90968,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752776872.398047,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Entspannung,420.0
+1752777304.17213,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Klo,420.0
+1752777737.073636,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752777822.969316,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Ablenkung,
+1752787820.154313,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Infos suchen,480.0
+1752790042.888568,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,480.0
+1752828026.7090058,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752836824.43526,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,540.0
+1752837376.273413,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752838031.622124,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Unterhaltung,
+1752841182.625373,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752841209.308289,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752841316.254452,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Unterhaltung,360.0
+1752844203.805083,breathingExercise,dismissedAppOpening,1.5,snapchat,Europe/Berlin,False,,
+1752844217.641792,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752844532.041203,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,True,Etwas posten,360.0
+1752851033.533197,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Likes checken,360.0
+1752851111.70896,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Nachricht / Schreiben,360.0
+1752851219.268561,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752851275.20955,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752851800.736206,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Likes checken,300.0
+1752860121.936799,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752861923.7858028,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752862426.110116,breathingExercise,dismissedAppOpening,1.5,instagram,Europe/Berlin,False,,
+1752873028.869256,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752879923.3271332,breathingExercise,openedApp,1.5,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1752883290.877454,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Infos suchen,
+1752883825.248506,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1752885312.141055,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Infos suchen,
+1752917836.94514,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752935056.172257,breathingExercise,openedApp,1.5,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1752935544.939858,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Infos suchen,
+1752951354.336081,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1752959303.0239449,breathingExercise,dismissedAppOpening,1.5,tikTok,Europe/Berlin,False,,
+1752961131.973954,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1752965427.086931,breathingExercise,openedApp,1.5,tikTok,Europe/Berlin,False,Entspannung,
+1753098343.0019379,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753102653.508576,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753103217.142113,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753103344.0955272,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753104691.016819,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753114787.211853,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,300.0
+1753114891.143213,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Infos suchen,
+1753117808.052427,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Infos suchen,
+1753123023.6694388,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753123460.384474,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1753123523.1959438,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753123616.186013,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1753123620.122113,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1753128697.2798371,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753134643.176882,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1753134663.688497,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753135093.790052,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,True,,
+1753135165.597317,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753135409.545951,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753135791.084465,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Langeweile,
+1753140616.981742,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,480.0
+1753141106.690269,breathingExercise,dismissedAppOpening,3.0,tikTok,Europe/Berlin,False,,
+1753176127.84497,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Nachricht / Schreiben,360.0
+1753176363.383709,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753177760.920574,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1753178015.403724,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Nachricht / Schreiben,360.0
+1753179895.685627,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753180206.496625,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753180345.041263,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753181788.479825,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753190810.7784162,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,300.0
+1753198435.164407,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753198637.024293,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753202961.180048,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753209708.5016189,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,300.0
+1753215817.458981,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753218189.236645,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Langeweile,420.0
+1753224502.364665,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Ablenkung,360.0
+1753225655.4910722,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Infos suchen,300.0
+1753231776.716196,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,180.0
+1753260961.012116,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753261162.8295841,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,360.0
+1753261351.319261,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753263679.428607,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Kann nicht schlafen,
+1753267549.662055,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753267877.235117,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,540.0
+1753268848.810584,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753273510.0298162,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753273744.700326,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Infos suchen,480.0
+1753273764.284569,breathingExercise,dismissedAppOpening,3.0,snapchat,Europe/Berlin,True,,
+1753273788.301918,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753273929.803143,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Infos suchen,240.0
+1753274702.456485,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753275120.7438412,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753276452.838464,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753279755.616107,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753280543.23301,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753281762.785624,breathingExercise,dismissedAppOpening,3.0,tikTok,Europe/Berlin,False,,
+1753281776.719763,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753281951.7743049,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753282750.078758,breathingExercise,dismissedAppOpening,3.0,tikTok,Europe/Berlin,False,,
+1753291919.4287481,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753292068.737879,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,True,,
+1753292097.1587238,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753309347.791655,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1753309615.597124,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,360.0
+1753310873.2301369,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Ablenkung,360.0
+1753313907.056253,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Klo,
+1753314174.612124,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753314649.056106,breathingExercise,dismissedAppOpening,3.0,tikTok,Europe/Berlin,False,,
+1753372818.335373,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753377962.344657,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Unterhaltung,240.0
+1753378249.442342,breathingExercise,dismissedAppOpening,3.0,tikTok,Europe/Berlin,False,,
+1753378275.8061109,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753381617.333252,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,240.0
+1753385090.139688,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1753397588.265676,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,480.0
+1753434943.283123,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753449249.1622071,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753449632.530116,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,360.0
+1753450001.233957,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Unterhaltung,360.0
+1753450461.728723,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Klo,
+1753451969.427542,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753470058.275505,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,360.0
+1753474882.426348,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753475198.141889,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,360.0
+1753479816.4418921,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753479936.6911988,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753482111.429863,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753483291.572937,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753518213.769829,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1753518233.8396149,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753522750.09816,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753522858.420305,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753523366.945647,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Nachricht / Schreiben,
+1753529190.1636992,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753538164.829175,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753540586.610314,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753541759.15415,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753546826.5619621,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753547145.5646858,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Unterhaltung,420.0
+1753547610.93265,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,360.0
+1753557990.7412438,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753558019.710726,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753559049.0226722,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753561856.132969,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Unterhaltung,300.0
+1753562453.4718518,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753563235.5960379,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753564152.8084579,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1753564181.4334788,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753565206.119403,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753565307.703996,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,360.0
+1753565845.061234,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753566008.724292,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753566292.2097,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753566909.356495,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753568315.800723,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,360.0
+1753703323.118033,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1753703340.250582,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753705048.997458,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753705218.600086,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753705270.0392299,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753705420.114728,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753706356.8637161,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753707423.629936,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753707947.480217,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753716836.171381,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,420.0
+1753718099.4188452,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,300.0
+1753720123.7195039,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Entspannung,
+1753722176.167982,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753727850.4517999,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Entspannung,
+1753730601.4419851,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753731992.8948631,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,360.0
+1753769268.097379,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753780426.779726,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,300.0
+1753793111.8859038,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,360.0
+1753796484.358242,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Infos suchen,
+1753798588.9954948,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Kann nicht schlafen,480.0
+1753799372.021689,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753799398.380454,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753801049.67267,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753801076.337421,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753804196.079403,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,360.0
+1753804596.156709,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Etwas posten,60.0
+1753805260.736785,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753805464.85494,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753805557.6456099,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753806087.489697,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,True,Unterhaltung,540.0
+1753806233.6047502,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753808103.9301229,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Nachricht / Schreiben,420.0
+1753810095.4812388,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753815077.1792932,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753815521.6588879,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753816303.531999,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Nachricht / Schreiben,360.0
+1753816706.810217,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Nachricht / Schreiben,420.0
+1753861823.325726,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753862166.7654982,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753862268.670041,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Nachricht / Schreiben,300.0
+1753871093.0444078,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753871475.837156,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Nachricht / Schreiben,360.0
+1753872149.279831,breathingExercise,dismissedAppOpening,3.0,tikTok,Europe/Berlin,False,,
+1753872192.6066551,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Infos suchen,
+1753887705.437854,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,360.0
+1753890421.169478,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1753906640.6459908,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753907164.935375,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1753911051.69108,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753911429.3229551,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Etwas posten,360.0
+1753911802.3284578,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Auf dem Laufenden bleiben,360.0
+1753944146.84523,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753944524.745779,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Nachricht / Schreiben,480.0
+1753945106.718481,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Nachricht / Schreiben,360.0
+1753946228.9686298,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1753946252.556335,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753946628.367825,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Unterhaltung,420.0
+1753947050.822252,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,True,,
+1753947066.882127,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Ablenkung,
+1753951418.829064,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1753951799.6130152,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Unterhaltung,540.0
+1753952379.096003,breathingExercise,dismissedAppOpening,3.0,tikTok,Europe/Berlin,False,,
+1753954000.3619099,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753964718.224544,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1753966537.200553,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Klo,360.0
+1753972814.5873408,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Etwas posten,480.0
+1753973065.993761,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Etwas posten,420.0
+1753973772.487741,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,480.0
+1753974521.287457,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Unterhaltung,540.0
+1753975064.019212,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Unterhaltung,420.0
+1753975488.103479,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753984720.8357282,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,420.0
+1753987695.147915,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,480.0
+1753989716.554143,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Infos suchen,
+1753993031.964114,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753993694.3980389,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1753996529.1866732,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,480.0
+1753996559.192226,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,480.0
+1754031247.792297,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1754040055.448348,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,420.0
+1754040300.9320831,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1754040570.385381,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1754044678.310422,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1754048444.08304,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1754048538.228807,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Infos suchen,360.0
+1754052073.783716,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,360.0
+1754067871.416188,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,360.0
+1754069143.853169,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1754070182.010246,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1754071849.681468,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1754072364.778858,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Infos suchen,
+1754073500.397149,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1754073992.2137141,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
+1754074856.4004169,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Auf dem Laufenden bleiben,
+1754078190.494186,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Nachricht / Schreiben,360.0
+1754078618.226888,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1754132927.69135,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,360.0
+1754133014.2303472,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Infos suchen,480.0
+1754142394.378663,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1754142838.219808,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,True,Unterhaltung,360.0
+1754143138.935532,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Unterhaltung,360.0
+1754143847.697115,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,420.0
+1754164092.398017,breathingExercise,dismissedAppOpening,3.0,instagram,Europe/Berlin,False,,
+1754164488.269103,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Entspannung,
+1754168972.9732351,breathingExercise,openedApp,3.0,instagram,Europe/Berlin,False,Auf dem Laufenden bleiben,360.0
+1754169520.574033,breathingExercise,openedApp,3.0,snapchat,Europe/Berlin,False,Auf dem Laufenden bleiben,300.0
+1754171528.832916,breathingExercise,openedApp,3.0,tikTok,Europe/Berlin,False,Unterhaltung,
