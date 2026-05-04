@@ -1,9 +1,6 @@
-# Raw and cleaned data — too large for git, store on OSF/Dropbox
-data/
-data_clean/
-
 # R session artifacts
-.Rhistory
-.RData
-.Rproj.user/
+*.Rhistory
+*.RData
+*.Rproj.user/
 *.Rproj
+*.DS_Store
