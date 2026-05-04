@@ -23,13 +23,27 @@ output:
 
 # TODO
 
-1. "Never started" participants (N=1,275): completed pre-survey but generated no behavioral data. These do not count towards dropouts, they are excluded entirely. 
+1. "Never started" participants (N=1,275): completed pre-survey but generated no behavioral data. These do not count towards dropouts, they are excluded entirely.
 2. why does RQ 2 only have unique participants: 218?
 3. interventionDuration codes are 1.5, 3, 6, and NA, not 3, 6, 10 as per design. Is this a coding error or did the intervention not occur as planned?
-     
+
+# Data format differences: Phase 1 vs Phase 2
+
+Phase 1 (Jan–Mar 2025) and Phase 2 (Jul 2025) are separate cohorts with only 3 overlapping UUIDs.
+
+| | Phase 1 | Phase 2 |
+|---|---|---|
+| File structure | Single CSV, all participants | One CSV per participant, in condition subfolders |
+| Participant ID | `ID` column (study-prefix + UUID) | Extracted from filename |
+| Timestamp format | Datetime string (`"2025-01-28 23:59:43"`) | Unix float (`1750793666.1`) |
+| Condition source | Pre-survey only | Folder name (fallback) + pre-survey (authoritative) |
+| `isReIntervention` encoding | `"0"`, `"1"`, `"False"`, `"True"` | Same + `"0.0"`, `"1.0"` variants |
+| `interventionDuration` encoding | `"1.5"`, `"3"`, `"6"` | Same + `"3.0"`, `"6.0"` variants |
+
+
 ```{r setup, include=FALSE}
 
-knitr::opts_chunk$set(message = FALSE, 
+knitr::opts_chunk$set(message = FALSE,
                       warning = FALSE)
 
 ```
@@ -42,14 +56,14 @@ library(tidyverse)
 
 ```
 
-# Step 1: Load and combine all CSVs
+# Step 1a: Load Phase 2 CSVs (per-participant)
 
 Column order varies across files; read everything as character to avoid
 type-guessing failures on inconsistent columns.
 
 ```{r}
 
-base_path  <- "../data/raw/behavioral data/phase2"
+phase2_base_path <- "../data/raw/behavioral data/phase2"
 
 label_map  <- c(experimental1 = "ABC",
                 experimental2 = "ACC",
@@ -57,8 +71,8 @@ label_map  <- c(experimental1 = "ABC",
                 control       = "CCC")
 
 # Load pre-survey condition map (authoritative source for condition assignment)
-pre_survey_path <- list.files("../data/raw/self-report data", 
-                              pattern = "pre_survey", 
+pre_survey_path <- list.files("../data/raw/self-report data",
+                              pattern = "pre_survey",
                               full.names = TRUE)
 
 condition_map <- read_csv(pre_survey_path,
@@ -81,8 +95,8 @@ condition_map <- read_csv(pre_survey_path,
   ) %>%
   distinct(participant_id, .keep_all = TRUE)
 
-dat_processed <- map_dfr(names(label_map), function(cond) {
-  folder <- file.path(base_path, cond)
+dat_phase2 <- map_dfr(names(label_map), function(cond) {
+  folder <- file.path(phase2_base_path, cond)
   files  <- list.files(folder, full.names = TRUE, pattern = "\\.csv$")
 
   map_dfr(files, function(f) {
@@ -95,44 +109,114 @@ dat_processed <- map_dfr(names(label_map), function(cond) {
     participant_id = str_extract(
       source_file,
       "[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}"
-    ) %>% str_to_upper()
+    ) %>% str_to_upper(),
+    phase = "phase2"
+  )
+
+cat("Phase 2 rows loaded:", nrow(dat_phase2), "\n")
+cat("Phase 2 unique participants:", n_distinct(dat_phase2$participant_id), "\n")
+
+```
+
+# Step 1b: Load Phase 1 CSV (single combined file)
+
+Phase 1 uses a single flat file with all participants. The `ID` column carries the
+same study-prefix + UUID format used in Phase 2 filenames. Timestamps are
+datetime strings, not Unix floats — these are converted to Unix seconds here so
+that downstream steps are format-agnostic.
+
+```{r}
+
+phase1_path <- "../data/raw/behavioral data/phase1/behavior_data_raw.csv"
+
+dat_phase1 <- read_csv(phase1_path,
+                       col_types = cols(.default = col_character()),
+                       show_col_types = FALSE) %>%
+  rename(row_index = 1) %>%   # unnamed index column
+  mutate(
+    participant_id = str_extract(
+      ID,
+      "[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}"
+    ) %>% str_to_upper(),
+    # Convert datetime string to Unix seconds so Step 2 treats both phases identically
+    timestamp     = as.character(
+      as.numeric(as.POSIXct(timestamp, tz = "UTC"))
+    ),
+    source_file    = "behavior_data_raw.csv",
+    condition_folder = NA_character_,
+    phase          = "phase1"
   ) %>%
+  select(-row_index, -ID)
+
+cat("Phase 1 rows loaded:", nrow(dat_phase1), "\n")
+cat("Phase 1 unique participants:", n_distinct(dat_phase1$participant_id), "\n")
+
+```
+
+# Step 1c: Combine phases and assign conditions
+
+Phase 1 has no folder-based condition, so its `condition_folder` is NA and
+condition comes entirely from the pre-survey. The filter that resolves Phase 2
+participants mis-filed across multiple folders is extended to also pass through
+all Phase 1 rows (`is.na(condition_folder)`).
+
+```{r}
+
+dat_processed <- bind_rows(dat_phase2, dat_phase1) %>%
   # Join authoritative condition from pre-survey
   left_join(condition_map, by = "participant_id") %>%
-  # For participants appearing in multiple folders, keep only rows matching
-  # their pre-survey condition (resolves 7 duplicated CSVs)
-  filter(condition_folder == condition_presurvey | is.na(condition_presurvey)) %>%
+  # Phase 2: keep rows where folder matches pre-survey (resolves duplicated CSVs),
+  #          or where pre-survey condition is absent.
+  # Phase 1: condition_folder is NA — keep all rows unconditionally here;
+  #          rows without a pre-survey condition are dropped later in Step 4.
+  filter(
+    condition_folder == condition_presurvey |
+    is.na(condition_presurvey) |
+    is.na(condition_folder)
+  ) %>%
   mutate(condition = coalesce(condition_presurvey, condition_folder)) %>%
   select(-condition_folder, -condition_presurvey)
 
-cat("Rows loaded:", nrow(dat_processed), "\n")
+cat("Combined rows:", nrow(dat_processed), "\n")
 
-# Flag and remove rows where UUID extraction failed (filename didn't match pattern)
+# Flag and remove rows where UUID extraction failed
 na_uuid_rows <- sum(is.na(dat_processed$participant_id))
 if (na_uuid_rows > 0) {
-  cat("WARNING: rows with NA participant_id (bad filename):", na_uuid_rows, "\n")
+  cat("WARNING: rows with NA participant_id:", na_uuid_rows, "\n")
   na_uuid_files <- dat_processed %>% filter(is.na(participant_id)) %>% distinct(source_file)
   print(na_uuid_files)
   dat_processed <- dat_processed %>% filter(!is.na(participant_id))
 }
 
-# breathing exercise intervention only; exclude minority of 40 second interventions
-# dat_processed |>
-#   count(interventionType)
+# Report participants present in both phases
+overlap_ids <- intersect(
+  dat_phase1 %>% distinct(participant_id) %>% pull(),
+  dat_phase2 %>% distinct(participant_id) %>% pull()
+)
+cat("\nParticipants appearing in both phases:", length(overlap_ids), "\n")
+if (length(overlap_ids) > 0) print(overlap_ids)
 
-dat_processed <- dat_processed |>
-  filter(interventionType == "breathingExercise" & 
-           (is.na(interventionDuration) | interventionDuration %in% c(1.5, 3, 6)))
+# Breathing exercise only; exclude minority of 40-second interventions.
+# Use numeric comparison: phase 2 encodes some durations as "3.0"/"6.0"
+# rather than "3"/"6", which would silently fail a string %in% test.
+dat_processed <- dat_processed %>%
+  filter(
+    interventionType == "breathingExercise" &
+    (is.na(interventionDuration) | as.numeric(interventionDuration) %in% c(1.5, 3, 6))
+  )
 
-dat_processed |>
-  count(condition, interventionDuration)
+dat_processed %>% count(phase, condition, interventionDuration)
 
-cat("Unique participants:", n_distinct(dat_processed$participant_id), "\n")
+cat("\nUnique participants:", n_distinct(dat_processed$participant_id), "\n")
 cat("Conditions:\n"); print(table(dat_processed$condition, useNA = "always"))
+cat("By phase:\n"); print(table(dat_processed$phase, useNA = "always"))
 
 ```
 
 # Step 2: Coerce column types
+
+Phase 2 encodes `isReIntervention` as `"0.0"`/`"1.0"` in addition to the
+`"0"`/`"1"` and `"False"`/`"True"` values present in Phase 1.
 
 ```{r}
 dat_processed <- dat_processed %>%
@@ -140,15 +224,14 @@ dat_processed <- dat_processed %>%
     timestamp            = as.numeric(timestamp),
     interventionDuration = as.numeric(interventionDuration),
     isReIntervention = case_when(
-      isReIntervention %in% c("1", "True")  ~ TRUE,
-      isReIntervention %in% c("0", "False") ~ FALSE,
+      isReIntervention %in% c("1", "1.0", "True")  ~ TRUE,
+      isReIntervention %in% c("0", "0.0", "False") ~ FALSE,
       TRUE ~ NA
     )
-  ) |>
-  filter(is.na(isReIntervention) | isReIntervention==FALSE)
+  ) %>%
+  filter(is.na(isReIntervention) | isReIntervention == FALSE)
 
-dat_processed |>
-  count(isReIntervention)
+dat_processed %>% count(isReIntervention)
 ```
 
 # Step 3: Parse timestamp → datetime + study week
@@ -204,6 +287,7 @@ dat_processed <- dat_processed %>%
 
 cat("\nParticipants after cleaning:", n_distinct(dat_processed$participant_id), "\n")
 cat("Rows after cleaning:", nrow(dat_processed), "\n")
+cat("By phase:\n"); print(table(dat_processed$phase, useNA = "always"))
 
 ```
 
@@ -285,6 +369,7 @@ dat_processed_dropout <- dat_processed %>%
   summarise(
     last_week = max(study_week, na.rm = TRUE),
     condition = first(condition),
+    phase     = first(phase),
     .groups   = "drop"
   ) %>%
   mutate(dropout = if_else(last_week < 6, 1L, 0L))
@@ -316,7 +401,7 @@ dat_processed_open_attempts <- dat_processed %>%
     names_from  = study_week,
     values_from = c(dismissed, attempted),
     names_glue  = "{.value}_w{study_week}"
-  ) 
+  )
 
 # RQ2: initial events only, completers only, no missing resolution
 cat("\nRQ2 — unique participants:", n_distinct(dat_processed_open_attempts$participant_id), "\n")
@@ -333,12 +418,12 @@ dir.create("../data/processed", showWarnings = FALSE)
 # saveRDS(df_rq2_1_model, "../data/processed/df_rq2_1_model.rds")
 # saveRDS(df_rq2_2_model, "../data/processed/df_rq2_2_model.rds")
 
-write_csv(dat_processed, "../data/processed/data_processed_behavioral_data_all.csv")
+write_rds(dat_processed, "../data/processed/data_processed_behavioral_data_all.rds", compress = "gz")
 write_csv(dat_processed_dropout, "../data/processed/data_processed_behavioral_data_dropout.csv")
 write_csv(dat_processed_open_attempts, "../data/processed/data_processed_behavioral_data_open_attempts.csv")
 ```
 
-# Verification checks 
+# Verification checks
 
 ```{r}
 multi_cond <- dat_processed %>%
@@ -357,5 +442,3 @@ cat("delay_type NAs (should be 0):", sum(is.na(dat_processed$delay_type)), "\n")
 ```{r}
 sessionInfo()
 ```
-
-

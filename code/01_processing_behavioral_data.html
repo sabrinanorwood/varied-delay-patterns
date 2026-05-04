@@ -1697,15 +1697,67 @@ per design. Is this a coding error or did the intervention not occur as
 planned?</li>
 </ol>
 </div>
+<div id="data-format-differences-phase-1-vs-phase-2" class="section level1">
+<h1>Data format differences: Phase 1 vs Phase 2</h1>
+<p>Phase 1 (Jan–Mar 2025) and Phase 2 (Jul 2025) are separate cohorts
+with only 3 overlapping UUIDs.</p>
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Phase 1</th>
+<th>Phase 2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>File structure</td>
+<td>Single CSV, all participants</td>
+<td>One CSV per participant, in condition subfolders</td>
+</tr>
+<tr class="even">
+<td>Participant ID</td>
+<td><code>ID</code> column (study-prefix + UUID)</td>
+<td>Extracted from filename</td>
+</tr>
+<tr class="odd">
+<td>Timestamp format</td>
+<td>Datetime string (<code>&quot;2025-01-28 23:59:43&quot;</code>)</td>
+<td>Unix float (<code>1750793666.1</code>)</td>
+</tr>
+<tr class="even">
+<td>Condition source</td>
+<td>Pre-survey only</td>
+<td>Folder name (fallback) + pre-survey (authoritative)</td>
+</tr>
+<tr class="odd">
+<td><code>isReIntervention</code> encoding</td>
+<td><code>&quot;0&quot;</code>, <code>&quot;1&quot;</code>, <code>&quot;False&quot;</code>,
+<code>&quot;True&quot;</code></td>
+<td>Same + <code>&quot;0.0&quot;</code>, <code>&quot;1.0&quot;</code> variants</td>
+</tr>
+<tr class="even">
+<td><code>interventionDuration</code> encoding</td>
+<td><code>&quot;1.5&quot;</code>, <code>&quot;3&quot;</code>, <code>&quot;6&quot;</code></td>
+<td>Same + <code>&quot;3.0&quot;</code>, <code>&quot;6.0&quot;</code> variants</td>
+</tr>
+</tbody>
+</table>
+</div>
 <div id="dependencies" class="section level1">
 <h1>Dependencies</h1>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span></code></pre></div>
 </div>
-<div id="step-1-load-and-combine-all-csvs" class="section level1">
-<h1>Step 1: Load and combine all CSVs</h1>
+<div id="step-1a-load-phase-2-csvs-per-participant" class="section level1">
+<h1>Step 1a: Load Phase 2 CSVs (per-participant)</h1>
 <p>Column order varies across files; read everything as character to
 avoid type-guessing failures on inconsistent columns.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a>base_path  <span class="ot">&lt;-</span> <span class="st">&quot;../data/raw/behavioral data/phase2&quot;</span></span>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a>phase2_base_path <span class="ot">&lt;-</span> <span class="st">&quot;../data/raw/behavioral data/phase2&quot;</span></span>
 <span id="cb2-2"><a href="#cb2-2" tabindex="-1"></a></span>
 <span id="cb2-3"><a href="#cb2-3" tabindex="-1"></a>label_map  <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="at">experimental1 =</span> <span class="st">&quot;ABC&quot;</span>,</span>
 <span id="cb2-4"><a href="#cb2-4" tabindex="-1"></a>                <span class="at">experimental2 =</span> <span class="st">&quot;ACC&quot;</span>,</span>
@@ -1713,8 +1765,8 @@ avoid type-guessing failures on inconsistent columns.</p>
 <span id="cb2-6"><a href="#cb2-6" tabindex="-1"></a>                <span class="at">control       =</span> <span class="st">&quot;CCC&quot;</span>)</span>
 <span id="cb2-7"><a href="#cb2-7" tabindex="-1"></a></span>
 <span id="cb2-8"><a href="#cb2-8" tabindex="-1"></a><span class="co"># Load pre-survey condition map (authoritative source for condition assignment)</span></span>
-<span id="cb2-9"><a href="#cb2-9" tabindex="-1"></a>pre_survey_path <span class="ot">&lt;-</span> <span class="fu">list.files</span>(<span class="st">&quot;../data/raw/self-report data&quot;</span>, </span>
-<span id="cb2-10"><a href="#cb2-10" tabindex="-1"></a>                              <span class="at">pattern =</span> <span class="st">&quot;pre_survey&quot;</span>, </span>
+<span id="cb2-9"><a href="#cb2-9" tabindex="-1"></a>pre_survey_path <span class="ot">&lt;-</span> <span class="fu">list.files</span>(<span class="st">&quot;../data/raw/self-report data&quot;</span>,</span>
+<span id="cb2-10"><a href="#cb2-10" tabindex="-1"></a>                              <span class="at">pattern =</span> <span class="st">&quot;pre_survey&quot;</span>,</span>
 <span id="cb2-11"><a href="#cb2-11" tabindex="-1"></a>                              <span class="at">full.names =</span> <span class="cn">TRUE</span>)</span>
 <span id="cb2-12"><a href="#cb2-12" tabindex="-1"></a></span>
 <span id="cb2-13"><a href="#cb2-13" tabindex="-1"></a>condition_map <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(pre_survey_path,</span>
@@ -1737,8 +1789,8 @@ avoid type-guessing failures on inconsistent columns.</p>
 <span id="cb2-30"><a href="#cb2-30" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
 <span id="cb2-31"><a href="#cb2-31" tabindex="-1"></a>  <span class="fu">distinct</span>(participant_id, <span class="at">.keep_all =</span> <span class="cn">TRUE</span>)</span>
 <span id="cb2-32"><a href="#cb2-32" tabindex="-1"></a></span>
-<span id="cb2-33"><a href="#cb2-33" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> <span class="fu">map_dfr</span>(<span class="fu">names</span>(label_map), <span class="cf">function</span>(cond) {</span>
-<span id="cb2-34"><a href="#cb2-34" tabindex="-1"></a>  folder <span class="ot">&lt;-</span> <span class="fu">file.path</span>(base_path, cond)</span>
+<span id="cb2-33"><a href="#cb2-33" tabindex="-1"></a>dat_phase2 <span class="ot">&lt;-</span> <span class="fu">map_dfr</span>(<span class="fu">names</span>(label_map), <span class="cf">function</span>(cond) {</span>
+<span id="cb2-34"><a href="#cb2-34" tabindex="-1"></a>  folder <span class="ot">&lt;-</span> <span class="fu">file.path</span>(phase2_base_path, cond)</span>
 <span id="cb2-35"><a href="#cb2-35" tabindex="-1"></a>  files  <span class="ot">&lt;-</span> <span class="fu">list.files</span>(folder, <span class="at">full.names =</span> <span class="cn">TRUE</span>, <span class="at">pattern =</span> <span class="st">&quot;</span><span class="sc">\\</span><span class="st">.csv$&quot;</span>)</span>
 <span id="cb2-36"><a href="#cb2-36" tabindex="-1"></a></span>
 <span id="cb2-37"><a href="#cb2-37" tabindex="-1"></a>  <span class="fu">map_dfr</span>(files, <span class="cf">function</span>(f) {</span>
@@ -1751,93 +1803,181 @@ avoid type-guessing failures on inconsistent columns.</p>
 <span id="cb2-44"><a href="#cb2-44" tabindex="-1"></a>    <span class="at">participant_id =</span> <span class="fu">str_extract</span>(</span>
 <span id="cb2-45"><a href="#cb2-45" tabindex="-1"></a>      source_file,</span>
 <span id="cb2-46"><a href="#cb2-46" tabindex="-1"></a>      <span class="st">&quot;[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}&quot;</span></span>
-<span id="cb2-47"><a href="#cb2-47" tabindex="-1"></a>    ) <span class="sc">%&gt;%</span> <span class="fu">str_to_upper</span>()</span>
-<span id="cb2-48"><a href="#cb2-48" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
-<span id="cb2-49"><a href="#cb2-49" tabindex="-1"></a>  <span class="co"># Join authoritative condition from pre-survey</span></span>
-<span id="cb2-50"><a href="#cb2-50" tabindex="-1"></a>  <span class="fu">left_join</span>(condition_map, <span class="at">by =</span> <span class="st">&quot;participant_id&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb2-51"><a href="#cb2-51" tabindex="-1"></a>  <span class="co"># For participants appearing in multiple folders, keep only rows matching</span></span>
-<span id="cb2-52"><a href="#cb2-52" tabindex="-1"></a>  <span class="co"># their pre-survey condition (resolves 7 duplicated CSVs)</span></span>
-<span id="cb2-53"><a href="#cb2-53" tabindex="-1"></a>  <span class="fu">filter</span>(condition_folder <span class="sc">==</span> condition_presurvey <span class="sc">|</span> <span class="fu">is.na</span>(condition_presurvey)) <span class="sc">%&gt;%</span></span>
-<span id="cb2-54"><a href="#cb2-54" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">condition =</span> <span class="fu">coalesce</span>(condition_presurvey, condition_folder)) <span class="sc">%&gt;%</span></span>
-<span id="cb2-55"><a href="#cb2-55" tabindex="-1"></a>  <span class="fu">select</span>(<span class="sc">-</span>condition_folder, <span class="sc">-</span>condition_presurvey)</span>
-<span id="cb2-56"><a href="#cb2-56" tabindex="-1"></a></span>
-<span id="cb2-57"><a href="#cb2-57" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Rows loaded:&quot;</span>, <span class="fu">nrow</span>(dat_processed), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
-<pre><code>## Rows loaded: 395999</code></pre>
-<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" tabindex="-1"></a><span class="co"># Flag and remove rows where UUID extraction failed (filename didn&#39;t match pattern)</span></span>
-<span id="cb4-2"><a href="#cb4-2" tabindex="-1"></a>na_uuid_rows <span class="ot">&lt;-</span> <span class="fu">sum</span>(<span class="fu">is.na</span>(dat_processed<span class="sc">$</span>participant_id))</span>
-<span id="cb4-3"><a href="#cb4-3" tabindex="-1"></a><span class="cf">if</span> (na_uuid_rows <span class="sc">&gt;</span> <span class="dv">0</span>) {</span>
-<span id="cb4-4"><a href="#cb4-4" tabindex="-1"></a>  <span class="fu">cat</span>(<span class="st">&quot;WARNING: rows with NA participant_id (bad filename):&quot;</span>, na_uuid_rows, <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span>
-<span id="cb4-5"><a href="#cb4-5" tabindex="-1"></a>  na_uuid_files <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span> <span class="fu">filter</span>(<span class="fu">is.na</span>(participant_id)) <span class="sc">%&gt;%</span> <span class="fu">distinct</span>(source_file)</span>
-<span id="cb4-6"><a href="#cb4-6" tabindex="-1"></a>  <span class="fu">print</span>(na_uuid_files)</span>
-<span id="cb4-7"><a href="#cb4-7" tabindex="-1"></a>  dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span> <span class="fu">filter</span>(<span class="sc">!</span><span class="fu">is.na</span>(participant_id))</span>
-<span id="cb4-8"><a href="#cb4-8" tabindex="-1"></a>}</span>
-<span id="cb4-9"><a href="#cb4-9" tabindex="-1"></a></span>
-<span id="cb4-10"><a href="#cb4-10" tabindex="-1"></a><span class="co"># breathing exercise intervention only; exclude minority of 40 second interventions</span></span>
-<span id="cb4-11"><a href="#cb4-11" tabindex="-1"></a><span class="co"># dat_processed |&gt;</span></span>
-<span id="cb4-12"><a href="#cb4-12" tabindex="-1"></a><span class="co">#   count(interventionType)</span></span>
-<span id="cb4-13"><a href="#cb4-13" tabindex="-1"></a></span>
-<span id="cb4-14"><a href="#cb4-14" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">|&gt;</span></span>
-<span id="cb4-15"><a href="#cb4-15" tabindex="-1"></a>  <span class="fu">filter</span>(interventionType <span class="sc">==</span> <span class="st">&quot;breathingExercise&quot;</span> <span class="sc">&amp;</span> </span>
-<span id="cb4-16"><a href="#cb4-16" tabindex="-1"></a>           (<span class="fu">is.na</span>(interventionDuration) <span class="sc">|</span> interventionDuration <span class="sc">%in%</span> <span class="fu">c</span>(<span class="fl">1.5</span>, <span class="dv">3</span>, <span class="dv">6</span>)))</span>
-<span id="cb4-17"><a href="#cb4-17" tabindex="-1"></a></span>
-<span id="cb4-18"><a href="#cb4-18" tabindex="-1"></a>dat_processed <span class="sc">|&gt;</span></span>
-<span id="cb4-19"><a href="#cb4-19" tabindex="-1"></a>  <span class="fu">count</span>(condition, interventionDuration)</span></code></pre></div>
-<pre><code>## # A tibble: 5 × 3
-##   condition interventionDuration     n
-##   &lt;chr&gt;     &lt;chr&gt;                &lt;int&gt;
-## 1 ABC       1.5                  39495
-## 2 ACC       1.5                  41336
-## 3 BCC       3                    26237
-## 4 BCC       6                    17466
-## 5 CCC       6                    30395</code></pre>
-<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Unique participants:&quot;</span>, <span class="fu">n_distinct</span>(dat_processed<span class="sc">$</span>participant_id), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
-<pre><code>## Unique participants: 685</code></pre>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Conditions:</span><span class="sc">\n</span><span class="st">&quot;</span>); <span class="fu">print</span>(<span class="fu">table</span>(dat_processed<span class="sc">$</span>condition, <span class="at">useNA =</span> <span class="st">&quot;always&quot;</span>))</span></code></pre></div>
+<span id="cb2-47"><a href="#cb2-47" tabindex="-1"></a>    ) <span class="sc">%&gt;%</span> <span class="fu">str_to_upper</span>(),</span>
+<span id="cb2-48"><a href="#cb2-48" tabindex="-1"></a>    <span class="at">phase =</span> <span class="st">&quot;phase2&quot;</span></span>
+<span id="cb2-49"><a href="#cb2-49" tabindex="-1"></a>  )</span>
+<span id="cb2-50"><a href="#cb2-50" tabindex="-1"></a></span>
+<span id="cb2-51"><a href="#cb2-51" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Phase 2 rows loaded:&quot;</span>, <span class="fu">nrow</span>(dat_phase2), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## Phase 2 rows loaded: 400799</code></pre>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Phase 2 unique participants:&quot;</span>, <span class="fu">n_distinct</span>(dat_phase2<span class="sc">$</span>participant_id), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## Phase 2 unique participants: 883</code></pre>
+</div>
+<div id="step-1b-load-phase-1-csv-single-combined-file" class="section level1">
+<h1>Step 1b: Load Phase 1 CSV (single combined file)</h1>
+<p>Phase 1 uses a single flat file with all participants. The
+<code>ID</code> column carries the same study-prefix + UUID format used
+in Phase 2 filenames. Timestamps are datetime strings, not Unix floats —
+these are converted to Unix seconds here so that downstream steps are
+format-agnostic.</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" tabindex="-1"></a>phase1_path <span class="ot">&lt;-</span> <span class="st">&quot;../data/raw/behavioral data/phase1/behavior_data_raw.csv&quot;</span></span>
+<span id="cb6-2"><a href="#cb6-2" tabindex="-1"></a></span>
+<span id="cb6-3"><a href="#cb6-3" tabindex="-1"></a>dat_phase1 <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(phase1_path,</span>
+<span id="cb6-4"><a href="#cb6-4" tabindex="-1"></a>                       <span class="at">col_types =</span> <span class="fu">cols</span>(<span class="at">.default =</span> <span class="fu">col_character</span>()),</span>
+<span id="cb6-5"><a href="#cb6-5" tabindex="-1"></a>                       <span class="at">show_col_types =</span> <span class="cn">FALSE</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb6-6"><a href="#cb6-6" tabindex="-1"></a>  <span class="fu">rename</span>(<span class="at">row_index =</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span>   <span class="co"># unnamed index column</span></span>
+<span id="cb6-7"><a href="#cb6-7" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb6-8"><a href="#cb6-8" tabindex="-1"></a>    <span class="at">participant_id =</span> <span class="fu">str_extract</span>(</span>
+<span id="cb6-9"><a href="#cb6-9" tabindex="-1"></a>      ID,</span>
+<span id="cb6-10"><a href="#cb6-10" tabindex="-1"></a>      <span class="st">&quot;[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}&quot;</span></span>
+<span id="cb6-11"><a href="#cb6-11" tabindex="-1"></a>    ) <span class="sc">%&gt;%</span> <span class="fu">str_to_upper</span>(),</span>
+<span id="cb6-12"><a href="#cb6-12" tabindex="-1"></a>    <span class="co"># Convert datetime string to Unix seconds so Step 2 treats both phases identically</span></span>
+<span id="cb6-13"><a href="#cb6-13" tabindex="-1"></a>    <span class="at">timestamp     =</span> <span class="fu">as.character</span>(</span>
+<span id="cb6-14"><a href="#cb6-14" tabindex="-1"></a>      <span class="fu">as.numeric</span>(<span class="fu">as.POSIXct</span>(timestamp, <span class="at">tz =</span> <span class="st">&quot;UTC&quot;</span>))</span>
+<span id="cb6-15"><a href="#cb6-15" tabindex="-1"></a>    ),</span>
+<span id="cb6-16"><a href="#cb6-16" tabindex="-1"></a>    <span class="at">source_file    =</span> <span class="st">&quot;behavior_data_raw.csv&quot;</span>,</span>
+<span id="cb6-17"><a href="#cb6-17" tabindex="-1"></a>    <span class="at">condition_folder =</span> <span class="cn">NA_character_</span>,</span>
+<span id="cb6-18"><a href="#cb6-18" tabindex="-1"></a>    <span class="at">phase          =</span> <span class="st">&quot;phase1&quot;</span></span>
+<span id="cb6-19"><a href="#cb6-19" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb6-20"><a href="#cb6-20" tabindex="-1"></a>  <span class="fu">select</span>(<span class="sc">-</span>row_index, <span class="sc">-</span>ID)</span>
+<span id="cb6-21"><a href="#cb6-21" tabindex="-1"></a></span>
+<span id="cb6-22"><a href="#cb6-22" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Phase 1 rows loaded:&quot;</span>, <span class="fu">nrow</span>(dat_phase1), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## Phase 1 rows loaded: 411462</code></pre>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Phase 1 unique participants:&quot;</span>, <span class="fu">n_distinct</span>(dat_phase1<span class="sc">$</span>participant_id), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## Phase 1 unique participants: 821</code></pre>
+</div>
+<div id="step-1c-combine-phases-and-assign-conditions" class="section level1">
+<h1>Step 1c: Combine phases and assign conditions</h1>
+<p>Phase 1 has no folder-based condition, so its
+<code>condition_folder</code> is NA and condition comes entirely from
+the pre-survey. The filter that resolves Phase 2 participants mis-filed
+across multiple folders is extended to also pass through all Phase 1
+rows (<code>is.na(condition_folder)</code>).</p>
+<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> <span class="fu">bind_rows</span>(dat_phase2, dat_phase1) <span class="sc">%&gt;%</span></span>
+<span id="cb10-2"><a href="#cb10-2" tabindex="-1"></a>  <span class="co"># Join authoritative condition from pre-survey</span></span>
+<span id="cb10-3"><a href="#cb10-3" tabindex="-1"></a>  <span class="fu">left_join</span>(condition_map, <span class="at">by =</span> <span class="st">&quot;participant_id&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb10-4"><a href="#cb10-4" tabindex="-1"></a>  <span class="co"># Phase 2: keep rows where folder matches pre-survey (resolves duplicated CSVs),</span></span>
+<span id="cb10-5"><a href="#cb10-5" tabindex="-1"></a>  <span class="co">#          or where pre-survey condition is absent.</span></span>
+<span id="cb10-6"><a href="#cb10-6" tabindex="-1"></a>  <span class="co"># Phase 1: condition_folder is NA — keep all rows unconditionally here;</span></span>
+<span id="cb10-7"><a href="#cb10-7" tabindex="-1"></a>  <span class="co">#          rows without a pre-survey condition are dropped later in Step 4.</span></span>
+<span id="cb10-8"><a href="#cb10-8" tabindex="-1"></a>  <span class="fu">filter</span>(</span>
+<span id="cb10-9"><a href="#cb10-9" tabindex="-1"></a>    condition_folder <span class="sc">==</span> condition_presurvey <span class="sc">|</span></span>
+<span id="cb10-10"><a href="#cb10-10" tabindex="-1"></a>    <span class="fu">is.na</span>(condition_presurvey) <span class="sc">|</span></span>
+<span id="cb10-11"><a href="#cb10-11" tabindex="-1"></a>    <span class="fu">is.na</span>(condition_folder)</span>
+<span id="cb10-12"><a href="#cb10-12" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb10-13"><a href="#cb10-13" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">condition =</span> <span class="fu">coalesce</span>(condition_presurvey, condition_folder)) <span class="sc">%&gt;%</span></span>
+<span id="cb10-14"><a href="#cb10-14" tabindex="-1"></a>  <span class="fu">select</span>(<span class="sc">-</span>condition_folder, <span class="sc">-</span>condition_presurvey)</span>
+<span id="cb10-15"><a href="#cb10-15" tabindex="-1"></a></span>
+<span id="cb10-16"><a href="#cb10-16" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Combined rows:&quot;</span>, <span class="fu">nrow</span>(dat_processed), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## Combined rows: 807461</code></pre>
+<div class="sourceCode" id="cb12"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" tabindex="-1"></a><span class="co"># Flag and remove rows where UUID extraction failed</span></span>
+<span id="cb12-2"><a href="#cb12-2" tabindex="-1"></a>na_uuid_rows <span class="ot">&lt;-</span> <span class="fu">sum</span>(<span class="fu">is.na</span>(dat_processed<span class="sc">$</span>participant_id))</span>
+<span id="cb12-3"><a href="#cb12-3" tabindex="-1"></a><span class="cf">if</span> (na_uuid_rows <span class="sc">&gt;</span> <span class="dv">0</span>) {</span>
+<span id="cb12-4"><a href="#cb12-4" tabindex="-1"></a>  <span class="fu">cat</span>(<span class="st">&quot;WARNING: rows with NA participant_id:&quot;</span>, na_uuid_rows, <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span>
+<span id="cb12-5"><a href="#cb12-5" tabindex="-1"></a>  na_uuid_files <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span> <span class="fu">filter</span>(<span class="fu">is.na</span>(participant_id)) <span class="sc">%&gt;%</span> <span class="fu">distinct</span>(source_file)</span>
+<span id="cb12-6"><a href="#cb12-6" tabindex="-1"></a>  <span class="fu">print</span>(na_uuid_files)</span>
+<span id="cb12-7"><a href="#cb12-7" tabindex="-1"></a>  dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span> <span class="fu">filter</span>(<span class="sc">!</span><span class="fu">is.na</span>(participant_id))</span>
+<span id="cb12-8"><a href="#cb12-8" tabindex="-1"></a>}</span>
+<span id="cb12-9"><a href="#cb12-9" tabindex="-1"></a></span>
+<span id="cb12-10"><a href="#cb12-10" tabindex="-1"></a><span class="co"># Report participants present in both phases</span></span>
+<span id="cb12-11"><a href="#cb12-11" tabindex="-1"></a>overlap_ids <span class="ot">&lt;-</span> <span class="fu">intersect</span>(</span>
+<span id="cb12-12"><a href="#cb12-12" tabindex="-1"></a>  dat_phase1 <span class="sc">%&gt;%</span> <span class="fu">distinct</span>(participant_id) <span class="sc">%&gt;%</span> <span class="fu">pull</span>(),</span>
+<span id="cb12-13"><a href="#cb12-13" tabindex="-1"></a>  dat_phase2 <span class="sc">%&gt;%</span> <span class="fu">distinct</span>(participant_id) <span class="sc">%&gt;%</span> <span class="fu">pull</span>()</span>
+<span id="cb12-14"><a href="#cb12-14" tabindex="-1"></a>)</span>
+<span id="cb12-15"><a href="#cb12-15" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Participants appearing in both phases:&quot;</span>, <span class="fu">length</span>(overlap_ids), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## 
+## Participants appearing in both phases: 3</code></pre>
+<div class="sourceCode" id="cb14"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">length</span>(overlap_ids) <span class="sc">&gt;</span> <span class="dv">0</span>) <span class="fu">print</span>(overlap_ids)</span></code></pre></div>
+<pre><code>## [1] &quot;24A74408-218A-4B9F-923B-F6B51D8111C4&quot;
+## [2] &quot;4F53F912-BB81-4C70-BA48-1DD7D7036010&quot;
+## [3] &quot;51C7542C-7526-47CC-AB78-903DC2B9E7F1&quot;</code></pre>
+<div class="sourceCode" id="cb16"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" tabindex="-1"></a><span class="co"># Breathing exercise only; exclude minority of 40-second interventions.</span></span>
+<span id="cb16-2"><a href="#cb16-2" tabindex="-1"></a><span class="co"># Use numeric comparison: phase 2 encodes some durations as &quot;3.0&quot;/&quot;6.0&quot;</span></span>
+<span id="cb16-3"><a href="#cb16-3" tabindex="-1"></a><span class="co"># rather than &quot;3&quot;/&quot;6&quot;, which would silently fail a string %in% test.</span></span>
+<span id="cb16-4"><a href="#cb16-4" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb16-5"><a href="#cb16-5" tabindex="-1"></a>  <span class="fu">filter</span>(</span>
+<span id="cb16-6"><a href="#cb16-6" tabindex="-1"></a>    interventionType <span class="sc">==</span> <span class="st">&quot;breathingExercise&quot;</span> <span class="sc">&amp;</span></span>
+<span id="cb16-7"><a href="#cb16-7" tabindex="-1"></a>    (<span class="fu">is.na</span>(interventionDuration) <span class="sc">|</span> <span class="fu">as.numeric</span>(interventionDuration) <span class="sc">%in%</span> <span class="fu">c</span>(<span class="fl">1.5</span>, <span class="dv">3</span>, <span class="dv">6</span>))</span>
+<span id="cb16-8"><a href="#cb16-8" tabindex="-1"></a>  )</span>
+<span id="cb16-9"><a href="#cb16-9" tabindex="-1"></a></span>
+<span id="cb16-10"><a href="#cb16-10" tabindex="-1"></a>dat_processed <span class="sc">%&gt;%</span> <span class="fu">count</span>(phase, condition, interventionDuration)</span></code></pre></div>
+<pre><code>## # A tibble: 19 × 4
+##    phase  condition interventionDuration     n
+##    &lt;chr&gt;  &lt;chr&gt;     &lt;chr&gt;                &lt;int&gt;
+##  1 phase1 ABC       1.5                  37962
+##  2 phase1 ABC       3                    25479
+##  3 phase1 ABC       6                    18663
+##  4 phase1 ACC       1.5                  40303
+##  5 phase1 ACC       6                    40500
+##  6 phase1 BCC       3                    35826
+##  7 phase1 BCC       6                    38707
+##  8 phase1 CCC       6                    79994
+##  9 phase2 ABC       1.5                  39495
+## 10 phase2 ABC       3.0                  23681
+## 11 phase2 ABC       6.0                  11972
+## 12 phase2 ACC       1.5                  41336
+## 13 phase2 ACC       6.0                  27087
+## 14 phase2 BCC       3                    26237
+## 15 phase2 BCC       3.0                  15033
+## 16 phase2 BCC       6                    17466
+## 17 phase2 BCC       6.0                  12115
+## 18 phase2 CCC       6                    30395
+## 19 phase2 CCC       6.0                  28546</code></pre>
+<div class="sourceCode" id="cb18"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Unique participants:&quot;</span>, <span class="fu">n_distinct</span>(dat_processed<span class="sc">$</span>participant_id), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## 
+## Unique participants: 1643</code></pre>
+<div class="sourceCode" id="cb20"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Conditions:</span><span class="sc">\n</span><span class="st">&quot;</span>); <span class="fu">print</span>(<span class="fu">table</span>(dat_processed<span class="sc">$</span>condition, <span class="at">useNA =</span> <span class="st">&quot;always&quot;</span>))</span></code></pre></div>
 <pre><code>## Conditions:</code></pre>
 <pre><code>## 
-##   ABC   ACC   BCC   CCC  &lt;NA&gt; 
-## 39495 41336 43703 30395     0</code></pre>
+##    ABC    ACC    BCC    CCC   &lt;NA&gt; 
+## 157252 149226 145384 138935      0</code></pre>
+<div class="sourceCode" id="cb23"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;By phase:</span><span class="sc">\n</span><span class="st">&quot;</span>); <span class="fu">print</span>(<span class="fu">table</span>(dat_processed<span class="sc">$</span>phase, <span class="at">useNA =</span> <span class="st">&quot;always&quot;</span>))</span></code></pre></div>
+<pre><code>## By phase:</code></pre>
+<pre><code>## 
+## phase1 phase2   &lt;NA&gt; 
+## 317434 273363      0</code></pre>
 </div>
 <div id="step-2-coerce-column-types" class="section level1">
 <h1>Step 2: Coerce column types</h1>
-<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb11-2"><a href="#cb11-2" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
-<span id="cb11-3"><a href="#cb11-3" tabindex="-1"></a>    <span class="at">timestamp            =</span> <span class="fu">as.numeric</span>(timestamp),</span>
-<span id="cb11-4"><a href="#cb11-4" tabindex="-1"></a>    <span class="at">interventionDuration =</span> <span class="fu">as.numeric</span>(interventionDuration),</span>
-<span id="cb11-5"><a href="#cb11-5" tabindex="-1"></a>    <span class="at">isReIntervention =</span> <span class="fu">case_when</span>(</span>
-<span id="cb11-6"><a href="#cb11-6" tabindex="-1"></a>      isReIntervention <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">&quot;1&quot;</span>, <span class="st">&quot;True&quot;</span>)  <span class="sc">~</span> <span class="cn">TRUE</span>,</span>
-<span id="cb11-7"><a href="#cb11-7" tabindex="-1"></a>      isReIntervention <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">&quot;0&quot;</span>, <span class="st">&quot;False&quot;</span>) <span class="sc">~</span> <span class="cn">FALSE</span>,</span>
-<span id="cb11-8"><a href="#cb11-8" tabindex="-1"></a>      <span class="cn">TRUE</span> <span class="sc">~</span> <span class="cn">NA</span></span>
-<span id="cb11-9"><a href="#cb11-9" tabindex="-1"></a>    )</span>
-<span id="cb11-10"><a href="#cb11-10" tabindex="-1"></a>  ) <span class="sc">|&gt;</span></span>
-<span id="cb11-11"><a href="#cb11-11" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="fu">is.na</span>(isReIntervention) <span class="sc">|</span> isReIntervention<span class="sc">==</span><span class="cn">FALSE</span>)</span>
-<span id="cb11-12"><a href="#cb11-12" tabindex="-1"></a></span>
-<span id="cb11-13"><a href="#cb11-13" tabindex="-1"></a>dat_processed <span class="sc">|&gt;</span></span>
-<span id="cb11-14"><a href="#cb11-14" tabindex="-1"></a>  <span class="fu">count</span>(isReIntervention)</span></code></pre></div>
-<pre><code>## # A tibble: 2 × 2
+<p>Phase 2 encodes <code>isReIntervention</code> as
+<code>&quot;0.0&quot;</code>/<code>&quot;1.0&quot;</code> in addition to the
+<code>&quot;0&quot;</code>/<code>&quot;1&quot;</code> and
+<code>&quot;False&quot;</code>/<code>&quot;True&quot;</code> values present in Phase 1.</p>
+<div class="sourceCode" id="cb26"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb26-2"><a href="#cb26-2" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb26-3"><a href="#cb26-3" tabindex="-1"></a>    <span class="at">timestamp            =</span> <span class="fu">as.numeric</span>(timestamp),</span>
+<span id="cb26-4"><a href="#cb26-4" tabindex="-1"></a>    <span class="at">interventionDuration =</span> <span class="fu">as.numeric</span>(interventionDuration),</span>
+<span id="cb26-5"><a href="#cb26-5" tabindex="-1"></a>    <span class="at">isReIntervention =</span> <span class="fu">case_when</span>(</span>
+<span id="cb26-6"><a href="#cb26-6" tabindex="-1"></a>      isReIntervention <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">&quot;1&quot;</span>, <span class="st">&quot;1.0&quot;</span>, <span class="st">&quot;True&quot;</span>)  <span class="sc">~</span> <span class="cn">TRUE</span>,</span>
+<span id="cb26-7"><a href="#cb26-7" tabindex="-1"></a>      isReIntervention <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">&quot;0&quot;</span>, <span class="st">&quot;0.0&quot;</span>, <span class="st">&quot;False&quot;</span>) <span class="sc">~</span> <span class="cn">FALSE</span>,</span>
+<span id="cb26-8"><a href="#cb26-8" tabindex="-1"></a>      <span class="cn">TRUE</span> <span class="sc">~</span> <span class="cn">NA</span></span>
+<span id="cb26-9"><a href="#cb26-9" tabindex="-1"></a>    )</span>
+<span id="cb26-10"><a href="#cb26-10" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb26-11"><a href="#cb26-11" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="fu">is.na</span>(isReIntervention) <span class="sc">|</span> isReIntervention <span class="sc">==</span> <span class="cn">FALSE</span>)</span>
+<span id="cb26-12"><a href="#cb26-12" tabindex="-1"></a></span>
+<span id="cb26-13"><a href="#cb26-13" tabindex="-1"></a>dat_processed <span class="sc">%&gt;%</span> <span class="fu">count</span>(isReIntervention)</span></code></pre></div>
+<pre><code>## # A tibble: 1 × 2
 ##   isReIntervention      n
 ##   &lt;lgl&gt;             &lt;int&gt;
-## 1 FALSE            149198
-## 2 NA                 1715</code></pre>
+## 1 FALSE            575725</code></pre>
 </div>
 <div id="step-3-parse-timestamp-datetime-study-week" class="section level1">
 <h1>Step 3: Parse timestamp → datetime + study week</h1>
 <p>study_week: floor(day_since_start / 7) + 1 → day 0 = week 1</p>
-<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb13-2"><a href="#cb13-2" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">datetime =</span> <span class="fu">as.POSIXct</span>(timestamp, <span class="at">origin =</span> <span class="st">&quot;1970-01-01&quot;</span>, <span class="at">tz =</span> <span class="st">&quot;UTC&quot;</span>),</span>
-<span id="cb13-3"><a href="#cb13-3" tabindex="-1"></a>         <span class="at">date     =</span> <span class="fu">as.Date</span>(datetime)) <span class="sc">%&gt;%</span></span>
-<span id="cb13-4"><a href="#cb13-4" tabindex="-1"></a>  <span class="fu">group_by</span>(participant_id) <span class="sc">%&gt;%</span></span>
-<span id="cb13-5"><a href="#cb13-5" tabindex="-1"></a>  <span class="fu">arrange</span>(timestamp, <span class="at">.by_group =</span> <span class="cn">TRUE</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb13-6"><a href="#cb13-6" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
-<span id="cb13-7"><a href="#cb13-7" tabindex="-1"></a>    <span class="at">user_start      =</span> <span class="fu">min</span>(timestamp, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
-<span id="cb13-8"><a href="#cb13-8" tabindex="-1"></a>    <span class="at">day_since_start =</span> <span class="fu">as.integer</span>(<span class="fu">difftime</span>(</span>
-<span id="cb13-9"><a href="#cb13-9" tabindex="-1"></a>      datetime,</span>
-<span id="cb13-10"><a href="#cb13-10" tabindex="-1"></a>      <span class="fu">as.POSIXct</span>(user_start, <span class="at">origin =</span> <span class="st">&quot;1970-01-01&quot;</span>, <span class="at">tz =</span> <span class="st">&quot;UTC&quot;</span>),</span>
-<span id="cb13-11"><a href="#cb13-11" tabindex="-1"></a>      <span class="at">units =</span> <span class="st">&quot;days&quot;</span></span>
-<span id="cb13-12"><a href="#cb13-12" tabindex="-1"></a>    )),</span>
-<span id="cb13-13"><a href="#cb13-13" tabindex="-1"></a>    <span class="at">study_week =</span> <span class="fu">floor</span>(day_since_start <span class="sc">/</span> <span class="dv">7</span>) <span class="sc">+</span> <span class="dv">1</span></span>
-<span id="cb13-14"><a href="#cb13-14" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
-<span id="cb13-15"><a href="#cb13-15" tabindex="-1"></a>  <span class="fu">ungroup</span>()</span></code></pre></div>
+<div class="sourceCode" id="cb28"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb28-2"><a href="#cb28-2" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">datetime =</span> <span class="fu">as.POSIXct</span>(timestamp, <span class="at">origin =</span> <span class="st">&quot;1970-01-01&quot;</span>, <span class="at">tz =</span> <span class="st">&quot;UTC&quot;</span>),</span>
+<span id="cb28-3"><a href="#cb28-3" tabindex="-1"></a>         <span class="at">date     =</span> <span class="fu">as.Date</span>(datetime)) <span class="sc">%&gt;%</span></span>
+<span id="cb28-4"><a href="#cb28-4" tabindex="-1"></a>  <span class="fu">group_by</span>(participant_id) <span class="sc">%&gt;%</span></span>
+<span id="cb28-5"><a href="#cb28-5" tabindex="-1"></a>  <span class="fu">arrange</span>(timestamp, <span class="at">.by_group =</span> <span class="cn">TRUE</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb28-6"><a href="#cb28-6" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb28-7"><a href="#cb28-7" tabindex="-1"></a>    <span class="at">user_start      =</span> <span class="fu">min</span>(timestamp, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
+<span id="cb28-8"><a href="#cb28-8" tabindex="-1"></a>    <span class="at">day_since_start =</span> <span class="fu">as.integer</span>(<span class="fu">difftime</span>(</span>
+<span id="cb28-9"><a href="#cb28-9" tabindex="-1"></a>      datetime,</span>
+<span id="cb28-10"><a href="#cb28-10" tabindex="-1"></a>      <span class="fu">as.POSIXct</span>(user_start, <span class="at">origin =</span> <span class="st">&quot;1970-01-01&quot;</span>, <span class="at">tz =</span> <span class="st">&quot;UTC&quot;</span>),</span>
+<span id="cb28-11"><a href="#cb28-11" tabindex="-1"></a>      <span class="at">units =</span> <span class="st">&quot;days&quot;</span></span>
+<span id="cb28-12"><a href="#cb28-12" tabindex="-1"></a>    )),</span>
+<span id="cb28-13"><a href="#cb28-13" tabindex="-1"></a>    <span class="at">study_week =</span> <span class="fu">floor</span>(day_since_start <span class="sc">/</span> <span class="dv">7</span>) <span class="sc">+</span> <span class="dv">1</span></span>
+<span id="cb28-14"><a href="#cb28-14" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb28-15"><a href="#cb28-15" tabindex="-1"></a>  <span class="fu">ungroup</span>()</span></code></pre></div>
 </div>
 <div id="step-4-flag-and-remove-invalid-data" class="section level1">
 <h1>Step 4: Flag and remove invalid data</h1>
@@ -1847,64 +1987,69 @@ data)</li>
 <li>Weeks &gt; 6 (should disappear once non-2025 rows are removed)</li>
 <li>Missing condition</li>
 </ul>
-<div class="sourceCode" id="cb14"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb14-2"><a href="#cb14-2" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">year =</span> <span class="fu">format</span>(date, <span class="st">&quot;%Y&quot;</span>))</span>
-<span id="cb14-3"><a href="#cb14-3" tabindex="-1"></a></span>
-<span id="cb14-4"><a href="#cb14-4" tabindex="-1"></a>invalid_year_ids <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb14-5"><a href="#cb14-5" tabindex="-1"></a>  <span class="fu">filter</span>(year <span class="sc">!=</span> <span class="st">&quot;2025&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb14-6"><a href="#cb14-6" tabindex="-1"></a>  <span class="fu">distinct</span>(participant_id) <span class="sc">%&gt;%</span></span>
-<span id="cb14-7"><a href="#cb14-7" tabindex="-1"></a>  <span class="fu">pull</span>()</span>
-<span id="cb14-8"><a href="#cb14-8" tabindex="-1"></a></span>
-<span id="cb14-9"><a href="#cb14-9" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Participants with non-2025 timestamps:&quot;</span>, <span class="fu">length</span>(invalid_year_ids), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb29"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb29-2"><a href="#cb29-2" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">year =</span> <span class="fu">format</span>(date, <span class="st">&quot;%Y&quot;</span>))</span>
+<span id="cb29-3"><a href="#cb29-3" tabindex="-1"></a></span>
+<span id="cb29-4"><a href="#cb29-4" tabindex="-1"></a>invalid_year_ids <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb29-5"><a href="#cb29-5" tabindex="-1"></a>  <span class="fu">filter</span>(year <span class="sc">!=</span> <span class="st">&quot;2025&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb29-6"><a href="#cb29-6" tabindex="-1"></a>  <span class="fu">distinct</span>(participant_id) <span class="sc">%&gt;%</span></span>
+<span id="cb29-7"><a href="#cb29-7" tabindex="-1"></a>  <span class="fu">pull</span>()</span>
+<span id="cb29-8"><a href="#cb29-8" tabindex="-1"></a></span>
+<span id="cb29-9"><a href="#cb29-9" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Participants with non-2025 timestamps:&quot;</span>, <span class="fu">length</span>(invalid_year_ids), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
-## Participants with non-2025 timestamps: 0</code></pre>
-<div class="sourceCode" id="cb16"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">length</span>(invalid_year_ids) <span class="sc">&gt;</span> <span class="dv">0</span>) <span class="fu">print</span>(invalid_year_ids)</span>
-<span id="cb16-2"><a href="#cb16-2" tabindex="-1"></a></span>
-<span id="cb16-3"><a href="#cb16-3" tabindex="-1"></a>missing_condition_ids <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb16-4"><a href="#cb16-4" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="fu">is.na</span>(condition)) <span class="sc">%&gt;%</span></span>
-<span id="cb16-5"><a href="#cb16-5" tabindex="-1"></a>  <span class="fu">distinct</span>(participant_id) <span class="sc">%&gt;%</span></span>
-<span id="cb16-6"><a href="#cb16-6" tabindex="-1"></a>  <span class="fu">pull</span>()</span>
-<span id="cb16-7"><a href="#cb16-7" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Participants with missing condition:&quot;</span>, <span class="fu">length</span>(missing_condition_ids), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+## Participants with non-2025 timestamps: 1</code></pre>
+<div class="sourceCode" id="cb31"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb31-1"><a href="#cb31-1" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">length</span>(invalid_year_ids) <span class="sc">&gt;</span> <span class="dv">0</span>) <span class="fu">print</span>(invalid_year_ids)</span></code></pre></div>
+<pre><code>## [1] &quot;BAD75635-0516-498B-884F-DA7128092B42&quot;</code></pre>
+<div class="sourceCode" id="cb33"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb33-1"><a href="#cb33-1" tabindex="-1"></a>missing_condition_ids <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb33-2"><a href="#cb33-2" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="fu">is.na</span>(condition)) <span class="sc">%&gt;%</span></span>
+<span id="cb33-3"><a href="#cb33-3" tabindex="-1"></a>  <span class="fu">distinct</span>(participant_id) <span class="sc">%&gt;%</span></span>
+<span id="cb33-4"><a href="#cb33-4" tabindex="-1"></a>  <span class="fu">pull</span>()</span>
+<span id="cb33-5"><a href="#cb33-5" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Participants with missing condition:&quot;</span>, <span class="fu">length</span>(missing_condition_ids), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## Participants with missing condition: 0</code></pre>
-<div class="sourceCode" id="cb18"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb18-2"><a href="#cb18-2" tabindex="-1"></a>  <span class="fu">filter</span>(year <span class="sc">==</span> <span class="st">&quot;2025&quot;</span>,</span>
-<span id="cb18-3"><a href="#cb18-3" tabindex="-1"></a>         study_week <span class="sc">&lt;=</span> <span class="dv">6</span>,</span>
-<span id="cb18-4"><a href="#cb18-4" tabindex="-1"></a>         <span class="sc">!</span><span class="fu">is.na</span>(condition))</span>
-<span id="cb18-5"><a href="#cb18-5" tabindex="-1"></a></span>
-<span id="cb18-6"><a href="#cb18-6" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Participants after cleaning:&quot;</span>, <span class="fu">n_distinct</span>(dat_processed<span class="sc">$</span>participant_id), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb35"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb35-1"><a href="#cb35-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb35-2"><a href="#cb35-2" tabindex="-1"></a>  <span class="fu">filter</span>(year <span class="sc">==</span> <span class="st">&quot;2025&quot;</span>,</span>
+<span id="cb35-3"><a href="#cb35-3" tabindex="-1"></a>         study_week <span class="sc">&lt;=</span> <span class="dv">6</span>,</span>
+<span id="cb35-4"><a href="#cb35-4" tabindex="-1"></a>         <span class="sc">!</span><span class="fu">is.na</span>(condition))</span>
+<span id="cb35-5"><a href="#cb35-5" tabindex="-1"></a></span>
+<span id="cb35-6"><a href="#cb35-6" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Participants after cleaning:&quot;</span>, <span class="fu">n_distinct</span>(dat_processed<span class="sc">$</span>participant_id), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
-## Participants after cleaning: 684</code></pre>
-<div class="sourceCode" id="cb20"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Rows after cleaning:&quot;</span>, <span class="fu">nrow</span>(dat_processed), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
-<pre><code>## Rows after cleaning: 150913</code></pre>
+## Participants after cleaning: 1641</code></pre>
+<div class="sourceCode" id="cb37"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb37-1"><a href="#cb37-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Rows after cleaning:&quot;</span>, <span class="fu">nrow</span>(dat_processed), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## Rows after cleaning: 575706</code></pre>
+<div class="sourceCode" id="cb39"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb39-1"><a href="#cb39-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;By phase:</span><span class="sc">\n</span><span class="st">&quot;</span>); <span class="fu">print</span>(<span class="fu">table</span>(dat_processed<span class="sc">$</span>phase, <span class="at">useNA =</span> <span class="st">&quot;always&quot;</span>))</span></code></pre></div>
+<pre><code>## By phase:</code></pre>
+<pre><code>## 
+## phase1 phase2   &lt;NA&gt; 
+## 310963 264743      0</code></pre>
 </div>
 <div id="step-5-assign-delay-type-from-condition-study-week" class="section level1">
 <h1>Step 5: Assign delay type from condition + study week</h1>
 <p>interventionDuration values in the CSVs are unreliable (per
 developer). Delay type is derived entirely from condition + week. A = 3s
 (preregistered), B = 6s, C = 10s</p>
-<div class="sourceCode" id="cb22"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb22-2"><a href="#cb22-2" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">delay_type =</span> <span class="fu">case_when</span>(</span>
-<span id="cb22-3"><a href="#cb22-3" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;CCC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
-<span id="cb22-4"><a href="#cb22-4" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">2</span>       <span class="sc">~</span> <span class="st">&quot;A&quot;</span>,</span>
-<span id="cb22-5"><a href="#cb22-5" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">4</span>       <span class="sc">~</span> <span class="st">&quot;B&quot;</span>,</span>
-<span id="cb22-6"><a href="#cb22-6" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
-<span id="cb22-7"><a href="#cb22-7" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ACC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">2</span>       <span class="sc">~</span> <span class="st">&quot;A&quot;</span>,</span>
-<span id="cb22-8"><a href="#cb22-8" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ACC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
-<span id="cb22-9"><a href="#cb22-9" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;BCC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">2</span>       <span class="sc">~</span> <span class="st">&quot;B&quot;</span>,</span>
-<span id="cb22-10"><a href="#cb22-10" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;BCC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
-<span id="cb22-11"><a href="#cb22-11" tabindex="-1"></a>    <span class="cn">TRUE</span> <span class="sc">~</span> <span class="cn">NA_character_</span></span>
-<span id="cb22-12"><a href="#cb22-12" tabindex="-1"></a>  ))</span>
-<span id="cb22-13"><a href="#cb22-13" tabindex="-1"></a></span>
-<span id="cb22-14"><a href="#cb22-14" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Delay type × condition:</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb42"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb42-1"><a href="#cb42-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb42-2"><a href="#cb42-2" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">delay_type =</span> <span class="fu">case_when</span>(</span>
+<span id="cb42-3"><a href="#cb42-3" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;CCC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
+<span id="cb42-4"><a href="#cb42-4" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">2</span>       <span class="sc">~</span> <span class="st">&quot;A&quot;</span>,</span>
+<span id="cb42-5"><a href="#cb42-5" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">4</span>       <span class="sc">~</span> <span class="st">&quot;B&quot;</span>,</span>
+<span id="cb42-6"><a href="#cb42-6" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
+<span id="cb42-7"><a href="#cb42-7" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ACC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">2</span>       <span class="sc">~</span> <span class="st">&quot;A&quot;</span>,</span>
+<span id="cb42-8"><a href="#cb42-8" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;ACC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
+<span id="cb42-9"><a href="#cb42-9" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;BCC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">2</span>       <span class="sc">~</span> <span class="st">&quot;B&quot;</span>,</span>
+<span id="cb42-10"><a href="#cb42-10" tabindex="-1"></a>    condition <span class="sc">==</span> <span class="st">&quot;BCC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
+<span id="cb42-11"><a href="#cb42-11" tabindex="-1"></a>    <span class="cn">TRUE</span> <span class="sc">~</span> <span class="cn">NA_character_</span></span>
+<span id="cb42-12"><a href="#cb42-12" tabindex="-1"></a>  ))</span>
+<span id="cb42-13"><a href="#cb42-13" tabindex="-1"></a></span>
+<span id="cb42-14"><a href="#cb42-14" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Delay type × condition:</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
 ## Delay type × condition:</code></pre>
-<div class="sourceCode" id="cb24"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" tabindex="-1"></a><span class="fu">print</span>(<span class="fu">table</span>(dat_processed<span class="sc">$</span>delay_type, dat_processed<span class="sc">$</span>condition, <span class="at">useNA =</span> <span class="st">&quot;always&quot;</span>))</span></code></pre></div>
+<div class="sourceCode" id="cb44"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb44-1"><a href="#cb44-1" tabindex="-1"></a><span class="fu">print</span>(<span class="fu">table</span>(dat_processed<span class="sc">$</span>delay_type, dat_processed<span class="sc">$</span>condition, <span class="at">useNA =</span> <span class="st">&quot;always&quot;</span>))</span></code></pre></div>
 <pre><code>##       
-##          ABC   ACC   BCC   CCC  &lt;NA&gt;
-##   A    38334 40317     0     0     0
-##   B        0     0 26038     0     0
-##   C        0     0 16973 29251     0
-##   &lt;NA&gt;     0     0     0     0     0</code></pre>
+##           ABC    ACC    BCC    CCC   &lt;NA&gt;
+##   A     76121  80684      0      0      0
+##   B     47106      0  75813      0      0
+##   C     29167  64997  66287 135531      0
+##   &lt;NA&gt;      0      0      0      0      0</code></pre>
 </div>
 <div id="step-6-event-classification-variables" class="section level1">
 <h1>Step 6: Event classification variables</h1>
@@ -1913,131 +2058,134 @@ closedApp) dismissed: user did not open the app after the intervention
 executed: user opened the app after the intervention</p>
 <p>NOTE: dismissedByStructuredIntervention is included as both attempt
 and dismissal, following Hanna’s approach. Confirm if correct.</p>
-<div class="sourceCode" id="cb26"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb26-2"><a href="#cb26-2" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
-<span id="cb26-3"><a href="#cb26-3" tabindex="-1"></a>    <span class="at">initial_attempt =</span> <span class="fu">if_else</span>(</span>
-<span id="cb26-4"><a href="#cb26-4" tabindex="-1"></a>      resolution <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">&quot;openedApp&quot;</span>, <span class="st">&quot;dismissedAppOpening&quot;</span>,</span>
-<span id="cb26-5"><a href="#cb26-5" tabindex="-1"></a>                         <span class="st">&quot;dismissedByStructuredIntervention&quot;</span>),</span>
-<span id="cb26-6"><a href="#cb26-6" tabindex="-1"></a>      <span class="dv">1</span><span class="dt">L</span>, <span class="dv">0</span><span class="dt">L</span>, <span class="at">missing =</span> <span class="dv">0</span><span class="dt">L</span></span>
-<span id="cb26-7"><a href="#cb26-7" tabindex="-1"></a>    ),</span>
-<span id="cb26-8"><a href="#cb26-8" tabindex="-1"></a>    <span class="at">dismissed =</span> <span class="fu">if_else</span>(</span>
-<span id="cb26-9"><a href="#cb26-9" tabindex="-1"></a>      resolution <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">&quot;dismissedAppOpening&quot;</span>,</span>
-<span id="cb26-10"><a href="#cb26-10" tabindex="-1"></a>                         <span class="st">&quot;dismissedByStructuredIntervention&quot;</span>),</span>
-<span id="cb26-11"><a href="#cb26-11" tabindex="-1"></a>      <span class="dv">1</span><span class="dt">L</span>, <span class="dv">0</span><span class="dt">L</span>, <span class="at">missing =</span> <span class="dv">0</span><span class="dt">L</span></span>
-<span id="cb26-12"><a href="#cb26-12" tabindex="-1"></a>    ),</span>
-<span id="cb26-13"><a href="#cb26-13" tabindex="-1"></a>    <span class="at">executed =</span> <span class="fu">if_else</span>(resolution <span class="sc">==</span> <span class="st">&quot;openedApp&quot;</span>, <span class="dv">1</span><span class="dt">L</span>, <span class="dv">0</span><span class="dt">L</span>, <span class="at">missing =</span> <span class="dv">0</span><span class="dt">L</span>)</span>
-<span id="cb26-14"><a href="#cb26-14" tabindex="-1"></a>  )</span>
-<span id="cb26-15"><a href="#cb26-15" tabindex="-1"></a></span>
-<span id="cb26-16"><a href="#cb26-16" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Resolution value counts:</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb46"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb46-1"><a href="#cb46-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb46-2"><a href="#cb46-2" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb46-3"><a href="#cb46-3" tabindex="-1"></a>    <span class="at">initial_attempt =</span> <span class="fu">if_else</span>(</span>
+<span id="cb46-4"><a href="#cb46-4" tabindex="-1"></a>      resolution <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">&quot;openedApp&quot;</span>, <span class="st">&quot;dismissedAppOpening&quot;</span>,</span>
+<span id="cb46-5"><a href="#cb46-5" tabindex="-1"></a>                         <span class="st">&quot;dismissedByStructuredIntervention&quot;</span>),</span>
+<span id="cb46-6"><a href="#cb46-6" tabindex="-1"></a>      <span class="dv">1</span><span class="dt">L</span>, <span class="dv">0</span><span class="dt">L</span>, <span class="at">missing =</span> <span class="dv">0</span><span class="dt">L</span></span>
+<span id="cb46-7"><a href="#cb46-7" tabindex="-1"></a>    ),</span>
+<span id="cb46-8"><a href="#cb46-8" tabindex="-1"></a>    <span class="at">dismissed =</span> <span class="fu">if_else</span>(</span>
+<span id="cb46-9"><a href="#cb46-9" tabindex="-1"></a>      resolution <span class="sc">%in%</span> <span class="fu">c</span>(<span class="st">&quot;dismissedAppOpening&quot;</span>,</span>
+<span id="cb46-10"><a href="#cb46-10" tabindex="-1"></a>                         <span class="st">&quot;dismissedByStructuredIntervention&quot;</span>),</span>
+<span id="cb46-11"><a href="#cb46-11" tabindex="-1"></a>      <span class="dv">1</span><span class="dt">L</span>, <span class="dv">0</span><span class="dt">L</span>, <span class="at">missing =</span> <span class="dv">0</span><span class="dt">L</span></span>
+<span id="cb46-12"><a href="#cb46-12" tabindex="-1"></a>    ),</span>
+<span id="cb46-13"><a href="#cb46-13" tabindex="-1"></a>    <span class="at">executed =</span> <span class="fu">if_else</span>(resolution <span class="sc">==</span> <span class="st">&quot;openedApp&quot;</span>, <span class="dv">1</span><span class="dt">L</span>, <span class="dv">0</span><span class="dt">L</span>, <span class="at">missing =</span> <span class="dv">0</span><span class="dt">L</span>)</span>
+<span id="cb46-14"><a href="#cb46-14" tabindex="-1"></a>  )</span>
+<span id="cb46-15"><a href="#cb46-15" tabindex="-1"></a></span>
+<span id="cb46-16"><a href="#cb46-16" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Resolution value counts:</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
 ## Resolution value counts:</code></pre>
-<div class="sourceCode" id="cb28"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" tabindex="-1"></a><span class="fu">print</span>(dat_processed <span class="sc">%&gt;%</span> <span class="fu">count</span>(resolution, <span class="at">sort =</span> <span class="cn">TRUE</span>))</span></code></pre></div>
+<div class="sourceCode" id="cb48"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb48-1"><a href="#cb48-1" tabindex="-1"></a><span class="fu">print</span>(dat_processed <span class="sc">%&gt;%</span> <span class="fu">count</span>(resolution, <span class="at">sort =</span> <span class="cn">TRUE</span>))</span></code></pre></div>
 <pre><code>## # A tibble: 2 × 2
 ##   resolution               n
 ##   &lt;chr&gt;                &lt;int&gt;
-## 1 openedApp           108967
-## 2 dismissedAppOpening  41946</code></pre>
+## 1 openedApp           410532
+## 2 dismissedAppOpening 165174</code></pre>
 </div>
 <div id="step-7-flag-missing-resolution-rows" class="section level1">
 <h1>Step 7: Flag missing resolution rows</h1>
-<div class="sourceCode" id="cb30"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb30-1"><a href="#cb30-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb30-2"><a href="#cb30-2" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">flag_resolution_missing =</span> <span class="fu">is.na</span>(resolution) <span class="sc">|</span> resolution <span class="sc">==</span> <span class="st">&quot;&quot;</span>)</span>
-<span id="cb30-3"><a href="#cb30-3" tabindex="-1"></a></span>
-<span id="cb30-4"><a href="#cb30-4" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Missing resolution rows:&quot;</span>, <span class="fu">sum</span>(dat_processed<span class="sc">$</span>flag_resolution_missing), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb50"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb50-1"><a href="#cb50-1" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb50-2"><a href="#cb50-2" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">flag_resolution_missing =</span> <span class="fu">is.na</span>(resolution) <span class="sc">|</span> resolution <span class="sc">==</span> <span class="st">&quot;&quot;</span>)</span>
+<span id="cb50-3"><a href="#cb50-3" tabindex="-1"></a></span>
+<span id="cb50-4"><a href="#cb50-4" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Missing resolution rows:&quot;</span>, <span class="fu">sum</span>(dat_processed<span class="sc">$</span>flag_resolution_missing), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
 ## Missing resolution rows: 0</code></pre>
-<div class="sourceCode" id="cb32"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb32-1"><a href="#cb32-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Missing resolution by condition:</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb52"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb52-1"><a href="#cb52-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Missing resolution by condition:</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## Missing resolution by condition:</code></pre>
-<div class="sourceCode" id="cb34"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb34-1"><a href="#cb34-1" tabindex="-1"></a><span class="fu">print</span>(dat_processed <span class="sc">%&gt;%</span> <span class="fu">filter</span>(flag_resolution_missing) <span class="sc">%&gt;%</span> <span class="fu">count</span>(condition))</span></code></pre></div>
+<div class="sourceCode" id="cb54"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb54-1"><a href="#cb54-1" tabindex="-1"></a><span class="fu">print</span>(dat_processed <span class="sc">%&gt;%</span> <span class="fu">filter</span>(flag_resolution_missing) <span class="sc">%&gt;%</span> <span class="fu">count</span>(condition))</span></code></pre></div>
 <pre><code>## # A tibble: 0 × 2
 ## # ℹ 2 variables: condition &lt;chr&gt;, n &lt;int&gt;</code></pre>
 </div>
 <div id="step-8-dropout-status" class="section level1">
 <h1>Step 8: Dropout status</h1>
 <p>dropout = 1 if participant has no activity in week 6</p>
-<div class="sourceCode" id="cb36"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb36-1"><a href="#cb36-1" tabindex="-1"></a>dat_processed_dropout <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb36-2"><a href="#cb36-2" tabindex="-1"></a>  <span class="fu">group_by</span>(participant_id) <span class="sc">%&gt;%</span></span>
-<span id="cb36-3"><a href="#cb36-3" tabindex="-1"></a>  <span class="fu">summarise</span>(</span>
-<span id="cb36-4"><a href="#cb36-4" tabindex="-1"></a>    <span class="at">last_week =</span> <span class="fu">max</span>(study_week, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
-<span id="cb36-5"><a href="#cb36-5" tabindex="-1"></a>    <span class="at">condition =</span> <span class="fu">first</span>(condition),</span>
-<span id="cb36-6"><a href="#cb36-6" tabindex="-1"></a>    <span class="at">.groups   =</span> <span class="st">&quot;drop&quot;</span></span>
-<span id="cb36-7"><a href="#cb36-7" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
-<span id="cb36-8"><a href="#cb36-8" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">dropout =</span> <span class="fu">if_else</span>(last_week <span class="sc">&lt;</span> <span class="dv">6</span>, <span class="dv">1</span><span class="dt">L</span>, <span class="dv">0</span><span class="dt">L</span>))</span>
-<span id="cb36-9"><a href="#cb36-9" tabindex="-1"></a></span>
-<span id="cb36-10"><a href="#cb36-10" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb36-11"><a href="#cb36-11" tabindex="-1"></a>  <span class="fu">left_join</span>(dat_processed_dropout <span class="sc">%&gt;%</span> <span class="fu">select</span>(participant_id, dropout), <span class="at">by =</span> <span class="st">&quot;participant_id&quot;</span>)</span>
-<span id="cb36-12"><a href="#cb36-12" tabindex="-1"></a></span>
-<span id="cb36-13"><a href="#cb36-13" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Dropout counts per condition:</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb56"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb56-1"><a href="#cb56-1" tabindex="-1"></a>dat_processed_dropout <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb56-2"><a href="#cb56-2" tabindex="-1"></a>  <span class="fu">group_by</span>(participant_id) <span class="sc">%&gt;%</span></span>
+<span id="cb56-3"><a href="#cb56-3" tabindex="-1"></a>  <span class="fu">summarise</span>(</span>
+<span id="cb56-4"><a href="#cb56-4" tabindex="-1"></a>    <span class="at">last_week =</span> <span class="fu">max</span>(study_week, <span class="at">na.rm =</span> <span class="cn">TRUE</span>),</span>
+<span id="cb56-5"><a href="#cb56-5" tabindex="-1"></a>    <span class="at">condition =</span> <span class="fu">first</span>(condition),</span>
+<span id="cb56-6"><a href="#cb56-6" tabindex="-1"></a>    <span class="at">phase     =</span> <span class="fu">first</span>(phase),</span>
+<span id="cb56-7"><a href="#cb56-7" tabindex="-1"></a>    <span class="at">.groups   =</span> <span class="st">&quot;drop&quot;</span></span>
+<span id="cb56-8"><a href="#cb56-8" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb56-9"><a href="#cb56-9" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">dropout =</span> <span class="fu">if_else</span>(last_week <span class="sc">&lt;</span> <span class="dv">6</span>, <span class="dv">1</span><span class="dt">L</span>, <span class="dv">0</span><span class="dt">L</span>))</span>
+<span id="cb56-10"><a href="#cb56-10" tabindex="-1"></a></span>
+<span id="cb56-11"><a href="#cb56-11" tabindex="-1"></a>dat_processed <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb56-12"><a href="#cb56-12" tabindex="-1"></a>  <span class="fu">left_join</span>(dat_processed_dropout <span class="sc">%&gt;%</span> <span class="fu">select</span>(participant_id, dropout), <span class="at">by =</span> <span class="st">&quot;participant_id&quot;</span>)</span>
+<span id="cb56-13"><a href="#cb56-13" tabindex="-1"></a></span>
+<span id="cb56-14"><a href="#cb56-14" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Dropout counts per condition:</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
 ## Dropout counts per condition:</code></pre>
-<div class="sourceCode" id="cb38"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb38-1"><a href="#cb38-1" tabindex="-1"></a><span class="fu">print</span>(dat_processed_dropout <span class="sc">%&gt;%</span> <span class="fu">count</span>(condition, dropout))</span></code></pre></div>
-<pre><code>## # A tibble: 6 × 3
+<div class="sourceCode" id="cb58"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb58-1"><a href="#cb58-1" tabindex="-1"></a><span class="fu">print</span>(dat_processed_dropout <span class="sc">%&gt;%</span> <span class="fu">count</span>(condition, dropout))</span></code></pre></div>
+<pre><code>## # A tibble: 8 × 3
 ##   condition dropout     n
 ##   &lt;chr&gt;       &lt;int&gt; &lt;int&gt;
-## 1 ABC             1   196
-## 2 ACC             1   221
-## 3 BCC             0    27
-## 4 BCC             1   116
-## 5 CCC             0    30
-## 6 CCC             1    94</code></pre>
+## 1 ABC             0   136
+## 2 ABC             1   251
+## 3 ACC             0   142
+## 4 ACC             1   288
+## 5 BCC             0   121
+## 6 BCC             1   288
+## 7 CCC             0   140
+## 8 CCC             1   275</code></pre>
 </div>
 <div id="step-9-analytical-subsets" class="section level1">
 <h1>Step 9: Analytical subsets</h1>
-<div class="sourceCode" id="cb40"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb40-1"><a href="#cb40-1" tabindex="-1"></a><span class="co"># RQ1: one row per participant</span></span>
-<span id="cb40-2"><a href="#cb40-2" tabindex="-1"></a><span class="co"># dat_processed_behavioral_data_dropout</span></span>
-<span id="cb40-3"><a href="#cb40-3" tabindex="-1"></a></span>
-<span id="cb40-4"><a href="#cb40-4" tabindex="-1"></a><span class="co"># RQ2.1 model: one row per participant, week 1 + week 6 dismissed/attempted</span></span>
-<span id="cb40-5"><a href="#cb40-5" tabindex="-1"></a>dat_processed_open_attempts <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb40-6"><a href="#cb40-6" tabindex="-1"></a>  <span class="fu">filter</span>(study_week <span class="sc">%in%</span> <span class="fu">c</span>(<span class="dv">1</span>, <span class="dv">6</span>)) <span class="sc">%&gt;%</span></span>
-<span id="cb40-7"><a href="#cb40-7" tabindex="-1"></a>  <span class="fu">group_by</span>(participant_id, condition, study_week) <span class="sc">%&gt;%</span></span>
-<span id="cb40-8"><a href="#cb40-8" tabindex="-1"></a>  <span class="fu">summarise</span>(</span>
-<span id="cb40-9"><a href="#cb40-9" tabindex="-1"></a>    <span class="at">dismissed =</span> <span class="fu">sum</span>(dismissed),</span>
-<span id="cb40-10"><a href="#cb40-10" tabindex="-1"></a>    <span class="at">attempted =</span> <span class="fu">sum</span>(initial_attempt),</span>
-<span id="cb40-11"><a href="#cb40-11" tabindex="-1"></a>    <span class="at">.groups   =</span> <span class="st">&quot;drop&quot;</span></span>
-<span id="cb40-12"><a href="#cb40-12" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
-<span id="cb40-13"><a href="#cb40-13" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(</span>
-<span id="cb40-14"><a href="#cb40-14" tabindex="-1"></a>    <span class="at">names_from  =</span> study_week,</span>
-<span id="cb40-15"><a href="#cb40-15" tabindex="-1"></a>    <span class="at">values_from =</span> <span class="fu">c</span>(dismissed, attempted),</span>
-<span id="cb40-16"><a href="#cb40-16" tabindex="-1"></a>    <span class="at">names_glue  =</span> <span class="st">&quot;{.value}_w{study_week}&quot;</span></span>
-<span id="cb40-17"><a href="#cb40-17" tabindex="-1"></a>  ) </span>
-<span id="cb40-18"><a href="#cb40-18" tabindex="-1"></a></span>
-<span id="cb40-19"><a href="#cb40-19" tabindex="-1"></a><span class="co"># RQ2: initial events only, completers only, no missing resolution</span></span>
-<span id="cb40-20"><a href="#cb40-20" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">RQ2 — unique participants:&quot;</span>, <span class="fu">n_distinct</span>(dat_processed_open_attempts<span class="sc">$</span>participant_id), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb60"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb60-1"><a href="#cb60-1" tabindex="-1"></a><span class="co"># RQ1: one row per participant</span></span>
+<span id="cb60-2"><a href="#cb60-2" tabindex="-1"></a><span class="co"># dat_processed_behavioral_data_dropout</span></span>
+<span id="cb60-3"><a href="#cb60-3" tabindex="-1"></a></span>
+<span id="cb60-4"><a href="#cb60-4" tabindex="-1"></a><span class="co"># RQ2.1 model: one row per participant, week 1 + week 6 dismissed/attempted</span></span>
+<span id="cb60-5"><a href="#cb60-5" tabindex="-1"></a>dat_processed_open_attempts <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb60-6"><a href="#cb60-6" tabindex="-1"></a>  <span class="fu">filter</span>(study_week <span class="sc">%in%</span> <span class="fu">c</span>(<span class="dv">1</span>, <span class="dv">6</span>)) <span class="sc">%&gt;%</span></span>
+<span id="cb60-7"><a href="#cb60-7" tabindex="-1"></a>  <span class="fu">group_by</span>(participant_id, condition, study_week) <span class="sc">%&gt;%</span></span>
+<span id="cb60-8"><a href="#cb60-8" tabindex="-1"></a>  <span class="fu">summarise</span>(</span>
+<span id="cb60-9"><a href="#cb60-9" tabindex="-1"></a>    <span class="at">dismissed =</span> <span class="fu">sum</span>(dismissed),</span>
+<span id="cb60-10"><a href="#cb60-10" tabindex="-1"></a>    <span class="at">attempted =</span> <span class="fu">sum</span>(initial_attempt),</span>
+<span id="cb60-11"><a href="#cb60-11" tabindex="-1"></a>    <span class="at">.groups   =</span> <span class="st">&quot;drop&quot;</span></span>
+<span id="cb60-12"><a href="#cb60-12" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb60-13"><a href="#cb60-13" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(</span>
+<span id="cb60-14"><a href="#cb60-14" tabindex="-1"></a>    <span class="at">names_from  =</span> study_week,</span>
+<span id="cb60-15"><a href="#cb60-15" tabindex="-1"></a>    <span class="at">values_from =</span> <span class="fu">c</span>(dismissed, attempted),</span>
+<span id="cb60-16"><a href="#cb60-16" tabindex="-1"></a>    <span class="at">names_glue  =</span> <span class="st">&quot;{.value}_w{study_week}&quot;</span></span>
+<span id="cb60-17"><a href="#cb60-17" tabindex="-1"></a>  )</span>
+<span id="cb60-18"><a href="#cb60-18" tabindex="-1"></a></span>
+<span id="cb60-19"><a href="#cb60-19" tabindex="-1"></a><span class="co"># RQ2: initial events only, completers only, no missing resolution</span></span>
+<span id="cb60-20"><a href="#cb60-20" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">RQ2 — unique participants:&quot;</span>, <span class="fu">n_distinct</span>(dat_processed_open_attempts<span class="sc">$</span>participant_id), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
-## RQ2 — unique participants: 684</code></pre>
+## RQ2 — unique participants: 1641</code></pre>
 </div>
 <div id="save" class="section level1">
 <h1>Save</h1>
-<div class="sourceCode" id="cb42"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb42-1"><a href="#cb42-1" tabindex="-1"></a><span class="fu">dir.create</span>(<span class="st">&quot;../data/processed&quot;</span>, <span class="at">showWarnings =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb42-2"><a href="#cb42-2" tabindex="-1"></a></span>
-<span id="cb42-3"><a href="#cb42-3" tabindex="-1"></a><span class="co"># saveRDS(dat_processed,      &quot;../data/processed/dat_processed_behavioral_data.rds&quot;)</span></span>
-<span id="cb42-4"><a href="#cb42-4" tabindex="-1"></a><span class="co"># saveRDS(df_rq1,         &quot;../data/processed/df_rq1.rds&quot;)</span></span>
-<span id="cb42-5"><a href="#cb42-5" tabindex="-1"></a><span class="co"># saveRDS(df_rq2,         &quot;../data/processed/df_rq2.rds&quot;)</span></span>
-<span id="cb42-6"><a href="#cb42-6" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_1_model, &quot;../data/processed/df_rq2_1_model.rds&quot;)</span></span>
-<span id="cb42-7"><a href="#cb42-7" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_2_model, &quot;../data/processed/df_rq2_2_model.rds&quot;)</span></span>
-<span id="cb42-8"><a href="#cb42-8" tabindex="-1"></a></span>
-<span id="cb42-9"><a href="#cb42-9" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed, <span class="st">&quot;../data/processed/data_processed_behavioral_data_all.csv&quot;</span>)</span>
-<span id="cb42-10"><a href="#cb42-10" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_dropout, <span class="st">&quot;../data/processed/data_processed_behavioral_data_dropout.csv&quot;</span>)</span>
-<span id="cb42-11"><a href="#cb42-11" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_open_attempts, <span class="st">&quot;../data/processed/data_processed_behavioral_data_open_attempts.csv&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb62"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb62-1"><a href="#cb62-1" tabindex="-1"></a><span class="fu">dir.create</span>(<span class="st">&quot;../data/processed&quot;</span>, <span class="at">showWarnings =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb62-2"><a href="#cb62-2" tabindex="-1"></a></span>
+<span id="cb62-3"><a href="#cb62-3" tabindex="-1"></a><span class="co"># saveRDS(dat_processed,      &quot;../data/processed/dat_processed_behavioral_data.rds&quot;)</span></span>
+<span id="cb62-4"><a href="#cb62-4" tabindex="-1"></a><span class="co"># saveRDS(df_rq1,         &quot;../data/processed/df_rq1.rds&quot;)</span></span>
+<span id="cb62-5"><a href="#cb62-5" tabindex="-1"></a><span class="co"># saveRDS(df_rq2,         &quot;../data/processed/df_rq2.rds&quot;)</span></span>
+<span id="cb62-6"><a href="#cb62-6" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_1_model, &quot;../data/processed/df_rq2_1_model.rds&quot;)</span></span>
+<span id="cb62-7"><a href="#cb62-7" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_2_model, &quot;../data/processed/df_rq2_2_model.rds&quot;)</span></span>
+<span id="cb62-8"><a href="#cb62-8" tabindex="-1"></a></span>
+<span id="cb62-9"><a href="#cb62-9" tabindex="-1"></a><span class="fu">write_rds</span>(dat_processed, <span class="st">&quot;../data/processed/data_processed_behavioral_data_all.rds&quot;</span>, <span class="at">compress =</span> <span class="st">&quot;gz&quot;</span>)</span>
+<span id="cb62-10"><a href="#cb62-10" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_dropout, <span class="st">&quot;../data/processed/data_processed_behavioral_data_dropout.csv&quot;</span>)</span>
+<span id="cb62-11"><a href="#cb62-11" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_open_attempts, <span class="st">&quot;../data/processed/data_processed_behavioral_data_open_attempts.csv&quot;</span>)</span></code></pre></div>
 </div>
 <div id="verification-checks" class="section level1">
 <h1>Verification checks</h1>
-<div class="sourceCode" id="cb43"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb43-1"><a href="#cb43-1" tabindex="-1"></a>multi_cond <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb43-2"><a href="#cb43-2" tabindex="-1"></a>  <span class="fu">distinct</span>(participant_id, condition) <span class="sc">%&gt;%</span></span>
-<span id="cb43-3"><a href="#cb43-3" tabindex="-1"></a>  <span class="fu">count</span>(participant_id) <span class="sc">%&gt;%</span></span>
-<span id="cb43-4"><a href="#cb43-4" tabindex="-1"></a>  <span class="fu">filter</span>(n <span class="sc">&gt;</span> <span class="dv">1</span>)</span>
-<span id="cb43-5"><a href="#cb43-5" tabindex="-1"></a></span>
-<span id="cb43-6"><a href="#cb43-6" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Participants in multiple conditions (should be 0):&quot;</span>, <span class="fu">nrow</span>(multi_cond), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb63"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb63-1"><a href="#cb63-1" tabindex="-1"></a>multi_cond <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb63-2"><a href="#cb63-2" tabindex="-1"></a>  <span class="fu">distinct</span>(participant_id, condition) <span class="sc">%&gt;%</span></span>
+<span id="cb63-3"><a href="#cb63-3" tabindex="-1"></a>  <span class="fu">count</span>(participant_id) <span class="sc">%&gt;%</span></span>
+<span id="cb63-4"><a href="#cb63-4" tabindex="-1"></a>  <span class="fu">filter</span>(n <span class="sc">&gt;</span> <span class="dv">1</span>)</span>
+<span id="cb63-5"><a href="#cb63-5" tabindex="-1"></a></span>
+<span id="cb63-6"><a href="#cb63-6" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Participants in multiple conditions (should be 0):&quot;</span>, <span class="fu">nrow</span>(multi_cond), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
 ## Participants in multiple conditions (should be 0): 0</code></pre>
-<div class="sourceCode" id="cb45"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb45-1"><a href="#cb45-1" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">nrow</span>(multi_cond) <span class="sc">&gt;</span> <span class="dv">0</span>) <span class="fu">print</span>(multi_cond)</span>
-<span id="cb45-2"><a href="#cb45-2" tabindex="-1"></a></span>
-<span id="cb45-3"><a href="#cb45-3" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;delay_type NAs (should be 0):&quot;</span>, <span class="fu">sum</span>(<span class="fu">is.na</span>(dat_processed<span class="sc">$</span>delay_type)), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb65"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb65-1"><a href="#cb65-1" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">nrow</span>(multi_cond) <span class="sc">&gt;</span> <span class="dv">0</span>) <span class="fu">print</span>(multi_cond)</span>
+<span id="cb65-2"><a href="#cb65-2" tabindex="-1"></a></span>
+<span id="cb65-3"><a href="#cb65-3" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;delay_type NAs (should be 0):&quot;</span>, <span class="fu">sum</span>(<span class="fu">is.na</span>(dat_processed<span class="sc">$</span>delay_type)), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## delay_type NAs (should be 0): 0</code></pre>
 </div>
 <div id="session-info" class="section level1">
 <h1>Session info</h1>
-<div class="sourceCode" id="cb47"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb47-1"><a href="#cb47-1" tabindex="-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div>
+<div class="sourceCode" id="cb67"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb67-1"><a href="#cb67-1" tabindex="-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div>
 <pre><code>## R version 4.5.2 (2025-10-31)
 ## Platform: aarch64-apple-darwin20
 ## Running under: macOS Tahoe 26.3
