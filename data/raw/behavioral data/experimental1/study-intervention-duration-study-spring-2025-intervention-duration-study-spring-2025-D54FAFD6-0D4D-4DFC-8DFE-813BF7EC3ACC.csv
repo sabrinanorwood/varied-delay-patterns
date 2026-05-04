@@ -1,4 +1,0 @@
-interventionDuration,purpose,isReIntervention,interventionType,app,timeIntervalUntilReIntervention,resolution,timestamp,timezone,terminationReason
-1.5,Нудьга,0.0,breathingExercise,youtube,300.0,openedApp,1748774848.988982,Europe/London,
-1.5,Повідомлення,0.0,breathingExercise,linkedin,,openedApp,1748774883.4733338,Europe/London,
-,,,,,,,1748776563.989771,,terminatedByUser

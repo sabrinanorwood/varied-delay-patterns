@@ -1,5 +1,0 @@
-isReIntervention,resolution,interventionType,timezone,timestamp,interventionDuration,app,terminationReason
-0.0,dismissedAppOpening,breathingExercise,Europe/Berlin,1752072690.47152,1.5,instagram,
-0.0,dismissedAppOpening,breathingExercise,Europe/Berlin,1752072700.520444,1.5,instagram,
-0.0,dismissedAppOpening,breathingExercise,Europe/Berlin,1752072708.8266392,1.5,instagram,
-,,,,1752072730.904459,,,terminatedByUser

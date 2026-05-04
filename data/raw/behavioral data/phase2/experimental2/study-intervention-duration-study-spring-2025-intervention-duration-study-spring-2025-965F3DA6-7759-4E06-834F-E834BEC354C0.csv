@@ -1,0 +1,400 @@
+timezone,interventionDuration,app,isReIntervention,timestamp,interventionType,resolution,purpose,timeIntervalUntilReIntervention
+America/New_York,1.5,instagram,False,1751854510.2363281,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751854514.618074,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751854581.5374389,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751854949.6838078,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751854985.300883,breathingExercise,openedApp,Search Info,240.0
+America/New_York,1.5,facebook,False,1751895032.25791,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751902487.3330178,breathingExercise,openedApp,Toilet,300.0
+America/New_York,1.5,instagram,False,1751902638.6348329,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751902654.1854649,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751902873.0653548,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751906230.947692,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751906334.942163,breathingExercise,openedApp,Entertainment,240.0
+America/New_York,1.5,facebook,False,1751906929.330145,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751906945.218535,breathingExercise,openedApp,Bored,480.0
+America/New_York,1.5,instagram,False,1751907110.2015991,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751907122.608005,breathingExercise,openedApp,Bored,480.0
+America/New_York,1.5,facebook,False,1751911198.248509,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751911287.1294432,breathingExercise,openedApp,Relax,300.0
+America/New_York,1.5,facebook,False,1751914305.000054,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751914447.7572122,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751915385.751405,breathingExercise,openedApp,Search Info,300.0
+America/New_York,1.5,facebook,False,1751915582.557107,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751917458.4311318,breathingExercise,openedApp,Relax,300.0
+America/New_York,1.5,facebook,False,1751924281.4169068,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751936163.260617,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751936535.200453,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751936538.679278,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751936677.28617,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751937752.339246,breathingExercise,openedApp,Search Info,240.0
+America/New_York,1.5,facebook,False,1751937993.420078,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751938188.16428,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751939220.6719599,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751940019.691057,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751940384.0091429,breathingExercise,openedApp,Check likes,120.0
+America/New_York,1.5,facebook,False,1751940426.1486778,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751940437.766921,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751969079.563123,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751969323.7682672,breathingExercise,openedApp,Entertainment,300.0
+America/New_York,1.5,facebook,False,1751970647.661845,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751999200.805982,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1751999248.975836,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1751999840.6597319,breathingExercise,openedApp,Escape / Avoid,360.0
+America/New_York,1.5,facebook,False,1752001350.872685,breathingExercise,openedApp,Bored,420.0
+America/New_York,1.5,instagram,False,1752003004.284006,breathingExercise,openedApp,Search Info,480.0
+America/New_York,1.5,instagram,False,1752003301.6575909,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752003954.415127,breathingExercise,openedApp,Stay In the Loop,660.0
+America/New_York,1.5,instagram,False,1752004895.234867,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752005986.8038101,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752006901.821165,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752006912.016212,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752007057.511849,breathingExercise,openedApp,Check likes,720.0
+America/New_York,1.5,facebook,False,1752008093.333885,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752008112.410151,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752009642.083138,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752009666.50907,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752009802.159817,breathingExercise,openedApp,Relax,1200.0
+America/New_York,1.5,instagram,True,1752011079.714567,breathingExercise,openedApp,Bored,1200.0
+America/New_York,1.5,facebook,False,1752012916.608451,breathingExercise,openedApp,Post something,480.0
+America/New_York,1.5,facebook,False,1752013216.098763,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752022655.491395,breathingExercise,openedApp,Entertainment,900.0
+America/New_York,1.5,instagram,False,1752023644.977021,breathingExercise,openedApp,Message,360.0
+America/New_York,1.5,facebook,False,1752023855.045037,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752024220.8991241,breathingExercise,openedApp,Escape / Avoid,300.0
+America/New_York,1.5,instagram,False,1752024586.46041,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752025378.855506,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752064017.877952,breathingExercise,openedApp,Search Info,600.0
+America/New_York,1.5,instagram,False,1752064718.187499,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752064808.705961,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752065575.8251638,breathingExercise,openedApp,Search Info,540.0
+America/New_York,1.5,facebook,False,1752066161.629441,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752069582.1454349,breathingExercise,openedApp,Toilet,600.0
+America/New_York,1.5,facebook,False,1752070188.726151,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752070403.084935,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752071402.646595,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752071516.049396,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752076750.683595,breathingExercise,openedApp,Relax,600.0
+America/New_York,1.5,instagram,False,1752076928.5445871,breathingExercise,openedApp,Entertainment,360.0
+America/New_York,1.5,facebook,False,1752077553.755896,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752080531.860608,breathingExercise,openedApp,Entertainment,720.0
+America/New_York,1.5,instagram,False,1752081608.121747,breathingExercise,openedApp,Entertainment,1020.0
+America/New_York,1.5,instagram,False,1752082056.860104,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752083597.274555,breathingExercise,openedApp,Entertainment,720.0
+America/New_York,1.5,facebook,False,1752084281.466038,breathingExercise,openedApp,Search Info,660.0
+America/New_York,1.5,instagram,False,1752085044.0223808,breathingExercise,openedApp,Entertainment,840.0
+America/New_York,1.5,facebook,False,1752087525.5666308,breathingExercise,openedApp,Stay In the Loop,420.0
+America/New_York,1.5,facebook,False,1752087799.842169,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752088003.6589909,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752093934.637189,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752094992.413988,breathingExercise,openedApp,Message,600.0
+America/New_York,1.5,instagram,False,1752095168.104121,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752095424.363198,breathingExercise,openedApp,Stay In the Loop,540.0
+America/New_York,1.5,instagram,False,1752096186.1370978,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752099605.719472,breathingExercise,openedApp,Escape / Avoid,480.0
+America/New_York,1.5,instagram,False,1752104255.84817,breathingExercise,openedApp,Stay In the Loop,660.0
+America/New_York,1.5,instagram,False,1752104832.726554,breathingExercise,openedApp,Can’t sleep,360.0
+America/New_York,1.5,instagram,False,1752105031.629427,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752105442.220121,breathingExercise,openedApp,Relax,1080.0
+America/New_York,1.5,instagram,False,1752105530.74644,breathingExercise,openedApp,Bored,1380.0
+America/New_York,1.5,facebook,False,1752106920.091614,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752111132.999084,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752111153.4635801,breathingExercise,openedApp,Relax,1140.0
+America/New_York,1.5,instagram,False,1752111457.376162,breathingExercise,openedApp,Relax,780.0
+America/New_York,1.5,facebook,False,1752143027.863274,breathingExercise,openedApp,Search Info,
+America/New_York,1.5,instagram,False,1752143433.312306,breathingExercise,openedApp,Entertainment,840.0
+America/New_York,1.5,facebook,False,1752153399.9686751,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752154372.0706801,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,facebook,False,1752154779.947949,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752154860.3946,breathingExercise,openedApp,Escape / Avoid,480.0
+America/New_York,1.5,instagram,False,1752155278.386307,breathingExercise,openedApp,Bored,540.0
+America/New_York,1.5,instagram,True,1752155833.801502,breathingExercise,openedApp,Bored,900.0
+America/New_York,1.5,facebook,False,1752156413.7698522,breathingExercise,openedApp,Bored,
+America/New_York,1.5,facebook,False,1752156675.49718,breathingExercise,openedApp,Search Info,
+America/New_York,1.5,instagram,False,1752156817.731976,breathingExercise,openedApp,Entertainment,600.0
+America/New_York,1.5,instagram,False,1752157072.227244,breathingExercise,openedApp,Stay In the Loop,780.0
+America/New_York,1.5,instagram,False,1752157242.282497,breathingExercise,openedApp,Entertainment,720.0
+America/New_York,1.5,facebook,False,1752158530.179184,breathingExercise,openedApp,Bored,
+America/New_York,1.5,facebook,False,1752158687.872855,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752158999.55238,breathingExercise,openedApp,Bored,540.0
+America/New_York,1.5,instagram,True,1752159553.590756,breathingExercise,openedApp,Stay In the Loop,960.0
+America/New_York,1.5,instagram,False,1752160199.7944078,breathingExercise,openedApp,Entertainment,600.0
+America/New_York,1.5,facebook,False,1752160523.281774,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752173308.4872541,breathingExercise,openedApp,Relax,
+America/New_York,1.5,instagram,False,1752195744.398031,breathingExercise,openedApp,Escape / Avoid,420.0
+America/New_York,1.5,facebook,False,1752196774.398675,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752196901.112597,breathingExercise,openedApp,Can’t sleep,900.0
+America/New_York,1.5,instagram,True,1752197819.200896,breathingExercise,openedApp,Bored,1020.0
+America/New_York,1.5,instagram,False,1752198566.942533,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752199181.503037,breathingExercise,openedApp,Bored,
+America/New_York,1.5,instagram,False,1752224610.533792,breathingExercise,openedApp,Escape / Avoid,1020.0
+America/New_York,1.5,facebook,False,1752224678.6525168,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752226165.1581368,breathingExercise,openedApp,Stay In the Loop,
+America/New_York,1.5,facebook,False,1752227486.634777,breathingExercise,openedApp,Bored,
+America/New_York,1.5,instagram,False,1752238433.140276,breathingExercise,openedApp,Stay In the Loop,660.0
+America/New_York,1.5,instagram,False,1752239232.4448109,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752239352.398977,breathingExercise,openedApp,Bored,
+America/New_York,1.5,facebook,False,1752243755.563278,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752243766.096465,breathingExercise,openedApp,Entertainment,660.0
+America/New_York,1.5,instagram,False,1752243854.297632,breathingExercise,openedApp,Entertainment,720.0
+America/New_York,1.5,instagram,True,1752244587.431827,breathingExercise,openedApp,Stay In the Loop,1080.0
+America/New_York,1.5,facebook,False,1752247035.623898,breathingExercise,openedApp,Bored,
+America/New_York,1.5,instagram,False,1752247263.362411,breathingExercise,openedApp,Bored,660.0
+America/New_York,1.5,instagram,False,1752247385.057827,breathingExercise,openedApp,Bored,540.0
+America/New_York,1.5,facebook,False,1752248445.696618,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752249939.674104,breathingExercise,openedApp,Post something,
+America/New_York,1.5,facebook,False,1752251261.86815,breathingExercise,openedApp,Stay In the Loop,
+America/New_York,1.5,facebook,False,1752252254.7674022,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752252691.326411,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752252980.8417149,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752253255.1874208,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752255739.784943,breathingExercise,openedApp,Stay In the Loop,
+America/New_York,1.5,facebook,False,1752258375.304603,breathingExercise,openedApp,Message,
+America/New_York,1.5,facebook,False,1752259063.40482,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752259076.857051,breathingExercise,openedApp,Bored,840.0
+America/New_York,1.5,instagram,True,1752259933.459451,breathingExercise,openedApp,Relax,780.0
+America/New_York,1.5,facebook,False,1752260446.9580178,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752260614.764894,breathingExercise,openedApp,Bored,
+America/New_York,1.5,facebook,False,1752261664.9857621,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752261815.882731,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752261932.7602549,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752261935.449554,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752262922.583118,breathingExercise,openedApp,Bored,
+America/New_York,1.5,facebook,False,1752264332.070829,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752264466.079167,breathingExercise,openedApp,Search Info,
+America/New_York,1.5,facebook,False,1752273349.0195951,breathingExercise,openedApp,Bored,
+America/New_York,1.5,facebook,False,1752273414.166295,breathingExercise,openedApp,Stay In the Loop,
+America/New_York,1.5,facebook,False,1752274729.102494,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752274758.240367,breathingExercise,openedApp,Escape / Avoid,1200.0
+America/New_York,1.5,facebook,False,1752276229.638505,breathingExercise,openedApp,Message,
+America/New_York,1.5,facebook,False,1752276534.660353,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752276940.251419,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752276974.3621922,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752280513.725678,breathingExercise,openedApp,Message,
+America/New_York,1.5,facebook,False,1752281318.240824,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752281360.042892,breathingExercise,openedApp,Bored,540.0
+America/New_York,1.5,instagram,False,1752281494.5570312,breathingExercise,openedApp,Message,540.0
+America/New_York,1.5,facebook,False,1752282081.835016,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752286677.675984,breathingExercise,openedApp,Relax,600.0
+America/New_York,1.5,facebook,False,1752320951.156117,breathingExercise,openedApp,Relax,
+America/New_York,1.5,instagram,False,1752321035.78619,breathingExercise,openedApp,Escape / Avoid,1140.0
+America/New_York,1.5,facebook,False,1752326316.722569,breathingExercise,openedApp,Relax,
+America/New_York,1.5,facebook,False,1752326535.236364,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,instagram,False,1752326615.16613,breathingExercise,openedApp,Entertainment,660.0
+America/New_York,1.5,facebook,False,1752328372.18836,breathingExercise,openedApp,Post something,
+America/New_York,1.5,facebook,False,1752336090.55306,breathingExercise,openedApp,Relax,
+America/New_York,1.5,instagram,False,1752337601.88896,breathingExercise,openedApp,Bored,900.0
+America/New_York,1.5,facebook,False,1752341960.965856,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752349588.7822561,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752377720.916753,breathingExercise,openedApp,Can’t sleep,
+America/New_York,1.5,instagram,False,1752377881.3652282,breathingExercise,openedApp,Stay In the Loop,720.0
+America/New_York,1.5,facebook,False,1752378655.934256,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752379448.932191,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,instagram,False,1752379693.71941,breathingExercise,openedApp,Relax,720.0
+America/New_York,1.5,instagram,False,1752380141.7882838,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752403911.5266008,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,facebook,False,1752404056.310174,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752404067.224825,breathingExercise,openedApp,Check likes,420.0
+America/New_York,1.5,instagram,False,1752405344.347968,breathingExercise,openedApp,Escape / Avoid,420.0
+America/New_York,1.5,facebook,False,1752407671.4946132,breathingExercise,openedApp,Stay In the Loop,
+America/New_York,1.5,facebook,False,1752418491.3612452,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752423192.6461082,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752423882.380755,breathingExercise,openedApp,Message,
+America/New_York,1.5,facebook,False,1752426066.4132318,breathingExercise,openedApp,Bored,
+America/New_York,1.5,instagram,False,1752426169.530076,breathingExercise,openedApp,Bored,420.0
+America/New_York,1.5,facebook,False,1752427366.562899,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752432714.488182,breathingExercise,openedApp,Post something,
+America/New_York,1.5,facebook,False,1752434767.562127,breathingExercise,openedApp,Stalk crush,
+America/New_York,1.5,instagram,False,1752434885.1564078,breathingExercise,openedApp,Entertainment,720.0
+America/New_York,1.5,facebook,False,1752438538.788533,breathingExercise,openedApp,Bored,
+America/New_York,1.5,instagram,False,1752441805.776915,breathingExercise,openedApp,Relax,1140.0
+America/New_York,1.5,facebook,False,1752443102.948672,breathingExercise,openedApp,Stay In the Loop,
+America/New_York,1.5,instagram,False,1752443208.812031,breathingExercise,openedApp,Relax,360.0
+America/New_York,1.5,instagram,False,1752443347.161924,breathingExercise,openedApp,Bored,540.0
+America/New_York,1.5,instagram,False,1752444169.9001698,breathingExercise,openedApp,Escape / Avoid,600.0
+America/New_York,1.5,facebook,False,1752445590.1565208,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752445670.264071,breathingExercise,openedApp,Can’t sleep,
+America/New_York,1.5,instagram,False,1752445901.481211,breathingExercise,openedApp,Message,540.0
+America/New_York,1.5,instagram,False,1752448005.440786,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752448160.378056,breathingExercise,openedApp,Post something,540.0
+America/New_York,1.5,facebook,False,1752449352.9666061,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752451127.190816,breathingExercise,openedApp,Escape / Avoid,540.0
+America/New_York,1.5,instagram,False,1752451413.7702699,breathingExercise,openedApp,Post something,600.0
+America/New_York,1.5,instagram,False,1752451463.087081,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752451584.6359959,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752452610.780552,breathingExercise,openedApp,Check likes,720.0
+America/New_York,1.5,facebook,False,1752453429.257196,breathingExercise,openedApp,Stalk crush,
+America/New_York,1.5,instagram,False,1752454119.209548,breathingExercise,openedApp,Stalk crush,1080.0
+America/New_York,1.5,facebook,False,1752455255.6994271,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752460301.3986259,breathingExercise,openedApp,Stay In the Loop,
+America/New_York,1.5,instagram,False,1752460841.785742,breathingExercise,openedApp,Escape / Avoid,420.0
+America/New_York,1.5,facebook,False,1752461245.700768,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752461651.096352,breathingExercise,openedApp,Escape / Avoid,1380.0
+America/New_York,1.5,instagram,False,1752463195.184105,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752493445.818176,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,instagram,False,1752494236.5101829,breathingExercise,openedApp,Post something,420.0
+America/New_York,1.5,facebook,False,1752496034.552943,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,instagram,False,1752497047.2466211,breathingExercise,openedApp,Escape / Avoid,480.0
+America/New_York,1.5,facebook,False,1752498501.85079,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,facebook,False,1752502525.104135,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752502984.2968059,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752503419.3675551,breathingExercise,openedApp,Message,780.0
+America/New_York,1.5,instagram,False,1752503981.8849978,breathingExercise,openedApp,Toilet,600.0
+America/New_York,1.5,facebook,False,1752504590.46458,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752504646.961057,breathingExercise,openedApp,Relax,
+America/New_York,1.5,facebook,False,1752509391.677377,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752511862.6021152,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,instagram,False,1752513477.9116669,breathingExercise,openedApp,Stay In the Loop,480.0
+America/New_York,1.5,instagram,False,1752513825.721808,breathingExercise,openedApp,Search Info,840.0
+America/New_York,1.5,instagram,False,1752516448.513445,breathingExercise,openedApp,Can’t sleep,840.0
+America/New_York,1.5,facebook,False,1752518346.6924539,breathingExercise,openedApp,Stay In the Loop,
+America/New_York,1.5,instagram,False,1752518615.564332,breathingExercise,openedApp,Escape / Avoid,480.0
+America/New_York,1.5,instagram,True,1752519113.535163,breathingExercise,openedApp,Escape / Avoid,1020.0
+America/New_York,1.5,instagram,False,1752520332.828741,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752525327.464637,breathingExercise,openedApp,Search Info,
+America/New_York,1.5,facebook,False,1752525684.95055,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,facebook,False,1752526194.406959,breathingExercise,openedApp,Post something,
+America/New_York,1.5,facebook,False,1752526587.047549,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752531664.386564,breathingExercise,openedApp,Entertainment,780.0
+America/New_York,1.5,facebook,False,1752532013.307941,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,facebook,False,1752532460.005753,breathingExercise,openedApp,Check likes,
+America/New_York,1.5,facebook,False,1752533093.311925,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752543322.811878,breathingExercise,openedApp,Relax,
+America/New_York,1.5,instagram,False,1752543669.313889,breathingExercise,openedApp,Check likes,540.0
+America/New_York,1.5,instagram,False,1752544096.5485039,breathingExercise,openedApp,Entertainment,720.0
+America/New_York,1.5,instagram,False,1752544365.3472219,breathingExercise,openedApp,Entertainment,1080.0
+America/New_York,1.5,instagram,False,1752544470.559381,breathingExercise,openedApp,Escape / Avoid,720.0
+America/New_York,1.5,facebook,False,1752546690.8496861,breathingExercise,openedApp,Relax,
+America/New_York,1.5,facebook,False,1752546876.42008,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752546898.554306,breathingExercise,openedApp,Relax,
+America/New_York,1.5,facebook,False,1752584268.0954452,breathingExercise,openedApp,Relax,
+America/New_York,1.5,instagram,False,1752584365.935121,breathingExercise,openedApp,Stalk crush,360.0
+America/New_York,1.5,instagram,False,1752585158.1951509,breathingExercise,openedApp,Stay In the Loop,360.0
+America/New_York,1.5,instagram,False,1752586833.4997668,breathingExercise,openedApp,Relax,660.0
+America/New_York,1.5,facebook,False,1752589106.0048409,breathingExercise,openedApp,Relax,
+America/New_York,1.5,instagram,False,1752590834.569676,breathingExercise,openedApp,Escape / Avoid,360.0
+America/New_York,1.5,facebook,False,1752591303.295977,breathingExercise,openedApp,Post something,
+America/New_York,1.5,instagram,False,1752591589.430066,breathingExercise,openedApp,Escape / Avoid,300.0
+America/New_York,1.5,facebook,False,1752591897.565764,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752592203.976182,breathingExercise,openedApp,Escape / Avoid,960.0
+America/New_York,1.5,instagram,False,1752593110.572843,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752615209.317994,breathingExercise,openedApp,Stay In the Loop,720.0
+America/New_York,1.5,facebook,False,1752619778.976444,breathingExercise,openedApp,Stalk crush,
+America/New_York,1.5,instagram,False,1752619857.6238642,breathingExercise,openedApp,Escape / Avoid,300.0
+America/New_York,1.5,facebook,False,1752620266.678488,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752620348.690732,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752620359.171798,breathingExercise,openedApp,Escape / Avoid,600.0
+America/New_York,1.5,facebook,False,1752620988.678098,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752623347.191409,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752623702.680866,breathingExercise,openedApp,Relax,
+America/New_York,1.5,facebook,False,1752626288.36609,breathingExercise,openedApp,Stalk crush,
+America/New_York,1.5,instagram,False,1752627553.821312,breathingExercise,openedApp,Escape / Avoid,840.0
+America/New_York,1.5,facebook,False,1752628041.668827,breathingExercise,openedApp,Relax,
+America/New_York,1.5,instagram,False,1752628665.7866511,breathingExercise,openedApp,Escape / Avoid,540.0
+America/New_York,1.5,instagram,False,1752629253.888132,breathingExercise,openedApp,Escape / Avoid,840.0
+America/New_York,1.5,facebook,False,1752630883.642139,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752631571.416462,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752631579.9670439,breathingExercise,openedApp,Entertainment,360.0
+America/New_York,1.5,instagram,False,1752632668.9866881,breathingExercise,openedApp,Post something,300.0
+America/New_York,1.5,instagram,False,1752632807.7506661,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752653845.509903,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752653916.916936,breathingExercise,openedApp,Escape / Avoid,360.0
+America/New_York,1.5,facebook,False,1752654242.3259048,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752654536.315258,breathingExercise,openedApp,Entertainment,480.0
+America/New_York,1.5,facebook,False,1752655923.552979,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752667308.844967,breathingExercise,openedApp,Stay In the Loop,900.0
+America/New_York,1.5,instagram,False,1752678586.176128,breathingExercise,openedApp,Stay In the Loop,480.0
+America/New_York,1.5,facebook,False,1752678660.627413,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,instagram,False,1752681771.631328,breathingExercise,openedApp,Stay In the Loop,840.0
+America/New_York,1.5,facebook,False,1752685421.847795,breathingExercise,openedApp,Post something,
+America/New_York,1.5,instagram,False,1752685647.275481,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752685650.074407,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752685655.805812,breathingExercise,openedApp,Can’t sleep,
+America/New_York,1.5,facebook,False,1752686144.349838,breathingExercise,openedApp,Can’t sleep,
+America/New_York,1.5,facebook,False,1752687685.269775,breathingExercise,openedApp,Message,
+America/New_York,1.5,instagram,False,1752689273.5187821,breathingExercise,openedApp,Entertainment,60.0
+America/New_York,1.5,instagram,False,1752689504.388534,breathingExercise,openedApp,Escape / Avoid,240.0
+America/New_York,1.5,instagram,False,1752690049.508792,breathingExercise,openedApp,Entertainment,360.0
+America/New_York,1.5,facebook,False,1752690737.317017,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752691106.2941132,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752691327.522877,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752691835.000784,breathingExercise,openedApp,Message,360.0
+America/New_York,1.5,instagram,False,1752701043.361803,breathingExercise,openedApp,Stalk crush,900.0
+America/New_York,1.5,instagram,False,1752701529.4872699,breathingExercise,openedApp,Relax,480.0
+America/New_York,1.5,facebook,False,1752707115.1623368,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752707212.353265,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752714798.845142,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752717714.8518538,breathingExercise,openedApp,Escape / Avoid,60.0
+America/New_York,1.5,instagram,True,1752717790.231244,breathingExercise,openedApp,Bored,600.0
+America/New_York,1.5,instagram,False,1752718260.238614,breathingExercise,openedApp,Check likes,480.0
+America/New_York,1.5,facebook,False,1752751823.632296,breathingExercise,openedApp,Toilet,
+America/New_York,1.5,facebook,False,1752757543.69998,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752757588.076606,breathingExercise,openedApp,Escape / Avoid,660.0
+America/New_York,1.5,instagram,False,1752758737.236079,breathingExercise,openedApp,Toilet,420.0
+America/New_York,1.5,instagram,True,1752759173.30054,breathingExercise,openedApp,Entertainment,780.0
+America/New_York,1.5,instagram,False,1752760520.147996,breathingExercise,openedApp,Escape / Avoid,420.0
+America/New_York,1.5,facebook,False,1752760870.884579,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752763818.373258,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752763825.959343,breathingExercise,openedApp,Relax,420.0
+America/New_York,1.5,instagram,True,1752764263.495491,breathingExercise,openedApp,Relax,240.0
+America/New_York,1.5,instagram,True,1752765431.891478,breathingExercise,openedApp,Entertainment,300.0
+America/New_York,1.5,facebook,False,1752783217.9799008,breathingExercise,openedApp,Post something,
+America/New_York,1.5,instagram,False,1752783250.65914,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752786816.806024,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752789273.637724,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752795415.879263,breathingExercise,openedApp,Message,420.0
+America/New_York,1.5,instagram,False,1752796015.574387,breathingExercise,openedApp,Entertainment,480.0
+America/New_York,1.5,instagram,False,1752796414.8430672,breathingExercise,openedApp,Escape / Avoid,300.0
+America/New_York,1.5,facebook,False,1752797260.61921,breathingExercise,openedApp,Post something,
+America/New_York,1.5,instagram,False,1752798408.334393,breathingExercise,openedApp,Bored,540.0
+America/New_York,1.5,instagram,False,1752801414.475744,breathingExercise,openedApp,Entertainment,360.0
+America/New_York,1.5,facebook,False,1752802043.161481,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752803743.383215,breathingExercise,openedApp,Relax,420.0
+America/New_York,1.5,instagram,False,1752804034.080478,breathingExercise,openedApp,Relax,480.0
+America/New_York,1.5,instagram,False,1752804529.1001291,breathingExercise,openedApp,Escape / Avoid,1320.0
+America/New_York,1.5,instagram,False,1752805584.644408,breathingExercise,openedApp,Post something,420.0
+America/New_York,1.5,instagram,False,1752806025.956291,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752831297.4094481,breathingExercise,openedApp,Relax,
+America/New_York,1.5,instagram,False,1752831665.1576009,breathingExercise,openedApp,Entertainment,360.0
+America/New_York,1.5,instagram,True,1752832083.913732,breathingExercise,openedApp,Relax,660.0
+America/New_York,1.5,facebook,False,1752836442.496612,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752836604.425071,breathingExercise,openedApp,Stay In the Loop,420.0
+America/New_York,1.5,facebook,False,1752837127.517961,breathingExercise,openedApp,Relax,
+America/New_York,1.5,instagram,False,1752837326.883263,breathingExercise,openedApp,Relax,240.0
+America/New_York,1.5,instagram,False,1752837578.102489,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752839469.7185102,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752839478.947319,breathingExercise,openedApp,Relax,360.0
+America/New_York,1.5,instagram,False,1752840342.839776,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752841669.0938148,breathingExercise,openedApp,Entertainment,660.0
+America/New_York,1.5,instagram,False,1752864726.2471352,breathingExercise,openedApp,Entertainment,360.0
+America/New_York,1.5,instagram,False,1752866404.905851,breathingExercise,openedApp,Escape / Avoid,420.0
+America/New_York,1.5,facebook,False,1752867160.615048,breathingExercise,openedApp,Bored,
+America/New_York,1.5,facebook,False,1752868161.660308,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,facebook,False,1752868168.741123,breathingExercise,openedApp,Post something,
+America/New_York,1.5,instagram,False,1752868530.538552,breathingExercise,openedApp,Entertainment,420.0
+America/New_York,1.5,instagram,False,1752868946.19914,breathingExercise,openedApp,Escape / Avoid,540.0
+America/New_York,1.5,facebook,False,1752869152.5619988,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752870089.3961802,breathingExercise,openedApp,Toilet,
+America/New_York,1.5,instagram,False,1752871270.022112,breathingExercise,openedApp,Entertainment,780.0
+America/New_York,1.5,instagram,False,1752871631.347341,breathingExercise,openedApp,Check likes,780.0
+America/New_York,1.5,instagram,False,1752872433.418735,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752873019.47151,breathingExercise,openedApp,Escape / Avoid,600.0
+America/New_York,1.5,facebook,False,1752873465.8229342,breathingExercise,openedApp,Can’t sleep,
+America/New_York,1.5,instagram,False,1752875874.8837562,breathingExercise,openedApp,Escape / Avoid,660.0
+America/New_York,1.5,facebook,False,1752875909.389848,breathingExercise,openedApp,Post something,
+America/New_York,1.5,facebook,False,1752876159.7264671,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752876167.753077,breathingExercise,openedApp,Escape / Avoid,660.0
+America/New_York,1.5,instagram,False,1752876763.9027371,breathingExercise,dismissedAppOpening,,
+America/New_York,1.5,instagram,False,1752881333.633061,breathingExercise,openedApp,Escape / Avoid,420.0
+America/New_York,1.5,instagram,False,1752883320.594475,breathingExercise,openedApp,Escape / Avoid,420.0
+America/New_York,1.5,facebook,False,1752884795.0371609,breathingExercise,openedApp,Entertainment,
+America/New_York,1.5,facebook,False,1752884916.722972,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,facebook,False,1752885317.2667131,breathingExercise,openedApp,Relax,
+America/New_York,1.5,facebook,False,1752885875.9769359,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752886632.1622639,breathingExercise,openedApp,Entertainment,300.0
+America/New_York,1.5,facebook,False,1752890767.662507,breathingExercise,openedApp,Toilet,
+America/New_York,1.5,instagram,False,1752893411.962819,breathingExercise,openedApp,Entertainment,300.0
+America/New_York,1.5,instagram,False,1752893533.007194,breathingExercise,openedApp,Entertainment,60.0
+America/New_York,1.5,facebook,False,1752894726.5658588,breathingExercise,openedApp,Toilet,
+America/New_York,1.5,facebook,False,1752924643.000006,breathingExercise,openedApp,Escape / Avoid,
+America/New_York,1.5,instagram,False,1752925927.3234448,breathingExercise,openedApp,Check likes,720.0

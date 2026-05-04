@@ -1,0 +1,126 @@
+isReIntervention,timestamp,app,timezone,resolution,interventionDuration,interventionType,purpose
+False,1752927989.130439,snapchat,America/Chicago,openedApp,,,
+False,1752928169.13044,snapchat,America/Chicago,closedApp,,,
+False,1752928169.13044,snapchat,America/Chicago,dismissedAppOpening,,,
+False,1752928204.1611881,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1752928369.045874,tikTok,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1752928314.75612,tikTok,America/Chicago,openedApp,,,
+False,1752928494.7561212,tikTok,America/Chicago,closedApp,,,
+False,1752928494.7561212,tikTok,America/Chicago,dismissedAppOpening,,,
+False,1752928700.101644,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1752932233.356371,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1752973811.618211,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Bored
+False,1752974399.918322,tikTok,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1752976064.357442,shein,America/Chicago,openedApp,3.0,breathingExercise,Search Info
+False,1752978274.219161,shein,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1752978926.160771,shein,America/Chicago,openedApp,,,
+False,1752978986.160771,shein,America/Chicago,closedApp,,,
+False,1752978986.160771,shein,America/Chicago,dismissedAppOpening,,,
+False,1752979045.814361,shein,America/Chicago,openedApp,3.0,breathingExercise,Toilet
+False,1752979393.592565,snapchat,America/Chicago,dismissedAppOpening,3.0,breathingExercise,
+False,1752979446.972979,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1752982956.476412,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753022306.917563,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753025382.2691832,instagram,America/Chicago,openedApp,3.0,breathingExercise,Search Info
+False,1753025460.499177,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1753029829.705497,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Escape / Avoid
+False,1753059312.2340178,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1753060474.300331,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1753063751.595978,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1753064064.627913,shein,America/Chicago,openedApp,,,
+False,1753064124.627913,shein,America/Chicago,closedApp,,,
+False,1753064124.627913,shein,America/Chicago,dismissedAppOpening,,,
+False,1753064643.045012,shein,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1753068520.145327,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753101202.4073029,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753106300.248705,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1753106683.081277,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753107568.921476,shein,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1753110051.332093,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753110969.905565,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753111517.502558,shein,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753114946.1821141,shein,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753115317.04618,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753115866.334447,facebook,America/Chicago,openedApp,,,
+False,1753116046.334447,facebook,America/Chicago,closedApp,,,
+False,1753116046.334447,facebook,America/Chicago,dismissedAppOpening,,,
+False,1753116301.7131171,shein,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753118737.330188,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753120930.834508,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753128155.616415,facebook,America/Chicago,openedApp,,,
+False,1753128335.616415,facebook,America/Chicago,closedApp,,,
+False,1753128335.616415,facebook,America/Chicago,dismissedAppOpening,,,
+False,1753130946.576878,shein,America/Chicago,openedApp,3.0,breathingExercise,Search Info
+False,1753131206.178293,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753134108.829133,shein,America/Chicago,openedApp,3.0,breathingExercise,Search Info
+False,1753135056.842242,shein,America/Chicago,openedApp,3.0,breathingExercise,Search Info
+False,1753138909.961193,shein,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1753152947.870712,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753154540.231986,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753154722.793559,tikTok,America/Chicago,openedApp,3.0,breathingExercise,Bored
+False,1753196259.61554,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753220600.073875,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753227648.14636,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753236711.524442,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753241705.137206,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753272304.802423,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753277878.813159,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753288043.957973,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753290795.910686,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753300228.306443,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753304236.707954,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753306824.1766272,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753308702.4998531,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753321246.0319219,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753326625.3744512,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753330325.488136,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753330325.7379708,snapchat,America/Chicago,dismissedAppOpening,3.0,breathingExercise,
+False,1753358419.85535,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753358808.14004,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753361046.013928,facebook,America/Chicago,dismissedAppOpening,3.0,breathingExercise,
+False,1753369119.1047049,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753373694.3451571,shein,America/Chicago,openedApp,,,
+False,1753373754.3451571,shein,America/Chicago,closedApp,,,
+False,1753373754.3451571,shein,America/Chicago,dismissedAppOpening,,,
+False,1753393093.5360909,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753398141.213625,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753407849.653749,tikTok,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753411694.5807629,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753418646.818094,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753462244.8961592,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753474648.277588,tikTok,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753480217.119108,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753488327.225354,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753548030.818635,shein,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753548030.9844089,shein,America/Chicago,dismissedAppOpening,3.0,breathingExercise,
+False,1753562656.184556,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753569080.77266,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753576607.585109,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753578129.532975,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753579392.382987,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753582705.587074,snapchat,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753582825.1988459,facebook,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753582868.596459,tikTok,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753583057.0567,snapchat,America/Chicago,dismissedAppOpening,3.0,breathingExercise,
+False,1753583096.02057,snapchat,America/Chicago,dismissedAppOpening,3.0,breathingExercise,
+False,1753627154.396185,tikTok,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753658597.630735,instagram,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753658678.46101,instagram,America/Chicago,openedApp,3.0,breathingExercise,Stay In the Loop
+False,1753663830.788217,tikTok,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753719939.791601,instagram,America/Chicago,openedApp,,,
+False,1753720119.791601,instagram,America/Chicago,closedApp,,,
+False,1753720119.791601,instagram,America/Chicago,dismissedAppOpening,,,
+False,1753762744.883055,facebook,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1753838840.263315,instagram,America/Chicago,openedApp,,,
+False,1753839020.2633162,instagram,America/Chicago,closedApp,,,
+False,1753839020.2633162,instagram,America/Chicago,dismissedAppOpening,,,
+False,1754084446.6567779,instagram,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1754101760.213969,tikTok,America/Chicago,openedApp,3.0,breathingExercise,Message
+False,1754154911.2583861,tikTok,America/Chicago,dismissedAppOpening,6.0,breathingExercise,
+False,1754154740.912293,tikTok,America/Chicago,openedApp,,,
+False,1754154920.912294,tikTok,America/Chicago,closedApp,,,
+False,1754154920.912294,tikTok,America/Chicago,dismissedAppOpening,,,
+False,1754154940.1509,tikTok,America/Chicago,openedApp,6.0,breathingExercise,Stay In the Loop
+False,1754158804.638442,facebook,America/Chicago,openedApp,6.0,breathingExercise,Message
+False,1754261982.51431,tikTok,America/Chicago,openedApp,6.0,breathingExercise,Stay In the Loop
+False,1754262140.741216,tikTok,America/Chicago,openedApp,6.0,breathingExercise,Message

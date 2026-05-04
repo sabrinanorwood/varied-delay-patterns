@@ -1,0 +1,10 @@
+interventionType,resolution,interventionDuration,app,timestamp,isReIntervention,timezone
+breathingExercise,dismissedAppOpening,1.5,instagram,1752773257.607874,False,Europe/Rome
+,openedApp,,instagram,1752775029.229632,False,Europe/Rome
+,closedApp,,instagram,1752775149.2296329,False,Europe/Rome
+,dismissedAppOpening,,instagram,1752775149.2296329,False,Europe/Rome
+,openedApp,,instagram,1752775392.418754,False,Europe/Rome
+,closedApp,,instagram,1752775512.418754,False,Europe/Rome
+,dismissedAppOpening,,instagram,1752775512.418755,False,Europe/Rome
+breathingExercise,openedApp,1.5,instagram,1752775531.168895,False,Europe/Rome
+breathingExercise,openedApp,1.5,instagram,1752784887.618898,False,Europe/Rome

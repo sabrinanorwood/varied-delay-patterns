@@ -1,7 +1,0 @@
-app,interventionDuration,timezone,timestamp,resolution,isReIntervention,interventionType
-instagram,3,Australia/Perth,1748866532.995995,openedApp,False,breathingExercise
-instagram,3,Australia/Perth,1748908807.176475,openedApp,False,breathingExercise
-instagram,3,Australia/Perth,1748910059.092229,dismissedAppOpening,False,breathingExercise
-instagram,3,Australia/Perth,1748934399.756956,openedApp,False,breathingExercise
-instagram,3,Australia/Perth,1748934455.317626,openedApp,False,breathingExercise
-instagram,3,Australia/Perth,1748934505.50908,dismissedAppOpening,False,breathingExercise

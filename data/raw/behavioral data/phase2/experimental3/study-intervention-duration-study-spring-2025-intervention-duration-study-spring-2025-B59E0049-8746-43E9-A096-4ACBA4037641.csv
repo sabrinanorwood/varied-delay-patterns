@@ -1,0 +1,2 @@
+timestamp,resolution,timeIntervalUntilReIntervention,interventionDuration,timezone,interventionType,isReIntervention,app
+1752760448.660084,openedApp,60,3,America/New_York,askForTimeLimit,False,snapchat

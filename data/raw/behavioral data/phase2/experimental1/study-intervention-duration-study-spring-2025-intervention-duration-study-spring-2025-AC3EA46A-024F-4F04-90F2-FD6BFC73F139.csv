@@ -1,0 +1,202 @@
+interventionType,timestamp,interventionDuration,isReIntervention,timezone,resolution,app,purpose
+breathingExercise,1750677274.936496,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1750683941.046276,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,
+breathingExercise,1750722177.693032,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1750728734.262457,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,
+breathingExercise,1750728767.416689,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,
+breathingExercise,1750739508.677256,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,
+breathingExercise,1750763875.9342198,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1750764253.011931,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,
+breathingExercise,1750773300.1126099,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,
+breathingExercise,1750773633.997563,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,
+breathingExercise,1750775447.676738,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,
+breathingExercise,1750777196.482487,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1750804993.536133,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1750810302.706492,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,
+breathingExercise,1750810931.708235,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,
+breathingExercise,1750817155.738749,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1750818207.575736,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1750821162.658654,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1750827191.802985,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,
+breathingExercise,1750828290.545785,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1750834480.986116,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,
+breathingExercise,1750844648.5286741,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1750856353.8620439,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,
+breathingExercise,1750856446.1980782,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,
+breathingExercise,1750865123.954694,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Entertainment
+breathingExercise,1750900758.4863238,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Escape / Avoid
+breathingExercise,1750982833.1267471,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Entertainment
+breathingExercise,1750984773.316721,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Entertainment
+breathingExercise,1750997646.412799,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751006413.267044,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Entertainment
+breathingExercise,1751013776.011969,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751013785.971072,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751013788.7942472,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751081556.42068,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1751084840.976973,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Escape / Avoid
+breathingExercise,1751089744.908622,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1751098216.645824,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1751161363.2228,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Entertainment
+breathingExercise,1751190503.56024,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1751192534.812614,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Search Info
+breathingExercise,1751193331.0242162,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1751193457.485393,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751203284.932774,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751204176.270134,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1751287769.457903,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751298027.411984,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1751359888.42382,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Entertainment
+breathingExercise,1751372330.544483,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Entertainment
+breathingExercise,1751374470.74401,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Entertainment
+breathingExercise,1751427631.00709,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Entertainment
+breathingExercise,1751428089.906296,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Stay In the Loop
+breathingExercise,1751431176.5768409,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1751438158.2341142,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Search Info
+breathingExercise,1751441478.4980989,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751446318.840767,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Can’t sleep
+breathingExercise,1751451233.32585,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1751461684.583173,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1751465667.194799,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751467001.632983,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751507744.144952,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1751511189.222775,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751517172.5508928,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751559409.572469,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1751683013.647184,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751689201.867841,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751703323.4059858,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1751703455.880796,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1751706701.658255,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751781322.180797,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751781567.8188438,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751782162.827802,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751782443.263706,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1751782533.713392,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1751787739.9993691,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751787748.982287,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751788173.940222,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1751809619.997552,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751812566.8718581,1.5,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751849420.134249,1.5,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1751849641.0018349,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751849654.380029,1.5,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1751880207.5462599,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1751894034.568006,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1751896404.04265,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Check likes
+breathingExercise,1751963556.6566339,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Message
+breathingExercise,1751987747.085706,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1751989110.0895128,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1752051313.3389459,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752069997.258605,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1752107058.209338,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Entertainment
+breathingExercise,1752115135.20819,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752144147.022758,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1752144198.7333078,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1752152005.126648,3.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1752154579.159826,3.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1752215581.338108,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1752215691.0681071,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1752220053.63553,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752236619.557605,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1752236774.611737,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1752280914.548338,3.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1752288022.614033,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1752301918.467836,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1752323121.62858,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1752379147.017123,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752395890.377808,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1752455015.66095,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1752455160.258296,3.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1752455184.69473,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1752455241.255584,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1752500768.399619,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752514388.591274,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1752560687.9031081,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Message
+breathingExercise,1752621657.0859299,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752633426.9515738,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Message
+breathingExercise,1752635769.584975,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752638457.298325,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Stay In the Loop
+breathingExercise,1752641084.380949,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752641477.1543999,3.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1752643813.444675,3.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1752652162.014639,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1752659163.4517,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Stay In the Loop
+breathingExercise,1752667053.648332,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Message
+breathingExercise,1752670952.672542,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1752672670.1178122,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752735398.78617,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1752761406.811357,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752815161.447167,3.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1752817747.893578,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1752840456.295701,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752847935.951894,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Stay In the Loop
+breathingExercise,1752884321.506576,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1752884645.869979,3.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1752976513.054772,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1753012482.272398,3.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Stay In the Loop
+breathingExercise,1753052978.8369231,3.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1753107831.7792192,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1753108025.028665,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1753139757.837339,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1753195511.3175678,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1753239297.032305,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Message
+breathingExercise,1753239493.1690269,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1753241434.003797,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1753242142.956223,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1753253866.588427,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Toilet
+breathingExercise,1753254032.6699781,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1753319989.606116,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1753340122.3067632,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1753363992.6800098,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1753405742.544242,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1753429901.2894611,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1753431587.369658,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1753442659.509093,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1753445636.2966561,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1753446868.458411,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1753455566.996523,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Check likes
+breathingExercise,1753455794.266101,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1753455914.737014,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Toilet
+breathingExercise,1753539122.139627,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1753539554.4622622,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1753584912.6283169,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1753585484.643128,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Can’t sleep
+breathingExercise,1753613395.846561,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1753613904.67242,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1753619803.898957,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1753658945.899549,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1753710451.9120278,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1753710996.841004,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1753746765.538748,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1753756193.879472,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1753792344.085753,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1753801664.663547,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1753846523.735116,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1753846566.954809,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1753860521.4529572,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1753861844.312711,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Check likes
+breathingExercise,1753943765.940589,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Bored
+breathingExercise,1753969093.502476,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1754055387.9294991,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1754063043.394372,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored
+breathingExercise,1754063274.148933,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Stay In the Loop
+breathingExercise,1754063380.393347,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Check likes
+breathingExercise,1754063568.770606,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1754063576.129502,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1754064135.492367,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,linkedin,
+breathingExercise,1754099892.435436,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1754111097.6301808,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Relax
+breathingExercise,1754119427.4907908,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Search Info
+breathingExercise,1754120016.097141,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Entertainment
+breathingExercise,1754128555.463163,6.0,False,Asia/Kuala_Lumpur,openedApp,linkedin,Check likes
+breathingExercise,1754145749.218739,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1754147182.7102442,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1754197344.5402021,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Can’t sleep
+breathingExercise,1754197586.9577,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Entertainment
+breathingExercise,1754231887.3443,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Message
+breathingExercise,1754232812.048984,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1754232871.37128,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1754232889.498193,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Search Info
+breathingExercise,1754232949.9589481,6.0,False,Asia/Kuala_Lumpur,dismissedAppOpening,instagram,
+breathingExercise,1754232968.529251,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Relax
+breathingExercise,1754268980.283256,6.0,False,Asia/Kuala_Lumpur,openedApp,instagram,Bored

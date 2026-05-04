@@ -1,2 +1,0 @@
-timestamp,interventionType,interventionDuration,app,isReIntervention,timezone,timeIntervalUntilReIntervention,resolution
-1748710533.220588,askForTimeLimit,1.5,instagram,False,America/Los_Angeles,600,openedApp

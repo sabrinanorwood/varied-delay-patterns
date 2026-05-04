@@ -1,0 +1,415 @@
+interventionDuration,resolution,app,timezone,timestamp,isReIntervention,interventionType,purpose,timeIntervalUntilReIntervention
+40.0,dismissedAppOpening,shortcuts,Europe/Prague,1752415336.360692,False,breathingExercise,,
+40.0,openedApp,shortcuts,Europe/Prague,1752415655.307832,False,breathingExercise,,
+1.5,openedApp,instagram,Europe/Prague,1752423650.000633,False,breathingExercise,i'm tired and I don't know what to do ,360.0
+1.5,openedApp,instagram,Europe/Prague,1752436324.286233,False,breathingExercise,because I want to calm myslf,600.0
+1.5,openedApp,instagram,Europe/Prague,1752510615.169064,False,breathingExercise,Bored,240.0
+1.5,openedApp,twitter,Europe/Prague,1752518143.13185,False,breathingExercise,Escape / Avoid,
+,closedApp,twitter,Europe/Prague,1752518156.793608,False,,,
+,closedApp,twitter,Europe/Prague,1752518172.712336,False,,,
+,closedApp,twitter,Europe/Prague,1752518178.349961,False,,,
+1.5,openedApp,instagram,Europe/Prague,1752572716.596253,False,breathingExercise,Escape / Avoid,900.0
+1.5,openedApp,instagram,Europe/Prague,1752607335.746533,False,breathingExercise,Stay In the Loop,720.0
+1.5,openedApp,youtube,Europe/Prague,1752664471.455288,False,breathingExercise,Bored,
+1.5,dismissedAppOpening,youtube,Europe/Prague,1752665203.3403559,False,breathingExercise,,
+1.5,openedApp,twitter,Europe/Prague,1752665437.366661,False,breathingExercise,Toilet,
+,closedApp,twitter,Europe/Prague,1752665464.977824,False,,,
+,closedApp,twitter,Europe/Prague,1752665745.0561419,False,,,
+1.5,openedApp,youtube,Europe/Prague,1752665911.168299,False,breathingExercise,Entertainment,
+,closedApp,reddit,Europe/Prague,1752666673.435309,False,,,
+1.5,openedApp,instagram,Europe/Prague,1752695437.2643008,False,breathingExercise,Bored,900.0
+1.5,openedApp,instagram,Europe/Prague,1752698046.56983,False,breathingExercise,Can’t sleep,480.0
+1.5,openedApp,instagram,Europe/Prague,1752698548.117948,True,breathingExercise,Bored,120.0
+1.5,openedApp,instagram,Europe/Prague,1752698664.217535,True,breathingExercise,Relax,360.0
+1.5,dismissedAppOpening,instagram,Europe/Prague,1752733934.069783,False,breathingExercise,,
+1.5,openedApp,youtube,Europe/Prague,1752738644.1573439,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Prague,1752739814.982924,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,instagram,Europe/Prague,1752741941.247157,False,breathingExercise,Search Info,120.0
+,closedApp,reddit,Europe/Prague,1752745352.4672909,False,,,
+,closedApp,reddit,Europe/Prague,1752745420.073772,False,,,
+,closedApp,reddit,Europe/Prague,1752745432.348809,False,,,
+,closedApp,reddit,Europe/Prague,1752745467.5058908,False,,,
+,closedApp,reddit,Europe/Prague,1752745482.332014,False,,,
+,closedApp,reddit,Europe/Prague,1752745495.693931,False,,,
+,closedApp,reddit,Europe/Prague,1752753674.879983,False,,,
+1.5,openedApp,instagram,Europe/Prague,1752754219.764799,False,breathingExercise,Bored,900.0
+,closedApp,pornhub,Europe/Bratislava,1752792292.756321,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792297.1293879,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792298.721525,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792320.970506,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792323.290611,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792362.1117291,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792502.3203502,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792542.444957,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792548.302396,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792553.973833,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792554.963822,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792837.1375499,False,,,
+,closedApp,pornhub,Europe/Bratislava,1752792851.6533241,False,,,
+,closedApp,youporn,Europe/Bratislava,1752792239.883253,False,,,
+,closedApp,youporn,Europe/Bratislava,1752792864.345255,False,,,
+,closedApp,youporn,Europe/Bratislava,1752792880.380725,False,,,
+,closedApp,youporn,Europe/Bratislava,1752792882.7523398,False,,,
+,closedApp,youporn,Europe/Bratislava,1752793761.34413,False,,,
+,closedApp,youporn,Europe/Bratislava,1752793765.704386,False,,,
+1.5,openedApp,youtube,Europe/Bratislava,1752822890.3694038,False,breathingExercise,Eating ,
+1.5,openedApp,instagram,Europe/Bratislava,1752860023.138587,False,breathingExercise,Bored,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1752862873.354728,False,breathingExercise,Bored,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1752863787.7970052,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1752864827.7386842,False,breathingExercise,Post something,420.0
+1.5,openedApp,instagram,Europe/Bratislava,1752865420.707178,False,breathingExercise,Post something,300.0
+1.5,openedApp,instagram,Europe/Bratislava,1752865946.789462,False,breathingExercise,Check likes,60.0
+1.5,openedApp,instagram,Europe/Bratislava,1752866282.477015,False,breathingExercise,Check likes,60.0
+1.5,openedApp,instagram,Europe/Bratislava,1752866702.857014,False,breathingExercise,Check likes,60.0
+1.5,openedApp,instagram,Europe/Bratislava,1752868573.60129,False,breathingExercise,Check likes,60.0
+1.5,openedApp,instagram,Europe/Bratislava,1752868611.8103142,False,breathingExercise,Check likes,60.0
+1.5,openedApp,instagram,Europe/Bratislava,1752870107.341608,False,breathingExercise,Check likes,420.0
+1.5,openedApp,twitter,Europe/Bratislava,1752870549.634577,False,breathingExercise,Toilet,
+,closedApp,twitter,Europe/Bratislava,1752870576.9037662,False,,,
+,closedApp,twitter,Europe/Bratislava,1752870587.02456,False,,,
+,closedApp,twitter,Europe/Bratislava,1752871113.838242,False,,,
+,closedApp,twitter,Europe/Bratislava,1752871155.773553,False,,,
+,closedApp,twitter,Europe/Bratislava,1752872370.85645,False,,,
+,closedApp,twitter,Europe/Bratislava,1752872450.776227,False,,,
+1.5,openedApp,instagram,Europe/Bratislava,1752905731.046004,False,breathingExercise,Check likes,180.0
+1.5,openedApp,instagram,Europe/Bratislava,1752905839.338341,False,breathingExercise,Check likes,360.0
+1.5,openedApp,instagram,Europe/Bratislava,1752906146.502129,False,breathingExercise,Check likes,360.0
+1.5,openedApp,instagram,Europe/Bratislava,1752913985.001806,False,breathingExercise,Post something,180.0
+1.5,openedApp,instagram,Europe/Bratislava,1752917668.027231,False,breathingExercise,Check likes,180.0
+1.5,openedApp,instagram,Europe/Bratislava,1752925865.002967,False,breathingExercise,Check likes,660.0
+1.5,openedApp,instagram,Europe/Bratislava,1752928057.449188,False,breathingExercise,Check likes,300.0
+1.5,openedApp,instagram,Europe/Bratislava,1752930330.53564,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1752954519.382251,False,breathingExercise,Stay In the Loop,900.0
+1.5,dismissedAppOpening,instagram,Europe/Bratislava,1752955324.269916,False,breathingExercise,,
+1.5,openedApp,twitter,Europe/Bratislava,1752955702.199729,False,breathingExercise,Toilet,
+,closedApp,twitter,Europe/Bratislava,1752955725.257498,False,,,
+,closedApp,twitter,Europe/Bratislava,1752955795.511495,False,,,
+,closedApp,twitter,Europe/Bratislava,1752955985.394256,False,,,
+1.5,openedApp,instagram,Europe/Bratislava,1753004623.522828,False,breathingExercise,Bored,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753005535.8146691,True,breathingExercise,Stay In the Loop,180.0
+1.5,openedApp,instagram,Europe/Bratislava,1753028843.869001,False,breathingExercise,Bored,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753028991.814735,False,breathingExercise,Bored,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753029906.162806,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753032738.937364,False,breathingExercise,Stay In the Loop,240.0
+1.5,openedApp,instagram,Europe/Bratislava,1753032996.709166,True,breathingExercise,Stay In the Loop,300.0
+1.5,openedApp,instagram,Europe/Bratislava,1753034360.25178,False,breathingExercise,Bored,900.0
+1.5,dismissedAppOpening,twitter,Europe/Bratislava,1753034462.619417,False,breathingExercise,,
+1.5,openedApp,twitter,Europe/Bratislava,1753034475.798626,False,breathingExercise,Toilet,
+,closedApp,twitter,Europe/Bratislava,1753034497.214493,False,,,
+,closedApp,twitter,Europe/Bratislava,1753034891.56005,False,,,
+1.5,openedApp,instagram,Europe/Bratislava,1753035409.6392689,False,breathingExercise,Post something,900.0
+1.5,openedApp,youtube,Europe/Bratislava,1753078342.72257,False,breathingExercise,Eating ,
+1.5,openedApp,instagram,Europe/Bratislava,1753082279.6524081,False,breathingExercise,Escape / Avoid,480.0
+1.5,openedApp,instagram,Europe/Bratislava,1753082774.766753,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753082971.265358,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753083318.9463081,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,twitter,Europe/Bratislava,1753084539.14167,False,breathingExercise,Toilet,
+,closedApp,twitter,Europe/Bratislava,1753084549.648098,False,,,
+,closedApp,twitter,Europe/Bratislava,1753085202.3468618,False,,,
+1.5,openedApp,instagram,Europe/Bratislava,1753086322.984853,False,breathingExercise,Stay In the Loop,600.0
+1.5,openedApp,instagram,Europe/Bratislava,1753088757.869293,False,breathingExercise,Stay In the Loop,900.0
+1.5,dismissedAppOpening,instagram,Europe/Bratislava,1753089672.4227529,True,breathingExercise,,
+1.5,openedApp,instagram,Europe/Bratislava,1753092352.035318,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753092783.6735091,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753092875.175775,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753093752.316169,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753109041.665852,False,breathingExercise,Stay In the Loop,660.0
+1.5,openedApp,instagram,Europe/Bratislava,1753109728.985437,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753110900.514697,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753113073.644699,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753113282.3399339,False,breathingExercise,Stay In the Loop,600.0
+1.5,openedApp,instagram,Europe/Bratislava,1753113805.570003,False,breathingExercise,Stay In the Loop,60.0
+1.5,openedApp,instagram,Europe/Bratislava,1753115345.9996672,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753116801.396583,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753117719.379605,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753119667.755271,False,breathingExercise,Escape / Avoid,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753120003.718849,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753120313.848927,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753121028.7211242,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753121357.567245,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753122878.3627129,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753125229.825146,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753130773.2824202,False,breathingExercise,Stay In the Loop,660.0
+,closedApp,reddit,Europe/Bratislava,1753172381.478924,False,,,
+,closedApp,reddit,Europe/Bratislava,1753176591.8101568,False,,,
+,closedApp,reddit,Europe/Bratislava,1753176597.23348,False,,,
+,closedApp,reddit,Europe/Bratislava,1753176666.827948,False,,,
+,closedApp,reddit,Europe/Bratislava,1753176668.277828,False,,,
+1.5,openedApp,instagram,Europe/Bratislava,1753176695.5530028,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753177609.092589,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753188418.6935492,False,breathingExercise,Stay In the Loop,360.0
+1.5,openedApp,youtube,Europe/Bratislava,1753188702.50295,False,breathingExercise,Stay In the Loop,
+,closedApp,reddit,Europe/Bratislava,1753189000.8647819,False,,,
+,closedApp,reddit,Europe/Bratislava,1753189111.955083,False,,,
+1.5,openedApp,youtube,Europe/Bratislava,1753190037.613003,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Bratislava,1753191796.4012442,False,breathingExercise,Can’t sleep,
+1.5,openedApp,instagram,Europe/Bratislava,1753194348.731502,False,breathingExercise,Stay In the Loop,240.0
+,closedApp,reddit,Europe/Bratislava,1753194534.767726,False,,,
+1.5,openedApp,youtube,Europe/Bratislava,1753194876.0279531,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,instagram,Europe/Bratislava,1753198367.6014209,False,breathingExercise,Search Info,300.0
+1.5,dismissedAppOpening,instagram,Europe/Bratislava,1753198597.097779,False,breathingExercise,,
+1.5,openedApp,instagram,Europe/Bratislava,1753198604.715004,False,breathingExercise,Search Info,360.0
+1.5,openedApp,instagram,Europe/Bratislava,1753198794.6889691,False,breathingExercise,Search Info,240.0
+1.5,openedApp,instagram,Europe/Bratislava,1753198928.8416119,False,breathingExercise,Search Info,180.0
+1.5,openedApp,youtube,Europe/Bratislava,1753208851.722558,False,breathingExercise,Search Info,
+1.5,openedApp,instagram,Europe/Bratislava,1753249360.71599,False,breathingExercise,Entertainment,420.0
+1.5,openedApp,instagram,Europe/Bratislava,1753249778.834931,True,breathingExercise,Search Info,660.0
+1.5,openedApp,instagram,Europe/Bratislava,1753250439.98447,True,breathingExercise,Stay In the Loop,900.0
+,closedApp,onlyfans,Europe/Bratislava,1753250967.201411,False,,,
+,closedApp,onlyfans,Europe/Bratislava,1753250968.8481731,False,,,
+,closedApp,onlyfans,Europe/Bratislava,1753250972.0396671,False,,,
+,closedApp,onlyfans,Europe/Bratislava,1753250982.926377,False,,,
+,closedApp,onlyfans,Europe/Bratislava,1753250985.3175678,False,,,
+1.5,openedApp,instagram,Europe/Bratislava,1753251106.6972408,False,breathingExercise,Stay In the Loop,300.0
+1.5,openedApp,instagram,Europe/Bratislava,1753251419.329289,True,breathingExercise,Stay In the Loop,900.0
+1.5,dismissedAppOpening,youtube,Europe/Bratislava,1753253116.7077289,False,breathingExercise,,
+1.5,openedApp,instagram,Europe/Bratislava,1753253213.945469,False,breathingExercise,Stay In the Loop,360.0
+1.5,openedApp,instagram,Europe/Bratislava,1753266607.145111,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753267523.691009,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,twitter,Europe/Bratislava,1753268591.246505,False,breathingExercise,Stay In the Loop,
+,closedApp,twitter,Europe/Bratislava,1753268614.67925,False,,,
+,closedApp,twitter,Europe/Bratislava,1753268703.1872668,False,,,
+1.5,openedApp,twitter,Europe/Bratislava,1753268926.1129432,False,breathingExercise,Stay In the Loop,
+,closedApp,twitter,Europe/Bratislava,1753268976.8488321,False,,,
+1.5,openedApp,instagram,Europe/Bratislava,1753269562.354953,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753270477.388715,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753273828.251684,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753274511.093876,False,breathingExercise,Stay In the Loop,780.0
+1.5,openedApp,instagram,Europe/Bratislava,1753279385.771867,False,breathingExercise,Stay In the Loop,360.0
+1.5,openedApp,instagram,Europe/Bratislava,1753279761.672446,True,breathingExercise,Stay In the Loop,720.0
+1.5,openedApp,instagram,Europe/Bratislava,1753280765.2475262,False,breathingExercise,Stay In the Loop,360.0
+1.5,openedApp,instagram,Europe/Bratislava,1753281140.339577,True,breathingExercise,Stay In the Loop,660.0
+1.5,openedApp,instagram,Europe/Bratislava,1753281662.213416,False,breathingExercise,Stay In the Loop,180.0
+1.5,dismissedAppOpening,instagram,Europe/Bratislava,1753282725.324298,False,breathingExercise,,
+1.5,openedApp,instagram,Europe/Bratislava,1753295012.8778172,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753296633.710229,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753297548.566565,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753298939.0256371,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753299852.227387,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753300057.652904,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753300275.8545198,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753333484.519547,False,breathingExercise,Check likes,180.0
+1.5,openedApp,youtube,Europe/Bratislava,1753337421.0254111,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Bratislava,1753338237.311936,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,instagram,Europe/Bratislava,1753346538.439907,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753347865.810149,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753349884.4535022,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753358897.222075,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753359298.4503121,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753361601.9521,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753362477.223531,False,breathingExercise,Stay In the Loop,840.0
+1.5,openedApp,instagram,Europe/Bratislava,1753367167.160108,False,breathingExercise,Stay In the Loop,900.0
+1.5,dismissedAppOpening,instagram,Europe/Bratislava,1753368089.892195,True,breathingExercise,,
+1.5,openedApp,instagram,Europe/Bratislava,1753368121.428642,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753375261.916848,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753381763.0601459,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753382545.607679,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753383466.604556,True,breathingExercise,Stay In the Loop,600.0
+1.5,openedApp,instagram,Europe/Bratislava,1753384064.459208,True,breathingExercise,Stay In the Loop,900.0
+,closedApp,xvideos,Europe/Bratislava,1753385490.3913631,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385567.176803,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385587.269644,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385687.687141,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385741.528516,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385743.4811358,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385744.0693011,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385745.187284,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385749.1795502,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385760.635119,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385870.309744,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385871.296926,False,,,
+,closedApp,xvideos,Europe/Bratislava,1753385872.114965,False,,,
+1.5,openedApp,instagram,Europe/Bratislava,1753426214.270428,False,breathingExercise,Stay In the Loop,900.0
+1.5,dismissedAppOpening,instagram,Europe/Bratislava,1753426479.323748,False,breathingExercise,,
+1.5,openedApp,instagram,Europe/Bratislava,1753433152.199126,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753434066.257756,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753434973.146624,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753436074.572846,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753441418.527173,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Bratislava,1753446680.101047,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Vienna,1753456091.883863,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Vienna,1753457009.898889,True,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Vienna,1753457947.161735,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Paris,1753472180.8310199,False,breathingExercise,Stay In the Loop,900.0
+,closedApp,xhamster,Europe/Paris,1753507094.496306,False,,,
+,closedApp,xhamster,Europe/Paris,1753507138.1328192,False,,,
+,closedApp,xhamster,Europe/Paris,1753507166.2759318,False,,,
+,closedApp,xhamster,Europe/Paris,1753507238.87218,False,,,
+,closedApp,xhamster,Europe/Paris,1753507250.417814,False,,,
+,closedApp,xhamster,Europe/Paris,1753507251.1835098,False,,,
+,closedApp,xhamster,Europe/Paris,1753507287.8257,False,,,
+,closedApp,xhamster,Europe/Paris,1753507519.157619,False,,,
+,closedApp,xhamster,Europe/Paris,1753507519.1623402,False,,,
+,closedApp,xhamster,Europe/Paris,1753507519.446795,False,,,
+,closedApp,xhamster,Europe/Paris,1753507667.93053,False,,,
+,closedApp,xhamster,Europe/Paris,1753507709.3508449,False,,,
+,closedApp,xhamster,Europe/Paris,1753507826.2726998,False,,,
+1.5,openedApp,instagram,Europe/Paris,1753508235.614999,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Paris,1753513214.367584,False,breathingExercise,Stay In the Loop,900.0
+1.5,openedApp,instagram,Europe/Paris,1753513459.270152,False,breathingExercise,Stay In the Loop,720.0
+1.5,openedApp,youtube,Europe/Paris,1753515009.929158,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753515995.741014,False,breathingExercise,Eating ,
+1.5,openedApp,youtube,Europe/Paris,1753524008.078567,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753526908.8775601,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753526969.711801,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753527477.068502,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753535746.35079,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753553411.8394442,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753557087.6513739,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753558775.835126,False,breathingExercise,Stay In the Loop,
+1.5,dismissedAppOpening,youtube,Europe/Paris,1753559623.77843,False,breathingExercise,,
+1.5,openedApp,youtube,Europe/Paris,1753559639.412891,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753598027.337219,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753598766.548702,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,instagram,Europe/Paris,1753602137.647036,False,breathingExercise,Stay In the Loop,240.0
+1.5,openedApp,youtube,Europe/Paris,1753609409.2923388,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753609961.643688,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753622246.077878,False,breathingExercise,Stay In the Loop,
+1.5,openedApp,youtube,Europe/Paris,1753623182.366156,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753624574.04268,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753625419.356487,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753626084.972433,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753634333.2265658,False,breathingExercise,Stay In the Loop,
+,openedApp,youtube,Europe/Paris,1753634783.123173,False,,,
+,closedApp,youtube,Europe/Paris,1753635383.123173,False,,,
+,dismissedAppOpening,youtube,Europe/Paris,1753635383.123173,False,,,
+6.0,openedApp,youtube,Europe/Paris,1753635408.014272,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753641173.946223,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753642153.910188,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753642352.663856,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,instagram,Europe/Paris,1753642645.828166,False,breathingExercise,Stay In the Loop,420.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1753642739.66311,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1753642761.23577,False,breathingExercise,Stay In the Loop,600.0
+6.0,openedApp,instagram,Europe/Paris,1753690514.50744,False,breathingExercise,Stay In the Loop,540.0
+6.0,openedApp,instagram,Europe/Paris,1753691075.616315,True,breathingExercise,Stay In the Loop,600.0
+6.0,openedApp,twitter,Europe/Paris,1753691769.459499,False,breathingExercise,Stay In the Loop,
+,closedApp,twitter,Europe/Paris,1753691780.606077,False,,,
+,closedApp,twitter,Europe/Paris,1753691915.821807,False,,,
+,closedApp,twitter,Europe/Paris,1753691934.3991718,False,,,
+,closedApp,twitter,Europe/Paris,1753691969.832522,False,,,
+,closedApp,twitter,Europe/Paris,1753692022.241471,False,,,
+,closedApp,twitter,Europe/Paris,1753692033.214602,False,,,
+6.0,openedApp,twitter,Europe/Paris,1753692111.591373,False,breathingExercise,Stay In the Loop,
+,closedApp,twitter,Europe/Paris,1753692133.164366,False,,,
+,closedApp,twitter,Europe/Paris,1753692284.829259,False,,,
+,closedApp,twitter,Europe/Paris,1753692298.688065,False,,,
+6.0,openedApp,twitter,Europe/Paris,1753692571.5170488,False,breathingExercise,Stay In the Loop,
+,closedApp,twitter,Europe/Paris,1753692580.94284,False,,,
+,closedApp,twitter,Europe/Paris,1753692661.787889,False,,,
+,closedApp,twitter,Europe/Paris,1753693081.161149,False,,,
+,closedApp,twitter,Europe/Paris,1753693132.027602,False,,,
+6.0,openedApp,youtube,Europe/Paris,1753694951.523684,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753696398.2454062,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753699463.234942,False,breathingExercise,Stay In the Loop,
+,closedApp,xhamster,Europe/Paris,1753704970.582098,False,,,
+,closedApp,xhamster,Europe/Paris,1753704993.372621,False,,,
+,closedApp,xhamster,Europe/Paris,1753705010.1562219,False,,,
+,closedApp,xhamster,Europe/Paris,1753705011.1442251,False,,,
+,closedApp,xhamster,Europe/Paris,1753705153.114049,False,,,
+,closedApp,xhamster,Europe/Paris,1753705224.0022678,False,,,
+6.0,dismissedAppOpening,youtube,Europe/Paris,1753705242.915539,False,breathingExercise,,
+6.0,openedApp,youtube,Europe/Paris,1753732482.0974622,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753733436.270553,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,instagram,Europe/Paris,1753770219.046798,False,breathingExercise,Stay In the Loop,360.0
+6.0,openedApp,instagram,Europe/Paris,1753770603.5715098,True,breathingExercise,Stay In the Loop,660.0
+6.0,openedApp,instagram,Europe/Paris,1753771264.474555,True,breathingExercise,Stay In the Loop,240.0
+6.0,openedApp,instagram,Europe/Paris,1753771512.3887649,True,breathingExercise,Stay In the Loop,300.0
+6.0,openedApp,youtube,Europe/Paris,1753778109.0735579,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753778740.8692589,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,instagram,Europe/Paris,1753780816.265265,False,breathingExercise,Stay In the Loop,660.0
+6.0,openedApp,instagram,Europe/Paris,1753785012.912438,False,breathingExercise,Stay In the Loop,240.0
+6.0,openedApp,youtube,Europe/Paris,1753788984.1564488,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,instagram,Europe/Paris,1753794295.369557,False,breathingExercise,Bored,360.0
+6.0,openedApp,instagram,Europe/Paris,1753794432.075901,False,breathingExercise,Bored,600.0
+6.0,openedApp,instagram,Europe/Paris,1753797909.624743,False,breathingExercise,Stay In the Loop,540.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1753799737.742796,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1753800239.908819,False,breathingExercise,Stay In the Loop,780.0
+6.0,openedApp,instagram,Europe/Paris,1753813739.246395,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1753814245.955771,False,breathingExercise,Stay In the Loop,840.0
+6.0,openedApp,instagram,Europe/Paris,1753814637.520746,False,breathingExercise,Stay In the Loop,360.0
+6.0,openedApp,instagram,Europe/Paris,1753816461.118567,False,breathingExercise,Stay In the Loop,540.0
+6.0,openedApp,instagram,Europe/Paris,1753816947.488058,False,breathingExercise,Stay In the Loop,840.0
+6.0,openedApp,instagram,Europe/Paris,1753818417.7619991,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1753879279.3247929,False,breathingExercise,Bored,900.0
+6.0,openedApp,twitter,Europe/Paris,1753880551.042852,False,breathingExercise,Stay In the Loop,
+,closedApp,twitter,Europe/Paris,1753880561.970578,False,,,
+,closedApp,twitter,Europe/Paris,1753880642.136397,False,,,
+,closedApp,twitter,Europe/Paris,1753880681.57654,False,,,
+,closedApp,twitter,Europe/Paris,1753881016.031856,False,,,
+6.0,openedApp,instagram,Europe/Paris,1753885681.878625,False,breathingExercise,Stay In the Loop,420.0
+6.0,openedApp,instagram,Europe/Paris,1753885783.7440438,False,breathingExercise,Stay In the Loop,840.0
+6.0,openedApp,instagram,Europe/Paris,1753886646.792321,True,breathingExercise,Stay In the Loop,840.0
+6.0,openedApp,instagram,Europe/Paris,1753891173.944617,False,breathingExercise,Stay In the Loop,660.0
+6.0,openedApp,instagram,Europe/Paris,1753891856.2486138,True,breathingExercise,Stay In the Loop,540.0
+6.0,openedApp,instagram,Europe/Paris,1753895153.324813,False,breathingExercise,Stay In the Loop,360.0
+6.0,openedApp,instagram,Europe/Paris,1753895254.595526,False,breathingExercise,Stay In the Loop,480.0
+,closedApp,pornhub,Europe/Paris,1753918286.658589,False,,,
+,closedApp,pornhub,Europe/Paris,1753918296.5968451,False,,,
+,closedApp,pornhub,Europe/Paris,1753918359.38138,False,,,
+,closedApp,pornhub,Europe/Paris,1753918361.382724,False,,,
+,closedApp,pornhub,Europe/Paris,1753918377.0825071,False,,,
+,closedApp,pornhub,Europe/Paris,1753918380.575113,False,,,
+,closedApp,pornhub,Europe/Paris,1753918398.7779331,False,,,
+,closedApp,pornhub,Europe/Paris,1753918431.567511,False,,,
+,closedApp,pornhub,Europe/Paris,1753918475.54947,False,,,
+,closedApp,pornhub,Europe/Paris,1753918498.9296842,False,,,
+,closedApp,pornhub,Europe/Paris,1753918513.5049329,False,,,
+,closedApp,pornhub,Europe/Paris,1753918881.154677,False,,,
+6.0,openedApp,instagram,Europe/Paris,1753941057.293054,False,breathingExercise,Stay In the Loop,660.0
+6.0,openedApp,instagram,Europe/Paris,1753941415.74543,False,breathingExercise,Message,420.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1753941606.5400019,False,breathingExercise,,
+6.0,openedApp,youtube,Europe/Paris,1753956861.704111,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,instagram,Europe/Paris,1753958424.982518,False,breathingExercise,Stay In the Loop,900.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1753958529.458475,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1753962521.075639,False,breathingExercise,Stay In the Loop,540.0
+6.0,openedApp,instagram,Europe/Paris,1753963081.8954082,True,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1753976451.079009,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1753978083.957487,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1753979112.6591082,False,breathingExercise,Stay In the Loop,900.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1753979370.065455,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1753979518.749035,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1753980081.742301,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1753980349.462121,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1753985231.847875,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1753986760.550836,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,youtube,Europe/Paris,1753991761.41243,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1753992619.6536489,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,instagram,Europe/Paris,1754039851.734091,False,breathingExercise,Stay In the Loop,780.0
+6.0,openedApp,instagram,Europe/Paris,1754043302.728914,False,breathingExercise,Stay In the Loop,480.0
+6.0,openedApp,instagram,Europe/Paris,1754048769.180173,False,breathingExercise,Stay In the Loop,780.0
+6.0,openedApp,instagram,Europe/Paris,1754056532.305912,False,breathingExercise,Message,300.0
+6.0,openedApp,instagram,Europe/Paris,1754056822.3697639,False,breathingExercise,Message,240.0
+6.0,openedApp,youtube,Europe/Paris,1754077471.092742,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,youtube,Europe/Paris,1754079360.916264,False,breathingExercise,Eating ,
+6.0,dismissedAppOpening,instagram,Europe/Paris,1754117431.333319,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1754117911.719728,False,breathingExercise,Stay In the Loop,900.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1754118388.834476,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1754127561.7538738,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1754128037.477443,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1754128960.073637,True,breathingExercise,Stay In the Loop,540.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1754139618.9158401,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1754139648.040472,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,youtube,Europe/Paris,1754140429.6834002,False,breathingExercise,Stay In the Loop,
+6.0,openedApp,instagram,Europe/Paris,1754208985.549834,False,breathingExercise,Stay In the Loop,840.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1754209824.968704,False,breathingExercise,,
+6.0,dismissedAppOpening,instagram,Europe/Paris,1754209827.1694732,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1754213356.6406379,False,breathingExercise,Stay In the Loop,480.0
+6.0,openedApp,instagram,Europe/Paris,1754218206.1135678,False,breathingExercise,Stay In the Loop,780.0
+,closedApp,instagram,Europe/Paris,1754218209.0249128,False,,,
+,closedApp,instagram,Europe/Paris,1754218211.4439049,False,,,
+6.0,openedApp,instagram,Europe/Paris,1754218656.019596,False,breathingExercise,Stay In the Loop,840.0
+6.0,openedApp,instagram,Europe/Paris,1754219185.275827,False,breathingExercise,Stay In the Loop,540.0
+6.0,openedApp,instagram,Europe/Paris,1754219746.490546,True,breathingExercise,Stay In the Loop,60.0
+6.0,openedApp,instagram,Europe/Paris,1754219809.919708,True,breathingExercise,Stay In the Loop,480.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1754220594.968742,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1754220619.0026731,False,breathingExercise,Stay In the Loop,720.0
+6.0,openedApp,instagram,Europe/Paris,1754235094.996784,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1754243106.214864,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1754248623.2213411,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1754254157.573138,False,breathingExercise,Stay In the Loop,900.0
+6.0,dismissedAppOpening,instagram,Europe/Paris,1754288103.527133,False,breathingExercise,,
+6.0,openedApp,instagram,Europe/Paris,1754288121.365368,False,breathingExercise,Stay In the Loop,840.0
+6.0,openedApp,instagram,Europe/Paris,1754288574.726584,False,breathingExercise,Stay In the Loop,780.0
+6.0,openedApp,instagram,Europe/Paris,1754293094.416105,False,breathingExercise,Stay In the Loop,900.0
+6.0,openedApp,instagram,Europe/Paris,1754293538.128581,False,breathingExercise,Stay In the Loop,480.0
+6.0,openedApp,instagram,Europe/Paris,1754294040.386517,True,breathingExercise,Stay In the Loop,420.0

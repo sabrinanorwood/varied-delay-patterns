@@ -1,9 +1,0 @@
-timezone,interventionType,app,interventionDuration,purpose,timestamp,resolution,isReIntervention,timeIntervalUntilReIntervention,terminationReason
-Europe/Berlin,breathingExercise,appStore,1.5,Search Info,1748935916.255578,openedApp,0.0,,
-Europe/Berlin,breathingExercise,xHERO,1.5,,1748935981.083321,dismissedAppOpening,0.0,,
-Europe/Berlin,breathingExercise,appStore,1.5,,1748936012.757207,dismissedAppOpening,0.0,,
-Europe/Berlin,breathingExercise,xHERO,1.5,Bored,1748936054.4597569,openedApp,0.0,180.0,
-Europe/Berlin,breathingExercise,xHERO,1.5,Bored,1748936085.277556,openedApp,0.0,180.0,
-Europe/Berlin,breathingExercise,xHERO,1.5,,1748936106.380104,dismissedAppOpening,0.0,,
-Europe/Berlin,breathingExercise,reddit,1.5,Bored,1748936118.661762,openedApp,0.0,,
-,,,,,1748936504.601069,,,,terminatedByUser

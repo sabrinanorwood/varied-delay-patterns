@@ -1,0 +1,940 @@
+app,timezone,interventionDuration,timestamp,resolution,isReIntervention,interventionType,purpose,timeIntervalUntilReIntervention
+instagram,America/Sao_Paulo,1.5,1750977535.7357779,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1750977595.1039438,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1750977901.3129091,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1750977934.702067,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1750978084.179548,openedApp,False,breathingExercise,Pesquisar informações,120.0
+instagram,America/Sao_Paulo,1.5,1750983524.39204,openedApp,False,breathingExercise,Distração,60.0
+youtube,America/Sao_Paulo,1.5,1750983548.199425,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751005220.7207708,openedApp,False,breathingExercise,Ficar por dentro,60.0
+instagram,America/Sao_Paulo,1.5,1751009169.0909638,openedApp,False,breathingExercise,Ficar por dentro,120.0
+youtube,America/Sao_Paulo,1.5,1751009299.4687371,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751011261.810852,openedApp,False,breathingExercise,Entediado,60.0
+instagram,America/Sao_Paulo,1.5,1751011733.966636,openedApp,False,breathingExercise,Distração,60.0
+youtube,America/Sao_Paulo,1.5,1751011817.8930712,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751011846.253004,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751011857.712698,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751015205.484843,openedApp,False,breathingExercise,Entretenimento,120.0
+instagram,America/Sao_Paulo,1.5,1751015710.0013862,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,1.5,1751015800.8326988,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751016054.1342611,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751016063.9121451,openedApp,False,breathingExercise,Distração,60.0
+instagram,America/Sao_Paulo,1.5,1751016351.178081,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751016518.315839,openedApp,False,breathingExercise,Relaxar,
+instagram,America/Sao_Paulo,1.5,1751023244.6655002,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751023782.139268,openedApp,False,breathingExercise,Entretenimento,60.0
+instagram,America/Sao_Paulo,1.5,1751023863.794656,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1751024253.81094,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751024275.491725,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751026438.20334,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751030375.72106,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751032418.234758,openedApp,False,breathingExercise,Ficar por dentro,180.0
+youtube,America/Sao_Paulo,1.5,1751032695.610074,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751033077.511028,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751033339.272289,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751033390.042938,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Sao_Paulo,1.5,1751033824.568037,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751033826.807119,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751037631.413986,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751038118.926466,openedApp,False,breathingExercise,Distração,60.0
+instagram,America/Sao_Paulo,1.5,1751039677.888682,openedApp,False,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,1.5,1751040009.236548,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,1.5,1751040743.8487458,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1751040761.035717,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751040996.8220649,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751041608.23576,openedApp,False,breathingExercise,Relaxar,60.0
+instagram,America/Sao_Paulo,1.5,1751041681.283201,openedApp,True,breathingExercise,Relaxar,300.0
+youtube,America/Sao_Paulo,1.5,1751042001.938272,openedApp,False,breathingExercise,Relaxar,
+instagram,America/Sao_Paulo,1.5,1751047332.623807,openedApp,False,breathingExercise,Entretenimento,60.0
+youtube,America/Sao_Paulo,1.5,1751047408.802829,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751048004.852622,openedApp,False,breathingExercise,Ficar por dentro,60.0
+instagram,America/Sao_Paulo,1.5,1751048129.202517,openedApp,False,breathingExercise,Distração,60.0
+instagram,America/Sao_Paulo,1.5,1751048199.293549,openedApp,True,breathingExercise,Distração,180.0
+instagram,America/Sao_Paulo,1.5,1751049264.928097,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751049295.326061,openedApp,False,breathingExercise,Entediado,
+instagram,America/Sao_Paulo,1.5,1751050629.831022,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Sao_Paulo,1.5,1751056190.736933,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751058510.655007,openedApp,False,breathingExercise,Ficar por dentro,60.0
+instagram,America/Sao_Paulo,1.5,1751060101.127342,openedApp,False,breathingExercise,Entretenimento,180.0
+instagram,America/Sao_Paulo,1.5,1751060222.266376,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751060255.4414392,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751060433.4049401,openedApp,False,breathingExercise,Relaxar,60.0
+instagram,America/Sao_Paulo,1.5,1751060562.0479841,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751062096.943243,openedApp,False,breathingExercise,Ficar por dentro,60.0
+youtube,America/Sao_Paulo,1.5,1751062259.7305489,openedApp,False,breathingExercise,Postar algo,
+youtube,America/Sao_Paulo,1.5,1751063155.39576,openedApp,False,breathingExercise,Relaxar,
+youtube,America/Sao_Paulo,1.5,1751064555.491194,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751064576.019917,openedApp,False,breathingExercise,Relaxar,
+youtube,America/Sao_Paulo,1.5,1751064654.134173,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751065916.23175,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751066353.328721,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,1.5,1751073220.817709,openedApp,False,breathingExercise,Distração,60.0
+youtube,America/Sao_Paulo,1.5,1751073295.3996902,openedApp,False,breathingExercise,Mensagem,
+instagram,America/Sao_Paulo,1.5,1751075023.628483,openedApp,False,breathingExercise,Entretenimento,60.0
+instagram,America/Sao_Paulo,1.5,1751113191.144353,openedApp,False,breathingExercise,Entretenimento,60.0
+youtube,America/Sao_Paulo,1.5,1751113532.754822,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751115154.83062,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751116689.383712,openedApp,False,breathingExercise,Mensagem,
+instagram,America/Sao_Paulo,1.5,1751117493.822351,openedApp,False,breathingExercise,Mensagem,60.0
+instagram,America/Sao_Paulo,1.5,1751117567.816512,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751117875.560316,openedApp,True,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,1.5,1751117967.668322,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751118109.426003,openedApp,False,breathingExercise,Relaxar,
+youtube,America/Sao_Paulo,1.5,1751121132.326645,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751123929.724819,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751124443.533708,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751129371.327421,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,1.5,1751130531.821883,openedApp,False,breathingExercise,Entretenimento,120.0
+instagram,America/Sao_Paulo,1.5,1751130656.020885,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751132357.171675,openedApp,False,breathingExercise,Mensagem,60.0
+instagram,America/Sao_Paulo,1.5,1751132429.780951,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1751132737.798209,openedApp,True,breathingExercise,Relaxar,60.0
+youtube,America/Sao_Paulo,1.5,1751132814.653808,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751133198.509851,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751136257.4180121,openedApp,True,breathingExercise,Mensagem,180.0
+instagram,America/Sao_Paulo,1.5,1751136509.269584,openedApp,False,breathingExercise,Entediado,60.0
+instagram,America/Sao_Paulo,1.5,1751136580.605853,openedApp,True,breathingExercise,Relaxar,60.0
+youtube,America/Sao_Paulo,1.5,1751136703.218832,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751137614.926392,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751138636.560703,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751142376.4712539,openedApp,False,breathingExercise,Mensagem,60.0
+instagram,America/Sao_Paulo,1.5,1751142449.878896,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751142759.634567,openedApp,True,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,1.5,1751143057.4025378,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751143060.4861178,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751145753.758062,openedApp,False,breathingExercise,Distração,60.0
+youtube,America/Sao_Paulo,1.5,1751148437.467681,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751148966.017284,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751149406.3887901,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751149970.8858871,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751152645.563308,openedApp,False,breathingExercise,Mensagem,
+youtube,America/Sao_Paulo,1.5,1751153242.5544848,openedApp,False,breathingExercise,Mensagem,
+youtube,America/Sao_Paulo,1.5,1751154447.494514,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751155380.715642,openedApp,False,breathingExercise,Mensagem,60.0
+instagram,America/Sao_Paulo,1.5,1751155459.57647,dismissedAppOpening,True,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751160035.918367,openedApp,False,breathingExercise,Mensagem,180.0
+instagram,America/Sao_Paulo,1.5,1751160227.1081161,openedApp,True,breathingExercise,Mensagem,300.0
+instagram,America/Sao_Paulo,1.5,1751197025.452227,openedApp,False,breathingExercise,Entediado,60.0
+instagram,America/Sao_Paulo,1.5,1751197054.006571,openedApp,False,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,1.5,1751197372.0337648,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751197597.434744,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751197839.1630201,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751197855.34413,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751198309.587136,openedApp,False,breathingExercise,Relaxar,
+instagram,America/Sao_Paulo,1.5,1751198632.824115,openedApp,False,breathingExercise,Relaxar,180.0
+instagram,America/Sao_Paulo,1.5,1751198799.955639,openedApp,False,breathingExercise,Ficar por dentro,240.0
+youtube,America/Sao_Paulo,1.5,1751199075.678796,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751199408.1434731,openedApp,False,breathingExercise,Entediado,
+youtube,America/Sao_Paulo,1.5,1751199644.893814,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751199948.250747,openedApp,False,breathingExercise,Ficar por dentro,120.0
+instagram,America/Sao_Paulo,1.5,1751202969.442995,openedApp,False,breathingExercise,Mensagem,60.0
+instagram,America/Sao_Paulo,1.5,1751203044.8586612,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751203348.0990682,dismissedAppOpening,True,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751203357.988721,openedApp,False,breathingExercise,Mensagem,
+instagram,America/Sao_Paulo,1.5,1751209234.463282,openedApp,False,breathingExercise,Mensagem,60.0
+instagram,America/Sao_Paulo,1.5,1751209337.3560262,openedApp,False,breathingExercise,Entediado,300.0
+instagram,America/Sao_Paulo,1.5,1751210471.512978,openedApp,False,breathingExercise,Entediado,120.0
+instagram,America/Sao_Paulo,1.5,1751212581.67524,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,1.5,1751212714.008848,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1751213886.450624,openedApp,True,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,1.5,1751214238.010884,openedApp,False,breathingExercise,Entretenimento,120.0
+instagram,America/Sao_Paulo,1.5,1751214370.121468,openedApp,True,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,1.5,1751215990.621258,openedApp,False,breathingExercise,Mensagem,300.0
+instagram,America/Sao_Paulo,1.5,1751219191.924763,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1751219351.083027,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751219361.717988,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751219892.697651,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751223555.4342299,openedApp,False,breathingExercise,Mensagem,240.0
+instagram,America/Sao_Paulo,1.5,1751223923.266519,openedApp,False,breathingExercise,Mensagem,180.0
+instagram,America/Sao_Paulo,1.5,1751225087.193655,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,1.5,1751225220.12083,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751228692.081586,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Sao_Paulo,1.5,1751228826.701206,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751228832.19339,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751230107.2400122,openedApp,False,breathingExercise,Distração,120.0
+youtube,America/Sao_Paulo,1.5,1751230556.0004091,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751232316.1407418,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751233570.595993,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751234546.129924,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751234831.523528,openedApp,False,breathingExercise,Mensagem,300.0
+youtube,America/Sao_Paulo,1.5,1751235172.1413012,openedApp,False,breathingExercise,Entediado,
+youtube,America/Sao_Paulo,1.5,1751235379.51995,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751238054.080102,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751238225.73906,openedApp,False,breathingExercise,Mensagem,300.0
+instagram,America/Sao_Paulo,1.5,1751238443.23576,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751238678.23591,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751239411.3911061,openedApp,False,breathingExercise,Mensagem,
+youtube,America/Sao_Paulo,1.5,1751240658.5661469,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751243149.763451,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751286050.571121,openedApp,False,breathingExercise,Distração,180.0
+instagram,America/Sao_Paulo,1.5,1751286245.6650581,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751287715.370312,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1751288026.1252909,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751288338.131,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751288845.355063,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751289873.1804929,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751289886.26432,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751295586.591618,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751298178.131819,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751299378.80374,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751299699.4153938,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751300479.230657,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751301245.7504191,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751301488.484435,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751302889.025655,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751304239.1074739,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751311117.046824,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751311508.2252522,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751311882.2544842,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751312707.2971559,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751312816.153538,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751313044.3821092,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751313242.674751,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751313554.258512,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751314014.764565,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751314498.9847832,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751314610.9319282,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751314710.8734221,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751314997.810739,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751315199.443569,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751315456.274322,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751315862.849479,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751316993.4910522,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751317064.606975,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751317609.601488,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,1.5,1751320503.678793,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751320822.163365,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751321056.774911,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751321072.58244,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751321452.2732348,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751321481.3256888,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751321862.8403869,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751322400.0547628,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751322459.0003572,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751322532.5321379,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751322878.802092,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751323790.060097,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751324164.239665,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751326493.505789,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751326501.513711,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751329741.2231321,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751329824.499135,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751329833.7906651,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751332628.541503,dismissedAppOpening,True,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751332648.5272899,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,1.5,1751333103.4091659,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751335986.751709,openedApp,False,breathingExercise,Distração,180.0
+youtube,America/Sao_Paulo,1.5,1751336078.2681398,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751337562.216504,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751339185.286265,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751341349.724296,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751346934.259056,openedApp,False,breathingExercise,Mensagem,
+instagram,America/Sao_Paulo,1.5,1751362501.63606,openedApp,False,breathingExercise,Distração,180.0
+instagram,America/Sao_Paulo,1.5,1751364243.21178,openedApp,True,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751364359.6934772,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751364402.965689,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751364432.6001039,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751367142.82902,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,1.5,1751368856.93311,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751370245.6281672,openedApp,False,breathingExercise,Postar algo,300.0
+instagram,America/Sao_Paulo,1.5,1751370374.371465,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751370623.439394,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,1.5,1751371008.535439,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751372737.6414928,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751373180.0287728,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751373727.714992,openedApp,False,breathingExercise,Relaxar,60.0
+instagram,America/Sao_Paulo,1.5,1751373799.192409,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751374452.5423589,openedApp,False,breathingExercise,Relaxar,
+instagram,America/Sao_Paulo,1.5,1751377776.006921,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1751381045.065709,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751383881.750978,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751385132.7189121,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751385485.2609,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751385883.0933828,openedApp,False,breathingExercise,Distração,180.0
+instagram,America/Sao_Paulo,1.5,1751385895.983657,openedApp,True,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751385938.728455,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751386090.6877599,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751391445.475846,openedApp,False,breathingExercise,Ficar por dentro,120.0
+youtube,America/Sao_Paulo,1.5,1751392332.9781651,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751400353.149036,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751400781.056468,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751400795.690114,openedApp,False,breathingExercise,Mensagem,300.0
+youtube,America/Sao_Paulo,1.5,1751400994.714236,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751401463.621994,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751403099.415447,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751403422.614294,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751407576.193636,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751407932.1396031,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751412498.641519,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751414636.772009,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751420616.167234,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751421453.419148,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751421494.412718,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,1.5,1751421935.642638,openedApp,False,breathingExercise,Entretenimento,120.0
+youtube,America/Sao_Paulo,1.5,1751422453.889151,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751425621.16516,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751455239.088083,openedApp,False,breathingExercise,Distração,180.0
+instagram,America/Sao_Paulo,1.5,1751455430.170232,openedApp,True,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,1.5,1751455738.700935,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751456632.7642,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751458340.493125,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751458770.220623,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751458961.087803,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751459361.149362,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751459379.686812,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751459871.444782,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751460505.755856,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751460805.164376,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751466072.029429,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751467321.98508,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751469616.222971,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,1.5,1751473581.428169,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751478126.4556751,openedApp,False,breathingExercise,Entretenimento,120.0
+instagram,America/Sao_Paulo,1.5,1751478260.57882,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751484334.5513391,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751492218.013808,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751503486.886035,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751504165.468474,openedApp,True,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,1.5,1751505471.808948,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751522301.290471,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751545899.988975,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751550580.572912,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751551794.749383,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751552258.8495522,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751554866.748763,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751558833.852135,openedApp,False,breathingExercise,Ficar por dentro,60.0
+youtube,America/Sao_Paulo,1.5,1751559963.263084,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751560740.9737759,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751560748.115077,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751560937.391694,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751561012.275254,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751568495.760176,openedApp,False,breathingExercise,Ficar por dentro,60.0
+instagram,America/Sao_Paulo,1.5,1751568579.457613,openedApp,True,breathingExercise,Ficar por dentro,60.0
+youtube,America/Sao_Paulo,1.5,1751568683.957296,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751581638.173574,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Sao_Paulo,1.5,1751587959.031985,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Sao_Paulo,1.5,1751588149.263144,openedApp,True,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751588412.0944629,openedApp,False,breathingExercise,Mensagem,
+youtube,America/Sao_Paulo,1.5,1751588738.8489041,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751597997.322696,openedApp,False,breathingExercise,Mensagem,
+youtube,America/Sao_Paulo,1.5,1751610906.131007,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751635123.87925,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Sao_Paulo,1.5,1751635400.097816,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751635721.513834,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751637831.575978,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751639973.1574879,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751639991.767297,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751640001.376935,openedApp,False,breathingExercise,Mensagem,
+instagram,America/Sao_Paulo,1.5,1751643700.158495,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1751648443.547796,openedApp,False,breathingExercise,Ficar por dentro,180.0
+youtube,America/Sao_Paulo,1.5,1751653596.3749108,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751653732.551954,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751657109.979475,openedApp,False,breathingExercise,Ficar por dentro,60.0
+instagram,America/Sao_Paulo,1.5,1751657179.2766519,openedApp,True,breathingExercise,Ficar por dentro,180.0
+youtube,America/Sao_Paulo,1.5,1751661863.540426,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751661895.616572,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751663414.3222709,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751663741.671159,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751665226.1178532,openedApp,False,breathingExercise,Ficar por dentro,120.0
+instagram,America/Sao_Paulo,1.5,1751669805.746694,openedApp,False,breathingExercise,Ficar por dentro,60.0
+instagram,America/Sao_Paulo,1.5,1751670933.264683,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751695135.726437,openedApp,False,breathingExercise,Ficar por dentro,120.0
+instagram,America/Sao_Paulo,1.5,1751701090.324641,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,1.5,1751720485.120925,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751723631.308663,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751724294.956427,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751724455.2777119,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751725002.00737,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751726091.617651,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751726233.6204572,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751726485.698347,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751729658.828354,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,1.5,1751729795.0702848,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751732342.3097649,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1751737784.792131,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751739273.660736,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751739589.182982,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1751739902.837398,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751740211.873349,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751740719.734252,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751745907.853859,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751756539.736876,openedApp,False,breathingExercise,Ficar por dentro,60.0
+youtube,America/Sao_Paulo,1.5,1751759077.439225,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751759160.7766361,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751760971.809945,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751763648.2563229,openedApp,False,breathingExercise,Ficar por dentro,120.0
+instagram,America/Sao_Paulo,1.5,1751763780.084825,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751765733.810611,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Sao_Paulo,1.5,1751765926.659339,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751802616.355935,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751803808.0822449,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751804123.3798141,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751804389.235246,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751807025.237509,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751810500.817483,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751810806.1695518,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751810918.202074,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751810929.0727038,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751811222.70473,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751811416.0182018,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751816215.024673,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751816703.002393,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751818109.5655599,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751822705.111127,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751822705.4964461,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751823221.67937,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751831926.0275779,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751834868.984981,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751839387.1749558,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751864226.1529899,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751864265.053298,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751870192.623962,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751889972.003049,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751890268.0054421,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751890706.9478822,openedApp,True,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751891727.98616,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751894561.861186,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751894573.8542628,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751895570.462291,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751901125.88527,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751901312.757946,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751901623.467217,openedApp,True,breathingExercise,Relaxar,300.0
+youtube,America/Sao_Paulo,1.5,1751901684.675774,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751901725.896707,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751902369.9887261,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751903226.384232,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751903383.604836,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751903394.839395,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751910769.861435,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751911733.851069,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751920657.3522701,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751920671.640069,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751922124.9921288,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751922376.0233169,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751922548.7195811,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751922861.51334,openedApp,True,breathingExercise,Relaxar,60.0
+youtube,America/Sao_Paulo,1.5,1751922931.852553,openedApp,False,breathingExercise,Relaxar,
+youtube,America/Sao_Paulo,1.5,1751923509.2199411,openedApp,False,breathingExercise,Relaxar,
+instagram,America/Sao_Paulo,1.5,1751924099.466013,openedApp,False,breathingExercise,Ficar por dentro,120.0
+instagram,America/Sao_Paulo,1.5,1751924233.736405,openedApp,True,breathingExercise,Distração,120.0
+youtube,America/Sao_Paulo,1.5,1751924766.924121,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751927482.127428,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751928061.107065,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751928069.728601,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751931033.477391,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751932674.095817,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751933096.714625,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751934139.6664228,openedApp,False,breathingExercise,Ficar por dentro,120.0
+youtube,America/Sao_Paulo,1.5,1751934281.256017,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751934626.685756,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751937256.444983,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1751937290.22857,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751937734.395993,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1751976015.279624,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751976680.4936209,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751976836.429929,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1751977148.253603,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751977701.609484,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1751978065.225614,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751978942.6250648,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1751979403.5018601,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751980422.970212,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751993351.69396,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1751994347.3233829,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1751994356.301941,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1751994607.387861,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1751994968.836358,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1751994994.7119331,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1752004162.247103,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752004474.4552212,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752004578.004157,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,1.5,1752008031.885706,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1752008344.359648,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1752013324.9141111,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1752015435.879791,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752015614.226368,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752018425.728755,openedApp,False,breathingExercise,Distração,120.0
+youtube,America/Sao_Paulo,1.5,1752018560.221669,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752018974.084769,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752019180.328145,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752028854.586926,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752029168.043314,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1752057395.299259,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752057554.677905,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1752058987.368387,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,1.5,1752063846.7748399,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752064158.430537,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752064467.0811338,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1752064774.964666,openedApp,True,breathingExercise,Distração,60.0
+youtube,America/Sao_Paulo,1.5,1752066013.249119,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1752066026.713623,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1752066570.104115,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1752067251.511822,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752069737.817184,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752069738.500618,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752069812.3453212,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1752076627.700235,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,1.5,1752076906.4285722,dismissedAppOpening,True,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1752076994.083184,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752077712.501237,openedApp,False,breathingExercise,Ficar por dentro,120.0
+instagram,America/Sao_Paulo,1.5,1752086631.297508,openedApp,False,breathingExercise,Ficar por dentro,60.0
+youtube,America/Sao_Paulo,1.5,1752088321.49999,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752088831.681727,openedApp,False,breathingExercise,Distração,60.0
+instagram,America/Sao_Paulo,1.5,1752089212.093112,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752089655.7182422,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752091077.570256,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752091879.6814752,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752093406.144903,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1752094035.634099,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,1.5,1752095794.646236,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,1.5,1752095924.6164489,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1752096740.1618161,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,1.5,1752097106.997408,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1752099031.732625,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752100173.958375,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752100425.036763,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752101790.5501518,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752103027.016096,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1752103470.34444,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752104012.098319,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752107565.692972,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1752107825.217243,openedApp,False,breathingExercise,Relaxar,
+instagram,America/Sao_Paulo,1.5,1752109145.583222,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752150100.05449,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752150413.082594,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752150722.118785,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752151065.554043,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752151376.5568829,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1752152913.598001,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752154724.97154,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752156417.732332,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,1.5,1752157247.413179,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752157560.698591,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1752158206.8754969,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752158436.4211888,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752159395.875801,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752163935.939903,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1752164680.585187,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1752166732.51138,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752168793.2741241,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1752169103.406458,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752170034.836699,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752172737.379507,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752173052.449858,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,1.5,1752173497.414496,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,1.5,1752174147.224413,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,1.5,1752175252.959542,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1752176395.490834,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752176769.5615711,openedApp,False,breathingExercise,Distração,60.0
+youtube,America/Sao_Paulo,1.5,1752180889.430311,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,1.5,1752183251.644267,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,1.5,1752183260.9138641,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,1.5,1752184463.89427,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,1.5,1752185534.8109121,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,1.5,1752185595.892189,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,6.0,1752188098.2900329,openedApp,False,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,6.0,1752188668.1197848,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,6.0,1752188835.118958,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752188889.846236,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,6.0,1752189127.980902,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,6.0,1752189231.1219602,openedApp,False,breathingExercise,Distração,60.0
+instagram,America/Sao_Paulo,6.0,1752189858.602165,openedApp,False,breathingExercise,Entretenimento,60.0
+instagram,America/Sao_Paulo,6.0,1752191643.608561,openedApp,False,breathingExercise,Distração,60.0
+instagram,America/Sao_Paulo,6.0,1752193524.474236,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752193845.701966,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752194829.298907,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752198154.024642,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,6.0,1752198308.301165,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752199007.433691,openedApp,False,breathingExercise,Distração,60.0
+instagram,America/Sao_Paulo,6.0,1752199086.261478,openedApp,True,breathingExercise,Entretenimento,120.0
+youtube,America/Sao_Paulo,6.0,1752199163.607696,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752211474.750232,openedApp,False,breathingExercise,Distração,60.0
+instagram,America/Sao_Paulo,6.0,1752211558.392071,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752211875.762124,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752235029.01882,openedApp,False,breathingExercise,Relaxar,60.0
+instagram,America/Sao_Paulo,6.0,1752235109.188441,openedApp,True,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1752236322.389782,openedApp,False,breathingExercise,Relaxar,300.0
+youtube,America/Sao_Paulo,6.0,1752236921.384852,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752240583.412597,openedApp,False,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,6.0,1752244307.1647692,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752244331.01045,openedApp,False,breathingExercise,Relaxar,
+youtube,America/Sao_Paulo,6.0,1752244855.508573,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,6.0,1752245276.319779,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,6.0,1752245560.469187,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,6.0,1752245783.695332,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752246092.750492,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752246756.95172,openedApp,False,breathingExercise,Ficar por dentro,60.0
+instagram,America/Sao_Paulo,6.0,1752247594.215313,openedApp,False,breathingExercise,Relaxar,60.0
+instagram,America/Sao_Paulo,6.0,1752248341.2236428,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,6.0,1752248788.236455,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752252150.200979,openedApp,False,breathingExercise,Ficar por dentro,
+youtube,America/Sao_Paulo,6.0,1752252230.555582,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,6.0,1752253602.644253,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752256814.217873,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752256865.3090181,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752257186.2340279,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752257503.534723,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752260831.864026,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752262295.727312,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752263067.151767,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,6.0,1752264038.021148,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,6.0,1752268494.348733,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752270369.708756,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752271521.359792,openedApp,False,breathingExercise,Distração,120.0
+youtube,America/Sao_Paulo,6.0,1752272137.837295,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,6.0,1752272330.789187,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752273384.608862,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752274392.1760058,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752274630.5615048,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,6.0,1752275193.819411,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752275509.196701,openedApp,False,breathingExercise,Distração,60.0
+instagram,America/Sao_Paulo,6.0,1752275532.952859,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752282420.8026729,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,6.0,1752282774.05229,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752282777.1973739,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752282813.957407,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752283533.2974849,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752283559.612657,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,6.0,1752283699.053145,openedApp,True,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,6.0,1752324227.4322119,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752325232.669736,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752325796.183573,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752333298.6899981,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752333623.507513,openedApp,True,breathingExercise,Entretenimento,60.0
+youtube,America/Sao_Paulo,6.0,1752333715.569144,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,6.0,1752333863.4504929,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752334204.918715,openedApp,False,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,6.0,1752336176.3357182,openedApp,False,breathingExercise,Relaxar,
+instagram,America/Sao_Paulo,6.0,1752338573.0237,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752339761.603671,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752340076.620507,dismissedAppOpening,True,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752340091.76645,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752343844.652256,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1752343864.825927,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752345742.413924,openedApp,False,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,6.0,1752358414.354603,openedApp,False,breathingExercise,Entretenimento,
+youtube,America/Sao_Paulo,6.0,1752359102.804749,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752362876.1211119,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752363212.861611,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752363425.280682,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752372026.12988,openedApp,False,breathingExercise,Relaxar,300.0
+youtube,America/Sao_Paulo,6.0,1752372180.332921,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,6.0,1752389008.616756,openedApp,False,breathingExercise,Relaxar,60.0
+instagram,America/Sao_Paulo,6.0,1752389089.529368,openedApp,True,breathingExercise,Relaxar,60.0
+instagram,America/Sao_Paulo,6.0,1752411112.942339,openedApp,False,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,6.0,1752412624.759984,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752416734.788938,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,6.0,1752418474.212256,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752420585.7050982,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752422008.3574538,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752426668.416609,openedApp,False,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,6.0,1752427050.750782,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,6.0,1752431484.749213,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752431509.100065,openedApp,True,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752431920.534941,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,6.0,1752435262.181254,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752435264.849747,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752435282.965673,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752435333.050705,openedApp,True,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,6.0,1752436009.629201,openedApp,False,breathingExercise,Relaxar,
+instagram,America/Sao_Paulo,6.0,1752437461.346109,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752439205.809194,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1752440576.1214008,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752441713.0285559,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752441813.232405,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,6.0,1752443505.6094909,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752445118.078711,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,6.0,1752445507.599029,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752448424.249336,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752448746.97155,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752449595.3145719,dismissedAppOpening,True,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752455001.429284,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752461430.245698,openedApp,False,breathingExercise,Distração,120.0
+instagram,America/Sao_Paulo,6.0,1752496231.340301,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752496922.1141229,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752497158.658152,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,6.0,1752498565.627211,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,6.0,1752505394.026115,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Sao_Paulo,6.0,1752507401.474184,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752507721.258759,openedApp,True,breathingExercise,Ficar por dentro,300.0
+youtube,America/Sao_Paulo,6.0,1752508055.1614618,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,6.0,1752508953.62661,openedApp,False,breathingExercise,Entretenimento,60.0
+instagram,America/Sao_Paulo,6.0,1752508975.493682,openedApp,True,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,6.0,1752510270.443594,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,6.0,1752514813.272335,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752515862.5723848,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,6.0,1752516292.069591,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752516332.396912,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752517312.856848,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752520644.755032,openedApp,False,breathingExercise,Relaxar,120.0
+instagram,America/Sao_Paulo,6.0,1752521580.677006,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752521584.7308369,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752521772.101692,openedApp,False,breathingExercise,Ficar por dentro,60.0
+instagram,America/Sao_Paulo,6.0,1752526691.438212,dismissedAppOpening,False,breathingExercise,,
+youtube,America/Sao_Paulo,6.0,1752526699.7559528,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752533985.1256971,openedApp,False,breathingExercise,Entretenimento,300.0
+youtube,America/Sao_Paulo,6.0,1752534373.370621,openedApp,False,breathingExercise,Ficar por dentro,
+instagram,America/Sao_Paulo,6.0,1752551324.1666288,openedApp,False,breathingExercise,Ficar por dentro,180.0
+youtube,America/Sao_Paulo,6.0,1752551624.8918772,openedApp,False,breathingExercise,Entretenimento,
+instagram,America/Sao_Paulo,6.0,1752576244.915571,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752576292.740164,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1752576572.526709,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752576920.607414,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752577847.229239,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752578194.702821,openedApp,False,breathingExercise,Distração,
+instagram,America/Sao_Paulo,6.0,1752578772.927016,openedApp,False,breathingExercise,Distração,300.0
+youtube,America/Sao_Paulo,6.0,1752580935.669889,openedApp,False,breathingExercise,Distração,
+youtube,America/Sao_Paulo,6.0,1752581195.2301579,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752584991.790989,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752588980.59567,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1752591129.315229,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752595269.581454,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752599716.3638911,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1752600035.91412,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752600444.579996,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752602366.677331,openedApp,False,breathingExercise,Relaxar,60.0
+instagram,America/Sao_Paulo,6.0,1752602476.122834,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752608841.9562411,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752618523.575433,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752663536.081536,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Sao_Paulo,6.0,1752664059.3792639,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752664087.978684,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752664435.456966,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752670380.0938249,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752672446.6708732,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752675495.1269011,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752675515.902271,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752675821.311758,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752676112.999304,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752676677.352808,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752683547.5087051,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752701564.794589,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752701667.41889,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752702731.238778,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752703036.512344,dismissedAppOpening,True,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752705378.328384,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752706306.704931,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752711794.00315,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752712264.4861479,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752713934.472029,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752714668.075069,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752715970.805296,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752715990.307436,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752752337.964798,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752761670.647575,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752776509.308343,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752776745.6674008,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752779865.888375,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752781195.145341,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752786286.9248571,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752787258.8579001,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1752795983.440195,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752799123.393451,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752807097.032917,openedApp,False,breathingExercise,Sanitário,60.0
+instagram,America/Sao_Paulo,6.0,1752807178.809098,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752841816.525547,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752843083.9355578,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752856594.906042,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752856674.444819,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752861972.1462688,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752865545.1902452,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752872060.317652,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752873271.79222,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752873274.196991,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752884378.3805308,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752884700.477514,openedApp,False,breathingExercise,Postar algo,300.0
+instagram,America/Sao_Paulo,6.0,1752926094.6542811,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1752926376.622663,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752933898.381514,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752935942.673791,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752936267.24973,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1752945278.0616941,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752961337.556797,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1752964124.681666,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1752965795.564502,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752970895.072398,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752982995.114059,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1752990422.475179,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753017402.889313,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753017450.549642,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1753031905.1929579,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753034424.86503,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753034720.362957,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753103220.484106,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1753104525.361887,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1753108673.8296518,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753109119.349371,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753109439.551252,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753109660.8728318,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753109951.361237,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753123662.683226,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753124957.548938,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753125160.2991161,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753153753.0838761,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753187219.950855,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753187540.750515,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753200187.045672,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753228065.146686,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753230927.238347,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753274990.334708,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753275312.207839,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753298975.0139809,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753304765.307276,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753305092.098849,openedApp,True,breathingExercise,Entretenimento,180.0
+instagram,America/Sao_Paulo,6.0,1753322657.178659,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753334453.657387,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753363104.6521912,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753381392.3613129,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753383924.246131,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753384127.664747,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753384467.299994,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753385011.33808,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753387652.175116,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1753391008.818983,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753393992.849125,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1753394352.8110409,openedApp,True,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1753394618.45262,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Sao_Paulo,6.0,1753394938.403349,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753397355.534302,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1753400220.319866,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753400523.10413,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753414466.751127,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753444595.934523,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753445071.3494139,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753447296.108077,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753447618.304312,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753448630.6247249,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753448641.07085,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753449542.50863,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753449855.871769,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753450607.996912,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753453254.830178,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753453275.7010732,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753454268.9919,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753459670.823883,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753462387.0124722,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753466721.685206,openedApp,False,breathingExercise,Ficar por dentro,120.0
+instagram,America/Sao_Paulo,6.0,1753479006.0832891,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753479324.6256518,dismissedAppOpening,True,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753479523.974262,openedApp,False,breathingExercise,Sanitário,300.0
+instagram,America/Sao_Paulo,6.0,1753481812.366065,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753484299.471395,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753486601.703157,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753486621.374308,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753487360.935163,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753490000.000387,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753532526.1711879,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753532975.4775229,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753534992.357341,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753535310.494102,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753535630.322204,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753556271.654818,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753565920.514553,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753570139.53211,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753570623.062551,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753575683.4326692,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753617889.039657,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753618208.1814408,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753644361.8949208,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753644682.123795,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753668250.094974,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753686191.1525378,openedApp,False,breathingExercise,Ficar por dentro,120.0
+instagram,America/Sao_Paulo,6.0,1753706683.191531,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1753707013.401393,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1753715944.9148731,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1753719756.7416039,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753732238.266712,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753732564.014123,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753736262.015267,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753748050.9566011,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753750102.204815,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753766060.356925,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753777669.6314259,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753795691.817177,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753801885.29474,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753812126.811432,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753813801.881773,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753814842.485362,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753815163.914074,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753822868.021651,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753830426.844637,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753831733.470707,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753833682.764916,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753833902.004825,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753840431.6630611,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753878258.313966,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753878881.1597571,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753884796.755745,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753885116.89534,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753893534.58957,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753900936.152904,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753907188.73697,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753907407.788594,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753907478.046874,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753911658.6045198,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753913522.9655719,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753921698.304089,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753923961.167284,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753929634.851888,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753934175.176697,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753934196.346046,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753964405.395158,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753964422.502954,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753964443.699319,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753973797.343533,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753973818.1982908,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753976879.811771,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753981912.9846349,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1753988466.258873,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753989057.110196,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1753990116.8195229,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1753998621.745606,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1754004580.948711,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754007100.506054,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754008969.0359411,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1754050039.880873,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1754050348.0098271,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1754055797.111295,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754056173.281859,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1754063864.885571,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1754084276.847661,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1754084599.601841,openedApp,True,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1754088928.661346,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754089800.619174,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754090131.5722551,openedApp,True,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754092431.53917,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754098383.387666,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1754103173.004977,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754109981.192621,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754136569.1701798,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1754136654.087861,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754137222.666296,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754144870.378086,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754148450.223662,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754150840.114225,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754167036.31057,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754174015.083747,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Sao_Paulo,6.0,1754179401.2126188,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Sao_Paulo,6.0,1754181807.2001982,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Sao_Paulo,6.0,1754221875.1976628,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Sao_Paulo,6.0,1754222014.153949,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Campo_Grande,6.0,1754235739.2600489,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Campo_Grande,6.0,1754236555.4983149,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Campo_Grande,6.0,1754246399.638319,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Campo_Grande,6.0,1754248342.153822,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Campo_Grande,6.0,1754248711.52254,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Campo_Grande,6.0,1754250556.5240579,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Campo_Grande,6.0,1754258692.7511,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Campo_Grande,6.0,1754259047.331246,openedApp,False,breathingExercise,Ficar por dentro,180.0
+instagram,America/Campo_Grande,6.0,1754260176.593557,openedApp,False,breathingExercise,Distração,300.0
+instagram,America/Campo_Grande,6.0,1754272991.000426,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Campo_Grande,6.0,1754277333.409404,openedApp,False,breathingExercise,Relaxar,300.0
+instagram,America/Campo_Grande,6.0,1754299297.582995,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Campo_Grande,6.0,1754303290.39228,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Campo_Grande,6.0,1754303524.288873,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Campo_Grande,6.0,1754334224.3443089,openedApp,False,breathingExercise,Entretenimento,300.0
+instagram,America/Campo_Grande,6.0,1754339081.7242908,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Campo_Grande,6.0,1754408992.629428,openedApp,False,breathingExercise,Mensagem,300.0
+instagram,America/Campo_Grande,6.0,1754411258.1836119,openedApp,False,breathingExercise,Ficar por dentro,300.0
+instagram,America/Campo_Grande,6.0,1754411983.0849938,dismissedAppOpening,False,breathingExercise,,
+instagram,America/Campo_Grande,6.0,1754412002.805464,openedApp,False,breathingExercise,Ficar por dentro,300.0

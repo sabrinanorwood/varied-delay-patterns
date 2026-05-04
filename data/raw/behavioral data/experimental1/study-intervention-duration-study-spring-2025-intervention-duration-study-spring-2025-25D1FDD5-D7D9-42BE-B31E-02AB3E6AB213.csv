@@ -1,8 +1,0 @@
-isReIntervention,timestamp,timezone,resolution,app,purpose,interventionDuration,interventionType
-False,1751921609.461941,Europe/Tallinn,closedApp,facebook,,,
-False,1751922292.2779632,Europe/Tallinn,closedApp,youtube,,,
-False,1751982537.3380141,Europe/Tallinn,closedApp,youtube,,,
-False,1751982863.327903,Europe/Tallinn,closedApp,youtube,,,
-False,1751982872.0936031,Europe/Tallinn,closedApp,youtube,,,
-False,1751984526.113922,Europe/Tallinn,openedApp,appStore,Search Info,1.5,breathingExercise
-False,1751984543.0291061,Europe/Tallinn,openedApp,appStore,Search Info,1.5,breathingExercise

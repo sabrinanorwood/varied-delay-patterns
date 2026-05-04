@@ -1,6 +1,0 @@
-app,timezone,timestamp,isReIntervention,resolution,interventionDuration,interventionType,purpose,terminationReason
-instagram,America/New_York,1752945216.372649,0.0,dismissedAppOpening,6.0,breathingExercise,,
-instagram,America/New_York,1752945241.8817558,0.0,dismissedAppOpening,6.0,breathingExercise,,
-safari,America/New_York,1752945393.904005,0.0,dismissedAppOpening,6.0,breathingExercise,,
-safari,America/New_York,1752945664.876951,0.0,openedApp,6.0,breathingExercise,Search Info,
-,,1752946978.452333,,,,,,terminatedByUser

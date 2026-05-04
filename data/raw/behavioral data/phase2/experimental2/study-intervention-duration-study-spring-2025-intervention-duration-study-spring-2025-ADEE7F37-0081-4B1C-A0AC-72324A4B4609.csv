@@ -1,0 +1,6 @@
+isReIntervention,interventionDuration,timezone,app,timestamp,interventionType,resolution,purpose
+False,1.5,Asia/Jakarta,youtube,1750790445.975878,breathingExercise,openedApp,Can’t sleep
+False,1.5,Asia/Jakarta,youtube,1750790741.287455,breathingExercise,openedApp,Search Info
+False,1.5,Asia/Jakarta,youtube,1750790821.336832,breathingExercise,dismissedAppOpening,
+False,1.5,Asia/Jakarta,youtube,1750790830.732854,breathingExercise,openedApp,Search Info
+False,1.5,Asia/Jakarta,youtube,1750790867.222286,breathingExercise,openedApp,Search Info

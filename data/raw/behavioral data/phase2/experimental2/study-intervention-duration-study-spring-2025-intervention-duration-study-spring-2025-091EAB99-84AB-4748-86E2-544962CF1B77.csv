@@ -1,0 +1,8 @@
+timestamp,isReIntervention,interventionDuration,app,resolution,timezone,interventionType,timeIntervalUntilReIntervention,terminationReason
+1751431931.328192,0.0,1.5,instagram,dismissedAppOpening,America/Los_Angeles,breathingExercise,,
+1751431989.036878,0.0,1.5,instagram,openedApp,America/Los_Angeles,breathingExercise,300.0,
+1751469908.385645,0.0,1.5,instagram,openedApp,America/Los_Angeles,breathingExercise,180.0,
+1751470118.611868,0.0,1.5,instagram,openedApp,America/Los_Angeles,breathingExercise,240.0,
+1751473583.666554,0.0,1.5,instagram,openedApp,America/Los_Angeles,breathingExercise,120.0,
+1751473846.997418,0.0,1.5,instagram,dismissedAppOpening,America/Los_Angeles,breathingExercise,,
+1751473986.913542,,,,,,,,terminatedByUser

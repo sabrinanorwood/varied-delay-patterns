@@ -1,0 +1,4 @@
+resolution,isReIntervention,timezone,timestamp,app
+openedApp,False,Asia/Shanghai,1750610268.414777,wechat
+closedApp,False,Asia/Shanghai,1750610328.414778,wechat
+dismissedAppOpening,False,Asia/Shanghai,1750610328.414778,wechat

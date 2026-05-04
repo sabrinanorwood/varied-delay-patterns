@@ -1,0 +1,2 @@
+app,timestamp,interventionType,resolution,timezone,interventionDuration,isReIntervention
+tikTok,1750020769.1573272,breathingExercise,dismissedAppOpening,America/New_York,1.5,False

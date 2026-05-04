@@ -1,0 +1,4 @@
+timestamp,app,isReIntervention,resolution,timezone,interventionType,interventionDuration,terminationReason
+1749632645.4024382,brave,0.0,dismissedAppOpening,Europe/Berlin,breathingExercise,6.0,
+1749632647.218858,brave,0.0,dismissedAppOpening,Europe/Berlin,breathingExercise,6.0,
+1749635653.724482,,,,,,,terminatedByUser

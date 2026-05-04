@@ -1,0 +1,439 @@
+resolution,timestamp,interventionType,timezone,app,isReIntervention,interventionDuration,purpose,timeIntervalUntilReIntervention
+dismissedAppOpening,1751680362.511688,journaling,America/Bogota,tikTok,False,,,
+dismissedAppOpening,1751680454.143134,journaling,America/Bogota,instagram,False,,,
+dismissedAppOpening,1751680499.203646,breathingExercise,America/Bogota,twitter,False,1.5,,
+openedApp,1751681772.642579,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,
+openedApp,1751681912.366463,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,
+openedApp,1751682466.022538,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+dismissedAppOpening,1751683108.866228,breathingExercise,America/Bogota,tikTok,True,1.5,,
+dismissedAppOpening,1751736654.76368,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1751737746.858231,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,120.0
+openedApp,1751737834.8189821,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,180.0
+dismissedAppOpening,1751738459.579237,breathingExercise,America/Bogota,tikTok,False,1.5,,
+dismissedAppOpening,1751739069.668354,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1751739083.533639,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+openedApp,1751741389.600852,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,120.0
+openedApp,1751741611.29547,breathingExercise,America/Bogota,twitter,False,1.5,Stay In the Loop,300.0
+openedApp,1751741840.182207,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,420.0
+openedApp,1751742173.154665,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+dismissedAppOpening,1751742777.696992,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1751742916.908736,breathingExercise,America/Bogota,instagram,False,1.5,Message,60.0
+openedApp,1751750562.512265,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,300.0
+dismissedAppOpening,1751751025.968499,breathingExercise,America/Bogota,tikTok,False,1.5,,
+dismissedAppOpening,1751754693.8291922,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1751754725.696494,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,180.0
+dismissedAppOpening,1751760004.6447968,breathingExercise,America/Bogota,instagram,False,1.5,,
+dismissedAppOpening,1751760007.341397,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1751761892.068474,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,60.0
+openedApp,1751761966.480853,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,60.0
+openedApp,1751764011.863638,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,300.0
+dismissedAppOpening,1751764101.899632,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1751764343.3074179,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+openedApp,1751765643.6969109,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,60.0
+openedApp,1751767843.420069,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+openedApp,1751770964.821886,breathingExercise,America/Bogota,instagram,False,1.5,Relax,300.0
+openedApp,1751771160.882052,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,300.0
+openedApp,1751778284.762831,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+openedApp,1751779723.7444901,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,300.0
+openedApp,1751780029.270683,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,300.0
+openedApp,1751780117.305496,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,600.0
+openedApp,1751780527.8369489,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,600.0
+openedApp,1751781241.502413,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,600.0
+openedApp,1751781727.8045812,breathingExercise,America/Bogota,instagram,False,1.5,Post something,60.0
+openedApp,1751781914.090551,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,60.0
+openedApp,1751784488.081441,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+openedApp,1751785110.009676,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+openedApp,1751785435.334425,breathingExercise,America/Bogota,instagram,False,1.5,Bored,360.0
+openedApp,1751785587.231073,breathingExercise,America/Bogota,twitter,False,1.5,Message,360.0
+openedApp,1751785798.787815,breathingExercise,America/Bogota,instagram,False,1.5,Search Info,360.0
+openedApp,1751786045.1009011,breathingExercise,America/Bogota,tikTok,False,1.5,Escape / Avoid,600.0
+openedApp,1751786700.008199,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,300.0
+dismissedAppOpening,1751786934.96996,breathingExercise,America/Bogota,twitter,False,1.5,,
+openedApp,1751786954.883786,breathingExercise,America/Bogota,tikTok,False,1.5,Relax,300.0
+openedApp,1751787282.38504,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+openedApp,1751787893.311559,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+openedApp,1751788503.8179479,breathingExercise,America/Bogota,tikTok,True,1.5,Entertainment,600.0
+openedApp,1751788748.54174,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,540.0
+openedApp,1751789090.1637459,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+openedApp,1751789267.580414,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,600.0
+openedApp,1751789704.331029,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1751806203.84905,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,300.0
+openedApp,1751806401.6820822,breathingExercise,America/Bogota,tikTok,False,1.5,Stalk crush,600.0
+openedApp,1751806538.3526468,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,360.0
+openedApp,1751807062.625431,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,180.0
+openedApp,1751807096.182797,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,300.0
+openedApp,1751807383.064859,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,180.0
+openedApp,1751807416.144844,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+openedApp,1751808043.377633,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+openedApp,1751808458.215773,breathingExercise,America/Bogota,instagram,False,1.5,Bored,600.0
+openedApp,1751808796.272582,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,600.0
+openedApp,1751808922.1943622,breathingExercise,America/Bogota,tikTok,False,1.5,Escape / Avoid,600.0
+openedApp,1751809396.102437,breathingExercise,America/Bogota,instagram,False,1.5,Bored,540.0
+openedApp,1751810035.229725,breathingExercise,America/Bogota,instagram,False,1.5,Search Info,360.0
+openedApp,1751810096.012589,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+openedApp,1751810653.493445,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,360.0
+dismissedAppOpening,1751810944.582655,breathingExercise,America/Bogota,twitter,False,1.5,,
+openedApp,1751811458.364262,breathingExercise,America/Bogota,instagram,False,1.5,Post something,60.0
+openedApp,1751820882.897903,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,60.0
+openedApp,1751823268.294704,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,60.0
+openedApp,1751824555.634124,breathingExercise,America/Bogota,instagram,False,1.5,Bored,60.0
+openedApp,1751824596.936572,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,300.0
+openedApp,1751825854.033005,breathingExercise,America/Bogota,tikTok,False,1.5,Stalk crush,600.0
+openedApp,1751827879.400779,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,300.0
+openedApp,1751829186.868912,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,360.0
+dismissedAppOpening,1751829199.24232,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1751856409.4261541,breathingExercise,America/Bogota,instagram,False,1.5,Post something,60.0
+openedApp,1751857273.064122,breathingExercise,America/Bogota,instagram,True,1.5,Entertainment,240.0
+openedApp,1751857874.289531,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+openedApp,1751869089.035715,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+openedApp,1751871899.400346,breathingExercise,America/Bogota,tikTok,False,1.5,Escape / Avoid,600.0
+openedApp,1751872513.870576,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+dismissedAppOpening,1751873118.129592,breathingExercise,America/Bogota,tikTok,True,1.5,,
+openedApp,1751873127.574239,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+openedApp,1751873881.7362518,breathingExercise,America/Bogota,tikTok,True,1.5,Stay In the Loop,600.0
+openedApp,1751898011.470138,breathingExercise,America/Bogota,instagram,False,1.5,Relax,600.0
+openedApp,1751899610.4092069,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+dismissedAppOpening,1751901645.282044,breathingExercise,America/Bogota,instagram,False,1.5,,
+dismissedAppOpening,1751921096.182293,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1751921128.802322,breathingExercise,America/Bogota,instagram,False,1.5,Search Info,300.0
+openedApp,1751921203.74212,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,300.0
+openedApp,1751921486.0025768,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,60.0
+openedApp,1751921566.200197,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+openedApp,1751926476.1200938,breathingExercise,America/Bogota,instagram,False,1.5,Relax,240.0
+openedApp,1751935983.573986,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+openedApp,1751936419.9971051,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,60.0
+dismissedAppOpening,1751937203.837335,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1751937212.705958,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+dismissedAppOpening,1751946580.650361,breathingExercise,America/Bogota,instagram,False,1.5,,
+dismissedAppOpening,1751946582.959096,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1751946626.826627,breathingExercise,America/Bogota,instagram,False,1.5,Toilet,120.0
+openedApp,1751946662.339117,breathingExercise,America/Bogota,twitter,False,1.5,Search Info,300.0
+dismissedAppOpening,1751946817.5167952,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1751946838.3856359,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,600.0
+openedApp,1751947451.129744,breathingExercise,America/Bogota,tikTok,False,1.5,Toilet,600.0
+openedApp,1751948052.235262,breathingExercise,America/Bogota,tikTok,True,1.5,Post something,600.0
+openedApp,1751948656.437022,breathingExercise,America/Bogota,tikTok,True,1.5,Check likes,600.0
+openedApp,1751978692.900552,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+openedApp,1751980585.032481,breathingExercise,America/Bogota,instagram,False,1.5,Bored,600.0
+openedApp,1751980707.446156,breathingExercise,America/Bogota,tikTok,False,1.5,Relax,600.0
+openedApp,1751981321.7277489,breathingExercise,America/Bogota,tikTok,False,1.5,Escape / Avoid,600.0
+openedApp,1751982013.412983,breathingExercise,America/Bogota,tikTok,True,1.5,Can’t sleep,600.0
+dismissedAppOpening,1751982616.3408132,breathingExercise,America/Bogota,tikTok,True,1.5,,
+openedApp,1751982627.525428,breathingExercise,America/Bogota,tikTok,False,1.5,Stalk crush,600.0
+openedApp,1751983271.344152,breathingExercise,America/Bogota,tikTok,False,1.5,Stalk crush,600.0
+openedApp,1751986145.39704,breathingExercise,America/Bogota,instagram,False,1.5,Message,600.0
+openedApp,1751990005.415534,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+openedApp,1751995288.443321,breathingExercise,America/Bogota,instagram,False,1.5,Toilet,600.0
+openedApp,1751996290.4006739,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+dismissedAppOpening,1751997157.157885,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1751997166.886836,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+openedApp,1751997779.691842,breathingExercise,America/Bogota,tikTok,True,1.5,Check likes,600.0
+dismissedAppOpening,1751998652.911999,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1751998667.585425,breathingExercise,America/Bogota,tikTok,False,1.5,Message,600.0
+openedApp,1751999360.9357572,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,600.0
+openedApp,1751999997.1293678,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+openedApp,1752004999.3718,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,600.0
+openedApp,1752005518.854182,breathingExercise,America/Bogota,tikTok,False,1.5,Stalk crush,600.0
+openedApp,1752005945.9584,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752006562.083425,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+openedApp,1752007025.3293219,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+dismissedAppOpening,1752007465.2794762,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752007489.357204,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+openedApp,1752010223.856924,breathingExercise,America/Bogota,instagram,False,1.5,Toilet,600.0
+openedApp,1752010492.18589,breathingExercise,America/Bogota,twitter,False,1.5,Post something,600.0
+openedApp,1752010922.231018,breathingExercise,America/Bogota,instagram,False,1.5,Search Info,600.0
+openedApp,1752013228.1685991,breathingExercise,America/Bogota,instagram,False,1.5,Toilet,600.0
+dismissedAppOpening,1752014004.0863662,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752014015.132862,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+openedApp,1752014572.657412,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,600.0
+openedApp,1752015134.25356,breathingExercise,America/Bogota,instagram,False,1.5,Bored,600.0
+openedApp,1752015208.2158961,breathingExercise,America/Bogota,twitter,False,1.5,Check likes,600.0
+openedApp,1752015414.282383,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+openedApp,1752018412.88968,breathingExercise,America/Bogota,instagram,False,1.5,Post something,600.0
+openedApp,1752019609.94726,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,600.0
+openedApp,1752020007.64954,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,600.0
+openedApp,1752020427.939077,breathingExercise,America/Bogota,instagram,False,1.5,Check likes,600.0
+openedApp,1752020936.593442,breathingExercise,America/Bogota,instagram,False,1.5,Bored,300.0
+openedApp,1752021065.096805,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,300.0
+openedApp,1752021394.2171922,breathingExercise,America/Bogota,tikTok,True,1.5,Can’t sleep,600.0
+openedApp,1752179166.0008988,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,60.0
+openedApp,1752182422.200852,breathingExercise,America/Bogota,instagram,False,1.5,Relax,600.0
+openedApp,1752182567.262291,breathingExercise,America/Bogota,twitter,False,1.5,Relax,600.0
+openedApp,1752182752.4182029,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752183381.192872,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+openedApp,1752183723.21772,breathingExercise,America/Bogota,tikTok,False,1.5,Message,600.0
+openedApp,1752185037.315114,breathingExercise,America/Bogota,tikTok,False,1.5,Escape / Avoid,600.0
+dismissedAppOpening,1752185355.551275,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752187208.84759,breathingExercise,America/Bogota,tikTok,False,1.5,Escape / Avoid,600.0
+openedApp,1752188969.187241,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,600.0
+openedApp,1752189262.6238,breathingExercise,America/Bogota,tikTok,False,1.5,Relax,600.0
+openedApp,1752189682.744896,breathingExercise,America/Bogota,instagram,False,1.5,Check likes,600.0
+openedApp,1752192075.960534,breathingExercise,America/Bogota,instagram,False,1.5,Check likes,600.0
+openedApp,1752192954.238313,breathingExercise,America/Bogota,instagram,False,1.5,Toilet,600.0
+openedApp,1752194770.886279,breathingExercise,America/Bogota,instagram,False,1.5,Check likes,600.0
+dismissedAppOpening,1752195381.250494,breathingExercise,America/Bogota,instagram,False,1.5,,
+dismissedAppOpening,1752196806.8586001,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1752196956.8152099,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,600.0
+dismissedAppOpening,1752200575.024983,breathingExercise,America/Bogota,instagram,False,1.5,,
+dismissedAppOpening,1752201630.5929,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1752201641.812243,breathingExercise,America/Bogota,instagram,False,1.5,Post something,600.0
+openedApp,1752201721.8890529,breathingExercise,America/Bogota,twitter,False,1.5,Stalk crush,600.0
+dismissedAppOpening,1752202276.0946631,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1752202780.348366,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+openedApp,1752203394.3550029,breathingExercise,America/Bogota,tikTok,True,1.5,Message,600.0
+openedApp,1752203562.705015,breathingExercise,America/Bogota,instagram,False,1.5,Relax,600.0
+openedApp,1752204092.783057,breathingExercise,America/Bogota,instagram,False,1.5,Toilet,600.0
+openedApp,1752204374.875572,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+openedApp,1752204427.977813,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,600.0
+openedApp,1752204801.1419868,breathingExercise,America/Bogota,instagram,False,1.5,Relax,600.0
+openedApp,1752204892.899335,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+openedApp,1752205223.19805,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+openedApp,1752205251.048564,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,600.0
+openedApp,1752205709.93636,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752205892.05855,breathingExercise,America/Bogota,instagram,False,1.5,Post something,600.0
+openedApp,1752206168.431706,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,600.0
+openedApp,1752206287.11418,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,600.0
+openedApp,1752206558.145691,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752207169.322628,breathingExercise,America/Bogota,tikTok,True,1.5,Relax,600.0
+openedApp,1752207771.170785,breathingExercise,America/Bogota,tikTok,True,1.5,Relax,600.0
+openedApp,1752208402.717751,breathingExercise,America/Bogota,tikTok,True,1.5,Relax,600.0
+openedApp,1752209012.7870688,breathingExercise,America/Bogota,tikTok,True,1.5,Relax,600.0
+openedApp,1752209690.463475,breathingExercise,America/Bogota,tikTok,True,1.5,Escape / Avoid,600.0
+openedApp,1752211343.135998,breathingExercise,America/Bogota,tikTok,False,1.5,Relax,600.0
+openedApp,1752234351.881568,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,600.0
+openedApp,1752234831.0546541,breathingExercise,America/Bogota,instagram,False,1.5,Bored,600.0
+openedApp,1752234984.03531,breathingExercise,America/Bogota,tikTok,True,1.5,Check likes,600.0
+openedApp,1752235846.805427,breathingExercise,America/Bogota,instagram,False,1.5,Bored,360.0
+openedApp,1752235861.262609,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752236572.8313951,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+dismissedAppOpening,1752236963.277206,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752236980.241778,breathingExercise,America/Bogota,instagram,False,1.5,Message,600.0
+dismissedAppOpening,1752237381.5546079,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752237414.8184528,breathingExercise,America/Bogota,tikTok,False,1.5,Stalk crush,600.0
+openedApp,1752237591.377383,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,600.0
+openedApp,1752237920.100181,breathingExercise,America/Bogota,tikTok,False,1.5,Stalk crush,600.0
+openedApp,1752238262.943478,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,600.0
+openedApp,1752238285.4807181,breathingExercise,America/Bogota,tikTok,False,1.5,Message,600.0
+openedApp,1752238840.756052,breathingExercise,America/Bogota,instagram,False,1.5,Message,600.0
+openedApp,1752239066.303756,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+openedApp,1752239382.3504028,breathingExercise,America/Bogota,tikTok,False,1.5,Toilet,600.0
+openedApp,1752240527.3799958,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752241610.8307261,breathingExercise,America/Bogota,instagram,False,1.5,Bored,600.0
+openedApp,1752242090.8500319,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,600.0
+dismissedAppOpening,1752243718.756639,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1752243771.279079,breathingExercise,America/Bogota,instagram,False,1.5,Check likes,600.0
+dismissedAppOpening,1752244105.555685,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1752244116.71825,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,600.0
+openedApp,1752244580.2201529,breathingExercise,America/Bogota,twitter,False,1.5,Toilet,600.0
+dismissedAppOpening,1752244580.670371,breathingExercise,America/Bogota,twitter,False,1.5,,
+dismissedAppOpening,1752244587.808714,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752244720.849289,breathingExercise,America/Bogota,tikTok,False,1.5,Toilet,600.0
+openedApp,1752245210.5246139,breathingExercise,America/Bogota,instagram,False,1.5,Post something,600.0
+openedApp,1752245526.038949,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,600.0
+openedApp,1752245634.0117722,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,600.0
+dismissedAppOpening,1752246258.381971,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1752246674.963671,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,600.0
+openedApp,1752272712.115026,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,600.0
+openedApp,1752272763.789751,breathingExercise,America/Bogota,tikTok,False,1.5,Stalk crush,600.0
+dismissedAppOpening,1752273120.560529,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752288176.139182,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,600.0
+openedApp,1752288246.319057,breathingExercise,America/Bogota,twitter,False,1.5,Stalk crush,600.0
+dismissedAppOpening,1752288246.5599341,breathingExercise,America/Bogota,twitter,False,1.5,,
+openedApp,1752290254.743581,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+openedApp,1752290912.8775191,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752292073.379376,breathingExercise,America/Bogota,instagram,False,1.5,Relax,600.0
+openedApp,1752292112.109786,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752293259.061286,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+openedApp,1752293933.632642,breathingExercise,America/Bogota,tikTok,False,1.5,Message,600.0
+dismissedAppOpening,1752373300.9382381,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752373310.680465,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,180.0
+dismissedAppOpening,1752375050.1691298,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1752375876.1170259,breathingExercise,America/Bogota,instagram,False,1.5,Check likes,600.0
+openedApp,1752376720.683795,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+openedApp,1752377267.178475,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,240.0
+openedApp,1752378052.3502789,breathingExercise,America/Bogota,twitter,False,1.5,Bored,300.0
+openedApp,1752378467.17239,breathingExercise,America/Bogota,tikTok,False,1.5,Toilet,120.0
+openedApp,1752423111.900275,breathingExercise,America/Bogota,instagram,False,1.5,Relax,360.0
+openedApp,1752423253.457351,breathingExercise,America/Bogota,twitter,False,1.5,Can’t sleep,240.0
+openedApp,1752423414.993202,breathingExercise,America/Bogota,tikTok,True,1.5,Entertainment,360.0
+openedApp,1752423788.998049,breathingExercise,America/Bogota,tikTok,True,1.5,Can’t sleep,600.0
+openedApp,1752424396.85953,breathingExercise,America/Bogota,tikTok,True,1.5,Search Info,600.0
+openedApp,1752425005.7576442,breathingExercise,America/Bogota,tikTok,True,1.5,Stalk crush,600.0
+openedApp,1752428618.536552,breathingExercise,America/Bogota,tikTok,False,1.5,Message,600.0
+openedApp,1752429249.805198,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+openedApp,1752429862.5227752,breathingExercise,America/Bogota,tikTok,True,1.5,Check likes,600.0
+dismissedAppOpening,1752432620.796607,breathingExercise,America/Bogota,twitter,False,1.5,,
+openedApp,1752434805.8526092,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,240.0
+openedApp,1752436197.5552402,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,180.0
+openedApp,1752436538.171356,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,600.0
+openedApp,1752437945.1086621,breathingExercise,America/Bogota,instagram,False,1.5,Message,600.0
+openedApp,1752439467.7117128,breathingExercise,America/Bogota,instagram,False,1.5,Check likes,600.0
+openedApp,1752441550.0198,breathingExercise,America/Bogota,instagram,False,1.5,Search Info,480.0
+openedApp,1752446021.398851,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,300.0
+openedApp,1752446349.029505,breathingExercise,America/Bogota,twitter,False,1.5,Bored,600.0
+openedApp,1752447842.498866,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,600.0
+openedApp,1752447928.543953,breathingExercise,America/Bogota,twitter,False,1.5,Toilet,600.0
+dismissedAppOpening,1752448744.434091,breathingExercise,America/Bogota,twitter,False,1.5,,
+openedApp,1752449724.010305,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,120.0
+openedApp,1752450244.1273189,breathingExercise,America/Bogota,tikTok,False,1.5,Toilet,240.0
+openedApp,1752451046.399057,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,600.0
+openedApp,1752451776.8327708,breathingExercise,America/Bogota,tikTok,True,1.5,Escape / Avoid,600.0
+openedApp,1752452337.1393971,breathingExercise,America/Bogota,tikTok,False,1.5,Escape / Avoid,600.0
+openedApp,1752452946.748942,breathingExercise,America/Bogota,tikTok,True,1.5,Message,600.0
+openedApp,1752453625.781153,breathingExercise,America/Bogota,tikTok,True,1.5,Stalk crush,600.0
+openedApp,1752454011.2287102,breathingExercise,America/Bogota,instagram,False,1.5,Toilet,600.0
+dismissedAppOpening,1752454058.995858,breathingExercise,America/Bogota,tikTok,False,1.5,,
+dismissedAppOpening,1752454650.1453671,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752456118.172976,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,120.0
+openedApp,1752460552.9469209,breathingExercise,America/Bogota,instagram,False,1.5,Search Info,180.0
+openedApp,1752460630.324295,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,180.0
+openedApp,1752460732.2297878,breathingExercise,America/Bogota,twitter,False,1.5,Relax,240.0
+openedApp,1752461277.465016,breathingExercise,America/Bogota,twitter,False,1.5,Stalk crush,600.0
+openedApp,1752461891.253439,breathingExercise,America/Bogota,twitter,True,1.5,Toilet,600.0
+openedApp,1752462160.2710829,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+openedApp,1752462787.376555,breathingExercise,America/Bogota,tikTok,True,1.5,Message,600.0
+openedApp,1752463397.29794,breathingExercise,America/Bogota,tikTok,True,1.5,Message,600.0
+openedApp,1752463424.8227239,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,480.0
+openedApp,1752463825.743315,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,600.0
+openedApp,1752464080.068116,breathingExercise,America/Bogota,tikTok,False,1.5,Message,600.0
+openedApp,1752464718.867002,breathingExercise,America/Bogota,tikTok,True,1.5,Escape / Avoid,600.0
+openedApp,1752465329.607582,breathingExercise,America/Bogota,tikTok,True,1.5,Search Info,600.0
+openedApp,1752465937.6388469,breathingExercise,America/Bogota,tikTok,True,1.5,Search Info,600.0
+openedApp,1752466538.891773,breathingExercise,America/Bogota,tikTok,True,1.5,Can’t sleep,600.0
+openedApp,1752467141.0692759,breathingExercise,America/Bogota,tikTok,True,1.5,Stalk crush,600.0
+openedApp,1752467747.590462,breathingExercise,America/Bogota,tikTok,True,1.5,Can’t sleep,600.0
+openedApp,1752468347.385291,breathingExercise,America/Bogota,tikTok,True,1.5,Stay In the Loop,600.0
+openedApp,1752468949.996115,breathingExercise,America/Bogota,tikTok,True,1.5,Stalk crush,600.0
+openedApp,1752469554.577491,breathingExercise,America/Bogota,tikTok,True,1.5,Stalk crush,600.0
+openedApp,1752470153.5694098,breathingExercise,America/Bogota,tikTok,True,1.5,Stalk crush,600.0
+openedApp,1752470752.37543,breathingExercise,America/Bogota,tikTok,True,1.5,Search Info,600.0
+openedApp,1752471355.54045,breathingExercise,America/Bogota,tikTok,True,1.5,Escape / Avoid,600.0
+openedApp,1752471959.5463371,breathingExercise,America/Bogota,tikTok,True,1.5,Check likes,600.0
+dismissedAppOpening,1752472559.98631,breathingExercise,America/Bogota,tikTok,True,1.5,,
+openedApp,1752472570.4479818,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+openedApp,1752473169.63272,breathingExercise,America/Bogota,tikTok,True,1.5,Stay In the Loop,600.0
+openedApp,1752473719.541813,breathingExercise,America/Bogota,instagram,False,1.5,Check likes,540.0
+openedApp,1752473845.960678,breathingExercise,America/Bogota,twitter,False,1.5,Message,600.0
+openedApp,1752474097.0713348,breathingExercise,America/Bogota,tikTok,False,1.5,Escape / Avoid,600.0
+openedApp,1752474707.811707,breathingExercise,America/Bogota,tikTok,True,1.5,Bored,600.0
+openedApp,1752509413.863471,breathingExercise,America/Bogota,instagram,False,1.5,Escape / Avoid,420.0
+openedApp,1752509427.717953,breathingExercise,America/Bogota,twitter,False,1.5,Can’t sleep,480.0
+openedApp,1752509896.221541,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,300.0
+openedApp,1752510307.4856272,breathingExercise,America/Bogota,tikTok,True,1.5,Search Info,300.0
+openedApp,1752517768.408599,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,360.0
+openedApp,1752518056.2779388,breathingExercise,America/Bogota,twitter,False,1.5,Stay In the Loop,600.0
+openedApp,1752518394.9629369,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,600.0
+openedApp,1752520036.436707,breathingExercise,America/Bogota,instagram,False,1.5,Stay In the Loop,180.0
+dismissedAppOpening,1752521698.625454,breathingExercise,America/Bogota,instagram,False,1.5,,
+dismissedAppOpening,1752522031.944139,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1752522039.151406,breathingExercise,America/Bogota,twitter,False,1.5,Toilet,120.0
+dismissedAppOpening,1752522618.481295,breathingExercise,America/Bogota,instagram,False,1.5,,
+openedApp,1752522626.611961,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,300.0
+openedApp,1752522939.648387,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752523552.548522,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,600.0
+openedApp,1752524150.0369759,breathingExercise,America/Bogota,tikTok,True,1.5,Stay In the Loop,600.0
+openedApp,1752524753.8737478,breathingExercise,America/Bogota,tikTok,True,1.5,Relax,600.0
+openedApp,1752525556.0485492,breathingExercise,America/Bogota,tikTok,True,1.5,Stay In the Loop,600.0
+openedApp,1752526166.501517,breathingExercise,America/Bogota,tikTok,True,1.5,Toilet,600.0
+openedApp,1752526774.561023,breathingExercise,America/Bogota,tikTok,True,1.5,Relax,600.0
+openedApp,1752529299.700039,breathingExercise,America/Bogota,tikTok,False,1.5,Stay In the Loop,600.0
+dismissedAppOpening,1752531088.441801,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752531209.481865,breathingExercise,America/Bogota,instagram,False,1.5,Relax,600.0
+openedApp,1752531400.842946,breathingExercise,America/Bogota,tikTok,False,1.5,Message,600.0
+openedApp,1752532134.331225,breathingExercise,America/Bogota,tikTok,True,1.5,Post something,600.0
+dismissedAppOpening,1752532448.789657,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752544404.0160131,breathingExercise,America/Bogota,tikTok,False,1.5,Toilet,600.0
+openedApp,1752553283.272094,breathingExercise,America/Bogota,tikTok,False,1.5,Message,600.0
+openedApp,1752553895.902415,breathingExercise,America/Bogota,tikTok,True,1.5,Stalk crush,600.0
+openedApp,1752554504.921499,breathingExercise,America/Bogota,tikTok,True,1.5,Escape / Avoid,600.0
+openedApp,1752555114.58798,breathingExercise,America/Bogota,tikTok,True,1.5,Search Info,600.0
+openedApp,1752555728.754286,breathingExercise,America/Bogota,tikTok,True,1.5,Relax,600.0
+openedApp,1752556329.586244,breathingExercise,America/Bogota,tikTok,True,1.5,Can’t sleep,600.0
+openedApp,1752556934.0772262,breathingExercise,America/Bogota,tikTok,True,1.5,Stalk crush,600.0
+dismissedAppOpening,1752557534.704155,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752557544.295545,breathingExercise,America/Bogota,tikTok,False,1.5,Relax,600.0
+openedApp,1752557962.940036,breathingExercise,America/Bogota,instagram,False,1.5,Message,600.0
+openedApp,1752558102.836293,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+openedApp,1752558723.079474,breathingExercise,America/Bogota,tikTok,True,1.5,Message,600.0
+dismissedAppOpening,1752559089.950288,breathingExercise,America/Bogota,tikTok,False,1.5,,
+openedApp,1752559098.856658,breathingExercise,America/Bogota,twitter,False,1.5,Check likes,600.0
+openedApp,1752559228.34091,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752559843.926991,breathingExercise,America/Bogota,tikTok,True,1.5,Toilet,600.0
+openedApp,1752560544.203321,breathingExercise,America/Bogota,tikTok,True,1.5,Check likes,600.0
+openedApp,1752598165.9566631,breathingExercise,America/Bogota,instagram,False,1.5,Can’t sleep,600.0
+openedApp,1752598177.343612,breathingExercise,America/Bogota,twitter,False,1.5,Stalk crush,600.0
+openedApp,1752598828.495298,breathingExercise,America/Bogota,tikTok,False,1.5,Can’t sleep,600.0
+openedApp,1752599170.735231,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+openedApp,1752599558.5485601,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+openedApp,1752600337.106365,breathingExercise,America/Bogota,twitter,False,1.5,Toilet,420.0
+openedApp,1752600970.683497,breathingExercise,America/Bogota,tikTok,False,1.5,Toilet,600.0
+openedApp,1752602288.702488,breathingExercise,America/Bogota,tikTok,False,1.5,Toilet,600.0
+openedApp,1752602904.490947,breathingExercise,America/Bogota,tikTok,False,1.5,Search Info,600.0
+dismissedAppOpening,1752604777.6919131,breathingExercise,America/Bogota,tikTok,True,1.5,,
+openedApp,1752604805.710453,breathingExercise,America/Bogota,tikTok,False,1.5,Post something,600.0
+openedApp,1752605609.6915622,breathingExercise,America/Bogota,tikTok,True,1.5,Message,600.0
+openedApp,1752606336.242543,breathingExercise,America/Bogota,tikTok,True,1.5,Search Info,600.0
+openedApp,1752606936.5077581,breathingExercise,America/Bogota,tikTok,True,1.5,Search Info,600.0
+openedApp,1752607412.8249369,breathingExercise,America/Bogota,tikTok,False,1.5,Toilet,600.0
+openedApp,1752607915.054187,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752608800.398096,breathingExercise,America/Bogota,instagram,False,1.5,Entertainment,600.0
+openedApp,1752608933.5162702,breathingExercise,America/Bogota,tikTok,False,1.5,Bored,600.0
+openedApp,1752614704.733584,breathingExercise,America/Bogota,tikTok,False,1.5,Check likes,600.0
+openedApp,1752615318.02814,breathingExercise,America/Bogota,instagram,False,1.5,Stalk crush,600.0
+openedApp,1752615552.900875,breathingExercise,America/Bogota,tikTok,False,1.5,Entertainment,600.0
+openedApp,1753286616.534852,breathingExercise,America/Bogota,tikTok,False,6.0,Bored,600.0
+openedApp,1753287122.755794,breathingExercise,America/Bogota,tikTok,False,6.0,Stalk crush,600.0
+openedApp,1753287930.3237019,breathingExercise,America/Bogota,tikTok,False,6.0,Bored,600.0
+openedApp,1753288770.530778,breathingExercise,America/Bogota,tikTok,False,6.0,Escape / Avoid,600.0
+openedApp,1753293965.998275,breathingExercise,America/Bogota,instagram,False,6.0,Bored,600.0
+dismissedAppOpening,1753294573.653195,breathingExercise,America/Bogota,instagram,False,6.0,,
+openedApp,1753294592.363107,breathingExercise,America/Bogota,instagram,False,6.0,Escape / Avoid,600.0
+openedApp,1753295078.086451,breathingExercise,America/Bogota,tikTok,False,6.0,Check likes,600.0
+openedApp,1753308479.368252,breathingExercise,America/Bogota,instagram,False,6.0,Relax,300.0
+openedApp,1753308635.201287,breathingExercise,America/Bogota,tikTok,False,6.0,Relax,360.0
+openedApp,1753309128.1057081,breathingExercise,America/Bogota,tikTok,False,6.0,Can’t sleep,600.0
+openedApp,1753309753.160571,breathingExercise,America/Bogota,tikTok,False,6.0,Escape / Avoid,420.0
+dismissedAppOpening,1753363059.46061,breathingExercise,America/Bogota,tikTok,False,6.0,,
+dismissedAppOpening,1753363215.8732882,breathingExercise,America/Bogota,tikTok,False,6.0,,
+openedApp,1753363943.519899,breathingExercise,America/Bogota,tikTok,False,6.0,Check likes,600.0
+dismissedAppOpening,1753368569.795744,breathingExercise,America/Bogota,tikTok,False,6.0,,
+openedApp,1753368673.014182,breathingExercise,America/Bogota,tikTok,False,6.0,Message,600.0
+dismissedAppOpening,1753369133.2244859,breathingExercise,America/Bogota,tikTok,False,6.0,,
+openedApp,1753369209.501677,breathingExercise,America/Bogota,tikTok,False,6.0,Relax,600.0
+openedApp,1753369826.02301,breathingExercise,America/Bogota,tikTok,False,6.0,Post something,600.0
+openedApp,1753371298.845615,breathingExercise,America/Bogota,tikTok,False,6.0,Search Info,600.0
+openedApp,1753371818.268019,breathingExercise,America/Bogota,tikTok,False,6.0,Check likes,600.0
+dismissedAppOpening,1753374704.983177,breathingExercise,America/Bogota,tikTok,False,6.0,,
+openedApp,1753385065.190486,breathingExercise,America/Bogota,tikTok,False,6.0,Search Info,600.0
+openedApp,1753388008.611189,breathingExercise,America/Bogota,tikTok,False,6.0,Stay In the Loop,600.0
+openedApp,1753388543.694388,breathingExercise,America/Bogota,tikTok,False,6.0,Toilet,600.0
+openedApp,1753388873.785327,breathingExercise,America/Bogota,tikTok,False,6.0,Stalk crush,600.0
+openedApp,1753389210.824136,breathingExercise,America/Bogota,tikTok,False,6.0,Post something,600.0
+dismissedAppOpening,1753389539.4638429,breathingExercise,America/Bogota,tikTok,False,6.0,,
+dismissedAppOpening,1753389566.869951,breathingExercise,America/Bogota,tikTok,False,6.0,,
+openedApp,1753389659.2119598,breathingExercise,America/Bogota,tikTok,False,6.0,Stalk crush,600.0
+openedApp,1753389993.91697,breathingExercise,America/Bogota,tikTok,False,6.0,Entertainment,600.0
+openedApp,1753390597.0964642,breathingExercise,America/Bogota,tikTok,False,6.0,Bored,600.0
+openedApp,1753391225.129812,breathingExercise,America/Bogota,tikTok,False,6.0,Toilet,600.0
+dismissedAppOpening,1753391812.955515,breathingExercise,America/Bogota,tikTok,True,6.0,,
+openedApp,1753391870.477978,breathingExercise,America/Bogota,tikTok,False,6.0,Escape / Avoid,600.0
+openedApp,1753392385.942371,breathingExercise,America/Bogota,tikTok,False,6.0,Entertainment,600.0
+openedApp,1753393538.817049,breathingExercise,America/Bogota,tikTok,False,6.0,Entertainment,600.0
+openedApp,1753394196.128833,breathingExercise,America/Bogota,tikTok,True,6.0,Stalk crush,600.0
+openedApp,1753395264.654428,breathingExercise,America/Bogota,tikTok,False,6.0,Message,600.0
+dismissedAppOpening,1753395742.413759,breathingExercise,America/Bogota,tikTok,False,6.0,,
+dismissedAppOpening,1753395837.092514,breathingExercise,America/Bogota,tikTok,False,6.0,,
+openedApp,1753395902.893489,breathingExercise,America/Bogota,tikTok,False,6.0,Escape / Avoid,600.0
+openedApp,1753396671.694395,breathingExercise,America/Bogota,tikTok,False,6.0,Entertainment,600.0
+openedApp,1753397326.5984468,breathingExercise,America/Bogota,tikTok,False,6.0,Stay In the Loop,600.0
+openedApp,1753398090.592105,breathingExercise,America/Bogota,tikTok,False,6.0,Message,600.0
+dismissedAppOpening,1753398540.678259,breathingExercise,America/Bogota,tikTok,False,6.0,,
+openedApp,1753399897.1306438,breathingExercise,America/Bogota,instagram,False,6.0,Escape / Avoid,600.0
+dismissedAppOpening,1753399988.729455,breathingExercise,America/Bogota,tikTok,False,6.0,,
+openedApp,1753400068.608645,breathingExercise,America/Bogota,tikTok,False,6.0,Search Info,600.0
+openedApp,1753400535.591259,breathingExercise,America/Bogota,tikTok,False,6.0,Stalk crush,600.0
+dismissedAppOpening,1753401782.77322,breathingExercise,America/Bogota,tikTok,False,6.0,,
+dismissedAppOpening,1753402108.007381,breathingExercise,America/Bogota,tikTok,False,6.0,,
+openedApp,1753402311.224478,breathingExercise,America/Bogota,instagram,False,6.0,Post something,600.0
+openedApp,1753402719.8040562,breathingExercise,America/Bogota,instagram,False,6.0,Bored,600.0
+openedApp,1753402799.6324902,breathingExercise,America/Bogota,tikTok,True,6.0,Stay In the Loop,600.0

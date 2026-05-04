@@ -1,0 +1,798 @@
+resolution,app,timezone,interventionType,interventionDuration,timestamp,isReIntervention,purpose
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749114512.347338,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749143807.4158158,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749145216.7916188,False,Message
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749145400.0201778,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749146905.0948892,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749152413.886845,False,Message
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749152448.2704182,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749154850.766036,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749155288.003436,False,Message
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749155450.798376,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749156768.699582,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749161500.240047,False,Message
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749171799.397094,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749173280.285939,False,Message
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749185469.091827,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749186027.699057,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749186832.091785,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749191493.504559,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749191854.9550428,False,Search Info
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749194868.63657,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749203414.924645,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749205337.0198169,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749233430.3775082,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749234918.452178,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749234921.844631,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749236587.3510919,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749243102.5734348,False,Message
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749243536.8740249,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749243548.499361,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749244873.426262,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749250043.458297,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749251866.9766011,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749254744.937315,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749254872.757823,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749258819.593374,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749259160.505394,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749261242.058994,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749272668.90276,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749278239.143955,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749285984.794384,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749287300.1237001,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749287512.176873,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749288747.779675,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749289330.9744592,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749293159.398004,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749293315.4230409,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749293741.043515,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749294994.4970288,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749295964.367141,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749298682.883676,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749321471.072637,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749321665.500752,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749322329.342058,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749322915.866372,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749325165.3361979,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749329079.244279,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749329544.541599,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749329879.561096,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749330257.661734,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749333105.283366,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749337413.112958,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749338393.470901,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749340488.309026,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749340622.09589,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749340633.6023211,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749344928.461028,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749345079.676856,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749355968.022983,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749356211.796938,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749365390.518466,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749365828.687674,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749370293.575597,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749370453.925469,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749371925.9640641,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749379745.222487,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749379926.898812,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749380015.7850351,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749380171.766149,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749407423.060878,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749407519.793244,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749407523.203944,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749407552.891957,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749407718.948926,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749407765.284617,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749408190.186211,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749417297.973329,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749440262.469921,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749440492.937131,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749441870.459406,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749442041.232767,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749444688.2494879,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749447811.10077,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749448771.4792318,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749448947.985069,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749449371.835857,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749449522.780132,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749457241.6335878,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749493339.6533031,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749494228.6142411,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749507260.771838,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749514560.702894,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749525165.303488,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749525357.793099,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749543143.190835,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749543473.3734322,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749543511.3616009,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749543624.939868,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749546920.53059,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749547724.3897839,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749549556.066399,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749578056.287236,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749585496.908037,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749585606.288344,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749592150.855819,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749592380.2090368,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749592517.0031018,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749602452.923264,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749602486.20084,False,Search Info
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749605686.9407701,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749607522.8659558,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749609872.8252711,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749617765.722886,False,Message
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749618689.871539,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749618707.913612,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749621010.406052,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749622087.7678518,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749627294.8833299,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749627740.916666,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749631056.158077,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749631073.564228,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749655753.6526098,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749676658.995452,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749685129.914349,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749685307.5941238,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749685415.5013208,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749685504.628694,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749690984.4940739,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749691443.1786032,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749691455.356567,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749698191.16179,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749698259.290207,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749713991.854285,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749714156.498184,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749722924.556283,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749725022.854234,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749725951.45504,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749745268.65677,False,Message
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749745409.934111,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749747001.133398,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749747083.292644,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749747724.242028,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749755959.8697119,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749755972.7786942,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749756064.366777,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749759901.604698,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749764882.6453319,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749765483.515778,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749765861.552713,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749769069.2463799,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749772757.891008,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749772986.660269,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749774033.707611,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749775142.035056,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749784932.0613751,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749797836.744021,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749797917.5875049,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749798961.1706228,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749799195.742264,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749800321.276694,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749800737.4602342,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749800806.463203,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749801571.392926,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749802970.661403,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749836449.046493,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749836922.079201,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749842051.853176,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749842452.5543551,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749842538.621043,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749842655.558477,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749851302.607501,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749851425.191036,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749851692.986938,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749851939.3920798,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749851987.7113972,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749853234.726531,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749853950.229064,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749854125.339556,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749854659.102384,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749885426.815129,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749885597.254777,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749888628.9023209,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749894683.3857121,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749894985.526894,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749895160.613801,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749895210.759115,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749895472.174934,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749896478.2338529,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749896686.981934,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749897395.331176,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749928714.3472838,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749929087.2609491,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749929183.909677,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749929281.2981,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749929811.3881521,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749933340.0004969,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749933563.1312032,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749934616.101423,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749934856.047307,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749935050.858667,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749939174.9018059,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749939272.582722,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749939287.395396,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749964773.907584,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1749967516.7812362,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749980085.278969,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1749981688.035192,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750006755.647387,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750007608.7588592,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750007767.558588,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750008983.604435,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750008990.7747831,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750009002.4845052,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750010358.472801,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750020731.188678,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750022330.058189,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750022348.1681871,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750044280.370823,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750046137.014641,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750046703.4832358,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750048045.541239,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750048522.3907762,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750049906.352761,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750049920.279413,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750091920.75719,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750091932.806169,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750092104.446089,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750092175.350288,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750092203.181027,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750092522.537574,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750092612.127239,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750092811.3317552,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750092885.969996,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750096424.6439419,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750097082.397798,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750113428.644242,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750114214.986404,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750114637.064004,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750116822.441745,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750124683.371982,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750125057.047985,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750125158.922637,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750125211.8276381,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750130917.040909,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750135862.838002,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750135875.131569,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750137162.237187,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750137586.748627,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750185562.940195,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750191483.6275868,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750198039.50847,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750199081.840849,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750204168.271299,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750206341.291023,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750206393.4395761,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750208307.185772,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750211618.301674,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750211629.624732,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750211865.36438,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750213483.106007,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750217035.4178681,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750225541.5045,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750227496.3147879,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750227529.301805,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,3,1750234692.951761,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750241385.4159698,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750268663.122571,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750273140.250218,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750277131.897914,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750296068.5152922,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750302066.5512261,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750303169.123807,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750309540.161885,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750310285.1773582,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,3,1750315153.1686358,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750324683.288594,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750364774.208185,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750365175.608934,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750367426.3882031,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750369475.969753,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750374981.1179972,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750375039.005089,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750375760.4976301,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750376489.527004,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750377335.2183418,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750380221.862156,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750389762.34232,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750389778.9033298,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750390027.520458,False,Escape / Avoid
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750390066.9971561,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750445730.329825,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750446008.9605742,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750447281.496572,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750447297.741108,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750448112.706327,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750463474.563786,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750463722.362924,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750463944.041318,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750474562.184349,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750474932.575406,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750476216.6292439,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750480177.545547,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750480193.492861,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750486112.805932,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750492025.05007,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750492486.98312,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750495029.6137109,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750543712.565664,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750565463.4749398,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750566049.456286,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750571765.160583,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750574500.060419,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750575764.742844,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750579600.9753451,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750584406.327608,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750585751.533952,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750641624.788301,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750644058.479014,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750644617.495411,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750644715.495349,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750656516.993423,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750657445.326566,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750657657.348974,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750657909.921766,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750661886.886694,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750663429.7753,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750696094.538931,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750696112.492707,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750696489.378686,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750709341.9496012,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750714739.702211,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750732123.646229,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750732183.214054,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750734874.239552,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750751281.850916,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750755679.485187,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750782200.498682,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750811266.0269852,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750825441.825799,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750827591.114438,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750828821.244594,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750831427.497023,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750835813.167657,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750886213.3396192,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750886307.1052132,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750887239.419828,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750888317.6164489,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750888462.815813,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750904582.8713999,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750909105.291601,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750925844.090467,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750925861.735591,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750926486.074584,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750926526.8938909,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750927280.79802,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750930328.069588,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750931365.902944,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750931381.460188,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750960460.018214,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750960550.471743,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750960930.2267442,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750966010.573806,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750972793.04122,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1750972837.850923,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750972852.925663,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750973874.102452,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750974230.289233,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750974597.3533978,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750974674.225754,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750977324.448543,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750997051.476109,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750997475.386406,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1750998425.875554,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751003908.615776,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751005541.113404,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751005560.829849,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751006968.6549459,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751011025.8749352,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751011536.45665,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751012051.113051,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751051431.807667,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751052374.803335,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751052670.633652,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751053085.5417252,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751053654.563817,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751054051.9383678,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751058093.132522,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751058672.034006,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751073783.508198,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751074457.112571,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751074859.622387,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751076220.523983,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751089267.4939442,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751089417.337249,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751095125.24786,False,Escape / Avoid
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751096616.6741529,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751096740.061157,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751098696.6232371,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751099087.8003469,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751100950.1676512,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751101567.435522,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751101614.710805,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751104228.1924272,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751105250.975398,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751105485.295497,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751106572.046576,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751106813.534219,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751109678.8708692,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751131005.702199,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751131025.629312,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751131956.139837,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751132123.625893,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751133560.203692,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751143092.545363,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751153395.6672192,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751159591.412781,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751184988.139919,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751185006.9768682,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751186649.002166,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751187045.1693978,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751224518.158323,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751232322.138085,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751232574.407254,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751235254.802722,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751240827.005475,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751264859.401616,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751272895.546877,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751272911.9428182,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751273459.269837,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751275774.651504,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751276529.776696,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751279016.8673391,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751279108.414088,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751279592.3351989,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751304970.207396,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751306730.844596,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751306753.6760101,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751309561.706492,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751318592.103714,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751318706.598119,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751321202.475367,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751321435.248951,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751327083.599846,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751329159.010929,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751333901.873447,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751334175.98843,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751338113.1653972,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751343821.986381,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751353389.6768441,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751354954.65574,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751355218.053862,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751357912.325766,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751393769.816121,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751395005.894805,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751396894.2075949,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751397175.929851,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751406025.255231,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751406085.331685,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751406173.268626,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751406270.563922,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751406728.698976,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751407220.567796,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751407267.66451,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751407310.2348661,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751407350.6926088,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751407692.133497,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751408299.186032,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751408693.643457,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751408993.2765841,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751410014.404283,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751411553.354181,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751411893.731204,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751428417.9649792,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751438324.424336,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751439497.518673,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751444826.380986,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751444838.456884,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751444856.384654,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751446386.599813,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751447617.821735,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751447687.260515,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751447991.133058,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751448853.842057,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751449179.715392,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751451142.6749249,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751453114.353107,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751475172.811764,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751476502.545547,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751476520.308914,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751491218.989931,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751491813.0149999,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751492524.001262,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751495924.1733499,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751500820.496389,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751505557.144528,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751524872.282116,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751525614.061252,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751527125.98243,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751528215.23166,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751528459.627095,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751530560.880118,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751532558.524559,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751532849.938509,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751534629.849047,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751534982.4914222,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751535067.808465,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751535143.671587,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751535209.725704,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751535357.006887,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751535410.7206922,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751535516.812953,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751536152.747342,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751564079.6171021,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751577400.3082762,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751577778.570034,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751580110.345302,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751580308.443532,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751580363.0252151,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751580623.312716,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751582048.349956,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751582356.994453,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751582654.710742,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751583004.052119,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751588875.445199,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751590385.025465,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751590551.206225,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751594878.6141438,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751596050.200089,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751596134.495782,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751597793.380655,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751598474.21803,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751600505.406931,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751605391.941109,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751609166.888791,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751610448.904669,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751612219.60737,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751612330.915412,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751613293.402077,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751613829.762425,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751614044.660235,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751614178.7139878,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751618409.4375138,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751618429.3608751,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751619141.908833,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751620113.820363,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751620437.22295,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751625105.497593,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751625464.8207889,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751628461.891961,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751650553.087863,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751650679.408654,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751650752.366722,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751651560.6057448,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751651746.364684,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751651947.0523949,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751652505.738877,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751653027.025796,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751654090.1605601,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751655460.635745,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751655464.001742,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751658180.066527,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751658624.5047169,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751658684.0228372,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751659287.18135,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751659589.8387341,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751663437.475023,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751664165.884908,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751665154.823703,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751665426.578819,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751675944.9658709,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751686121.1813478,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751687226.1673899,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751692360.853589,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751692385.2091951,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751694528.362436,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751694648.308037,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751695230.221544,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751695317.510071,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751695369.162554,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751696838.606268,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751701233.157656,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751702772.744401,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751703151.817797,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751703660.448848,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751722703.556314,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751723472.436049,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751723874.572473,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751725544.839929,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751726102.988898,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751726836.870161,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751727071.122612,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751734742.554992,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751739916.196087,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751739955.9894938,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751741395.2678761,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751748137.8488832,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751748560.72512,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751751177.814454,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751752074.432152,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751756567.065411,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751822883.528259,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751823790.001834,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751831641.384242,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751832428.367333,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751834556.94326,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751837183.6687288,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751838503.933768,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751838548.23031,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751839716.906832,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751855489.962367,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751855606.434891,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751860876.637362,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751865728.074791,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751868120.739146,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751870419.944484,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751871727.737949,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751872340.524763,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751875205.488646,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751878066.817605,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751878704.3457499,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751878866.5047212,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751880341.004544,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751880699.33434,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751907813.60647,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751908594.766738,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751909765.751999,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751910808.713083,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751914540.2783241,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751959422.451247,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751961075.198882,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1751967980.5275621,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751998919.726801,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1751999043.255379,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752000596.168339,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752000759.349657,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752004134.601774,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752009409.834558,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752013759.8282518,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752013782.705894,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752019182.206307,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752019348.134862,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752019469.2443318,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752021370.65174,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752024716.855295,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752025655.421217,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752043002.839272,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752044887.1227531,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752077807.983742,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752078076.072742,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752078542.9322228,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752078814.0831342,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752097534.1883268,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752098783.8762689,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752100290.122971,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752101491.993293,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752137369.585054,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752140720.270684,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752167181.36375,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752167399.605314,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752171976.8449578,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752172221.048455,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752172400.151029,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752172895.4881968,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752173481.455931,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752173607.719444,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752177450.481635,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752177779.958682,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752180565.8789248,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752185491.2454472,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752189910.464741,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752191034.0151892,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752191362.616945,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752192009.5424628,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752192023.254294,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752201967.894034,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752202073.523612,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752203521.409206,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752206170.802259,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752222019.7980242,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752222491.1293988,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752249308.967843,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752250923.334138,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752253300.758558,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752253730.1030378,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752254006.749103,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752254242.387778,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752254416.549798,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752258070.8240728,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752264107.064419,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752264352.293912,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752270551.26938,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752273907.528421,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752285806.914516,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752286273.644693,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752288366.341916,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752288641.923965,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752288898.19789,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752289476.807263,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752309560.18461,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752311084.8010821,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752342683.83669,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752360203.328083,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752361939.274749,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752361955.949384,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752365021.3325272,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752365931.819217,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752368226.675008,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752388124.26859,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752388142.1570811,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752388486.152381,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752388644.58611,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752389589.899905,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752392647.1883721,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752399372.578121,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752399439.3267899,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752399836.3259668,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752422743.698405,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752431488.422758,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752432118.626663,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752432124.4881039,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752433027.6989598,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752434691.612973,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752434724.161067,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752435080.456963,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752441595.122144,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752441757.77142,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752446950.289174,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752447766.797542,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752447880.903544,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752455232.605766,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752465319.1259918,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752468325.364654,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752474671.584801,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752475727.3096871,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752476676.060705,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752477374.1939979,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752477987.9286242,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752480406.530755,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752487065.755749,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752509447.621999,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752510701.171156,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752516240.929287,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752517330.1785932,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752517387.989682,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752517607.616335,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752517612.30618,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752517633.328813,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752517707.128653,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752517744.982794,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752522356.1896281,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752524689.01081,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752525156.1619802,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752525406.293253,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752542449.20219,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752543111.976861,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752558040.470252,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752560778.761256,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752564366.6745958,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752564967.688323,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752566111.682025,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752566598.5199342,False,
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752570926.338406,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752570947.8743901,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752572176.967272,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752600300.001514,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752600715.4756808,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752616980.331708,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752619263.092113,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752620591.326867,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752622672.489283,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752630246.833065,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752649141.600296,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752668132.94549,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752668245.810711,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752696054.896982,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752697626.777463,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752702266.9102058,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752702480.7878098,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752702506.2036781,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752710058.069423,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752711875.853924,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752714151.367021,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752724347.881112,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752724367.673928,False,Stay In the Loop
+dismissedAppOpening,instagram,America/Los_Angeles,breathingExercise,6,1752732258.9666781,False,
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752732278.5104299,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752735337.0651898,False,Stay In the Loop
+openedApp,instagram,America/Los_Angeles,breathingExercise,6,1752739576.346534,False,Stay In the Loop

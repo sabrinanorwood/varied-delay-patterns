@@ -1,0 +1,2 @@
+timestamp,timezone,isReIntervention,interventionDuration,app,interventionType,resolution
+1753131606.278034,America/New_York,False,3,instagram,breathingExercise,dismissedAppOpening

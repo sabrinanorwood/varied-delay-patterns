@@ -1,0 +1,2 @@
+interventionType,timezone,timestamp,app,isReIntervention,purpose,resolution,interventionDuration
+breathingExercise,Asia/Shanghai,1751449485.5733519,bilibili,False,娱乐,openedApp,1.5

@@ -1,0 +1,2 @@
+interventionType,timezone,interventionDuration,app,isReIntervention,timestamp,resolution
+breathingExercise,America/Chicago,6,facebookMessenger,False,1749225894.244595,dismissedAppOpening

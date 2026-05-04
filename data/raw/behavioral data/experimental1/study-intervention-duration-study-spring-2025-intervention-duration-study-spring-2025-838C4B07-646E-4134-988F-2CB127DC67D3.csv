@@ -1,9 +1,0 @@
-app,timestamp,resolution,timezone,interventionDuration,interventionType,isReIntervention,purpose,timeIntervalUntilReIntervention,terminationReason
-instagram,1752003288.9271321,dismissedAppOpening,Europe/Paris,1.5,breathingExercise,0.0,,,
-instagram,1752004297.346099,openedApp,Europe/Paris,1.5,breathingExercise,0.0,Message,180.0,
-instagram,1752004581.0856972,openedApp,Europe/Paris,1.5,breathingExercise,0.0,Message,180.0,
-instagram,1752004790.04911,openedApp,Europe/Paris,1.5,breathingExercise,1.0,Message,120.0,
-instagram,1752005366.3961601,dismissedAppOpening,Europe/Paris,1.5,breathingExercise,0.0,,,
-instagram,1752005731.52387,dismissedAppOpening,Europe/Paris,1.5,breathingExercise,0.0,,,
-facebook,1752006150.599251,dismissedAppOpening,Europe/Paris,1.5,breathingExercise,0.0,,,
-,1752006339.654825,,,,,,,,terminatedByUser

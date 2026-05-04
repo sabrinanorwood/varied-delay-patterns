@@ -1,0 +1,290 @@
+isReIntervention,timezone,timestamp,app,purpose,interventionDuration,resolution,interventionType,timeIntervalUntilReIntervention
+False,Europe/Vienna,1752867688.506561,instagram,Langeweile,1.5,openedApp,breathingExercise,
+False,Europe/Vienna,1752874546.893529,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752875554.841497,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,
+False,Europe/Vienna,1752905502.609857,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752905505.166521,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752909842.1661959,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752915607.730657,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752915625.6689792,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,120.0
+False,Europe/Vienna,1752915813.087963,instagram,,,closedApp,,
+False,Europe/Vienna,1752915838.3705401,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,
+False,Europe/Vienna,1752915861.639811,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752915883.531845,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,
+False,Europe/Vienna,1752918987.0336308,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752923263.922921,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752923337.379859,instagram,Langeweile,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1752943930.521823,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752943973.274399,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752923550.843591,instagram,,,closedApp,,
+False,Europe/Vienna,1752926867.635853,instagram,,,closedApp,,
+False,Europe/Vienna,1752952471.951932,instagram,Ablenkung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1752952494.445006,instagram,,,closedApp,,
+False,Europe/Vienna,1752952514.9703732,instagram,,,closedApp,,
+False,Europe/Vienna,1752952776.596473,instagram,,,closedApp,,
+False,Europe/Vienna,1752960552.999464,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752960563.7091188,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752960572.6602612,instagram,Ablenkung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1752960617.860077,instagram,,,closedApp,,
+False,Europe/Vienna,1752960620.17478,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752997608.169529,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752997621.372445,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1752997716.165718,instagram,,,closedApp,,
+False,Europe/Vienna,1752997822.3319879,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1752997869.01348,instagram,Etwas posten,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1752998015.5496268,instagram,,,closedApp,,
+False,Europe/Vienna,1752998038.232822,instagram,,,closedApp,,
+False,Europe/Vienna,1752998156.2680469,instagram,Etwas posten,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1752998246.229653,instagram,,,closedApp,,
+False,Europe/Vienna,1753002048.419106,instagram,,,closedApp,,
+False,Europe/Vienna,1753011810.071652,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753011881.064052,instagram,,,closedApp,,
+False,Europe/Vienna,1753011960.032757,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753011961.783639,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753011964.2693639,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753011974.044862,instagram,Nachricht / Schreiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753012335.271893,instagram,,,closedApp,,
+False,Europe/Vienna,1753024551.6302462,instagram,,,closedApp,,
+False,Europe/Vienna,1753025022.137988,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753039111.3821368,instagram,Langeweile,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753039191.3215919,instagram,,,closedApp,,
+False,Europe/Vienna,1753039777.013863,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753039781.3633409,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753094387.709944,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753094446.79349,instagram,,,closedApp,,
+False,Europe/Vienna,1753094499.937368,instagram,,,closedApp,,
+False,Europe/Vienna,1753095764.3391,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,
+False,Europe/Vienna,1753097447.071929,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753097457.126612,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753114523.41521,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,
+False,Europe/Vienna,1753114901.004951,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753115120.3514009,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753115285.3367372,instagram,,,closedApp,,
+False,Europe/Vienna,1753115348.3914208,instagram,,,closedApp,,
+False,Europe/Vienna,1753119293.739423,instagram,,,closedApp,,
+False,Europe/Vienna,1753121023.5683088,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753121066.4873738,instagram,,,closedApp,,
+False,Europe/Vienna,1753122082.244802,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753126987.2251968,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753127011.727007,instagram,,,closedApp,,
+False,Europe/Vienna,1753127018.982383,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,
+False,Europe/Vienna,1753129566.846743,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,
+False,Europe/Vienna,1753129577.2280989,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753133696.0943809,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753133752.3965049,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753157745.570034,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753161443.917204,mail,,1.5,dismissedAppOpening,askForTimeLimit,
+False,Europe/Vienna,1753161458.5927548,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753161546.804618,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,60.0
+True,Europe/Vienna,1753161629.1480742,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,60.0
+True,Europe/Vienna,1753161727.9336119,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,240.0
+False,Europe/Vienna,1753161848.890142,mail,,1.5,dismissedAppOpening,askForTimeLimit,
+False,Europe/Vienna,1753161852.528532,mail,,1.5,openedApp,askForTimeLimit,60.0
+True,Europe/Vienna,1753161943.4012551,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,480.0
+False,Europe/Vienna,1753162066.9783401,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753162076.2644591,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753163230.070828,instagram,,,closedApp,,
+False,Europe/Vienna,1753163247.4520822,instagram,,,closedApp,,
+False,Europe/Vienna,1753163508.916161,instagram,,,closedApp,,
+False,Europe/Vienna,1753163593.565382,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753163879.0265121,instagram,Entspannung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753163891.694175,instagram,,,closedApp,,
+False,Europe/Vienna,1753164018.311656,instagram,,,closedApp,,
+False,Europe/Vienna,1753164157.057133,instagram,Etwas posten,1.5,openedApp,breathingExercise,780.0
+False,Europe/Vienna,1753165747.53714,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753165750.3881512,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753165949.930675,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753165952.3913789,mail,,1.5,dismissedAppOpening,askForTimeLimit,
+False,Europe/Vienna,1753165997.411552,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753166028.801196,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753166115.962318,mail,,1.5,dismissedAppOpening,askForTimeLimit,
+False,Europe/Vienna,1753166121.1532521,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753166706.114708,instagram,Ablenkung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753167136.451789,instagram,,,closedApp,,
+False,Europe/Vienna,1753172707.5988421,instagram,,,closedApp,,
+False,Europe/Vienna,1753176214.604721,instagram,Infos suchen,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753176300.623344,instagram,Infos suchen,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753176324.73805,instagram,,,closedApp,,
+True,Europe/Vienna,1753177806.687398,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753178131.5633159,mail,,1.5,dismissedAppOpening,askForTimeLimit,
+False,Europe/Vienna,1753178134.221393,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753195380.561487,instagram,Infos suchen,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753195412.988268,instagram,,,closedApp,,
+False,Europe/Vienna,1753195424.914659,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753196116.062612,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753199997.207072,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753210988.9462419,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753210993.446038,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753212934.094346,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753213022.205167,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753213024.911181,mail,,1.5,dismissedAppOpening,askForTimeLimit,
+False,Europe/Vienna,1753214127.368345,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753214132.172334,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753215232.274034,instagram,Entspannung,1.5,openedApp,breathingExercise,120.0
+False,Europe/Vienna,1753215265.8380299,instagram,,,closedApp,,
+False,Europe/Vienna,1753215448.7839298,instagram,,,closedApp,,
+False,Europe/Vienna,1753215574.274581,instagram,,,closedApp,,
+False,Europe/Vienna,1753215945.7390308,instagram,,,closedApp,,
+False,Europe/Vienna,1753249008.539716,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753249012.591856,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753249959.041551,instagram,Klo,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753249964.348762,mail,,1.5,openedApp,askForTimeLimit,60.0
+False,Europe/Vienna,1753250845.38162,instagram,Klo,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753251142.3502169,instagram,,,closedApp,,
+False,Europe/Vienna,1753251184.559105,instagram,,,closedApp,,
+False,Europe/Vienna,1753256368.5502691,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753256388.776558,instagram,,,closedApp,,
+False,Europe/Vienna,1753259777.3188338,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753259958.844027,instagram,,,closedApp,,
+False,Europe/Vienna,1753262599.993537,instagram,,,closedApp,,
+False,Europe/Vienna,1753263171.942724,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753264590.5558062,mail,Nachricht / Schreiben,1.5,openedApp,breathingExercise,
+False,Europe/Vienna,1753264658.3090649,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753264676.585733,mail,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753265567.089453,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753265709.4216862,instagram,,,closedApp,,
+False,Europe/Vienna,1753265816.430445,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753266306.556329,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753266641.645616,instagram,,1.5,dismissedAppOpening,breathingExercise,
+True,Europe/Vienna,1753268214.941629,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753271161.212193,instagram,Nachricht / Schreiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753271243.34337,instagram,,,closedApp,,
+False,Europe/Vienna,1753272127.923197,instagram,,,closedApp,,
+False,Europe/Vienna,1753275381.974529,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753275612.99144,instagram,,,closedApp,,
+False,Europe/Vienna,1753275883.386565,instagram,,,closedApp,,
+False,Europe/Vienna,1753276273.936275,instagram,,,closedApp,,
+False,Europe/Vienna,1753277347.016418,instagram,,,closedApp,,
+False,Europe/Vienna,1753277411.250833,instagram,,,closedApp,,
+False,Europe/Vienna,1753277479.944432,instagram,,,closedApp,,
+False,Europe/Vienna,1753281925.21494,instagram,Kann nicht schlafen,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753282178.71523,instagram,,,closedApp,,
+False,Europe/Vienna,1753282270.481808,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753282959.572464,instagram,Infos suchen,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753283204.6405249,instagram,,,closedApp,,
+False,Europe/Vienna,1753288394.903167,instagram,Ablenkung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753288528.4655042,instagram,,,closedApp,,
+False,Europe/Vienna,1753293422.213328,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753293458.222805,instagram,,,closedApp,,
+False,Europe/Vienna,1753293527.264244,instagram,Entspannung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753293778.867377,instagram,,,closedApp,,
+False,Europe/Vienna,1753303381.637331,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753303676.57921,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753304707.753996,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753304886.179735,instagram,,,closedApp,,
+False,Europe/Vienna,1753308169.9474602,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753334048.306153,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753335533.535059,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753355292.324665,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753355395.0036101,instagram,,,closedApp,,
+False,Europe/Vienna,1753358911.91767,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753382613.033215,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753382615.124426,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753382619.9261541,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753382623.98,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753382624.271132,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753382633.9747748,instagram,Entspannung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753382737.886061,instagram,,,closedApp,,
+False,Europe/Vienna,1753383060.4223971,instagram,,,closedApp,,
+False,Europe/Vienna,1753383143.456276,instagram,,,closedApp,,
+False,Europe/Vienna,1753383268.4113789,instagram,,,closedApp,,
+False,Europe/Vienna,1753383359.088283,instagram,,,closedApp,,
+False,Europe/Vienna,1753383432.9232821,instagram,,,closedApp,,
+False,Europe/Vienna,1753384640.5077791,instagram,Ablenkung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753384783.6849818,instagram,,,closedApp,,
+False,Europe/Vienna,1753386819.6419601,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753386914.80354,instagram,,,closedApp,,
+False,Europe/Vienna,1753389234.5381842,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753389687.029419,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753389781.667095,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753389847.893666,instagram,,,closedApp,,
+False,Europe/Vienna,1753389957.284744,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753390367.6486568,instagram,Entspannung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753390741.367522,instagram,Kann nicht schlafen,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753390773.50073,instagram,,,closedApp,,
+False,Europe/Vienna,1753423297.703521,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753423312.519075,instagram,,,closedApp,,
+False,Europe/Vienna,1753425348.500607,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753425863.856112,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753425940.6192532,instagram,,,closedApp,,
+False,Europe/Vienna,1753426065.786722,instagram,,,closedApp,,
+False,Europe/Vienna,1753426123.815693,instagram,,,closedApp,,
+False,Europe/Vienna,1753426665.112499,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753426792.44446,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753438454.417603,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753440119.652854,instagram,Ablenkung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753440358.869875,instagram,,,closedApp,,
+False,Europe/Vienna,1753440835.860048,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753440840.213018,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753448888.9165468,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753449015.501957,instagram,,,closedApp,,
+False,Europe/Vienna,1753449262.851085,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753450485.520334,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753452826.152903,instagram,Ablenkung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753452992.00073,instagram,,,closedApp,,
+False,Europe/Vienna,1753454015.930639,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753454036.260377,instagram,,,closedApp,,
+False,Europe/Vienna,1753455343.979617,instagram,Crush stalken,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753455513.590086,instagram,,,closedApp,,
+False,Europe/Vienna,1753455671.745312,instagram,,,closedApp,,
+False,Europe/Vienna,1753455984.243514,instagram,,,closedApp,,
+False,Europe/Vienna,1753456530.797986,instagram,,,closedApp,,
+False,Europe/Vienna,1753458199.125762,instagram,Crush stalken,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753458218.660995,instagram,,,closedApp,,
+False,Europe/Vienna,1753458849.124425,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753459973.338276,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753460108.7050362,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753460858.685631,instagram,Ablenkung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Vienna,1753460875.3611422,instagram,,,closedApp,,
+False,Europe/Vienna,1753462028.446614,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Vienna,1753462409.182747,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Berlin,1753463026.4034882,instagram,,,closedApp,,
+False,Europe/Berlin,1753463256.67804,instagram,,,closedApp,,
+False,Europe/Berlin,1753516753.24678,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Paris,1753547929.791508,instagram,Ablenkung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753547989.33118,instagram,,,closedApp,,
+False,Europe/Paris,1753548031.4926,instagram,,,closedApp,,
+False,Europe/Paris,1753602021.575968,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Paris,1753602027.692709,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Paris,1753698185.948117,instagram,Nachricht / Schreiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753698222.431854,instagram,,,closedApp,,
+False,Europe/Paris,1753698537.524578,instagram,,,closedApp,,
+False,Europe/Paris,1753698717.4668589,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Paris,1753702665.9649792,instagram,Auf dem Laufenden bleiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753702742.807732,instagram,,,closedApp,,
+False,Europe/Paris,1753702815.747696,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Paris,1753703314.57565,instagram,Etwas posten,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753703835.090189,instagram,,,closedApp,,
+False,Europe/Paris,1753704106.5708199,instagram,Etwas posten,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753704143.135203,instagram,,,closedApp,,
+False,Europe/Paris,1753704230.283515,instagram,,,closedApp,,
+False,Europe/Paris,1753704536.40342,instagram,,,closedApp,,
+False,Europe/Paris,1753715539.774837,instagram,,,closedApp,,
+False,Europe/Paris,1753715623.636872,instagram,,,closedApp,,
+False,Europe/Paris,1753735166.4683309,instagram,Entspannung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753735342.394476,instagram,,,closedApp,,
+False,Europe/Paris,1753735454.6678472,instagram,Kann nicht schlafen,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753735544.104208,instagram,,,closedApp,,
+False,Europe/Paris,1753735647.207062,instagram,,,closedApp,,
+False,Europe/Paris,1753735934.850867,instagram,Entspannung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753736202.8217158,instagram,,,closedApp,,
+False,Europe/Paris,1753736358.1311789,instagram,,,closedApp,,
+False,Europe/Paris,1753740869.181514,instagram,,1.5,dismissedAppOpening,breathingExercise,
+False,Europe/Paris,1753744255.642237,instagram,Unterhaltung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753744286.629045,instagram,,,closedApp,,
+False,Europe/Paris,1753972956.729865,instagram,Entspannung,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1753972974.207293,instagram,,,closedApp,,
+False,Europe/Paris,1753979790.6105518,instagram,,,closedApp,,
+False,Europe/Paris,1754061592.777051,instagram,Nachricht / Schreiben,1.5,openedApp,breathingExercise,60.0
+False,Europe/Paris,1754061628.826779,instagram,,,closedApp,,
+False,Europe/Paris,1754063539.957674,instagram,,,closedApp,,
+False,Europe/Paris,1754085523.270246,instagram,Entspannung,6.0,openedApp,breathingExercise,60.0
+False,Europe/Paris,1754085566.3316832,instagram,,,closedApp,,
+False,Europe/Paris,1754086899.560241,instagram,,,closedApp,,
+False,Europe/Paris,1754088166.7986832,instagram,Unterhaltung,6.0,openedApp,breathingExercise,60.0
+False,Europe/Paris,1754089271.422381,instagram,,,closedApp,,
+False,Europe/Paris,1754089846.961931,instagram,,,closedApp,,
+False,Europe/Paris,1754117826.8096762,instagram,Klo,6.0,openedApp,breathingExercise,60.0
+False,Europe/Paris,1754117856.9020529,instagram,,,closedApp,,
+False,Europe/Paris,1754121561.503076,instagram,,,closedApp,,
+False,Europe/Paris,1754162701.960528,instagram,,6.0,dismissedAppOpening,breathingExercise,

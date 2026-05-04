@@ -1,0 +1,10 @@
+timezone,interventionType,resolution,interventionDuration,isReIntervention,timestamp,app
+Africa/Cairo,breathingExercise,dismissedAppOpening,1.5,False,1749074022.6517391,twitter
+Africa/Cairo,breathingExercise,openedApp,1.5,False,1749074797.967379,twitter
+Africa/Cairo,breathingExercise,openedApp,1.5,False,1749074878.582232,twitter
+Africa/Cairo,breathingExercise,dismissedAppOpening,1.5,False,1749149950.8890429,twitter
+Africa/Cairo,breathingExercise,dismissedAppOpening,1.5,False,1749149954.125762,twitter
+Africa/Cairo,breathingExercise,openedApp,1.5,False,1749149959.534886,twitter
+Africa/Cairo,breathingExercise,dismissedAppOpening,1.5,False,1749265235.5777001,twitter
+Africa/Cairo,breathingExercise,openedApp,1.5,False,1749265313.237657,twitter
+Africa/Cairo,breathingExercise,openedApp,1.5,False,1749265354.093645,twitter

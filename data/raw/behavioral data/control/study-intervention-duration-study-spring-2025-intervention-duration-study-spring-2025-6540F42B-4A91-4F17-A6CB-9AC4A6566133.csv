@@ -1,7 +1,0 @@
-app,interventionType,resolution,interventionDuration,purpose,timezone,timestamp,isReIntervention
-solitaireCash,breathingExercise,openedApp,6.0,Unterhaltung,Europe/Berlin,1751983208.169198,False
-solitaireCash,breathingExercise,openedApp,6.0,Unterhaltung,Europe/Berlin,1752135549.964052,False
-solitaireCash,,openedApp,,,Europe/Berlin,1752135472.21628,False
-solitaireCash,,closedApp,,,Europe/Berlin,1752136252.21628,False
-solitaireCash,,dismissedAppOpening,,,Europe/Berlin,1752136252.21628,False
-solitaireCash,breathingExercise,openedApp,6.0,Unterhaltung,Europe/Berlin,1752150271.559616,False

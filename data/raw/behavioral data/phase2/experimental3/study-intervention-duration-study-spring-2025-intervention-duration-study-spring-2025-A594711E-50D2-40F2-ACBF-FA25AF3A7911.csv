@@ -1,0 +1,572 @@
+app,isReIntervention,timezone,resolution,interventionType,timestamp,interventionDuration,timeIntervalUntilReIntervention,purpose
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1750873172.327708,3.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1750875359.258977,3.0,120.0,Stay In the Loop
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1750879411.087928,3.0,,
+instagram,False,Europe/Lisbon,closedApp,,1750875488.188823,,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1750879429.785991,3.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1750879431.334251,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1750879475.18393,3.0,360.0,Stay In the Loop
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1750879776.1244311,3.0,120.0,Message
+youtube,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1750879909.563964,3.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1750915731.585649,3.0,,Message
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1750919900.97136,3.0,120.0,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1750916327.755756,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1750941100.370852,3.0,180.0,Search Info
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1750941306.93044,3.0,,Search Info
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1750943049.091206,3.0,,
+instagram,False,Europe/Lisbon,closedApp,,1750941706.875752,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1750943072.9059958,3.0,600.0,Stalk crush
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1750943523.115269,3.0,600.0,Stay In the Loop
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1750947188.7874641,3.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1750947420.190789,,,
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1750947808.6402678,3.0,240.0,Message
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1750949173.476066,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1750949190.7123098,3.0,360.0,Stay In the Loop
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751005068.809204,3.0,,Stay In the Loop
+instagram,False,Europe/Lisbon,closedApp,,1751005535.582561,,,
+instagram,False,Europe/Lisbon,closedApp,,1751005778.096582,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751005809.249291,3.0,360.0,Stay In the Loop
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751006171.013801,3.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751009388.3572721,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751021949.784299,3.0,360.0,Stay In the Loop
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751022124.510628,3.0,300.0,Stay In the Loop
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751026628.221065,3.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751030580.818917,3.0,,Stay In the Loop
+instagram,False,Europe/Lisbon,closedApp,,1751030654.430743,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751040795.697228,3.0,,Search Info
+instagram,False,Europe/Lisbon,closedApp,,1751040921.340584,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751055494.4258552,3.0,240.0,Stay In the Loop
+reddit,True,Europe/Lisbon,openedApp,breathingExercise,1751055750.9619741,3.0,420.0,Stay In the Loop
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751055892.10547,3.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751056231.69224,3.0,,Stay In the Loop
+instagram,False,Europe/Lisbon,closedApp,,1751056401.992591,,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751092621.581191,3.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751092624.326037,3.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751092645.340179,3.0,,Stay In the Loop
+instagram,False,Europe/Lisbon,closedApp,,1751093167.792815,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751132281.485825,3.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1751132382.5136561,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751133513.076391,3.0,,Stay In the Loop
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751134564.052165,3.0,300.0,Message
+instagram,False,Europe/Lisbon,closedApp,,1751134324.568685,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751135430.278329,3.0,240.0,Stay In the Loop
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751135502.9330978,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751136155.9665918,3.0,240.0,Message
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751136511.468162,3.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751136531.28719,3.0,,Message
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751174813.585442,3.0,,Message
+instagram,False,Europe/Lisbon,closedApp,,1751175231.726925,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751175245.8115869,3.0,240.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751177514.976059,3.0,300.0,Stay In the Loop
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751179982.118056,3.0,180.0,Escape / Avoid
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751179985.6846452,3.0,,
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751180547.877315,3.0,,
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1751180562.7809381,3.0,120.0,Stay In the Loop
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751196758.075155,3.0,,Stay In the Loop
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751197392.6478748,3.0,300.0,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1751197126.101952,,,
+instagram,False,Europe/Lisbon,closedApp,,1751197304.4971929,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751198011.855665,3.0,,Stay In the Loop
+instagram,False,Europe/Lisbon,closedApp,,1751198446.0931191,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751200979.9728642,3.0,,Stay In the Loop
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751204174.9372811,3.0,,
+instagram,False,Europe/Lisbon,closedApp,,1751201301.942954,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751204575.649473,3.0,360.0,Escape / Avoid
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751206840.839793,3.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751206852.40481,3.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751210019.360139,3.0,,Stay In the Loop
+instagram,False,Europe/Lisbon,closedApp,,1751210091.131309,,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751214693.5166268,3.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751217290.866925,3.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1751217362.6398,,,
+instagram,False,Europe/Lisbon,closedApp,,1751217709.384334,,,
+instagram,False,Europe/Lisbon,closedApp,,1751217802.597899,,,
+instagram,False,Europe/Lisbon,closedApp,,1751217990.9351459,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751219420.227186,3.0,,Stay In the Loop
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751219456.2077332,3.0,300.0,Stay In the Loop
+instagram,False,Europe/Lisbon,closedApp,,1751219441.781182,,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751219715.127996,3.0,,
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1751219730.7253351,3.0,240.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1751233539.23061,3.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1751233626.428859,,,
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751233658.671329,3.0,,
+youtube,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751263945.746114,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751290888.209295,3.0,240.0,Escape / Avoid
+reddit,True,Europe/Lisbon,openedApp,breathingExercise,1751291149.0963979,3.0,240.0,Escape / Avoid
+reddit,True,Europe/Lisbon,openedApp,breathingExercise,1751291399.587356,3.0,300.0,Stay In the Loop
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751303472.592654,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751305348.716419,3.0,300.0,Escape / Avoid
+reddit,True,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751305655.418989,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751308143.825131,3.0,300.0,Escape / Avoid
+reddit,True,Europe/Lisbon,openedApp,breathingExercise,1751308465.69376,3.0,480.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751355639.17797,3.0,360.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751355910.649957,3.0,360.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751372896.587637,3.0,420.0,Escape / Avoid
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751379918.352859,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751379931.4893188,3.0,360.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751386207.206917,3.0,420.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751394733.792023,3.0,540.0,Bored
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1751395303.0622501,3.0,180.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751436244.327362,3.0,420.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751444654.652091,3.0,480.0,Escape / Avoid
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751473623.763194,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751485684.500606,3.0,360.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751486769.657361,3.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751524312.2212691,3.0,420.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751529391.759928,3.0,360.0,Escape / Avoid
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751540411.154681,3.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751543878.812731,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751543951.023915,3.0,420.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751545031.1065311,3.0,480.0,Entertainment
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1751556514.3719711,3.0,300.0,Escape / Avoid
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1751556985.9177408,3.0,300.0,Relax
+youtube,True,Europe/Lisbon,openedApp,breathingExercise,1751557301.535729,3.0,300.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751570789.368888,3.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751571111.887343,3.0,600.0,Entertainment
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1751610169.300662,3.0,900.0,Escape / Avoid
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1751610400.463865,3.0,900.0,Entertainment
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1751610751.547649,3.0,900.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751627614.8646011,3.0,600.0,Entertainment
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1751627839.222158,3.0,900.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751703702.673503,3.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751716577.802099,3.0,480.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751716800.382832,3.0,600.0,Entertainment
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1751731240.9485989,3.0,900.0,Entertainment
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751731639.9883041,3.0,,
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1751731819.09204,3.0,900.0,Entertainment
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1751732069.1122131,3.0,900.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751739397.867563,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751741165.832303,3.0,540.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751741344.141243,3.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751746790.826952,3.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751747772.460575,3.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751748032.894534,3.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751748166.159622,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751748282.566121,3.0,420.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751781390.1488562,3.0,540.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751783753.585122,3.0,600.0,Entertainment
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1751784377.933652,3.0,240.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751797961.92739,3.0,540.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751801606.753308,3.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751802255.5246959,3.0,480.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751814501.0401611,3.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751817755.287251,3.0,600.0,Escape / Avoid
+reddit,True,Europe/Lisbon,openedApp,breathingExercise,1751818370.744606,3.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751833068.767336,3.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751833410.504565,3.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751833416.399509,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751870368.391934,3.0,600.0,Entertainment
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751907688.187292,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751907705.911673,3.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751907933.916004,3.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751908217.13519,3.0,540.0,Entertainment
+reddit,True,Europe/Lisbon,openedApp,breathingExercise,1751908774.06111,3.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751909057.2572742,3.0,540.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751923515.528386,3.0,480.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751954687.985122,3.0,600.0,Relax
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751954990.889957,3.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751954994.0752769,3.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751954996.108521,3.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1751954998.4529061,3.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1751996754.524314,3.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752006478.336031,3.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752041093.1791291,3.0,600.0,Entertainment
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1752042393.881747,3.0,180.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752074910.261934,6.0,420.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752079159.953969,6.0,540.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752126403.2722979,6.0,540.0,Escape / Avoid
+reddit,True,Europe/Lisbon,openedApp,breathingExercise,1752126964.060306,6.0,600.0,Escape / Avoid
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1752148420.638729,6.0,300.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752213179.715063,6.0,600.0,Relax
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752221062.145352,6.0,600.0,Entertainment
+reddit,True,Europe/Lisbon,openedApp,breathingExercise,1752221688.263111,6.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752229838.959451,6.0,420.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752238581.5329208,6.0,420.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752261643.21362,6.0,600.0,Escape / Avoid
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752264695.2837539,6.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752269012.507678,6.0,,
+instagram,False,Europe/Lisbon,closedApp,,1752264734.09304,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752269054.103442,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752270034.2490249,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752306020.196739,6.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1752306073.458768,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752314532.846046,6.0,,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752316037.886229,6.0,,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752316737.750637,6.0,540.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752317689.432569,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752317771.73909,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752317989.797114,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752318913.352879,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752318931.267587,6.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1752318966.578789,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752320521.976056,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752321348.1420279,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752321351.893297,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752321379.238471,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752321898.463704,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752322525.818265,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752322540.893405,6.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1752322609.638681,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752324605.960762,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752324890.4780989,6.0,,Stalk crush
+instagram,False,Europe/Lisbon,closedApp,,1752324930.429945,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752325942.140528,6.0,,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752333362.638628,6.0,,
+instagram,False,Europe/Lisbon,closedApp,,1752325962.3982239,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752333385.4418468,6.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1752333467.0888162,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752344122.438906,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752344514.652466,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752347450.788352,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752388899.8460011,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752389079.126399,,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752389175.9444342,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752389237.6259022,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752391172.095511,6.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752405075.3731198,6.0,600.0,Relax
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752413923.729648,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752414236.6420841,6.0,600.0,Relax
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752414835.9622889,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752415198.6573591,,,
+instagram,False,Europe/Lisbon,closedApp,,1752415846.8537788,,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752415955.759613,6.0,,
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1752416232.02442,6.0,300.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752430565.9381762,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752430584.71937,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752430694.0803928,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752430908.97055,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752431407.1750898,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752431570.046719,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752431579.292773,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752432660.888225,6.0,,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752433352.108815,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752432677.80814,,,
+instagram,False,Europe/Lisbon,closedApp,,1752432697.0750098,,,
+instagram,False,Europe/Lisbon,closedApp,,1752432709.866971,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752437573.47452,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752438182.683227,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752439232.870444,6.0,,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752473078.8464909,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752439473.4782019,,,
+instagram,False,Europe/Lisbon,closedApp,,1752473772.910223,,,
+instagram,False,Europe/Lisbon,closedApp,,1752474356.7605,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752493523.150461,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752493657.8367581,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752562525.783883,6.0,,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752563137.542038,6.0,,
+instagram,False,Europe/Lisbon,closedApp,,1752563128.77162,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752563153.942126,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752570585.705205,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752574326.93167,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752574342.250344,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752599611.673888,6.0,540.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752600166.5124068,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752600188.162228,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752611950.01649,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752612107.678998,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752646333.6875591,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752646939.9999518,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752647416.4858441,,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752651813.289744,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752652045.699648,6.0,600.0,Relax
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752664320.59302,6.0,600.0,Search Info
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752668249.579067,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752668608.2656689,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752668614.163513,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1752670810.556827,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1752670925.313545,,,
+instagram,False,Europe/Lisbon,closedApp,,1752671033.147925,,,
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1752737872.3648481,6.0,300.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752738705.267453,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752760078.172322,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752760098.140873,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752760228.4350781,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752760465.080106,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752760476.3099198,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752760480.30723,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752760595.929696,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752760755.870597,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752760817.661273,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752760912.792433,6.0,600.0,Relax
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752761121.75005,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752766701.061109,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752790428.136303,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752825041.512852,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752845594.820957,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752845599.6685019,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752850563.499712,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752853589.833231,6.0,540.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752854278.1973472,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752860680.5830832,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752860893.727268,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752860899.9890208,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752860905.357543,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752873914.012404,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752875593.815031,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752905782.152557,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752906407.7675729,6.0,600.0,Escape / Avoid
+pinterest,False,Europe/Lisbon,openedApp,breathingExercise,1752916695.844495,6.0,900.0,Bored
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752919843.767424,6.0,,
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752923868.5058951,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752951829.4586968,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1752952626.2871099,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752953769.573879,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752953994.2925072,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752954619.7159882,6.0,600.0,Entertainment
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1752955289.846143,6.0,300.0,Entertainment
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1752960027.798343,6.0,300.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1752991237.4617329,6.0,600.0,Relax
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753025721.94809,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753026122.056853,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753026176.0305982,6.0,600.0,Entertainment
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1753026997.094195,6.0,300.0,Entertainment
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1753027159.017874,6.0,300.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753042735.2300658,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753042769.244209,6.0,540.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753043147.875135,6.0,600.0,Relax
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753043781.535614,6.0,600.0,Relax
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753046364.532013,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753078468.287898,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753079091.156042,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753107599.5008159,6.0,600.0,Entertainment
+youtube,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753109259.1813688,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753114541.1980891,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753114715.1400108,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753114999.675829,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753119484.275646,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753120917.8148189,6.0,60.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753121284.620603,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753179001.385291,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753184907.382308,6.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753185649.5736032,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753200110.447165,6.0,540.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753200250.597983,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753200268.471476,6.0,540.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753205627.94995,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753248795.575918,6.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1753249220.763935,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753249530.654941,6.0,600.0,Escape / Avoid
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753251603.255948,6.0,,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753256884.57968,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753257411.222817,6.0,,
+instagram,False,Europe/Lisbon,closedApp,,1753252448.091032,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753290114.933114,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753290207.196667,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753290329.941333,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753290628.7591472,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753290632.835267,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753290637.64459,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753290645.955165,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753290650.050959,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753290666.729478,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753291007.4554272,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753291130.5283098,6.0,,Escape / Avoid
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753292442.565823,6.0,,
+instagram,False,Europe/Lisbon,closedApp,,1753291229.721781,,,
+instagram,False,Europe/Lisbon,closedApp,,1753291254.790464,,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753305965.202694,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753305983.997824,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753306271.666132,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753338143.878164,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753338759.031293,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753338778.133356,6.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1753339010.424551,,,
+instagram,False,Europe/Lisbon,closedApp,,1753339059.132337,,,
+instagram,False,Europe/Lisbon,closedApp,,1753339200.822009,,,
+instagram,False,Europe/Lisbon,closedApp,,1753339245.280103,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753372535.747662,6.0,,Entertainment
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1753372942.75079,6.0,300.0,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753372796.763135,,,
+instagram,False,Europe/Lisbon,closedApp,,1753372893.6100302,,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753424273.694919,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753424278.684883,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753434296.2718248,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753446568.1406732,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753447198.33587,,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753475607.377039,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753476717.429224,6.0,,Entertainment
+youtube,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753531938.615851,6.0,,
+instagram,False,Europe/Lisbon,closedApp,,1753476980.8658671,,,
+instagram,False,Europe/Lisbon,closedApp,,1753532116.518372,,,
+instagram,False,Europe/Lisbon,closedApp,,1753532500.213975,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753533875.210042,6.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753537591.710524,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753552772.442301,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753552776.9015,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753596010.434381,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753597245.8879318,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753597654.622628,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753597989.3568459,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753610405.338692,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753610409.4758248,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753621153.184931,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753621457.76225,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753623093.485691,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753623154.460942,,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753623298.462016,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753623308.471416,6.0,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753623314.641103,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753623330.337556,6.0,600.0,Entertainment
+youtube,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753623420.868695,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753623673.900881,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753623678.558759,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753626172.862121,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753629844.1373339,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753630090.1632671,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753630484.131579,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753630939.664166,6.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753635340.798881,6.0,600.0,Escape / Avoid
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753635592.120071,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753649740.9209418,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753649747.320561,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753679630.5998812,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753679633.260956,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753679635.273318,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753679639.956602,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753686508.310148,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753687054.066864,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753687293.1692119,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753687696.663295,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753687794.3199902,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753687987.4500241,,,
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753697077.3830419,6.0,,
+instagram,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753710474.332035,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753710489.252606,6.0,,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753710902.263546,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753710883.68885,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753732836.002359,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753733713.6160831,6.0,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753767539.2338018,6.0,,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753768107.925493,,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753768495.916322,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753769407.326901,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753769781.2226372,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753772392.727493,6.0,600.0,Entertainment
+pinterest,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753782787.2585912,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753812295.091708,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753823868.444357,6.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1753823971.686956,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753824498.434238,6.0,,Escape / Avoid
+instagram,False,Europe/Lisbon,closedApp,,1753825529.284657,,,
+instagram,False,Europe/Lisbon,closedApp,,1753825554.13445,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753854280.4012752,6.0,,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753855130.129607,6.0,600.0,Entertainment
+instagram,False,Europe/Lisbon,closedApp,,1753854987.687372,,,
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1753856001.1897302,6.0,300.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753898740.116842,6.0,600.0,Entertainment
+youtube,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753898951.179179,6.0,,
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753898990.6948628,6.0,600.0,Entertainment
+reddit,False,Europe/Lisbon,openedApp,breathingExercise,1753899120.269806,6.0,600.0,Relax
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753899778.886488,6.0,,Entertainment
+youtube,False,Europe/Lisbon,openedApp,breathingExercise,1753900625.677363,6.0,300.0,Entertainment
+reddit,False,Europe/Lisbon,dismissedAppOpening,breathingExercise,1753942691.972455,6.0,,
+instagram,False,Europe/Lisbon,closedApp,,1753900156.306079,,,
+instagram,False,Europe/Lisbon,closedApp,,1753900183.427841,,,
+instagram,False,Europe/Lisbon,openedApp,breathingExercise,1753989765.4950871,6.0,,Escape / Avoid
+instagram,False,America/New_York,openedApp,breathingExercise,1754008477.323838,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754008854.828943,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754041682.670154,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754042343.509112,,,
+reddit,False,America/New_York,openedApp,breathingExercise,1754042367.058281,6.0,600.0,Entertainment
+instagram,False,America/New_York,openedApp,breathingExercise,1754059570.08464,6.0,,Entertainment
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754068611.445905,6.0,,
+instagram,False,America/New_York,closedApp,,1754059627.536403,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754071033.121481,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754071060.000989,,,
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754086417.17487,6.0,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754086450.137683,6.0,,Escape / Avoid
+instagram,False,America/New_York,closedApp,,1754086663.376107,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754086815.769916,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754087007.763976,,,
+instagram,False,America/New_York,closedApp,,1754087094.993767,,,
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754087205.505554,6.0,,
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754087287.04929,6.0,,
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754087301.475481,6.0,,
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754087356.458704,6.0,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754087513.519484,6.0,,Escape / Avoid
+instagram,False,America/New_York,closedApp,,1754087737.729955,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754088075.505667,6.0,,Entertainment
+reddit,False,America/New_York,openedApp,breathingExercise,1754092183.982589,6.0,600.0,Entertainment
+instagram,False,America/New_York,closedApp,,1754088202.099671,,,
+reddit,False,America/New_York,openedApp,breathingExercise,1754092810.2568278,6.0,600.0,Entertainment
+instagram,False,America/New_York,openedApp,breathingExercise,1754128776.062347,6.0,,Escape / Avoid
+instagram,False,America/New_York,closedApp,,1754128801.635902,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754128950.9853148,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754128967.2596102,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754132365.695664,6.0,,Escape / Avoid
+reddit,False,America/New_York,dismissedAppOpening,breathingExercise,1754134684.4310222,6.0,,
+instagram,False,America/New_York,closedApp,,1754132421.825474,,,
+reddit,False,America/New_York,openedApp,breathingExercise,1754136395.691091,6.0,600.0,Entertainment
+reddit,False,America/New_York,openedApp,breathingExercise,1754136894.9667559,6.0,600.0,Entertainment
+instagram,False,America/New_York,openedApp,breathingExercise,1754138902.903697,6.0,,Escape / Avoid
+instagram,False,America/New_York,closedApp,,1754138923.096603,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754141747.522207,6.0,,Entertainment
+reddit,False,America/New_York,dismissedAppOpening,breathingExercise,1754145907.0895472,6.0,,
+instagram,False,America/New_York,closedApp,,1754141855.3055758,,,
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754166479.853816,6.0,,
+instagram,False,America/New_York,closedApp,,1754166534.5507898,,,
+reddit,False,America/New_York,openedApp,breathingExercise,1754173552.2747722,6.0,540.0,Entertainment
+reddit,False,America/New_York,openedApp,breathingExercise,1754173743.261509,6.0,600.0,Entertainment
+reddit,False,America/New_York,dismissedAppOpening,breathingExercise,1754173911.440633,6.0,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754174734.7735128,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754174782.900247,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754177224.292764,6.0,,Escape / Avoid
+instagram,False,America/New_York,closedApp,,1754177297.487061,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754213305.262022,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754213730.045275,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754213828.51932,6.0,,Entertainment
+instagram,False,America/New_York,openedApp,breathingExercise,1754214030.425395,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754214059.040739,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754214262.830539,6.0,,Escape / Avoid
+instagram,False,America/New_York,closedApp,,1754214276.865573,,,
+instagram,False,America/New_York,closedApp,,1754214337.157944,,,
+reddit,False,America/New_York,openedApp,breathingExercise,1754214563.01186,6.0,600.0,Entertainment
+reddit,False,America/New_York,dismissedAppOpening,breathingExercise,1754215279.6312351,6.0,,
+reddit,False,America/New_York,openedApp,breathingExercise,1754218172.617065,6.0,600.0,Entertainment
+instagram,False,America/New_York,openedApp,breathingExercise,1754218698.59512,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754218850.13363,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754220759.169822,6.0,,Escape / Avoid
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754234267.3929791,6.0,,
+instagram,False,America/New_York,closedApp,,1754220818.259186,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754234283.9752321,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754234321.160228,,,
+reddit,False,America/New_York,dismissedAppOpening,breathingExercise,1754239022.607359,6.0,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754239046.785159,6.0,,Escape / Avoid
+instagram,False,America/New_York,closedApp,,1754239137.856614,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754266000.327232,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754266181.206376,,,
+instagram,False,America/New_York,closedApp,,1754266741.887103,,,
+instagram,False,America/New_York,closedApp,,1754267093.7173162,,,
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754305367.7547321,6.0,,
+instagram,False,America/New_York,dismissedAppOpening,breathingExercise,1754305372.8848839,6.0,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754306143.4476418,6.0,,Entertainment
+instagram,False,America/New_York,openedApp,breathingExercise,1754306250.7908912,6.0,,Entertainment
+instagram,False,America/New_York,openedApp,breathingExercise,1754309119.84269,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754306305.378649,,,
+instagram,False,America/New_York,closedApp,,1754306856.487739,,,
+instagram,False,America/New_York,closedApp,,1754309689.191854,,,
+reddit,False,America/New_York,dismissedAppOpening,breathingExercise,1754341028.2482672,6.0,,
+reddit,False,America/New_York,dismissedAppOpening,breathingExercise,1754341033.233752,6.0,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754341052.827557,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754341083.186686,,,
+instagram,False,America/New_York,closedApp,,1754341167.0146031,,,
+reddit,False,America/New_York,openedApp,breathingExercise,1754389221.448866,6.0,540.0,Entertainment
+instagram,False,America/New_York,openedApp,breathingExercise,1754390565.6913419,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754390633.167706,,,
+instagram,False,America/New_York,closedApp,,1754390950.171643,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754391645.67257,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754391788.4002662,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754391893.120559,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754392011.558957,,,
+instagram,False,America/New_York,closedApp,,1754392018.482336,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754392257.561125,6.0,,Escape / Avoid
+instagram,False,America/New_York,closedApp,,1754392364.5260491,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754392632.535719,6.0,,Escape / Avoid
+instagram,False,America/New_York,closedApp,,1754392859.405149,,,
+instagram,False,America/New_York,openedApp,breathingExercise,1754394336.9185739,6.0,,Entertainment
+instagram,False,America/New_York,closedApp,,1754394355.228894,,,
+instagram,False,America/New_York,closedApp,,1754394440.402453,,,
+reddit,False,America/New_York,openedApp,breathingExercise,1754403231.15681,6.0,600.0,Escape / Avoid
+reddit,False,America/New_York,openedApp,breathingExercise,1754404146.33444,6.0,600.0,Entertainment
+reddit,False,America/New_York,openedApp,breathingExercise,1754404579.6160212,6.0,600.0,Entertainment
+instagram,False,America/New_York,openedApp,breathingExercise,1754431247.361656,6.0,,Entertainment

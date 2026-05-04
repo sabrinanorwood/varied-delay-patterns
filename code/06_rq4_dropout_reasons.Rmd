@@ -1,0 +1,108 @@
+---
+title: "RQ4: Dropout reasons"
+author: "Sabrina Norwood"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    code_folding: hide
+    highlight: haddock
+    theme: flatly
+    toc: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(message = FALSE,
+                      warning = FALSE)
+
+```
+
+# Dependencies
+
+```{r}
+
+library(tidyverse)
+library(flextable)
+library(officer)
+
+dir.create("results_rq4", showWarnings = FALSE)
+
+```
+
+# Load data
+
+```{r}
+
+df_termination <- readRDS("data_clean/df_termination.rds")
+df_rq1         <- readRDS("data_clean/df_rq1.rds")
+
+```
+
+# RQ4: Reasons for terminating study participation
+
+The behavioral CSVs record a `terminationReason` column for participants who explicitly terminated via the app. The only value present is `"terminatedByUser"` (N = 66) — this is a flag rather than a free-text reason category. The preregistered dropout-reason question ("I lost motivation…", "I find one sec unhelpful…", etc.) was a separate in-app screen. If that data was captured in a separate export, it is not in the current behavioral CSVs.
+
+```{r}
+
+cat("Participants with a recorded termination flag:", nrow(df_termination), "\n")
+cat("Breakdown by condition:\n")
+print(count(df_termination, condition))
+
+# How many of the flagged terminators are in df_rq1 (i.e. had behavioral data)?
+termination_with_dropout <- df_termination %>%
+  left_join(df_rq1 %>% select(participant_id, dropout, last_week), by = "participant_id")
+
+cat("\nTerminated participants — dropout status:\n")
+print(count(termination_with_dropout, condition, dropout, last_week))
+
+```
+
+# Termination summary
+
+Termination flags as % of total dropouts per condition.
+
+```{r}
+
+df_rq1_counts <- df_rq1 %>%
+  group_by(condition) %>%
+  summarise(n_total = n(), n_dropout = sum(dropout), .groups = "drop")
+
+df_termination_summary <- termination_with_dropout %>%
+  count(condition, name = "n_terminated") %>%
+  left_join(df_rq1_counts, by = "condition") %>%
+  mutate(
+    pct_of_dropouts = round(n_terminated / n_dropout * 100, 1),
+    pct_of_total    = round(n_terminated / n_total * 100, 1)
+  )
+
+print(df_termination_summary)
+write_csv(df_termination_summary, "results_rq4/termination_summary.csv")
+
+```
+
+# Word table
+
+```{r}
+
+doc <- read_docx() %>%
+  body_add_par("RQ4: Dropout Reasons", style = "heading 1") %>%
+  body_add_par(
+    paste("Note: behavioral CSVs record only a binary 'terminatedByUser' flag",
+          "(N = 66). The preregistered categorical reasons are in a separate",
+          "in-app export if available."),
+    style = "Normal"
+  ) %>%
+  body_add_par("", style = "Normal") %>%
+  body_add_flextable(flextable(df_termination_summary) %>% autofit())
+
+print(doc, target = "results_rq4/results_rq4.docx")
+cat("RQ4 complete. Results saved to results_rq4/\n")
+
+```
+
+# Session info
+
+```{r}
+sessionInfo()
+```

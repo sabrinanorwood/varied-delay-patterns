@@ -1,4 +1,0 @@
-app,timezone,timestamp,resolution,isReIntervention
-tikTok,Europe/Paris,1749144136.273806,openedApp,False
-tikTok,Europe/Paris,1749145036.273807,closedApp,False
-tikTok,Europe/Paris,1749145036.273807,dismissedAppOpening,False

@@ -1,0 +1,18 @@
+interventionDuration,isReIntervention,timezone,timestamp,interventionType,app,purpose,resolution,timeIntervalUntilReIntervention
+6,False,Australia/Sydney,1751420909.465457,breathingExercise,tikTok,Escape / Avoid,openedApp,
+6,False,Australia/Sydney,1751435620.0404491,breathingExercise,tikTok,Entertainment,openedApp,
+6,False,Australia/Sydney,1751507312.960768,breathingExercise,tikTok,Stay In the Loop,openedApp,
+6,False,Australia/Sydney,1751507788.630763,breathingExercise,tikTok,Stay In the Loop,openedApp,
+6,False,Australia/Sydney,1751508559.939866,breathingExercise,tikTok,Stay In the Loop,openedApp,
+6,False,Australia/Sydney,1751509406.075904,breathingExercise,tikTok,Escape / Avoid,openedApp,
+6,False,Australia/Sydney,1751510339.001967,breathingExercise,tikTok,Escape / Avoid,openedApp,
+6,False,Australia/Sydney,1751549163.573087,breathingExercise,tikTok,Stay In the Loop,openedApp,
+6,False,Australia/Sydney,1751586073.822849,breathingExercise,tikTok,Stay In the Loop,openedApp,
+6,False,Australia/Sydney,1751590432.766567,breathingExercise,tikTok,Escape / Avoid,openedApp,
+6,False,Australia/Sydney,1751592235.54894,breathingExercise,tikTok,Escape / Avoid,openedApp,
+6,False,Australia/Sydney,1751708515.8312368,breathingExercise,tikTok,Post something,openedApp,
+6,False,Australia/Sydney,1751716047.280637,breathingExercise,tikTok,Check likes,openedApp,
+6,False,Australia/Sydney,1751794005.665206,breathingExercise,tikTok,Check likes,openedApp,
+6,False,Australia/Sydney,1751846909.976663,breathingExercise,tikTok,Check likes,openedApp,
+6,False,Australia/Sydney,1751848718.82549,breathingExercise,tikTok,,dismissedAppOpening,
+6,False,Australia/Sydney,1751875976.778667,breathingExercise,tikTok,Check likes,openedApp,60.0

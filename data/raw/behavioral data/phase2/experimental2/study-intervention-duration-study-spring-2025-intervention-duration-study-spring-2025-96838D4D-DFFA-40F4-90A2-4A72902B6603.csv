@@ -1,0 +1,16 @@
+timestamp,resolution,interventionDuration,isReIntervention,purpose,interventionType,app,timezone
+1749727349.8678021,openedApp,1.5,False,Klo,breathingExercise,instagram,Europe/Berlin
+1749727388.779506,closedApp,,False,,,instagram,Europe/Berlin
+1749727391.33221,closedApp,,False,,,instagram,Europe/Berlin
+1749820288.628063,openedApp,1.5,False,Klo,breathingExercise,instagram,Europe/Berlin
+1749820296.291147,closedApp,,False,,,instagram,Europe/Berlin
+1749820309.2878618,closedApp,,False,,,instagram,Europe/Berlin
+1749820492.712604,closedApp,,False,,,instagram,Europe/Berlin
+1749821327.420943,openedApp,1.5,False,Klo,breathingExercise,instagram,Europe/Berlin
+1749821505.018293,closedApp,,False,,,instagram,Europe/Berlin
+1749822405.331455,openedApp,1.5,False,Ablenkung,breathingExercise,instagram,Europe/Berlin
+1749823305.822946,closedApp,,False,,,instagram,Europe/Berlin
+1749842499.3769941,openedApp,1.5,False,Klo,breathingExercise,youtube,Europe/Berlin
+1749842502.9424992,closedApp,,False,,,youtube,Europe/Berlin
+1749842697.459816,closedApp,,False,,,youtube,Europe/Berlin
+1750078994.770783,openedApp,1.5,False,Infos suchen,breathingExercise,youtube,Europe/Berlin

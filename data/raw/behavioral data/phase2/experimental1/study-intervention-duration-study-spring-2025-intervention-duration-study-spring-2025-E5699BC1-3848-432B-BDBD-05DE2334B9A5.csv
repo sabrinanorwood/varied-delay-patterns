@@ -1,0 +1,2168 @@
+timestamp,interventionType,isReIntervention,app,timezone,resolution,interventionDuration,purpose,timeIntervalUntilReIntervention
+1750254644.499762,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750254961.738837,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750257483.974174,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750261629.44425,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750261781.2591481,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750263513.9577742,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,60.0
+1750264178.6524649,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,
+1750264219.045753,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264231.304033,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264287.715218,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264581.4706259,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750264732.6286669,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264734.976859,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264752.6698651,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264773.041004,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264780.679893,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264801.223712,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264818.208764,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264847.14997,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264874.0338712,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264888.0939221,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264912.939492,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750264945.3672361,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750265003.459165,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750269206.681289,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750269300.0363832,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Поискать информацию,
+1750269309.460246,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750272288.8489408,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750272315.268852,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Поискать информацию,
+1750272318.1456962,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750272326.949589,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750272334.802899,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750272348.7687411,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750272423.899539,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750272696.70196,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750304824.1665192,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,60.0
+1750308853.50357,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750311879.227335,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,120.0
+1750312022.6543899,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,60.0
+1750329792.087852,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,
+1750329826.193492,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750329855.8098102,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750329861.180011,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750329902.802607,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750329910.875421,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750329984.10601,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750331878.282161,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,
+1750331939.492327,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750335338.6501021,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750341478.5735168,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750342481.484294,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750346586.813003,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,120.0
+1750348371.613894,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,
+1750348438.282332,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750358465.343775,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750358476.062181,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750359436.836732,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Поискать информацию,
+1750359506.031755,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750360114.030909,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750363961.867457,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750368050.276757,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Поискать информацию,
+1750368112.893371,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750368431.2174768,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750396531.360208,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,60.0
+1750397977.1325889,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750399547.796723,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750400372.75752,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750402298.481976,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750402308.964603,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750402339.1641312,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750402355.73879,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750402411.3553371,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750402705.18966,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Поискать информацию,
+1750403145.022701,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750403160.9592361,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750403227.808466,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750403306.369663,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750403334.330019,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750403515.4317589,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750404520.3425,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750404612.524895,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750406548.8509521,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Расслабиться,120.0
+1750407570.781523,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Поискать информацию,
+1750407600.599652,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750408480.631098,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750413307.605695,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Расслабиться,180.0
+1750413505.238641,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Расслабиться,
+1750414005.34516,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750417963.984262,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750418167.229322,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Поискать информацию,
+1750418201.284508,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750420839.16313,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750429186.821501,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750431637.62716,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Поискать информацию,
+1750431651.220055,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750442100.5687099,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Поискать информацию,
+1750442328.2026339,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750443003.15734,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Развлечься,300.0
+1750444770.3895469,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750483051.190782,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750483671.5684981,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750485941.1931581,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750487143.078543,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750488005.3799028,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750488014.415691,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Развлечься,60.0
+1750489645.484391,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750491232.1658468,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,
+1750491310.227779,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750491342.057462,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750491355.5962439,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750491543.092462,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750496914.559136,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750497768.497236,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750498401.923912,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,"Проверять соцсети того, кто нравится",60.0
+1750498792.345848,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750499583.069057,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Расслабиться,
+1750499682.317035,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750499858.696243,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750499935.3896651,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750500869.2932348,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,В туалете,300.0
+1750501005.336182,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,
+1750501012.187773,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750501014.5738502,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750501021.278559,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750501070.555819,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750501086.482774,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750501119.982321,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750501181.342577,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750501514.877497,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Опубликовать что-нибудь,300.0
+1750502200.549761,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Опубликовать что-нибудь,300.0
+1750503207.832776,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Сбежать от реальности/дел,300.0
+1750506097.0161781,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,60.0
+1750507508.5538821,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750507517.92449,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750511804.482952,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750513077.38559,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750514014.896552,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750515427.430623,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750516532.050904,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Расслабиться,300.0
+1750519702.872511,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750527285.248452,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,300.0
+1750529156.985303,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750531797.909735,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Расслабиться,300.0
+1750534435.696327,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750535121.425005,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750535200.091125,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750539308.322139,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Сбежать от реальности/дел,60.0
+1750539379.030051,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750564299.919523,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Расслабиться,300.0
+1750567790.77304,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750567843.3458428,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750567953.185913,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750568065.441584,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750571170.262681,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750574558.328975,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750574567.88904,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750574909.96964,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750574928.88935,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750577488.906159,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,60.0
+1750580838.479813,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,120.0
+1750582759.131181,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,120.0
+1750586755.1505198,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750586765.2994452,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750590042.146497,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Расслабиться,60.0
+1750595956.224944,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1750600020.565763,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750600395.568915,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750606561.199938,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750607624.784813,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,
+1750607631.8937821,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750607651.201109,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750607713.86572,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750607760.081036,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750609848.018188,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750610210.8286471,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,
+1750614729.3954039,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750610219.649132,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750614796.799015,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750615836.522495,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750615848.641005,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750615857.120203,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Развлечься,300.0
+1750615986.651032,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750616378.4532928,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750616691.518701,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750621327.401829,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750622348.149609,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750651487.752486,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Расслабиться,60.0
+1750651639.235997,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Сбежать от реальности/дел,300.0
+1750654822.998417,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750655438.017061,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750655446.132111,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750655473.347359,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750655489.386732,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750655518.006305,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750655526.6842542,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750669095.1592011,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,
+1750669098.079544,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750669118.156645,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750670654.368947,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750676660.557026,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Развлечься,300.0
+1750679241.4912581,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750682370.8070412,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750685459.436252,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750687908.901675,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750688533.333467,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750692189.291405,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750694735.2229671,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750695369.111664,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750695672.11363,breathingExercise,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750695802.49326,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750696307.635109,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1750697524.759616,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750698682.6980991,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750699247.238813,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750699290.958067,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750699321.741951,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750700360.973586,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750700604.312954,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750700863.300205,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750701301.247871,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750708370.730958,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750739929.340131,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750741437.500781,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,60.0
+1750746890.415697,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750747654.436092,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750750283.755482,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750750357.539892,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750756715.87191,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750762109.732388,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750763543.202632,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750763551.575856,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750766736.244123,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Поискать информацию,240.0
+1750774276.70082,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750778979.046661,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750779715.2048411,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750781261.238422,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750781280.9655209,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750781296.40866,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750781306.689553,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750781345.484235,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750781470.9101129,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750782551.077437,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750783998.403709,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750791731.446291,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750794506.87013,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750824446.039475,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750831516.7413812,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750832617.737262,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,60.0
+1750833149.430365,breathingExercise,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,openedApp,1.5,Написать сообщение,
+1750833198.8965201,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750833238.5054588,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750833244.042193,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750834076.531121,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750853404.01748,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750857255.1319752,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750859531.810317,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750862179.674262,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750864314.1434798,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750865166.0287209,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750867931.762645,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750867943.234633,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750868817.773104,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750870409.4813762,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750871222.558291,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750871235.458884,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750871237.72123,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750871273.74666,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750871286.428508,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750871289.638472,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750872760.306642,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1750873445.8236032,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750876274.992978,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750881193.44502,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750881532.4978971,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750881539.805969,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750881551.8745909,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750881555.217163,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750881574.586935,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750881961.216323,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750881962.8857841,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750881966.803234,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750882057.535718,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750882061.757937,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750882066.8194718,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750882073.86835,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750882100.112853,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750883681.165777,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750883823.161757,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750883834.935519,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750883839.889744,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750883841.414466,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750883859.2457418,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750884050.3502479,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750884796.705034,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750884828.006919,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750885034.221252,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750892325.605469,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750915960.747849,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750915969.960874,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750917475.195356,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750917509.666168,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750917526.530179,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750917528.232904,,False,instagram,Asia/Aqtau,closedApp,,,
+1750917553.814237,,False,instagram,Asia/Aqtau,closedApp,,,
+1750917556.128192,,False,instagram,Asia/Aqtau,closedApp,,,
+1750917559.236316,,False,instagram,Asia/Aqtau,closedApp,,,
+1750917568.6967921,,False,instagram,Asia/Aqtau,closedApp,,,
+1750917575.369081,,False,instagram,Asia/Aqtau,closedApp,,,
+1750921716.348357,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750923371.188055,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750924866.958016,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750929705.595677,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750930761.824246,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750935221.899332,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1750935731.332008,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750937916.7039871,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750938407.6795669,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750938429.347306,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750938452.1052961,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750938456.036675,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750938463.612616,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750938474.833403,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750938572.734652,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750940507.230664,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750941502.580832,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Развлечься,300.0
+1750944884.233488,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1750945086.496397,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750945218.222065,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750946006.513211,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750946754.369505,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750949609.344795,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750950023.105329,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1750951326.009677,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750951336.028377,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750951443.884294,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1750952953.897519,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750953209.8421268,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1750953977.797,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750956217.866236,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750957902.879554,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750957935.4404259,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750957943.939064,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750958566.082545,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750958648.6507611,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Проверять лайки,180.0
+1750959365.0424871,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750963667.088187,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750970365.324755,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1750972140.7280831,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1750972337.8768148,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750973886.538365,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750975077.771817,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750975097.926175,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1750976310.84636,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1750976363.531626,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,180.0
+1750979475.852675,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751000594.177644,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751005751.5482512,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751005853.4558148,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1751005927.4425092,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751010213.167141,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751010289.474255,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751012750.142539,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751014978.988478,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751015069.350512,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751017975.88699,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751018001.3815908,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751018005.8201451,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751018310.433409,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751019574.393954,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751024290.878865,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751024308.210092,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751024317.449651,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751026902.628439,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751026977.270911,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751026979.861599,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751026995.4847589,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751031988.520905,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751032016.1208858,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751032030.894813,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751032043.64171,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751032377.760466,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751037832.935519,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751038029.115479,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751047310.7770429,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751047334.225587,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751047338.430637,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751084993.172894,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751097943.5491571,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751101649.578424,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751105169.482846,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751105178.070775,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751109424.8261209,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751109735.244543,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751109930.206109,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751110101.051484,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751110566.279107,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751110667.5400639,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751110712.812307,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751110800.636417,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751110828.439199,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751111293.6573591,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751111372.809329,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751112917.4506311,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751113898.31676,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751113990.180746,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751114507.324888,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751114547.896823,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751114550.832178,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751115013.8169599,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751115021.6297321,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751115182.1269069,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751115218.038934,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Сбежать от реальности/дел,180.0
+1751115516.492861,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751115789.516866,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751117541.5384312,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751117576.573608,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751118024.12135,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751119760.909474,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751120474.1870441,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751123245.696187,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751123500.518075,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,240.0
+1751125752.240272,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751126791.766056,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751127165.194653,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751127479.758218,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751131188.5224671,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751131533.278306,breathingExercise,True,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,300.0
+1751172591.57395,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751174639.420654,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751177686.639674,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751177749.9663138,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751177781.501301,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751177792.3445659,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751177861.0603662,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751177903.290783,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751177907.8278298,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751179283.818347,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751186515.571728,,False,wolt,Asia/Aqtau,closedApp,,,
+1751186676.064667,,False,wolt,Asia/Aqtau,closedApp,,,
+1751186683.23208,,False,wolt,Asia/Aqtau,closedApp,,,
+1751186986.19421,,False,wolt,Asia/Aqtau,closedApp,,,
+1751186994.840222,,False,wolt,Asia/Aqtau,closedApp,,,
+1751187192.504733,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751187427.867766,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751187482.36266,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751187608.9691029,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751187699.9686131,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751187885.6487122,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751187957.9596682,,False,wolt,Asia/Aqtau,closedApp,,,
+1751188771.318471,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751190272.553673,,False,wolt,Asia/Aqtau,closedApp,,,
+1751190275.577005,,False,wolt,Asia/Aqtau,closedApp,,,
+1751190299.541009,,False,wolt,Asia/Aqtau,closedApp,,,
+1751190780.0293179,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751191467.529859,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751191520.8561568,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751191529.3318028,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751191564.391286,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751191565.906973,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751191582.2663321,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751191876.4457211,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751192803.146699,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751193241.649709,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751195849.3701859,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751195896.3361301,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751195925.4085279,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751195928.810411,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751195934.742989,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751195939.2351289,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751195971.909127,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751195976.9234161,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751195986.063487,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751196643.434493,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751198309.245101,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751205168.5198588,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751203336.829793,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751211464.808043,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1751215027.20891,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751215228.026569,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751215723.336537,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751218463.456116,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751220722.559036,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751220761.847167,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751222446.870007,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751222499.634644,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751219050.218431,,False,instagram,Asia/Aqtau,closedApp,,,
+1751225013.211236,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751226106.50525,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751256154.2747211,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751256567.9837031,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751256675.9741058,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751257119.637439,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751258380.376457,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751258634.840961,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751259711.221355,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751260404.463132,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751260413.2264109,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1751262251.671247,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751268012.938822,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751270545.750431,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751271144.035159,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1751271674.07518,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751272357.713999,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751273125.3662581,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751273136.3394089,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751275236.0348659,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751280462.8837628,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751283147.656328,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751284230.3413591,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751284235.260916,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751284616.557414,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751284637.9586248,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751284676.024514,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751284692.359177,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751284825.770224,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751285061.090183,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751285129.826414,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751285571.756463,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751287417.1119971,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751293847.685604,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751294045.9080958,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751294125.104035,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751294195.16173,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751294229.4640841,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751294232.075307,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751296280.814471,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1751298301.8592072,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751300284.890794,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751300827.869699,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751300865.298554,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751300958.805934,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751301432.649339,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,120.0
+1751302367.787138,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751307197.911072,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751308452.479039,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751309206.322318,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751309735.665152,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751309931.902417,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751310966.449089,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751310976.759684,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751310992.779535,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751312366.013461,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751312559.199456,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751313192.78931,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751313508.840088,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751342442.514903,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751343124.085586,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751343133.3792892,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751343170.554397,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751343177.506948,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751343191.068287,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751343205.941732,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751343207.198636,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751343220.9467568,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751344859.13466,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,60.0
+1751345709.5071092,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751346006.0553179,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751346031.3353539,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751346038.337867,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751346412.614819,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751346776.940933,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751349221.3371968,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751349229.478868,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751349252.2457972,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751349416.8669481,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751349497.8080301,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751350077.403727,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751350257.153388,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751350552.094737,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751350689.419989,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751350986.591757,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751350989.60817,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751354957.815606,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751355626.137072,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751355629.716424,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751355630.224936,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751355630.438809,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751355641.168865,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751355643.177705,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751355649.394989,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751356535.250654,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751356565.913159,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751358404.172878,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751359875.146182,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751362056.537599,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751363176.616431,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751366626.392242,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751369806.59477,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751370066.723209,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751370083.500227,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751372025.009107,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,300.0
+1751372298.9288058,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751372306.3195472,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751376103.1921601,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751376227.132514,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751376244.2483869,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751377502.560975,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751379093.1750488,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751379094.501374,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751379095.628876,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751379821.585547,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751379947.26318,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751383537.563034,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751383723.731104,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751383748.542481,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751383778.308197,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751383826.872968,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751383901.137354,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751383904.898447,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751388329.831202,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751391042.04477,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751429412.432617,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751435161.0600572,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751436278.5063891,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751436294.643471,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751436400.425369,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751441696.504712,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751442077.353201,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442294.293933,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442295.982637,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442309.003145,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442359.961215,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442363.5099812,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442369.966326,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442495.783599,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442500.766576,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442515.5361671,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751442541.118237,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751444069.325911,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751447184.2375941,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751449069.221952,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751452834.3786678,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751454792.6757889,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751458084.0746,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,240.0
+1751458737.011538,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751459381.8758988,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,1.5,,
+1751459393.832046,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Оставайтесь в курсе событий,240.0
+1751461081.745275,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Расслабиться,180.0
+1751461745.252757,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Расслабиться,60.0
+1751462600.9959521,breathingExercise,False,instagram,Asia/Aqtau,openedApp,1.5,Написать сообщение,180.0
+1751464653.486814,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751465573.3452759,,False,wolt,Asia/Aqtau,closedApp,,,
+1751465666.7569509,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751465748.6206841,,False,wolt,Asia/Aqtau,closedApp,,,
+1751465749.555243,,False,wolt,Asia/Aqtau,closedApp,,,
+1751466574.57025,,False,wolt,Asia/Aqtau,closedApp,,,
+1751467547.152172,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751468525.251669,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751471638.57744,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751472046.206273,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751472070.4544039,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751472283.5224261,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751472927.236522,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751474465.496551,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751474521.639535,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751476827.211752,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751484687.984274,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751484700.17915,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751490574.56021,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751491505.292417,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751492569.9827151,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751492572.856993,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751492578.1384702,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751496512.7472959,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751515936.4160938,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751523364.3101768,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751524218.94381,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751524835.222645,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751525052.8126879,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751525079.703785,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751525106.690216,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751526871.960369,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751529777.2307072,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751532060.638062,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751532083.718436,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751532115.703178,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751532141.1055388,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751532284.402967,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751532284.752841,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751532286.6605139,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751532307.261476,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751537610.012192,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751537752.163842,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751537755.028238,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751537759.476541,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751537762.595048,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751537821.2263331,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751538057.6453118,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751538774.561146,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751538825.952954,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751538842.6092582,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751538845.467,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751538985.319783,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751543787.326308,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751549432.691516,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751548271.560902,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751548309.648396,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751548354.805094,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751549397.824491,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751551622.9948301,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751552158.830859,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751555638.9618201,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751555646.893938,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751555648.9461942,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751555684.568904,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751556171.604749,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751557453.6840382,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751557493.678127,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751557501.358279,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751557538.296414,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751559860.912996,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751560851.6906672,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751560877.940339,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751564341.0090032,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751564502.989305,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751564506.700268,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751564589.8886042,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751564600.524967,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751564607.61279,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751564617.072442,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751564620.3777971,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751564622.889783,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751564630.052762,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751565593.289504,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751603680.9361758,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751605083.604453,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751608697.845759,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751608891.8070102,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751613037.411272,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751613323.8705149,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613368.999383,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613374.2592201,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613402.7917929,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613411.526187,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613438.2120771,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613442.720463,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613467.432332,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613488.3796248,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613496.602098,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613515.949472,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613521.699444,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751613683.807428,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613756.349256,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751613762.903836,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751615522.805826,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751617206.2489119,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751617492.324302,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751617500.768005,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751617521.935523,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751617550.553979,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751617624.0674438,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751617630.3787432,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751617634.519263,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751617636.7815819,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751617641.2168388,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751619946.034508,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751620921.449284,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751620924.029335,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751620927.200728,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751621467.642428,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751628945.096739,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751631907.228811,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Оставайтесь в курсе событий,180.0
+1751632998.030558,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751635086.278874,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751635181.438544,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751635267.074496,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751635297.267997,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751635304.756233,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751635318.555975,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751635327.204232,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751635349.287372,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751635353.0450292,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751635358.4155312,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751635366.3969378,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751635592.553766,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751637138.579617,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751637156.915945,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751637217.1295881,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751637403.206067,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751637412.7384229,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751637415.85846,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751638751.553156,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751641457.155272,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751641711.82236,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751641906.353637,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751645683.0285912,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751645731.501841,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751645766.454855,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751646589.15726,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751646767.026747,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751646802.218538,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751646825.1007318,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751647254.898562,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751647263.354303,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751647283.044055,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751647313.7486181,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751647317.448104,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751647736.425469,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751647864.502757,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751651032.294808,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751651038.1264482,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751651052.043642,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751654989.900985,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751655300.240179,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751655490.4984999,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751656676.874243,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751656700.876625,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751657575.582765,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751685901.480586,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751686758.098598,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751686783.875056,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751686970.4837599,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751696001.268709,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751700894.8355331,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751700952.486062,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751710740.200393,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751711348.3959699,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751711513.0575671,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751714647.910258,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751715336.0214891,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751715834.465061,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751724407.3836842,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751726827.219998,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751732732.257184,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751737953.637301,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751738958.670035,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751740700.469732,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751769358.940014,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751769368.617569,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751769992.5256848,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751778333.887532,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751778532.07323,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751782758.006209,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751790979.713427,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751791176.831672,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751798901.161528,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751799379.592468,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751799399.824298,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751799419.0381331,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751799561.041054,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751802239.1298962,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751802265.742453,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751802328.22647,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751803507.280757,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751808723.186973,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751809067.5576859,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809076.509196,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809136.9301748,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809142.397431,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809160.685106,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809200.4164228,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809207.395427,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809210.8065572,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809244.369413,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809277.9454541,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809314.629605,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751809423.164295,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751810083.095988,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751811496.146566,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751811563.265322,,False,skyNews,Asia/Aqtau,closedApp,,,
+1751814909.978097,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751817585.148044,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751822616.645086,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751824189.951746,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751824657.245492,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751830910.5077848,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751830934.756537,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751830963.1067162,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751859293.2513099,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751864168.188685,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751869117.617886,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751869126.525006,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751872662.376066,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751875258.9236178,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751882786.787174,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751882797.57394,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751883090.3621778,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751883093.098305,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751883630.027024,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,60.0
+1751883713.409442,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751889828.729226,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751895770.137629,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751897474.9501019,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1751897523.782668,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1751897947.674773,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1751898306.325966,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1751898948.110392,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1751900263.719074,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751903254.0491729,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751904049.948872,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751904354.638777,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751904377.278059,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751904390.279532,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751904759.0039558,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751906352.983245,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751910714.017256,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1751914011.89389,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751914015.5306191,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751914030.30675,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751917633.0312362,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1751948261.227941,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751954962.4754782,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751955643.3336182,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751955656.065884,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1751956013.107613,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751956352.733303,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1751956697.331536,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751956714.886732,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751963190.768567,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751963209.7593699,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751963228.40519,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751963235.2578769,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751963301.4919739,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751966496.133877,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751970091.969511,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751971798.032407,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751972638.651058,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751973403.771394,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751973594.509403,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751973601.20836,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751973611.840817,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751973734.529963,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751973736.293673,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751979539.4495049,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751979541.553944,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751979546.5885592,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751979552.4552178,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751979563.14187,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751979565.751408,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751979577.117779,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751979583.669909,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751979610.931766,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751984277.360633,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751987194.0079532,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751988373.327839,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751988529.724656,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1751988546.482656,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1751991870.254466,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752033193.533411,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752033787.758434,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752037573.411737,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752037919.289592,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752039748.369083,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752039918.837903,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752039927.045984,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752039960.271062,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752039982.112558,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752040022.660733,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752040725.447503,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752041898.2036061,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752041899.526907,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752041899.6086478,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752041917.4799662,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752042189.0262609,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752052425.051853,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752051027.858107,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752051042.71222,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752051047.89815,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752052809.5480042,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752054669.528648,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752057519.031931,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752058038.047998,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752058338.796602,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752058347.447853,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752058349.824712,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752058351.155832,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752062853.65927,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752063695.9186559,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752063706.4350672,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752067297.923122,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752072095.367832,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,60.0
+1752073718.95466,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752075119.953974,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752075858.260978,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752075941.15902,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752075984.3640609,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752076267.248423,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752076853.43861,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752076873.66918,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752076890.158969,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752076898.5188951,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752076928.378387,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752085088.9333029,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752093703.803242,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752119791.448623,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752119925.8771338,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752125077.727967,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752125427.713027,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752128322.454979,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1752132398.888184,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752132594.740237,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752136394.84638,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752141277.2436008,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752142646.263713,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752142664.598182,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752142720.3354049,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752144406.4658918,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752146189.5529718,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752146927.20013,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752150807.192503,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752151003.669754,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752151801.098077,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752156571.241753,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752156821.2097778,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752157286.935701,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752157387.21999,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752157518.022478,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752160913.057903,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752163222.981645,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752165334.93571,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752168700.032401,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752169848.446394,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1752170249.9925442,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1752172653.0409331,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752174970.734622,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752175292.652173,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752206224.330517,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752208180.587143,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752211345.18083,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752214547.490285,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752214580.987109,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752217507.250824,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752226508.434495,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752225278.301945,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752225300.024142,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752225348.065011,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752225359.1423311,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752225489.1250548,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752225527.943153,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752226518.77827,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752227496.317147,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1752228240.991266,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1752233375.617257,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752234002.7944,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234326.938153,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234343.715739,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234836.131713,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234849.686418,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234873.2404032,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234903.075912,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234903.500262,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234909.954005,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234915.571166,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234921.44386,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234952.39109,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234974.676724,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234978.411646,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752234984.285993,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752235006.5467339,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752235083.762117,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752235085.7917829,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752235090.0428848,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752237056.493603,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752237111.958276,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752237139.104989,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752237715.140078,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752237982.3470712,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752238326.539923,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752239000.572046,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752240682.946391,,False,wolt,Asia/Aqtau,closedApp,,,
+1752240919.791277,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752241726.246016,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752242691.05132,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752242691.425345,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752242689.023622,,False,wolt,Asia/Aqtau,closedApp,,,
+1752249566.359267,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752254523.601738,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752255213.599045,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752256499.10308,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752257009.917735,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752257214.570358,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752257299.2572088,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752257965.017396,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752258654.422673,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752258659.1948,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752258662.1746721,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752258677.126739,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752258836.13,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752259225.1895561,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752264573.467434,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752265652.5666928,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752278495.66027,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752278502.986494,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752278605.485111,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752279262.9179,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1752279527.353588,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752279534.012344,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752279535.343719,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752279556.230441,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752279571.064632,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752280147.70663,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752280737.1982331,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752280852.4764981,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752280859.228009,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752280947.29556,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752280950.6088738,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752280957.683872,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752280959.663756,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752280968.1226459,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752280996.438819,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752281380.2658648,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752281384.151359,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752281387.577131,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752281391.22921,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752281399.8993,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752281411.8525,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752282918.4347692,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752283873.428971,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752284184.5137239,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752284881.053887,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752286097.66836,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752286212.823763,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752286383.279214,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752286388.304977,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752286563.344928,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752286574.430704,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752286597.873776,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752286801.2746701,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752286994.089545,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752290967.664894,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752291164.677134,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752293498.61659,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752293934.510998,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752293948.065697,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752293998.662256,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752294898.455947,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752300080.274421,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752300086.702667,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752300184.3098722,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752304787.909299,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752305383.154221,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752306227.345779,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752306490.2060719,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752306564.13727,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,180.0
+1752307692.579073,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752307756.553287,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752310220.198417,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752310270.173465,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752310369.359566,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752314860.954994,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752314927.991317,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752315393.218169,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,300.0
+1752316809.470077,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,240.0
+1752317059.461752,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752317177.448421,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,1800.0
+1752318993.662426,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,1800.0
+1752320146.517132,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752321487.44797,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752322156.845794,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752322450.448463,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752324164.189558,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752324169.967319,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752324245.846016,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752324250.628876,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,60.0
+1752324385.900109,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752326267.181974,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,1260.0
+1752326959.503129,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752327090.4821758,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752327110.464038,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752327646.0394,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1620.0
+1752329209.301661,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752329307.8628159,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752327756.986752,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752327831.643856,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752327832.8398051,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752327850.982254,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752329390.957376,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752329429.259458,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1740.0
+1752329492.02071,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752331956.962851,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752332663.152093,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752334110.774112,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1560.0
+1752335257.210929,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752336496.477253,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752337648.66186,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752338010.183121,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752338864.855098,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1620.0
+1752339836.1008558,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752342206.7929149,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752343520.784996,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752377806.2510881,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1260.0
+1752382535.1846008,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752383248.036666,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1380.0
+1752386481.0386539,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1680.0
+1752387446.026775,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1440.0
+1752388180.9496589,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1620.0
+1752399775.327522,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1380.0
+1752400679.736528,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1500.0
+1752403413.8673658,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752403424.915627,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,1800.0
+1752404179.339625,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1380.0
+1752407407.881853,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1320.0
+1752408217.817854,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752408328.4578629,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752408494.964288,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752409320.202523,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752410136.02409,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1680.0
+1752412132.891356,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1680.0
+1752413938.625617,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1320.0
+1752417267.96072,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752419532.30973,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752421596.791125,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752422804.775943,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1740.0
+1752424026.126694,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1320.0
+1752425877.363624,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1800.0
+1752426910.263366,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1200.0
+1752427756.3852692,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1140.0
+1752428926.713643,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,960.0
+1752430599.59951,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,900.0
+1752453898.6910338,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752453989.58816,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752466010.167001,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752466041.001412,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,1380.0
+1752467102.9630032,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752467116.662215,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752467160.399612,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752467983.847609,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468048.757446,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468061.0560498,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468079.626672,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468115.7924418,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468147.028676,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468153.874617,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468179.49863,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468191.325463,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468208.581454,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468248.3273149,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752468883.334076,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,900.0
+1752473722.138212,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752473864.785252,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752477823.60008,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1020.0
+1752478442.855186,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752478459.696768,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1080.0
+1752479742.58665,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,960.0
+1752485347.060258,,False,wolt,Asia/Aqtau,closedApp,,,
+1752486347.535619,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,900.0
+1752487233.079299,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752487257.523975,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752487816.088495,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752487218.825453,,False,wolt,Asia/Aqtau,closedApp,,,
+1752487928.3401608,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,900.0
+1752491483.860542,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,840.0
+1752491697.149881,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752494270.4757562,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752494841.116586,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1200.0
+1752498533.9373078,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,900.0
+1752500912.3229508,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,720.0
+1752502940.147301,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,900.0
+1752503834.320082,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752503863.9617019,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752503967.1578689,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752504034.1986241,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752504379.279885,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,720.0
+1752505006.740189,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752505011.6732988,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752505019.561928,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752505025.108212,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752505246.084058,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752505259.427742,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752505260.7166371,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752505264.045364,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752505268.583372,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752506535.193026,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,780.0
+1752507769.335463,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,720.0
+1752510091.474318,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752510128.153811,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752510144.6678581,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752510202.033273,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752510259.117017,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752513147.871391,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,600.0
+1752513441.182514,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752513450.753351,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752513905.3280358,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752516451.8218222,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,720.0
+1752518005.119746,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752518013.645462,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752518025.608539,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752518629.493088,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,960.0
+1752555454.690275,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752555489.186367,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752555510.979281,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752555513.399262,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752555534.647809,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752555536.881664,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752555647.40733,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,780.0
+1752557176.417494,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,660.0
+1752558908.062511,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563035.313645,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,1260.0
+1752563205.153856,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563269.421776,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563288.3038,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563322.882643,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563325.0775251,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563337.396792,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563352.482967,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563385.581203,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563399.744895,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563413.685483,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563415.453539,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752563418.5041308,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752567546.834612,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752567998.419323,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752568136.314395,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568183.297358,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568187.0889602,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568272.846091,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,780.0
+1752568602.303,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568657.722402,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568664.126542,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568665.743262,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568724.0421438,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568726.958148,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568728.249124,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568736.977262,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568822.3607202,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568838.354525,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568841.7483459,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568845.843081,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568847.7598162,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568867.13972,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568948.436854,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752568952.799546,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,420.0
+1752570458.594537,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752570497.653465,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,780.0
+1752570919.397759,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752570984.063437,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752571285.7345061,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752577784.746392,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,600.0
+1752578518.3241959,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752578547.2770882,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752578564.852582,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752578567.6417398,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752578569.34053,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752578575.8481212,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752578626.231025,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752578843.693365,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752578935.117563,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,480.0
+1752584433.6551762,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,780.0
+1752585336.811362,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752585581.74264,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,1020.0
+1752587784.184624,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,540.0
+1752596610.5051498,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,720.0
+1752600583.025835,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,660.0
+1752606352.774349,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,600.0
+1752639147.741136,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,600.0
+1752648521.0459208,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,720.0
+1752649622.458095,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,780.0
+1752650276.6492271,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,720.0
+1752651283.097252,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,660.0
+1752652564.653285,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,720.0
+1752653307.623482,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,660.0
+1752655419.6498132,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,420.0
+1752655836.0086331,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752655857.701507,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752655864.39979,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752656602.1648421,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,420.0
+1752657048.800634,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752657909.929548,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,660.0
+1752659390.975051,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752659479.7506418,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752659679.898571,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752659850.018621,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,420.0
+1752660121.510402,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752660134.2924252,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752663313.479175,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,840.0
+1752665273.563287,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,3.0,,
+1752663584.532304,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752663662.04678,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752665181.986372,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752665206.7117748,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752665259.741699,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752665259.994479,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752665269.3640141,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752665281.637656,breathingExercise,False,instagram,Asia/Aqtau,openedApp,3.0,Написать сообщение,60.0
+1752666153.883813,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,360.0
+1752666300.857379,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752666310.612215,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752666324.507333,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752666329.623282,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752666905.465306,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,540.0
+1752670045.3544211,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,3.0,,420.0
+1752672547.150419,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752672567.638639,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752672606.006758,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752672656.01764,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752672679.2794452,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752672969.546778,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752672976.8683748,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752672990.914826,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752672997.764834,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752673235.7201529,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752676654.203346,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1752677249.083734,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752677255.072163,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752677289.3400779,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752677402.568201,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1752678509.5277948,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752680321.738635,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1752681786.987596,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752683351.738194,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1752686622.9107862,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1752687603.5013819,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,960.0
+1752688361.793768,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752688888.4016662,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,1080.0
+1752726117.730444,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752728669.4205189,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1752732631.860217,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,1140.0
+1752735662.912266,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752735916.177104,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752735933.6477342,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752735955.583951,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752735993.32269,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752738822.623725,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,960.0
+1752740156.34607,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752743709.3498511,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752746060.243231,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752746125.5732222,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752746131.666123,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752746132.6372309,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752746133.192079,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752746713.8717961,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1752747024.382833,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752747030.1887689,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752747031.550915,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752747032.901248,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752747804.2430658,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752747815.125947,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752747837.597869,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752748241.134182,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,720.0
+1752748920.443746,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752748924.43156,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752748927.60118,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752748947.733208,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1752749295.1349459,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1752752821.248661,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1752753548.478075,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752763952.2906141,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1752764458.322812,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752764516.307811,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752764630.72191,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752764662.6631541,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752764775.8595471,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752764785.310487,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752764839.15244,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752764846.8404179,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752764852.084297,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752764889.874989,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752765056.8680959,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752765137.787065,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1752765902.866345,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1752766455.3408,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752766564.381649,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752766584.998663,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752766587.431874,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752766590.324963,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752768294.3003988,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1752770641.577522,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1752775073.273361,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,960.0
+1752773728.3071342,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752778897.35424,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1752781968.171914,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,720.0
+1752786893.194911,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1752787516.773964,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,900.0
+1752788479.5860472,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752809837.8415542,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752809845.4946961,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752820091.600687,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752826139.368256,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752827208.133816,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,540.0
+1752829592.161552,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752830154.772471,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,540.0
+1752831924.153909,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1752836728.372093,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752837792.731934,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1752842093.995469,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1752842993.1223989,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1752844829.574,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,720.0
+1752847192.621324,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752849283.7630792,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752849571.941718,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752849655.233274,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752849669.231282,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752849672.2502642,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752849706.459221,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752854548.870103,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752855943.9703531,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752857486.720241,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752858389.264583,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752859003.910449,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752859026.791171,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752859050.6685991,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752859134.238369,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752859144.930093,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752859604.326212,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,780.0
+1752860634.7649431,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1752862227.993579,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752863770.2593641,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752864904.393739,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752864958.040255,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865016.289916,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865166.379786,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865173.8209128,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865224.702066,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865226.783046,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865269.134153,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865289.4864922,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865296.437139,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865346.8616772,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865435.5408669,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752865550.014559,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752866435.892586,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752866586.035435,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1752871963.1178842,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752873294.272925,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752874277.989193,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1752875844.3360019,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1752877879.509258,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1752904662.7260242,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752904976.017249,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752905088.126946,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1752907154.318737,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752907172.351887,,False,appleStore,Asia/Aqtau,closedApp,,,
+1752907224.287333,,False,appleStore,Asia/Aqtau,closedApp,,,
+1752907981.4115648,,False,appleStore,Asia/Aqtau,closedApp,,,
+1752907989.074563,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752908490.011331,,False,appleStore,Asia/Aqtau,closedApp,,,
+1752908896.045157,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752911521.188256,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1752913501.504262,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752915009.4322948,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1752915810.6647391,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1752916915.274356,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,180.0
+1752918332.76898,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752919218.794773,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,60.0
+1752919482.801616,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1752920512.844337,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1752921194.1097841,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752925707.294198,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1752927417.2019792,,False,appleStore,Asia/Aqtau,closedApp,,,
+1752928790.683237,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752929686.3560472,,False,youtube,Asia/Aqtau,closedApp,,,
+1752929726.062086,,False,amazon,Asia/Aqtau,closedApp,,,
+1752929922.661516,,False,amazon,Asia/Aqtau,closedApp,,,
+1752932540.177547,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,420.0
+1752933709.093477,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1752934468.2856941,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1752936095.073858,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1752936666.6296911,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752936695.905621,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752936708.579098,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752936733.0814462,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752936740.4234738,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752936742.894712,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752936745.3711472,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752936978.650126,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1752937775.61972,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1752937777.555303,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1752937813.1684089,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,660.0
+1752938621.6241322,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,240.0
+1752938806.2648811,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752939609.8957539,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1752939683.423744,,False,A9492E86-BFE8-4936-AC42-BAC364B7B1C8,Asia/Aqtau,closedApp,,,
+1752941535.631948,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752941552.361726,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752941581.569504,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752941603.8569221,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752943717.365803,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752944394.4335,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1752945722.0125809,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1752945776.884254,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752946429.4782,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752946434.4492269,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1752950278.306518,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Оставайтесь в курсе событий,600.0
+1752950915.4370499,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1752951670.77429,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1752959764.4536982,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,780.0
+1752960718.466183,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1752979381.439808,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1752979415.365735,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1752988349.1144571,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1752988433.249954,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,60.0
+1752988713.573698,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1752989582.423475,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752990389.724586,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752993007.0619888,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1752995381.95041,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1752996315.936545,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,540.0
+1752996796.991543,,False,amazon,Asia/Aqtau,closedApp,,,
+1752996825.946213,,False,amazon,Asia/Aqtau,closedApp,,,
+1752996833.579381,,False,amazon,Asia/Aqtau,closedApp,,,
+1752996855.415818,,False,amazon,Asia/Aqtau,closedApp,,,
+1752996953.2293692,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1752997567.920358,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1752999595.7344198,,False,amazon,Asia/Aqtau,closedApp,,,
+1752999848.4050221,,False,amazon,Asia/Aqtau,closedApp,,,
+1753000417.919887,,False,amazon,Asia/Aqtau,closedApp,,,
+1753005250.650254,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753007613.6744308,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753008141.518583,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753008772.2326179,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753009283.181068,,False,amazon,Asia/Aqtau,closedApp,,,
+1753009422.1940541,,False,amazon,Asia/Aqtau,closedApp,,,
+1753009690.6172528,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,60.0
+1753009880.941163,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,60.0
+1753010018.643013,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753010031.5383348,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753010112.064797,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753010130.133637,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,900.0
+1753011361.889379,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753011923.310097,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753011968.1247969,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753013304.77183,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753015664.373519,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1753018133.2409449,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753021670.438074,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753021754.034212,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753022578.853488,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,60.0
+1753023125.775306,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023135.6871262,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023220.0872989,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023263.0196772,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1753023708.622808,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023711.647746,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023715.5484061,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023720.8894958,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023724.6837258,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023741.754586,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023805.936764,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023812.896318,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023843.9996328,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753023635.215996,,False,substack,Asia/Aqtau,closedApp,,,
+1753023665.563813,,False,substack,Asia/Aqtau,closedApp,,,
+1753025327.5453482,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753026009.0432339,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753026434.271673,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1753028067.02887,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753028085.1066232,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753029466.464141,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753029547.932435,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753029566.301122,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753029573.124615,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753029612.42543,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753029640.0260181,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753029674.2156649,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753033865.830243,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753034207.019758,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753035299.376378,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753035769.427373,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753036391.538931,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753037125.1204119,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753038568.763658,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753038650.493285,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,360.0
+1753040007.1586561,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753040734.4095778,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753041060.2592149,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753042303.449538,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753042306.1715798,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753042678.82615,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753043244.131854,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,540.0
+1753077647.506602,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753077971.879842,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1753078238.302006,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753078240.234246,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753078244.9251919,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753078248.8736649,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753078261.7629352,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753078313.151678,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753078337.2052798,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753078355.578701,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753078399.1243382,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753079574.185934,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753079658.02334,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1753083477.529017,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1753087544.766787,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753087629.1662679,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753087655.6128612,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753087658.1751409,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088134.208657,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,360.0
+1753088549.7190452,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088584.950423,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088717.796475,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088718.15106,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088721.318141,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088728.720134,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088737.088077,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088740.375354,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088761.711076,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088774.618915,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753088847.7177548,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753089309.3295588,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753089378.1352348,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753089426.186353,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753092368.071279,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753092974.7206268,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753093582.94389,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753094956.348803,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753098117.195818,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753098128.301375,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753098249.1080399,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753098735.2296429,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753098801.603209,,False,instagram,Asia/Aqtau,closedApp,,,
+1753102195.738008,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753104236.356501,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753104558.948028,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753104608.28292,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753105685.833724,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753106424.262721,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753106933.8940449,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753107053.551847,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753107061.0457711,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753107252.606221,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753107253.96315,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753107258.4986649,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753107268.5321221,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753108779.414277,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,900.0
+1753109469.527828,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753110155.16253,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753114685.960577,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753115745.7704868,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753116068.3002381,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753116750.823831,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1753117286.7008162,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753117368.386461,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753117372.1034632,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753121921.944059,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753122088.102828,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753122443.7719069,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,540.0
+1753123011.1678,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,360.0
+1753124060.235832,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753124695.573113,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753125200.368166,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,660.0
+1753128649.007959,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753128766.996186,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,360.0
+1753129840.851162,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753163309.9392319,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753165093.806079,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1753165358.385993,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753165381.1392221,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753165394.1644611,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753165981.0868568,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753166364.6407928,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753169375.555913,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753171849.372795,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753172200.385011,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753172222.323725,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753172232.13396,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753172351.42058,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753172463.08252,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753172738.555002,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753175925.310014,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1753181746.228297,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753184369.1504521,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753189476.42255,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753190426.795562,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753190445.6253638,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753194004.407816,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753194401.603434,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753197935.852519,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753198283.0346951,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753198366.694007,,False,appleStore,Asia/Aqtau,closedApp,,,
+1753198541.882489,,False,appleStore,Asia/Aqtau,closedApp,,,
+1753198605.7838922,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,420.0
+1753200266.1217098,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753202840.278508,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753203620.2378402,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753204954.6685848,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753207010.788103,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753208258.19825,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,240.0
+1753208885.9057589,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753216398.7220302,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753216902.822266,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753218827.0151339,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753224661.660943,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753258559.851937,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753259125.008501,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753259166.777238,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753259177.003515,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753259218.886903,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753259222.414084,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,240.0
+1753263596.0955,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1753264206.945857,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753264532.5333781,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753264569.362709,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753264823.375811,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753265484.510007,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753265493.45462,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753265552.5834699,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753268917.351656,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753271576.860664,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753272249.217757,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753272297.696316,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753272299.201096,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753272490.492663,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753274063.8609362,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753275294.744968,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753275572.368676,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753275577.3544722,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753279516.0523949,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753279598.557437,,False,reddit,Asia/Aqtau,closedApp,,,
+1753279628.3122401,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753280511.017425,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753283630.022191,,False,reddit,Asia/Aqtau,closedApp,,,
+1753283700.3575659,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,240.0
+1753286992.763486,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753292014.663038,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,420.0
+1753293660.501883,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753293662.174271,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753293664.995676,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753293987.101781,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753294932.670855,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753295169.545422,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753295540.14778,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1753297738.2266998,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753297769.749538,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,300.0
+1753297823.123822,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297850.545271,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297879.8615332,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297881.058697,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297896.1349769,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297900.254714,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297908.89779,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297910.6496038,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297933.627965,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297938.770352,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297941.655334,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297943.792543,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297952.407446,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753297954.901123,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753298507.456706,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753299457.565508,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753300528.841947,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753300994.379971,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,360.0
+1753302758.788852,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753302789.908889,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753303720.78092,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753304805.665627,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753304807.527314,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753304891.240776,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753323352.328264,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753323416.560018,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753323472.82465,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753323919.4077349,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753323931.876182,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753323940.824627,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753323958.1120958,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753323987.3055139,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753324796.313573,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753325203.791605,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753326272.4809499,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753325239.059871,,False,substack,Asia/Aqtau,closedApp,,,
+1753327513.457117,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753329464.705686,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753329511.756712,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753329866.17328,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753329905.164319,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753330745.3692389,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753331622.002888,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753340649.931783,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753340672.721385,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,360.0
+1753341057.25373,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753341087.2908602,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753341092.6980429,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753341098.846458,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753341191.207228,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753341210.860976,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1753341956.12565,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753342611.5759258,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,180.0
+1753351312.137423,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753352279.186439,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753353013.177146,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753353022.4817429,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753353134.127152,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753353134.82743,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753353137.822113,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753353140.844583,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753353395.8306499,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,420.0
+1753353485.838541,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753354329.307609,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1753356412.6919599,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753357746.586292,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753357765.155261,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,720.0
+1753358470.949229,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753359656.765993,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753370217.796764,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753373318.100565,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753374614.1808028,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,1800.0
+1753379623.67141,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,1800.0
+1753380517.584338,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753380540.20359,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,1800.0
+1753383639.638376,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753384300.083847,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,1560.0
+1753386530.481569,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753387045.026073,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,1680.0
+1753387653.494358,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,1140.0
+1753424352.2995849,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753425625.711256,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753426288.1711268,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753428587.36691,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753429712.749161,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753430402.874989,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,1440.0
+1753432624.752408,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,1800.0
+1753434079.0304852,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753436572.6542249,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,780.0
+1753442532.876764,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,780.0
+1753444571.244948,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753446033.9946098,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753446072.603352,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753446079.13434,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753447136.331133,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,720.0
+1753448986.872751,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753451166.196392,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753452125.425494,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753455916.868361,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753465033.793544,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753466433.14321,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753467831.5138102,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753468435.94587,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,720.0
+1753468817.852092,,False,youtube,Asia/Aqtau,closedApp,,,
+1753468833.62678,,False,youtube,Asia/Aqtau,closedApp,,,
+1753468862.18328,,False,spotify,Asia/Aqtau,closedApp,,,
+1753469070.213354,,False,spotify,Asia/Aqtau,closedApp,,,
+1753469359.451448,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753470064.4607248,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753470069.061378,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753470088.988682,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753470110.6863918,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753469732.706614,,False,spotify,Asia/Aqtau,closedApp,,,
+1753470352.953179,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753471472.699408,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753472203.3711429,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753473716.852709,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753474651.406126,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753478648.731368,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753479356.2338061,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,60.0
+1753479438.810031,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753479770.270335,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753479774.716189,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753479832.513902,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753479833.57459,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753479842.158218,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753479875.641557,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753479877.316811,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753483372.330266,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753484190.04059,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753484947.3848019,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753506472.441996,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753506857.314928,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,540.0
+1753515239.51583,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753515359.721931,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753516770.087788,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753516895.264498,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753516969.0776072,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753517004.919407,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753517009.9369879,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753517012.6375961,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753517019.1841822,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753517047.475062,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753520082.0552921,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753521088.26636,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753522068.6550589,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753523061.456645,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753523630.052065,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753524244.0872788,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753524319.586317,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753524939.916569,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753526416.847753,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753528278.0727859,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753528961.442337,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753529583.6903582,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753531984.799807,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753536557.445849,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,900.0
+1753537175.748781,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753541230.061101,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753542349.448223,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753543131.046243,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753544229.349955,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753544638.967649,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544641.2415261,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544659.807107,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544683.474446,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544694.54755,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544730.6585212,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544947.447802,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544947.755702,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544950.940284,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544965.505887,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544971.220401,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753544998.677489,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753545027.925719,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753547963.4448938,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753547994.07779,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753548025.398299,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753548098.371254,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753548105.953576,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753550178.1698918,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753550202.577131,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753551750.071316,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753551782.799114,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753553048.230836,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,780.0
+1753557116.012477,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753558139.3767772,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753558682.8471289,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753558804.260602,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753559672.413564,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753559680.768333,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753562400.738838,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753565055.830888,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753565060.946516,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753578237.407991,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753578864.4966311,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753578866.495027,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,780.0
+1753578915.127054,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753579554.149662,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753580366.615909,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753580915.886364,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753581401.3961759,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753597556.6882958,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753603837.194627,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753605175.5765991,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753606684.83327,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753607764.539425,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753609043.503334,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,840.0
+1753610178.5133572,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753610243.548317,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753615286.1200309,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753615294.617908,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753617108.5525742,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753617902.2496228,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753623899.994726,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753624550.266502,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753625172.940333,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753629288.639097,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753630689.684397,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753631933.606872,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753632664.2357469,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753633609.645242,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753635148.321778,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753637008.698106,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,900.0
+1753640062.186867,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753640975.11139,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753641801.864341,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,600.0
+1753642422.549221,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,900.0
+1753644896.609761,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753649520.3456311,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753650203.860641,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,660.0
+1753681277.41413,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753681732.9785771,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1753682702.58973,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753683481.0319,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753685088.313307,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753686151.958826,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753687245.278156,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753687983.8987,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753688635.715126,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753689512.430254,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753690961.054579,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,960.0
+1753692511.302894,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753693571.877439,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753694649.212327,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753695841.84517,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753697213.8621268,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753701662.5969992,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753703566.335242,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753706468.728074,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753707460.386314,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753708805.2676392,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753708901.752821,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753708932.4604812,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753709055.350806,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753710639.911653,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753712576.560739,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753713741.918981,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753715685.943509,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753716180.620076,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753716195.854481,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753716199.826685,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753716218.51682,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753719937.415368,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753725286.068255,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753728208.4705849,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753730626.824059,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753731845.8702822,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753734551.10868,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753736467.542293,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753737040.436609,,False,pornhub,Asia/Aqtau,closedApp,,,
+1753737096.9136682,,False,pornhub,Asia/Aqtau,closedApp,,,
+1753737108.019572,,False,pornhub,Asia/Aqtau,closedApp,,,
+1753736747.709509,,False,xhamster,Asia/Aqtau,closedApp,,,
+1753737009.2820659,,False,xhamster,Asia/Aqtau,closedApp,,,
+1753736608.334439,,False,xvideos,Asia/Aqtau,closedApp,,,
+1753759268.132588,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,480.0
+1753760190.9948602,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753760395.023839,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753774418.203166,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753775216.3126569,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753778296.686949,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753782032.3617802,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753783022.282987,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753783560.841871,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753783588.3385649,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753783634.423639,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753783662.704794,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753783704.858068,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753783762.3694491,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753783795.46019,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753783796.977689,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753783806.978029,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753784333.4895191,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753786433.508842,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753787707.7442698,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753788312.105359,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753788322.42429,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753788352.005368,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753789755.8128371,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753790371.70591,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753790528.833164,,False,amazon,Asia/Aqtau,closedApp,,,
+1753796904.2666302,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753798109.518169,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753806333.412569,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753808090.06934,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753809171.153929,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753810788.663065,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753812256.9584599,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753813035.720602,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753814158.501924,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753816228.271883,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753816991.690239,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,720.0
+1753817811.390592,,False,youtube,Asia/Aqtau,closedApp,,,
+1753817815.375495,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753817889.799532,,False,youtube,Asia/Aqtau,closedApp,,,
+1753818787.621485,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753819521.003533,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753819758.475831,breathingExercise,False,instagram,Asia/Aqtau,openedApp,6.0,Написать сообщение,660.0
+1753820741.08316,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753821820.43746,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753823052.646184,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753826955.375968,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753827385.263191,breathingExercise,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753827703.2367082,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753847824.315392,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753848494.115816,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753849165.92903,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753849972.0707002,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753850130.5886369,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753851252.7668738,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753852441.787101,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753854656.5467029,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753855954.4371629,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753856797.675091,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,
+1753856155.643872,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753856190.1326861,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753856200.072799,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753856237.974636,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753856244.281095,,False,A6F10C8E-C5B2-426B-A208-43C0A072FA43,Asia/Aqtau,closedApp,,,
+1753865150.578115,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753866155.082073,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753866918.5513191,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,300.0
+1753870211.067565,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753871724.633184,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,540.0
+1753872373.225319,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753873001.419271,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,360.0
+1753874606.715755,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753875710.777458,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753876358.43403,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,600.0
+1753878009.3740258,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,480.0
+1753879218.999244,askForTimeLimit,False,instagram,Asia/Aqtau,openedApp,6.0,,420.0
+1753879935.3146892,askForTimeLimit,False,instagram,Asia/Aqtau,dismissedAppOpening,6.0,,

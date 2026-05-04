@@ -1,0 +1,915 @@
+interventionDuration,app,interventionType,resolution,isReIntervention,timestamp,timezone,purpose,timeIntervalUntilReIntervention
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750057753.6104522,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750057771.4746861,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750057946.3309689,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750058002.283519,Asia/Kuala_Lumpur,,
+1.5,youtube,breathingExercise,openedApp,False,1750058026.4037719,Asia/Kuala_Lumpur,Search Info,600.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750058080.8348432,Asia/Kuala_Lumpur,,
+1.5,youtube,breathingExercise,openedApp,False,1750058566.1147308,Asia/Kuala_Lumpur,Search Info,600.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750060868.1358209,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750060921.849382,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750060977.789299,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750060980.071446,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750061118.943921,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750061235.953022,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750064564.139327,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750064567.585823,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750064570.587012,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750064621.964083,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750065545.5716949,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750065546.581147,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750065550.1155481,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750065871.548415,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750069353.117762,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750069366.4571939,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750069391.400723,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750069427.2811542,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750070481.296517,Asia/Kuala_Lumpur,Search Info,180.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750071544.457037,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750072927.6255112,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750073281.4564018,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750075136.133933,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750075362.1683831,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750077036.439467,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750077052.1322122,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750077502.956205,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750077568.2185369,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750136480.799364,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750137111.296739,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750137223.9708052,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750137233.429111,Asia/Kuala_Lumpur,Escape / Avoid,60.0
+1.5,facebook,breathingExercise,openedApp,True,1750137327.554236,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1750137389.706389,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1750137530.1663918,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1750137747.8596668,Asia/Kuala_Lumpur,Work,240.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750162865.088671,Asia/Kuala_Lumpur,,
+1.5,youtube,breathingExercise,openedApp,False,1750163129.3219218,Asia/Kuala_Lumpur,Search Info,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750169928.0193,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750172342.525507,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750172345.195477,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750172377.630949,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750199574.18028,Asia/Kuala_Lumpur,Search Info,60.0
+1.5,tikTok,breathingExercise,openedApp,False,1750200044.061512,Asia/Kuala_Lumpur,Search Info,600.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750201153.363286,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1750201189.374277,Asia/Kuala_Lumpur,Search Info,360.0
+1.5,facebook,breathingExercise,openedApp,False,1750201436.695348,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,tikTok,breathingExercise,openedApp,False,1750202498.582006,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,tikTok,breathingExercise,openedApp,False,1750202679.88269,Asia/Kuala_Lumpur,Search Info,600.0
+1.5,tikTok,breathingExercise,openedApp,False,1750202938.268961,Asia/Kuala_Lumpur,Search Info,360.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750207594.456156,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750207597.4605222,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750207608.0889192,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750207634.705205,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750207746.684681,Asia/Kuala_Lumpur,,
+1.5,youtube,breathingExercise,openedApp,False,1750209913.309493,Asia/Kuala_Lumpur,Search Info,540.0
+1.5,tikTok,breathingExercise,openedApp,False,1750210059.892263,Asia/Kuala_Lumpur,Search Info,480.0
+1.5,tikTok,breathingExercise,openedApp,False,1750210242.887157,Asia/Kuala_Lumpur,Search Info,360.0
+1.5,tikTok,breathingExercise,openedApp,False,1750216393.7463331,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,tikTok,breathingExercise,openedApp,False,1750216430.87692,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,youtube,breathingExercise,openedApp,False,1750216573.858583,Asia/Kuala_Lumpur,Search Info,300.0
+1.5,tikTok,breathingExercise,openedApp,False,1750217025.463953,Asia/Kuala_Lumpur,Search Info,300.0
+1.5,tikTok,breathingExercise,openedApp,False,1750230639.318512,Asia/Kuala_Lumpur,Search Info,360.0
+1.5,tikTok,breathingExercise,openedApp,False,1750230711.319281,Asia/Kuala_Lumpur,Search Info,300.0
+1.5,tikTok,breathingExercise,openedApp,False,1750230930.946669,Asia/Kuala_Lumpur,Search Info,360.0
+1.5,tikTok,breathingExercise,openedApp,False,1750232236.887903,Asia/Kuala_Lumpur,Search Info,300.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750233732.339401,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1750233890.88595,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1750237036.2887511,Asia/Kuala_Lumpur,Search Info,360.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750237108.201513,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750237113.409764,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750237163.505074,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750237199.8658729,Asia/Kuala_Lumpur,Search Info,300.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750238259.6898,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750239696.9320679,Asia/Kuala_Lumpur,Search Info,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750239768.596746,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750239772.571278,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750242413.2097611,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750242425.210902,Asia/Kuala_Lumpur,Stay In the Loop,240.0
+1.5,facebook,breathingExercise,dismissedAppOpening,True,1750242678.161384,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750243349.323653,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750243352.150475,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750244091.1056352,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750244349.692357,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750244450.056116,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750244452.305925,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750245084.4192839,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750246634.455927,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750246650.7561731,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750258867.601492,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750296439.197897,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750311258.0180569,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750314775.3984241,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1750314988.484133,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750315269.975512,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750315448.563778,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750318850.234293,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750319590.573399,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750319592.231657,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750320843.7329612,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750320845.306571,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750322853.471089,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750322938.856708,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750322946.092262,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750323534.382601,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750323864.669832,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750323934.071538,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750323937.890548,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750324380.5070438,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750331815.400888,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750331819.097866,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750332089.446113,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1750332216.123852,Asia/Kuala_Lumpur,Escape / Avoid,60.0
+1.5,facebook,breathingExercise,openedApp,False,1750332387.899503,Asia/Kuala_Lumpur,Escape / Avoid,60.0
+1.5,facebook,breathingExercise,openedApp,True,1750332463.987125,Asia/Kuala_Lumpur,Escape / Avoid,180.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750333871.502635,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750334021.997215,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750342127.615967,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750371856.5495,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750372144.681031,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750372332.766992,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750373198.430982,Asia/Kuala_Lumpur,Escape / Avoid,120.0
+1.5,facebook,breathingExercise,dismissedAppOpening,True,1750373329.150881,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750380275.67343,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750380312.125922,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750380397.345259,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750382957.17874,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750383170.835573,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1750383180.281616,Asia/Kuala_Lumpur,Escape / Avoid,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750386795.9369369,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750386803.830501,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1750388640.848978,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750388986.634351,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750388988.545152,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750393935.1102839,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750399630.010469,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750399633.043446,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750399652.182375,Asia/Kuala_Lumpur,Stay In the Loop,480.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750401009.613302,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750401056.5264149,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750406494.4411511,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750406499.378653,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750421513.619269,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,facebook,breathingExercise,openedApp,False,1750421590.303062,Asia/Kuala_Lumpur,Stay In the Loop,600.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750421750.7407,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750424307.356679,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750424902.5549579,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750481293.633374,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750481402.451692,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750481404.1809459,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750481693.598816,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750481703.0221648,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750483704.917001,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750483727.9667768,Asia/Kuala_Lumpur,Escape / Avoid,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750483805.8528938,Asia/Kuala_Lumpur,,
+1.5,youtube,breathingExercise,dismissedAppOpening,False,1750483838.738706,Asia/Kuala_Lumpur,,
+1.5,youtube,breathingExercise,openedApp,False,1750484131.83589,Asia/Kuala_Lumpur,Escape / Avoid,180.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750484326.374752,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750484977.606268,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750491511.544795,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750494817.5762691,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750494925.951108,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750496102.908867,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750496284.3837008,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750499416.088208,Asia/Kuala_Lumpur,Stay In the Loop,360.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750500840.314225,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750501062.277501,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750502618.907291,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1750502626.900805,Asia/Kuala_Lumpur,Stay In the Loop,180.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750503602.377614,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750503672.696278,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750504884.23188,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750504997.473135,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750514658.964974,Asia/Kuala_Lumpur,Stay In the Loop,180.0
+1.5,tikTok,breathingExercise,openedApp,False,1750514858.3102798,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750514985.784631,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750514988.1656399,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750516589.2838058,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750553423.196702,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750554506.843704,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750554596.785581,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750555429.3518782,Asia/Kuala_Lumpur,Stay In the Loop,180.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750555580.2226129,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750555620.516766,Asia/Kuala_Lumpur,Post something,600.0
+1.5,facebook,breathingExercise,openedApp,False,1750555762.541184,Asia/Kuala_Lumpur,Post something,600.0
+1.5,facebook,breathingExercise,openedApp,False,1750556385.825454,Asia/Kuala_Lumpur,Work,600.0
+1.5,facebook,breathingExercise,openedApp,False,1750556708.2256432,Asia/Kuala_Lumpur,Work,600.0
+1.5,facebook,breathingExercise,openedApp,False,1750556753.314419,Asia/Kuala_Lumpur,Work,240.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750562213.558352,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750562834.229045,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750573910.1890922,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750574344.924144,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750574948.024121,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,facebook,breathingExercise,openedApp,False,1750575793.5683079,Asia/Kuala_Lumpur,Work,480.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750576104.566815,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750576323.3724508,Asia/Kuala_Lumpur,Work,240.0
+1.5,facebook,breathingExercise,openedApp,False,1750576507.237622,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750577216.799221,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750577229.3783112,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750577249.361588,Asia/Kuala_Lumpur,Work,240.0
+1.5,facebook,breathingExercise,openedApp,False,1750577421.719269,Asia/Kuala_Lumpur,Work,300.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750577806.2201118,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750580246.926692,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750580557.808044,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750580561.673183,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750580770.7683048,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750582297.227355,Asia/Kuala_Lumpur,Entertainment,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750582689.257454,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750583361.6172462,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750583728.3003612,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750586187.79276,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750593424.585037,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750593426.3734221,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1750601072.950499,Asia/Kuala_Lumpur,Search Info,60.0
+1.5,tikTok,breathingExercise,openedApp,False,1750601458.083885,Asia/Kuala_Lumpur,Stay In the Loop,180.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750601870.7053561,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750601880.765061,Asia/Kuala_Lumpur,Work,180.0
+1.5,facebook,breathingExercise,openedApp,False,1750601913.8775082,Asia/Kuala_Lumpur,Work,120.0
+1.5,youtube,breathingExercise,dismissedAppOpening,False,1750601956.7605639,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750602694.218871,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750634814.492768,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+1.5,youtube,breathingExercise,openedApp,False,1750640817.9633389,Asia/Kuala_Lumpur,Post something,600.0
+1.5,youtube,breathingExercise,dismissedAppOpening,False,1750641070.95543,Asia/Kuala_Lumpur,,
+1.5,youtube,breathingExercise,openedApp,False,1750641080.465972,Asia/Kuala_Lumpur,Post something,600.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750648317.232926,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750655118.290594,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750655127.8862638,Asia/Kuala_Lumpur,Stay In the Loop,180.0
+1.5,facebook,breathingExercise,openedApp,False,1750655222.996615,Asia/Kuala_Lumpur,Stay In the Loop,480.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750655655.730377,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750657583.6459079,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750658467.172529,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750661947.118084,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750668961.458552,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750670115.561779,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750670185.7331572,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750670412.4937282,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,facebook,breathingExercise,openedApp,False,1750670490.112891,Asia/Kuala_Lumpur,Stay In the Loop,480.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750683581.361414,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1750733462.2977118,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+1.5,tikTok,breathingExercise,openedApp,False,1750758205.599774,Asia/Kuala_Lumpur,Escape / Avoid,60.0
+1.5,facebook,breathingExercise,openedApp,False,1750760040.594336,Asia/Kuala_Lumpur,Escape / Avoid,420.0
+1.5,facebook,breathingExercise,openedApp,False,1750761621.642621,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750809838.853764,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750809932.785145,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750810563.55264,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750812678.901073,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750825310.3457022,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1750826331.194965,Asia/Kuala_Lumpur,Stay In the Loop,60.0
+1.5,youtube,breathingExercise,openedApp,False,1750831120.2055821,Asia/Kuala_Lumpur,Post something,60.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750831859.471693,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750838694.010826,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750838702.8406858,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750838734.47266,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750839049.5782351,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1750842492.456464,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750851819.545837,Asia/Kuala_Lumpur,Work,180.0
+1.5,facebook,breathingExercise,openedApp,False,1750851865.5123029,Asia/Kuala_Lumpur,Entertainment,180.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750852061.532655,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750862903.999347,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750906541.23399,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750907096.4696379,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750909748.1186671,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750949384.4380798,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750980694.560045,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750981580.552637,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1750989498.491323,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1750999809.772537,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1751000167.954976,Asia/Kuala_Lumpur,Search Info,180.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1751001099.52723,Asia/Kuala_Lumpur,,
+1.5,youtube,breathingExercise,dismissedAppOpening,False,1751002205.0620918,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751005568.865086,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1751010059.160007,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1751013610.170249,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1751018749.746741,Asia/Kuala_Lumpur,Search Info,60.0
+1.5,facebook,breathingExercise,openedApp,False,1751018826.556178,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1751020184.9352279,Asia/Kuala_Lumpur,Search Info,60.0
+1.5,facebook,breathingExercise,openedApp,False,1751024686.345794,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751024832.386784,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751024883.694365,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751029895.579606,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1751030535.310996,Asia/Kuala_Lumpur,Search Info,420.0
+1.5,facebook,breathingExercise,openedApp,False,1751036641.652216,Asia/Kuala_Lumpur,Search Info,60.0
+1.5,youtube,breathingExercise,dismissedAppOpening,False,1751074281.027913,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751077447.133152,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1751084427.526437,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1751084496.300986,Asia/Kuala_Lumpur,Search Info,600.0
+1.5,facebook,breathingExercise,openedApp,False,1751085439.133188,Asia/Kuala_Lumpur,Search Info,180.0
+1.5,tikTok,breathingExercise,openedApp,False,1751085536.108756,Asia/Kuala_Lumpur,Search Info,420.0
+1.5,facebook,breathingExercise,openedApp,False,1751085802.379231,Asia/Kuala_Lumpur,Search Info,180.0
+1.5,facebook,breathingExercise,openedApp,False,1751085899.831408,Asia/Kuala_Lumpur,Search Info,180.0
+1.5,facebook,breathingExercise,openedApp,False,1751086108.098339,Asia/Kuala_Lumpur,Search Info,600.0
+1.5,facebook,breathingExercise,openedApp,False,1751089047.382685,Asia/Kuala_Lumpur,Search Info,360.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1751104755.759176,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751109864.825385,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1751155256.219239,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751155558.5050778,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751159839.301825,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1751160593.098701,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751161428.301045,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751170001.165623,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1751170009.466819,Asia/Kuala_Lumpur,Search Info,300.0
+1.5,facebook,breathingExercise,openedApp,False,1751170609.781242,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751170884.872396,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751170885.984349,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1751173663.194561,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1751174963.512032,Asia/Kuala_Lumpur,Search Info,300.0
+1.5,tikTok,breathingExercise,openedApp,False,1751175425.405686,Asia/Kuala_Lumpur,Search Info,180.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751180677.659311,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1751180718.434958,Asia/Kuala_Lumpur,Search Info,180.0
+1.5,facebook,breathingExercise,openedApp,False,1751182360.78357,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,tikTok,breathingExercise,openedApp,False,1751182457.2324471,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1751182603.810916,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751182884.400326,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751184650.896297,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751185452.5362248,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1751185584.586956,Asia/Kuala_Lumpur,Search Info,180.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751187104.5101418,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751187107.864366,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751187178.54206,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751187182.8829231,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751206164.778971,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751206220.53912,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,openedApp,False,1751210319.723798,Asia/Kuala_Lumpur,Search Info,180.0
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751210565.273324,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1751261089.674644,Asia/Kuala_Lumpur,,
+1.5,tikTok,breathingExercise,openedApp,False,1751261720.3066912,Asia/Kuala_Lumpur,Search Info,240.0
+1.5,facebook,breathingExercise,openedApp,False,1751262116.799518,Asia/Kuala_Lumpur,Search Info,60.0
+1.5,tikTok,breathingExercise,dismissedAppOpening,False,1751262475.19422,Asia/Kuala_Lumpur,,
+1.5,facebook,breathingExercise,dismissedAppOpening,False,1751263216.278531,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751276185.197901,Asia/Kuala_Lumpur,Search Info,60.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1751277055.525128,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,openedApp,False,1751278541.7657871,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751278825.311516,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751281136.395914,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751283451.616765,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751283883.795669,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751367946.903971,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751371133.11978,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751371177.189705,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751386121.327925,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751386271.8586268,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751386274.51229,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751386278.83514,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751386293.3740978,Asia/Kuala_Lumpur,Search Info,420.0
+3.0,facebook,breathingExercise,openedApp,False,1751386387.617996,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751386729.099412,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751386911.853142,Asia/Kuala_Lumpur,Search Info,60.0
+3.0,facebook,breathingExercise,openedApp,False,1751410389.823968,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751410606.940516,Asia/Kuala_Lumpur,Search Info,420.0
+3.0,facebook,breathingExercise,openedApp,False,1751410629.092205,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751410704.237694,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,openedApp,False,1751410753.248911,Asia/Kuala_Lumpur,Search Info,420.0
+3.0,facebook,breathingExercise,openedApp,False,1751413610.0312219,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1751435875.23345,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751440103.693975,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,openedApp,False,1751463743.505202,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1751518662.682869,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751521787.999392,Asia/Kuala_Lumpur,Search Info,60.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751522666.6380792,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751529732.968673,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1751530780.284632,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751537872.48685,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751541541.893322,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751542531.5975451,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,tikTok,breathingExercise,openedApp,False,1751553567.598695,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,tikTok,breathingExercise,openedApp,False,1751601176.126025,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,tikTok,breathingExercise,openedApp,False,1751603294.994508,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,tikTok,breathingExercise,openedApp,False,1751603325.9132218,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751603622.972124,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,tikTok,breathingExercise,openedApp,False,1751686420.874395,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751687280.0797138,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751687287.889478,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751695213.010229,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1751704529.8854132,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751704607.7258902,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751704696.245564,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751705919.917879,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751706007.549648,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,True,1751706318.463856,Asia/Kuala_Lumpur,Search Info,60.0
+3.0,facebook,breathingExercise,openedApp,False,1751706406.224049,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,openedApp,False,1751709138.123623,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1751714332.200089,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751714344.774194,Asia/Kuala_Lumpur,Search Info,60.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1751715518.467582,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751765488.297474,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751782951.189151,Asia/Kuala_Lumpur,Search Info,540.0
+3.0,facebook,breathingExercise,openedApp,False,1751785192.505499,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751789075.280524,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751789077.994101,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751789088.126062,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751789629.716888,Asia/Kuala_Lumpur,Stay In the Loop,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751800014.731295,Asia/Kuala_Lumpur,Stay In the Loop,300.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1751811053.9537249,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1751814799.358145,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751815067.482224,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,openedApp,False,1751815265.30681,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751815517.3876219,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751815832.287384,Asia/Kuala_Lumpur,Escape / Avoid,600.0
+3.0,facebook,breathingExercise,openedApp,False,1751841877.228366,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751850534.203078,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751851577.918524,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751852620.538208,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751855435.786437,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751855569.320729,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751855702.6017609,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751855865.4105191,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751875854.52088,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751876169.377163,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751876720.13768,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751876935.497044,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751876938.448926,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751878370.398038,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751880117.916739,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751880520.399417,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751881779.547052,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751881809.691257,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,openedApp,False,1751882922.145005,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,openedApp,False,1751886367.219092,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751886571.693646,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751886957.805237,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751887000.105908,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751896933.740092,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751897212.383747,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751897796.475998,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751899943.579185,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751900432.714117,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,openedApp,False,1751900523.784408,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1751959282.102103,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,tikTok,breathingExercise,openedApp,False,1751959360.424947,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,tikTok,breathingExercise,openedApp,False,1751959618.4611502,Asia/Kuala_Lumpur,Search Info,600.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751965999.0276341,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751966132.258463,Asia/Kuala_Lumpur,Search Info,480.0
+3.0,facebook,breathingExercise,openedApp,False,1751970145.505643,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751970794.437191,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1751986041.454597,Asia/Kuala_Lumpur,Search Info,420.0
+3.0,facebook,breathingExercise,openedApp,False,1751986539.838173,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,openedApp,False,1751986794.406918,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1751987522.352679,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1751987534.24912,Asia/Kuala_Lumpur,Search Info,480.0
+3.0,facebook,breathingExercise,openedApp,False,1752016228.885251,Asia/Kuala_Lumpur,Search Info,540.0
+3.0,facebook,breathingExercise,openedApp,False,1752031669.192124,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752031923.543587,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752031924.511652,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752031928.865776,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752032844.3977098,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752033118.367281,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752033528.951401,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752034528.5203562,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752035253.502415,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,openedApp,False,1752039658.6227698,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752044542.387846,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,openedApp,False,1752048161.970748,Asia/Kuala_Lumpur,Search Info,420.0
+3.0,tikTok,breathingExercise,openedApp,False,1752048328.966255,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752055308.5804691,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,openedApp,False,1752061547.124148,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752061626.121716,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,openedApp,False,1752110398.970686,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752110417.258497,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,tikTok,breathingExercise,openedApp,False,1752110766.153716,Asia/Kuala_Lumpur,Search Info,420.0
+3.0,facebook,breathingExercise,openedApp,False,1752110955.5613189,Asia/Kuala_Lumpur,Search Info,360.0
+3.0,facebook,breathingExercise,openedApp,False,1752115078.437957,Asia/Kuala_Lumpur,Search Info,480.0
+3.0,tikTok,breathingExercise,openedApp,False,1752115546.514848,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752116674.689117,Asia/Kuala_Lumpur,Search Info,480.0
+3.0,facebook,breathingExercise,openedApp,False,1752116989.445008,Asia/Kuala_Lumpur,Search Info,420.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752117590.145811,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752117920.343566,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752122087.6875849,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752122100.7277641,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752122181.547391,Asia/Kuala_Lumpur,Post something,540.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752122359.406631,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752122369.6735768,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752122371.644913,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752123360.349722,Asia/Kuala_Lumpur,Search Info,480.0
+3.0,facebook,breathingExercise,openedApp,False,1752124100.413516,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,tikTok,breathingExercise,openedApp,False,1752126436.478971,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752126817.402067,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,openedApp,False,1752126935.220348,Asia/Kuala_Lumpur,Search Info,600.0
+3.0,facebook,breathingExercise,openedApp,False,1752128543.073777,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752128895.449192,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752129338.792201,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752130078.051964,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752130481.700593,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752159146.646225,Asia/Kuala_Lumpur,Escape / Avoid,120.0
+3.0,facebook,breathingExercise,openedApp,False,1752159289.890872,Asia/Kuala_Lumpur,Stay In the Loop,300.0
+3.0,facebook,breathingExercise,openedApp,False,1752159604.574873,Asia/Kuala_Lumpur,Escape / Avoid,300.0
+3.0,facebook,breathingExercise,openedApp,False,1752160093.0261269,Asia/Kuala_Lumpur,Escape / Avoid,180.0
+3.0,facebook,breathingExercise,openedApp,False,1752160292.9167662,Asia/Kuala_Lumpur,Entertainment,300.0
+3.0,tikTok,breathingExercise,openedApp,False,1752160617.317317,Asia/Kuala_Lumpur,Escape / Avoid,180.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752177576.22805,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752177686.6364121,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752186463.449356,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752186547.783531,Asia/Kuala_Lumpur,Search Info,120.0
+3.0,facebook,breathingExercise,openedApp,False,1752186569.713856,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752186773.4298,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752186775.26001,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752186777.142997,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752186890.0165138,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752187861.7449121,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752189286.69594,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,openedApp,False,1752205676.746321,Asia/Kuala_Lumpur,Search Info,540.0
+3.0,tikTok,breathingExercise,openedApp,False,1752207035.133457,Asia/Kuala_Lumpur,Search Info,420.0
+3.0,facebook,breathingExercise,openedApp,False,1752207598.946701,Asia/Kuala_Lumpur,Escape / Avoid,120.0
+3.0,facebook,breathingExercise,openedApp,False,1752207735.1089911,Asia/Kuala_Lumpur,Escape / Avoid,180.0
+3.0,tikTok,breathingExercise,openedApp,False,1752208019.1359801,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752210662.433381,Asia/Kuala_Lumpur,Search Info,120.0
+3.0,facebook,breathingExercise,openedApp,False,1752213380.6869721,Asia/Kuala_Lumpur,Stay In the Loop,120.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752222753.108165,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752222755.5729,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752222778.4820452,Asia/Kuala_Lumpur,Post something,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752222917.602634,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752226522.723394,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752240511.5801868,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752240772.055314,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752241218.465549,Asia/Kuala_Lumpur,Escape / Avoid,180.0
+3.0,facebook,breathingExercise,openedApp,False,1752242119.282855,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752242482.563813,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752274773.756775,Asia/Kuala_Lumpur,Search Info,120.0
+3.0,facebook,breathingExercise,openedApp,False,1752275031.0699759,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,tikTok,breathingExercise,openedApp,False,1752275351.702009,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752275656.036931,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752275691.698559,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752275693.902964,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752275697.9313931,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752278768.605325,Asia/Kuala_Lumpur,Stay In the Loop,180.0
+3.0,facebook,breathingExercise,openedApp,False,1752287846.1918821,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752288099.5453382,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752288901.957058,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752289045.021137,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752290047.52742,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752290788.608897,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752290851.307354,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752291251.559684,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752291427.242037,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752291805.38758,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752297102.6897058,Asia/Kuala_Lumpur,Escape / Avoid,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752298587.841934,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752299736.8431711,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752302845.686496,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752304203.9618092,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752304252.5650659,Asia/Kuala_Lumpur,Escape / Avoid,180.0
+3.0,facebook,breathingExercise,openedApp,False,1752304450.649173,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752304553.492687,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752307008.836293,Asia/Kuala_Lumpur,Escape / Avoid,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752307248.9489288,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752307259.736166,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+3.0,facebook,breathingExercise,openedApp,False,1752309931.270659,Asia/Kuala_Lumpur,Escape / Avoid,300.0
+3.0,facebook,breathingExercise,openedApp,False,1752310387.2059278,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752311475.6569371,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752319105.32684,Asia/Kuala_Lumpur,Escape / Avoid,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752319451.657584,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752319459.356347,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752319674.4146771,Asia/Kuala_Lumpur,,
+3.0,tikTok,breathingExercise,dismissedAppOpening,False,1752319802.069221,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752319846.713118,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752320897.864243,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752320899.2658548,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752320902.0910459,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752321366.793998,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752321481.409886,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752328306.3733602,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752328342.7378678,Asia/Kuala_Lumpur,Work,60.0
+3.0,shopee,breathingExercise,openedApp,False,1752330107.3875442,Asia/Kuala_Lumpur,Escape / Avoid,
+3.0,shopee,breathingExercise,openedApp,False,1752330126.39743,Asia/Kuala_Lumpur,Stay In the Loop,
+3.0,shopee,breathingExercise,dismissedAppOpening,False,1752330186.0752192,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752330200.628992,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752330441.94492,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752330446.894164,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752330448.37681,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752330892.754786,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752330894.909605,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752330897.84614,Asia/Kuala_Lumpur,,
+3.0,youtube,breathingExercise,dismissedAppOpening,False,1752330902.781878,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752351910.480542,Asia/Kuala_Lumpur,Search Info,120.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752351951.171678,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752361684.418376,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,openedApp,False,1752362041.2456899,Asia/Kuala_Lumpur,Bored,120.0
+3.0,youtube,breathingExercise,dismissedAppOpening,False,1752362170.626785,Asia/Kuala_Lumpur,,
+3.0,shopee,breathingExercise,dismissedAppOpening,False,1752362182.082034,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752362192.95112,Asia/Kuala_Lumpur,,
+3.0,shopee,breathingExercise,dismissedAppOpening,False,1752362226.145767,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752362283.03811,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752363307.818348,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752363613.528522,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752363666.955255,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,youtube,breathingExercise,dismissedAppOpening,False,1752364140.030226,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752370924.29702,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752381963.029046,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752382751.7304978,Asia/Kuala_Lumpur,Work,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752388130.430491,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752388133.223466,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752395217.188106,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,openedApp,False,1752395442.340002,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752399174.0577688,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752399175.089668,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752405904.1999989,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752405906.644429,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752405907.9894218,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752405947.334293,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752447603.3345551,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752447773.5690541,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752448946.459337,Asia/Kuala_Lumpur,Search Info,240.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752449178.083611,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,openedApp,False,1752449667.93019,Asia/Kuala_Lumpur,Search Info,300.0
+3.0,facebook,breathingExercise,openedApp,False,1752449872.8747969,Asia/Kuala_Lumpur,Search Info,180.0
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752450061.328601,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752450109.2198381,Asia/Kuala_Lumpur,,
+3.0,facebook,breathingExercise,dismissedAppOpening,False,1752465439.1075149,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752481308.099221,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752486262.321691,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752486300.443283,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752487017.248277,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752490850.622446,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752497884.7173839,Asia/Kuala_Lumpur,Search Info,60.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752498221.914202,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752498222.931586,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752498560.047886,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752508353.1860409,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752526720.31688,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752527556.966858,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752531934.9646559,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752553086.577454,Asia/Kuala_Lumpur,Stay In the Loop,180.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752553283.253214,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752554550.188524,Asia/Kuala_Lumpur,Escape / Avoid,240.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752554698.531019,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752561743.467283,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752563205.830409,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752563296.8342938,Asia/Kuala_Lumpur,Stay In the Loop,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752564047.585491,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752565493.516012,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752572554.9451041,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752572780.729539,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752588934.922731,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752588936.775609,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752588957.348054,Asia/Kuala_Lumpur,Search Info,120.0
+6.0,facebook,breathingExercise,openedApp,False,1752635101.13362,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,facebook,breathingExercise,openedApp,False,1752635367.318737,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752635582.928763,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752635696.926158,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752636112.3818278,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752638403.3191009,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752638435.086522,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752639334.1805959,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752639371.108478,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752639509.20735,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752639831.1690931,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752640384.349318,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752645686.473617,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752651358.0982552,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752651375.861185,Asia/Kuala_Lumpur,Work,240.0
+6.0,facebook,breathingExercise,openedApp,False,1752651624.915399,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752659464.938261,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752660027.106785,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752666664.909167,Asia/Kuala_Lumpur,Entertainment,180.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752667207.123791,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752674708.473919,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752674924.339181,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752700857.277149,Asia/Kuala_Lumpur,Stay In the Loop,180.0
+6.0,facebook,breathingExercise,openedApp,False,1752701072.178969,Asia/Kuala_Lumpur,Work,120.0
+6.0,facebook,breathingExercise,openedApp,False,1752701214.448771,Asia/Kuala_Lumpur,Work,180.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752715439.431449,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752719647.8108602,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752720067.986292,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752720070.229754,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752720072.257874,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752720074.981272,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752720451.225033,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752720709.215712,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752726578.594549,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752726660.208098,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752726717.030333,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752726781.088772,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752731062.4545999,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752731387.0547419,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752731389.459568,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752731995.617805,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752793903.1219192,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752794126.22488,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752794161.259217,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752795378.504929,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752807293.2666302,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752807295.666312,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752808165.928557,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752817971.342173,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752823905.902192,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752823949.2173262,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,facebook,breathingExercise,openedApp,False,1752824214.311712,Asia/Kuala_Lumpur,Post something,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752846429.69188,Asia/Kuala_Lumpur,Escape / Avoid,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752894696.363844,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,facebook,breathingExercise,openedApp,False,1752895106.595788,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752896325.1748362,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752896387.358479,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752897940.034179,Asia/Kuala_Lumpur,Stay In the Loop,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752898224.603612,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752898813.430799,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752899136.979607,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752906477.8116012,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752906700.015466,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752912316.504099,Asia/Kuala_Lumpur,Work,180.0
+6.0,facebook,breathingExercise,openedApp,False,1752914992.053365,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752917497.026489,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752919298.908186,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,facebook,breathingExercise,openedApp,False,1752923192.713629,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752924714.961983,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752924867.459439,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752926999.153912,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752927905.505622,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752927924.857533,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752928383.766405,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752938450.9074059,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752965678.308476,Asia/Kuala_Lumpur,Work,240.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752979349.4327722,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752979351.859787,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752979353.448112,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752979356.7237391,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752979567.968461,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1752979893.114069,Asia/Kuala_Lumpur,Post something,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752980933.735748,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752983934.589126,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752984143.083006,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752984144.689073,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752985941.739828,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752986297.1461492,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1752986894.266938,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1752996658.272188,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753001289.003516,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753002732.744251,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753006978.2303371,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753007130.246495,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753007742.2525558,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753012099.50267,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753062582.859643,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753062905.733433,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753071677.505806,Asia/Kuala_Lumpur,Search Info,240.0
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753079614.171871,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753079617.280035,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753084043.7196832,Asia/Kuala_Lumpur,,
+6.0,tikTok,breathingExercise,openedApp,False,1753095382.090979,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753095442.982759,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,tikTok,breathingExercise,dismissedAppOpening,False,1753095769.169941,Asia/Kuala_Lumpur,,
+6.0,tikTok,breathingExercise,dismissedAppOpening,False,1753095770.9134421,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753095804.940002,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753105185.1771069,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753106561.98949,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753107040.140619,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,openedApp,False,1753136318.176753,Asia/Kuala_Lumpur,Search Info,600.0
+6.0,facebook,breathingExercise,openedApp,False,1753138781.718104,Asia/Kuala_Lumpur,Work,300.0
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753139177.638358,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753139855.619174,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753139898.912325,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753142796.582552,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753142799.846029,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753142801.4950008,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753143915.520114,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753146282.867322,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753146284.27662,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753146305.915797,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753150534.5933142,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753152106.512939,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753152653.773529,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753152954.480937,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753152961.84796,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753156118.061254,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753156432.0005841,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753156435.765366,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753157014.667253,Asia/Kuala_Lumpur,,
+6.0,tikTok,breathingExercise,dismissedAppOpening,False,1753157508.456328,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753159181.018557,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753159399.992444,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753160113.2136111,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753164537.1235151,Asia/Kuala_Lumpur,,
+6.0,tikTok,breathingExercise,openedApp,False,1753171527.385824,Asia/Kuala_Lumpur,Post something,300.0
+6.0,tikTok,breathingExercise,dismissedAppOpening,False,1753171545.686619,Asia/Kuala_Lumpur,,
+6.0,tikTok,breathingExercise,dismissedAppOpening,False,1753174740.0683079,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753174750.5643492,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753174858.366334,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753174928.422391,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753182022.387947,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753182136.279783,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,openedApp,False,1753182169.177439,Asia/Kuala_Lumpur,Search Info,600.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753183764.1366901,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753183765.8647032,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753184011.163062,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753184013.1649399,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753184792.8140101,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,openedApp,False,1753192929.690367,Asia/Kuala_Lumpur,Search Info,600.0
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753193543.186242,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753193544.746996,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753193592.364492,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753194934.8376698,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753195015.7612782,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753195421.8058171,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753197135.053842,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753229949.369353,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753232254.6857982,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753259646.137267,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753259968.875719,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753260012.057613,Asia/Kuala_Lumpur,Work,300.0
+6.0,tikTok,breathingExercise,dismissedAppOpening,False,1753261180.08257,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753265580.048352,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753265731.4048681,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753266033.753169,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753271128.5051122,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753271265.422662,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753271530.853077,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753271531.909822,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753271698.827726,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753271700.39108,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753271703.1714978,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753273418.097445,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753273423.647656,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753273426.029088,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753279421.2653,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753279483.536954,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753318726.9988608,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753325608.182311,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753325653.513922,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753331527.606426,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753331619.111639,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753332883.737205,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753334403.6126199,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753334621.7265549,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753334673.9633288,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,openedApp,False,1753334698.9661841,Asia/Kuala_Lumpur,Search Info,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753335036.517159,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753335131.228076,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753336714.755882,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753340394.2216048,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753342392.071459,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753342522.997011,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753343172.10291,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753343645.5045319,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753343849.478726,Asia/Kuala_Lumpur,Work,300.0
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753344132.4471269,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753344364.716229,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753344422.268182,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753346870.823365,Asia/Kuala_Lumpur,,
+6.0,tikTok,breathingExercise,dismissedAppOpening,False,1753353376.27803,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753353699.753529,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753356524.7234402,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753356526.623392,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753368147.79513,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,openedApp,False,1753402437.63834,Asia/Kuala_Lumpur,Search Info,600.0
+6.0,tikTok,breathingExercise,dismissedAppOpening,False,1753403040.431559,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753428874.744694,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753429132.540756,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753429136.637248,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753519100.5734859,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753519597.066066,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,openedApp,False,1753530108.950221,Asia/Kuala_Lumpur,Search Info,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753536618.842695,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753536738.184906,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753537753.9136229,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753537756.6393042,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753537757.685873,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753540136.0425658,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753540159.883264,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,youtube,breathingExercise,openedApp,False,1753540644.41524,Asia/Kuala_Lumpur,Search Info,600.0
+6.0,facebook,breathingExercise,openedApp,False,1753541363.445498,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753568961.987483,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753580041.5726209,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753580883.071576,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753581321.7905169,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753581928.249051,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753582180.7757912,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753582725.2693748,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753582883.303977,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753584562.65716,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753586954.126544,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753587104.699356,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753587122.7505631,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753588355.0997381,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753588701.4637,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753588825.133339,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753589459.423036,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,openedApp,False,1753593465.5104408,Asia/Kuala_Lumpur,Relax,600.0
+6.0,facebook,breathingExercise,openedApp,False,1753595032.8242059,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753595372.249329,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753595375.768739,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,openedApp,False,1753600196.1955938,Asia/Kuala_Lumpur,Search Info,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753600426.696011,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753600523.292663,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753600588.398281,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,openedApp,False,1753608451.412277,Asia/Kuala_Lumpur,Search Info,
+6.0,facebook,breathingExercise,openedApp,False,1753609601.223943,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753609922.857751,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753612596.844291,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753612974.543536,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753615640.313458,Asia/Kuala_Lumpur,Search Info,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753615962.546042,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753616357.3137531,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753616569.577939,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753617184.914135,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753673244.290707,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753673289.8726192,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,openedApp,False,1753675128.6383262,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753675455.726739,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,openedApp,False,1753675755.894555,Asia/Kuala_Lumpur,Work,300.0
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753675896.5124311,Asia/Kuala_Lumpur,,
+6.0,facebook,breathingExercise,dismissedAppOpening,False,1753676005.985605,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753676025.531451,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753677828.8961701,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753677953.9817228,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753679480.2431831,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753681915.30809,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753683707.834168,Asia/Kuala_Lumpur,,
+6.0,youtube,breathingExercise,dismissedAppOpening,False,1753683806.405029,Asia/Kuala_Lumpur,,
+6.0,shopee,breathingExercise,dismissedAppOpening,False,1753684014.3020191,Asia/Kuala_Lumpur,,

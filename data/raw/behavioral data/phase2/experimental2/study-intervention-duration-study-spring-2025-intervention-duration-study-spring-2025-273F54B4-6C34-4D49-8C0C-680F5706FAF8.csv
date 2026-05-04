@@ -1,0 +1,44 @@
+isReIntervention,timestamp,interventionType,timezone,resolution,interventionDuration,app,purpose
+False,1751886337.601937,breathingExercise,Europe/Amsterdam,dismissedAppOpening,1.5,reddit,
+False,1751910187.360296,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Entertainment
+False,1751910381.597649,breathingExercise,Europe/Amsterdam,dismissedAppOpening,1.5,reddit,
+False,1751967036.6654038,breathingExercise,Europe/Amsterdam,openedApp,1.5,tikTok,Check likes
+False,1751994526.3877091,breathingExercise,Europe/Amsterdam,openedApp,1.5,instagram,Message
+False,1751994629.0119119,breathingExercise,Europe/Amsterdam,openedApp,1.5,instagram,Message
+False,1752045675.74314,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Toilet
+False,1752046903.9056811,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Toilet
+False,1752141998.308532,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Entertainment
+False,1752142842.2704148,breathingExercise,Europe/Amsterdam,openedApp,1.5,twitter,Search Info
+False,1752166834.614831,breathingExercise,Europe/Amsterdam,openedApp,1.5,instagram,Message
+False,1752174163.164795,breathingExercise,Europe/Amsterdam,openedApp,1.5,instagram,Message
+False,1752176552.2617168,breathingExercise,Europe/Amsterdam,openedApp,1.5,instagram,Message
+False,1752349935.030307,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Bored
+False,1752350134.577386,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Bored
+False,1752350472.3164139,breathingExercise,Europe/Amsterdam,dismissedAppOpening,1.5,reddit,
+False,1752402914.082172,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Bored
+False,1752403277.365089,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Bored
+False,1752477628.812745,breathingExercise,Europe/Amsterdam,openedApp,1.5,instagram,Search Info
+False,1752582598.6711779,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Toilet
+False,1752603696.949387,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Bored
+False,1752740396.2367,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Message
+False,1752746659.265705,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Escape / Avoid
+False,1752917985.4398332,breathingExercise,Europe/Amsterdam,openedApp,1.5,tikTok,Search Info
+False,1753020290.578092,breathingExercise,Europe/Amsterdam,openedApp,1.5,reddit,Stay In the Loop
+False,1753027856.860201,breathingExercise,Europe/Amsterdam,dismissedAppOpening,1.5,tikTok,
+False,1753133042.704049,breathingExercise,Europe/Amsterdam,openedApp,6.0,instagram,Message
+False,1753179868.8866482,breathingExercise,Europe/Amsterdam,openedApp,6.0,reddit,Toilet
+False,1753209377.13203,breathingExercise,Europe/Amsterdam,openedApp,6.0,reddit,Bored
+False,1753217923.749291,breathingExercise,Europe/Amsterdam,openedApp,6.0,reddit,Search Info
+False,1753253147.2942739,breathingExercise,Europe/Amsterdam,openedApp,6.0,instagram,Message
+False,1753340748.516677,breathingExercise,Europe/Amsterdam,openedApp,6.0,instagram,Message
+False,1753375401.6448169,breathingExercise,Europe/Amsterdam,openedApp,6.0,reddit,Message
+False,1753543501.9023108,breathingExercise,Europe/Vienna,openedApp,6.0,instagram,Message
+False,1753605423.588255,breathingExercise,Europe/Vienna,openedApp,6.0,reddit,Stay In the Loop
+False,1753700734.197434,breathingExercise,Europe/Vienna,openedApp,6.0,instagram,Message
+False,1753827982.272372,breathingExercise,Europe/Vienna,openedApp,6.0,instagram,Search Info
+False,1753828109.1579928,breathingExercise,Europe/Vienna,openedApp,6.0,instagram,Search Info
+False,1753969271.12189,breathingExercise,Europe/Vienna,openedApp,6.0,instagram,Entertainment
+False,1754032340.8676639,breathingExercise,Europe/Vienna,openedApp,6.0,instagram,Message
+False,1754124953.966762,breathingExercise,Europe/Vienna,openedApp,6.0,twitter,Entertainment
+False,1754125349.052362,breathingExercise,Europe/Vienna,openedApp,6.0,instagram,Entertainment
+False,1754125519.565037,breathingExercise,Europe/Vienna,openedApp,6.0,instagram,Entertainment

@@ -1,0 +1,2 @@
+interventionDuration,timestamp,resolution,app,interventionType,timezone,isReIntervention
+3,1752180481.9046102,dismissedAppOpening,clashRoyale,breathingExercise,Europe/Zurich,False

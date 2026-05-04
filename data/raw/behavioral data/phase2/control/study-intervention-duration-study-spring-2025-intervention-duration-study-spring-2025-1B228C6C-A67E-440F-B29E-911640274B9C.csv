@@ -1,0 +1,2 @@
+interventionDuration,timezone,timestamp,isReIntervention,app,interventionType,resolution
+6,Australia/Sydney,1749022216.273741,False,uberEats,breathingExercise,dismissedAppOpening

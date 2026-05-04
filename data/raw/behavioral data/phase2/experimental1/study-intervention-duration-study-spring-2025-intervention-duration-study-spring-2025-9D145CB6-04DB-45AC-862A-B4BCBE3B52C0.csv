@@ -1,0 +1,114 @@
+interventionDuration,resolution,timezone,purpose,timestamp,app,interventionType,isReIntervention
+1.5,openedApp,Europe/Rome,Message,1753031283.4057589,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753031344.79421,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Break,1753038656.595463,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753095973.9690928,whastapp,breathingExercise,False
+,openedApp,Europe/Rome,,1753113673.914238,whastapp,,False
+,closedApp,Europe/Rome,,1753113733.914238,whastapp,,False
+,dismissedAppOpening,Europe/Rome,,1753113733.914238,whastapp,,False
+1.5,openedApp,Europe/Rome,Message,1753113745.413836,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753113817.750688,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753115172.346693,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753115242.2863379,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753119549.5705938,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753119783.608725,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Bored,1753121009.451258,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753130254.5878181,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Bored,1753141510.886767,youtube,breathingExercise,False
+1.5,dismissedAppOpening,Europe/Rome,,1753142472.8386521,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753142487.8346329,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753143349.617449,youtube,breathingExercise,False
+,openedApp,Europe/Rome,,1753141418.860558,youtube,,False
+,closedApp,Europe/Rome,,1753141478.860558,youtube,,False
+,dismissedAppOpening,Europe/Rome,,1753141478.860558,youtube,,False
+1.5,openedApp,Europe/Rome,Message,1753175457.789108,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753198926.86995,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753199501.913867,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753201594.9321098,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753201670.758255,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753203113.790704,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753203187.631921,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753203344.6729279,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753203700.318599,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753204679.751141,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753206194.069143,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753207450.738451,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753210169.497548,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753217212.93032,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753266371.963664,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753278446.880846,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753279012.076768,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753296092.1557322,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753296233.1560369,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753296316.672133,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753296546.7523189,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753301746.652718,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753303456.209341,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753305155.404941,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753305273.90378,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753305359.784634,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753345096.361888,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753355701.200839,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753357262.318749,whastapp,breathingExercise,False
+,openedApp,Europe/Rome,,1753377429.082974,whastapp,,False
+,closedApp,Europe/Rome,,1753377489.082975,whastapp,,False
+,dismissedAppOpening,Europe/Rome,,1753377489.082975,whastapp,,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753377500.743267,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753385027.1715999,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Toilet,1753386007.955031,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753387278.7348619,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753388545.3271089,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753392378.271624,youtube,breathingExercise,False
+1.5,dismissedAppOpening,Europe/Rome,,1753392378.8061419,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753393328.818501,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753399291.76735,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753452784.933238,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753457558.651528,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753462254.030294,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Toilet,1753465174.767761,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753466474.823791,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Relax,1753467801.3993468,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Search Info,1753469215.1740909,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753470105.0304961,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753485472.9002051,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753533221.802078,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753534871.8132749,whastapp,breathingExercise,False
+1.5,dismissedAppOpening,Europe/Rome,,1753549519.275718,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753549532.304733,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753550633.760427,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Break,1753550907.5730228,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753550936.951139,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Break,1753553011.390696,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Break,1753609859.5872211,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Break,1753610927.765921,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753628259.4394689,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Bored,1753629206.8612509,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753634792.501636,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753635800.78018,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Stay In the Loop,1753636901.165379,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753639305.571856,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753641698.415626,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753645580.833839,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753647055.064834,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753648675.063219,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Toilet,1753700532.348649,youtube,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753717568.846006,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753720736.508246,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753734619.6021829,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753785520.754277,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753790093.286417,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753792171.910019,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753801917.354594,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753803906.502631,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Break,1753806776.813249,whastapp,breathingExercise,False
+,openedApp,Europe/Rome,,1753809938.7455,whastapp,,False
+,closedApp,Europe/Rome,,1753809998.745501,whastapp,,False
+,dismissedAppOpening,Europe/Rome,,1753809998.745501,whastapp,,False
+1.5,openedApp,Europe/Rome,Break,1753810009.186277,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Break,1753810394.568811,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753813754.893972,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Break,1753827616.435309,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753853610.12938,whastapp,breathingExercise,False
+1.5,dismissedAppOpening,Europe/Rome,,1753858330.447886,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753858641.633152,whastapp,breathingExercise,False
+1.5,openedApp,Europe/Rome,Message,1753868314.1451921,whastapp,breathingExercise,False

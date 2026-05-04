@@ -1,8 +1,0 @@
-interventionType,purpose,resolution,isReIntervention,app,interventionDuration,timestamp,timezone,terminationReason
-breathingExercise,购物🛍️,openedApp,0.0,red,6.0,1751962321.6234288,Australia/Sydney,
-breathingExercise,购物🛍️,openedApp,0.0,red,6.0,1751962946.730943,Australia/Sydney,
-,,openedApp,0.0,red,,1751963776.780499,Australia/Sydney,
-,,closedApp,0.0,red,,1751963836.7805,Australia/Sydney,
-,,dismissedAppOpening,0.0,red,,1751963836.7805,Australia/Sydney,
-breathingExercise,,dismissedAppOpening,0.0,red,6.0,1751970258.4127212,Australia/Sydney,
-,,,,,,1751970609.52635,,terminatedByUser

@@ -1,3 +1,0 @@
-isReIntervention,interventionDuration,timestamp,resolution,interventionType,timezone,app,terminationReason
-0.0,6.0,1753321119.957264,dismissedAppOpening,breathingExercise,America/Chicago,reddit,
-,,1753321164.468544,,,,,terminatedByUser

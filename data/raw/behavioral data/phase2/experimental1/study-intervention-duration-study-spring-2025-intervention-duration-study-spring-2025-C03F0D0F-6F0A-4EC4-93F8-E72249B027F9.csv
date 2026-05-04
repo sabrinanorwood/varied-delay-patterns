@@ -1,0 +1,2504 @@
+timestamp,timezone,resolution,interventionDuration,interventionType,app,purpose,isReIntervention
+1752599996.781003,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1752605258.82997,America/Detroit,dismissedAppOpening,1.5,breathingExercise,espn,,False
+1752605267.090615,America/Detroit,openedApp,1.5,breathingExercise,espn,Can’t sleep,False
+1752605287.0893779,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1752606136.895175,America/Detroit,dismissedAppOpening,1.5,breathingExercise,espn,,False
+1752606153.391368,America/Detroit,dismissedAppOpening,1.5,breathingExercise,espn,,False
+1752606466.2152781,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752606482.283132,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752606494.079422,America/Detroit,closedApp,,,reddit,,False
+1752606569.469139,America/Detroit,closedApp,,,reddit,,False
+1752606635.3304648,America/Detroit,closedApp,,,reddit,,False
+1752606680.9545522,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752606701.506043,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1752606937.62614,America/Detroit,closedApp,,,twitter,,False
+1752606949.778013,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Escape / Avoid,False
+1752606983.137806,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752607412.0780249,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752612123.127728,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1752612160.3854852,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752612221.9348059,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752612264.834224,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752612285.856266,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752612366.331562,America/Detroit,openedApp,1.5,breathingExercise,reddit,Search Info,False
+1752612400.775512,America/Detroit,closedApp,,,reddit,,False
+1752612417.735478,America/Detroit,closedApp,,,reddit,,False
+1752612451.453875,America/Detroit,closedApp,,,reddit,,False
+1752612462.5311399,America/Detroit,openedApp,1.5,breathingExercise,twitter,Search Info,False
+1752612471.0593429,America/Detroit,closedApp,,,twitter,,False
+1752612478.200516,America/Detroit,dismissedAppOpening,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752612484.327032,America/Detroit,dismissedAppOpening,1.5,breathingExercise,espn,,False
+1752612498.3153849,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752612511.9994612,America/Detroit,openedApp,1.5,breathingExercise,twitter,Search Info,False
+1752612522.490133,America/Detroit,closedApp,,,twitter,,False
+1752612547.098701,America/Detroit,openedApp,1.5,breathingExercise,twitter,Can’t sleep,False
+1752613097.996821,America/Detroit,closedApp,,,twitter,,False
+1752613107.382883,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1752615858.115192,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752622644.483313,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752624989.797745,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752625123.1738229,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752626713.716227,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752626729.5381699,America/Detroit,openedApp,1.5,breathingExercise,reddit,Can’t sleep,False
+1752626740.304172,America/Detroit,closedApp,,,reddit,,False
+1752626813.068743,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1752626823.308416,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1752644942.80788,America/Detroit,openedApp,1.5,breathingExercise,safari,Can’t sleep,False
+1752644955.862114,America/Detroit,openedApp,1.5,breathingExercise,reddit,Can’t sleep,False
+1752645015.004231,America/Detroit,closedApp,,,reddit,,False
+1752645023.1096802,America/Detroit,openedApp,1.5,breathingExercise,safari,Can’t sleep,False
+1752645017.425714,America/Detroit,closedApp,,,reddit,,False
+1752645040.1535,America/Detroit,closedApp,,,reddit,,False
+1752645049.867636,America/Detroit,openedApp,1.5,breathingExercise,twitter,Can’t sleep,False
+1752645448.619309,America/Detroit,closedApp,,,twitter,,False
+1752645526.669951,America/Detroit,openedApp,1.5,breathingExercise,reddit,Can’t sleep,False
+1752645652.9078732,America/Detroit,closedApp,,,reddit,,False
+1752645832.630834,America/Detroit,openedApp,1.5,breathingExercise,safari,Can’t sleep,False
+1752645841.064852,America/Detroit,openedApp,1.5,breathingExercise,reddit,Can’t sleep,False
+1752646547.7024,America/Detroit,closedApp,,,reddit,,False
+1752648207.343081,America/Detroit,closedApp,,,reddit,,False
+1752662347.8905501,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752662354.476963,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752662360.326153,America/Detroit,closedApp,,,reddit,,False
+1752662360.329215,America/Detroit,closedApp,,,reddit,,False
+1752662372.718004,America/Detroit,closedApp,,,reddit,,False
+1752662638.5649462,America/Detroit,closedApp,,,reddit,,False
+1752662647.333821,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1752662654.532909,America/Detroit,closedApp,,,twitter,,False
+1752663339.493709,America/Detroit,closedApp,,,twitter,,False
+1752671358.570877,America/Detroit,openedApp,1.5,breathingExercise,safari,Toilet,False
+1752671368.240221,America/Detroit,openedApp,1.5,breathingExercise,twitter,Toilet,False
+1752671491.299591,America/Detroit,closedApp,,,twitter,,False
+1752671512.895846,America/Detroit,openedApp,1.5,breathingExercise,safari,Toilet,False
+1752671502.439937,America/Detroit,closedApp,,,twitter,,False
+1752671759.149308,America/Detroit,closedApp,,,twitter,,False
+1752671767.345506,America/Detroit,openedApp,1.5,breathingExercise,reddit,Toilet,False
+1752671788.77881,America/Detroit,closedApp,,,reddit,,False
+1752672022.026785,America/Detroit,closedApp,,,reddit,,False
+1752672086.870553,America/Detroit,openedApp,1.5,breathingExercise,reddit,Toilet,False
+1752672178.418652,America/Detroit,closedApp,,,reddit,,False
+1752672186.154409,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Toilet,False
+1752672202.2833052,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752672250.775219,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752672256.416761,America/Detroit,closedApp,,,linkedin,,False
+1752672269.611007,America/Detroit,closedApp,,,linkedin,,False
+1752672276.8272228,America/Detroit,openedApp,1.5,breathingExercise,reddit,Toilet,False
+1752672314.054065,America/Detroit,closedApp,,,reddit,,False
+1752672438.926159,America/Detroit,closedApp,,,reddit,,False
+1752674123.520585,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752674361.962054,America/Detroit,closedApp,,,reddit,,False
+1752674469.087698,America/Detroit,openedApp,1.5,breathingExercise,reddit,Toilet,False
+1752674564.376312,America/Detroit,closedApp,,,reddit,,False
+1752676269.588537,America/Detroit,openedApp,1.5,breathingExercise,reddit,Toilet,False
+1752676281.689295,America/Detroit,closedApp,,,reddit,,False
+1752676291.628403,America/Detroit,closedApp,,,reddit,,False
+1752676864.527718,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752676863.621695,America/Detroit,closedApp,,,youtube,,False
+1752680521.300085,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752680567.603941,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752680561.004596,America/Detroit,closedApp,,,youtube,,False
+1752680577.049749,America/Detroit,openedApp,1.5,breathingExercise,reddit,Toilet,False
+1752680583.7668061,America/Detroit,closedApp,,,reddit,,False
+1752680593.900423,America/Detroit,closedApp,,,reddit,,False
+1752680602.0611172,America/Detroit,openedApp,1.5,breathingExercise,twitter,Toilet,False
+1752680609.896971,America/Detroit,closedApp,,,twitter,,False
+1752681387.248318,America/Detroit,openedApp,1.5,breathingExercise,safari,Toilet,False
+1752681394.090045,America/Detroit,openedApp,1.5,breathingExercise,twitter,Toilet,False
+1752681587.428849,America/Detroit,closedApp,,,twitter,,False
+1752681635.100219,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752681646.205186,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752681749.696003,America/Detroit,closedApp,,,twitter,,False
+1752684314.363333,America/Detroit,openedApp,1.5,breathingExercise,safari,Toilet,False
+1752685702.9007602,America/Detroit,openedApp,1.5,breathingExercise,safari,Toilet,False
+1752685710.696235,America/Detroit,openedApp,1.5,breathingExercise,twitter,Toilet,False
+1752685715.209857,America/Detroit,closedApp,,,twitter,,False
+1752685722.128519,America/Detroit,closedApp,,,twitter,,False
+1752685730.384077,America/Detroit,openedApp,1.5,breathingExercise,reddit,Toilet,False
+1752685805.958911,America/Detroit,closedApp,,,reddit,,False
+1752685818.3696241,America/Detroit,openedApp,1.5,breathingExercise,safari,Can’t sleep,False
+1752685811.6813579,America/Detroit,closedApp,,,reddit,,False
+1752685993.123158,America/Detroit,closedApp,,,reddit,,False
+1752692643.008944,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752693225.79288,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752693240.710042,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752693304.72789,America/Detroit,closedApp,,,reddit,,False
+1752693686.399194,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752693923.6825938,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752693992.756176,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752694000.556844,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1752694301.973672,America/Detroit,closedApp,,,twitter,,False
+1752694316.596164,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752694459.947925,America/Detroit,closedApp,,,reddit,,False
+1752694468.71699,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1752694829.2109919,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752694839.2462568,America/Detroit,openedApp,1.5,breathingExercise,youtube,Message,False
+1752699392.385442,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1752699488.34199,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752699494.8979669,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752699526.624926,America/Detroit,closedApp,,,reddit,,False
+1752699668.5991158,America/Detroit,closedApp,,,reddit,,False
+1752699682.067635,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1752699687.1600351,America/Detroit,closedApp,,,twitter,,False
+1752700388.533483,America/Detroit,closedApp,,,twitter,,False
+1752700396.368,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752700452.700237,America/Detroit,closedApp,,,reddit,,False
+1752700622.0082312,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752700630.284678,America/Detroit,closedApp,,,reddit,,False
+1752700710.667968,America/Detroit,closedApp,,,reddit,,False
+1752700804.1717649,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752700931.599081,America/Detroit,closedApp,,,twitter,,False
+1752701099.9090362,America/Detroit,openedApp,1.5,breathingExercise,safari,Message,False
+1752701410.602171,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752701429.626143,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752701542.88732,America/Detroit,closedApp,,,reddit,,False
+1752701553.82601,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1752701566.79005,America/Detroit,openedApp,1.5,breathingExercise,youtube,Stay In the Loop,False
+1752705238.342623,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752705259.343995,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752707391.0589309,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752707398.1516209,America/Detroit,openedApp,1.5,breathingExercise,reddit,Search Info,False
+1752707410.987776,America/Detroit,closedApp,,,reddit,,False
+1752707488.362791,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752707503.731234,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752707887.429348,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752708118.792053,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752708704.779381,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752708758.28322,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752708898.6765661,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752709256.811343,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752709275.5137038,America/Detroit,openedApp,1.5,breathingExercise,reddit,Search Info,False
+1752709307.863383,America/Detroit,closedApp,,,reddit,,False
+1752709321.6574302,America/Detroit,openedApp,1.5,breathingExercise,twitter,Search Info,False
+1752709401.429275,America/Detroit,closedApp,,,twitter,,False
+1752709485.4355102,America/Detroit,openedApp,1.5,breathingExercise,youtube,Search Info,False
+1752710223.287581,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752710230.263984,America/Detroit,openedApp,1.5,breathingExercise,twitter,Search Info,False
+1752710247.083348,America/Detroit,closedApp,,,twitter,,False
+1752710277.24768,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752710327.3189502,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752710338.81315,America/Detroit,openedApp,1.5,breathingExercise,twitter,Search Info,False
+1752710395.060093,America/Detroit,closedApp,,,twitter,,False
+1752711479.772093,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752711721.1276898,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752712135.5646439,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752713586.264616,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752713590.516195,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752717110.143182,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752717119.852742,America/Detroit,openedApp,1.5,breathingExercise,twitter,Can’t sleep,False
+1752717154.706347,America/Detroit,closedApp,,,twitter,,False
+1752717985.226424,America/Detroit,dismissedAppOpening,1.5,breathingExercise,twitter,,False
+1752717996.249115,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752718004.624716,America/Detroit,openedApp,1.5,breathingExercise,twitter,Search Info,False
+1752718362.4649081,America/Detroit,closedApp,,,twitter,,False
+1752718370.801231,America/Detroit,openedApp,1.5,breathingExercise,reddit,Search Info,False
+1752718379.468289,America/Detroit,closedApp,,,reddit,,False
+1752718386.69456,America/Detroit,closedApp,,,reddit,,False
+1752718387.411631,America/Detroit,closedApp,,,reddit,,False
+1752718387.981168,America/Detroit,closedApp,,,reddit,,False
+1752718388.942665,America/Detroit,closedApp,,,reddit,,False
+1752718697.2529159,America/Detroit,closedApp,,,reddit,,False
+1752718847.7863789,America/Detroit,closedApp,,,reddit,,False
+1752719007.440703,America/Detroit,openedApp,1.5,breathingExercise,twitter,Search Info,False
+1752719124.3310409,America/Detroit,closedApp,,,twitter,,False
+1752719148.3661199,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752719155.588248,America/Detroit,openedApp,1.5,breathingExercise,twitter,Search Info,False
+1752719159.4900122,America/Detroit,closedApp,,,twitter,,False
+1752719211.51563,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752719218.536942,America/Detroit,openedApp,1.5,breathingExercise,twitter,Search Info,False
+1752719640.6953712,America/Detroit,closedApp,,,twitter,,False
+1752719647.947305,America/Detroit,openedApp,1.5,breathingExercise,espn,Search Info,False
+1752719963.11731,America/Detroit,openedApp,1.5,breathingExercise,youtube,Search Info,False
+1752720497.671842,America/Detroit,openedApp,1.5,breathingExercise,youtube,Search Info,False
+1752720532.83551,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1752721765.143011,America/Detroit,openedApp,1.5,breathingExercise,youtube,Search Info,False
+1752721852.9210138,America/Detroit,openedApp,1.5,breathingExercise,youtube,Can’t sleep,False
+1752754670.507251,America/Detroit,openedApp,1.5,breathingExercise,espn,Escape / Avoid,False
+1752754803.002708,America/Detroit,openedApp,1.5,breathingExercise,safari,Can’t sleep,False
+1752754811.791926,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752754852.492035,America/Detroit,closedApp,,,twitter,,False
+1752754876.416779,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752754891.164154,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752754897.963942,America/Detroit,closedApp,,,reddit,,False
+1752754898.271723,America/Detroit,closedApp,,,reddit,,False
+1752754918.067837,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752754914.030637,America/Detroit,closedApp,,,reddit,,False
+1752754929.069444,America/Detroit,closedApp,,,reddit,,False
+1752755456.023057,America/Detroit,closedApp,,,reddit,,False
+1752756885.371793,America/Detroit,openedApp,1.5,breathingExercise,safari,Can’t sleep,False
+1752756955.5387502,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1752757137.5300012,America/Detroit,closedApp,,,twitter,,False
+1752757147.221945,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752757179.890441,America/Detroit,closedApp,,,reddit,,False
+1752757187.094552,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752757214.839373,America/Detroit,closedApp,,,twitter,,False
+1752757871.163073,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1752758833.316107,America/Detroit,closedApp,,,twitter,,False
+1752758841.145566,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752758874.113977,America/Detroit,closedApp,,,reddit,,False
+1752764048.696877,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752764521.474803,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752765312.491365,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752765540.367893,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752765555.3050508,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752765660.9546828,America/Detroit,closedApp,,,reddit,,False
+1752765754.794945,America/Detroit,closedApp,,,reddit,,False
+1752769481.749951,America/Detroit,openedApp,1.5,breathingExercise,safari,Can’t sleep,False
+1752769492.390273,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752769508.763546,America/Detroit,closedApp,,,reddit,,False
+1752769602.472126,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752769616.76566,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Stay In the Loop,False
+1752769674.206119,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752770212.371314,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752770614.074391,America/Detroit,openedApp,1.5,breathingExercise,reddit,Can’t sleep,False
+1752770646.35422,America/Detroit,closedApp,,,reddit,,False
+1752770788.0668569,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1752770958.688823,America/Detroit,closedApp,,,linkedin,,False
+1752770961.4245172,America/Detroit,closedApp,,,linkedin,,False
+1752770943.030323,America/Detroit,closedApp,,,twitter,,False
+1752771023.109482,America/Detroit,openedApp,1.5,breathingExercise,reddit,Message,False
+1752771054.8689609,America/Detroit,closedApp,,,reddit,,False
+1752771790.478602,America/Detroit,openedApp,1.5,breathingExercise,youtube,Search Info,False
+1752772363.918252,America/Detroit,openedApp,1.5,breathingExercise,youtube,Search Info,False
+1752774764.071284,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752774795.9480271,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752774907.7314692,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1752774926.88827,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752782577.093636,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752782593.532812,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752782612.692038,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752783033.181068,America/Detroit,closedApp,,,reddit,,False
+1752783042.5530581,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1752783044.6850328,America/Detroit,closedApp,,,twitter,,False
+1752783306.069207,America/Detroit,closedApp,,,twitter,,False
+1752783432.195468,America/Detroit,closedApp,,,twitter,,False
+1752783834.354991,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752783841.696134,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1752784159.184259,America/Detroit,closedApp,,,twitter,,False
+1752784301.8472428,America/Detroit,openedApp,1.5,breathingExercise,safari,Message,False
+1752784309.238996,America/Detroit,openedApp,1.5,breathingExercise,twitter,Message,False
+1752784411.6615958,America/Detroit,closedApp,,,twitter,,False
+1752784948.806438,America/Detroit,closedApp,,,twitter,,False
+1752784957.815314,America/Detroit,closedApp,,,twitter,,False
+1752784966.56814,America/Detroit,openedApp,1.5,breathingExercise,reddit,Message,False
+1752784974.89902,America/Detroit,closedApp,,,reddit,,False
+1752785024.323885,America/Detroit,closedApp,,,reddit,,False
+1752785247.2366161,America/Detroit,openedApp,1.5,breathingExercise,safari,Message,False
+1752787185.0392098,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752793121.72666,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752793129.935399,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1752793150.312759,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752793384.2501612,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752793409.705333,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752793405.445724,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752793412.078154,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752793422.5454512,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752794086.868915,America/Detroit,closedApp,,,reddit,,False
+1752794116.0020509,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752794220.9686341,America/Detroit,closedApp,,,reddit,,False
+1752794284.841749,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752794739.0422912,America/Detroit,closedApp,,,reddit,,False
+1752794847.8293781,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752795919.988052,America/Detroit,closedApp,,,reddit,,False
+1752796369.622511,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1752796375.795994,America/Detroit,closedApp,,,twitter,,False
+1752796877.685041,America/Detroit,closedApp,,,twitter,,False
+1752796909.8565679,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752796917.41068,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1752797401.6643791,America/Detroit,closedApp,,,twitter,,False
+1752797414.630933,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752797405.651331,America/Detroit,closedApp,,,twitter,,False
+1752797417.188103,America/Detroit,closedApp,,,twitter,,False
+1752797506.274394,America/Detroit,closedApp,,,twitter,,False
+1752797666.411076,America/Detroit,closedApp,,,twitter,,False
+1752799652.2330642,America/Detroit,dismissedAppOpening,1.5,breathingExercise,twitter,,False
+1752800666.034977,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1752801951.847652,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752801959.81199,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1752802071.968099,America/Detroit,closedApp,,,twitter,,False
+1752802081.297442,America/Detroit,openedApp,1.5,breathingExercise,reddit,Can’t sleep,False
+1752802092.4731069,America/Detroit,closedApp,,,reddit,,False
+1752802150.618792,America/Detroit,closedApp,,,reddit,,False
+1752802324.286611,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752802331.411313,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752802363.357528,America/Detroit,closedApp,,,reddit,,False
+1752802374.525738,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752802368.995109,America/Detroit,closedApp,,,reddit,,False
+1752802379.17865,America/Detroit,closedApp,,,reddit,,False
+1752804820.56736,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1752805561.925909,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1752805723.803611,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1752805815.666216,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752805822.658554,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752805828.8084378,America/Detroit,closedApp,,,reddit,,False
+1752805896.741801,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1752805977.573154,America/Detroit,closedApp,,,twitter,,False
+1752806536.8949962,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1752842161.458708,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752842176.599349,America/Detroit,openedApp,1.5,breathingExercise,safari,Can’t sleep,False
+1752842189.186823,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752842280.594008,America/Detroit,closedApp,,,reddit,,False
+1752842287.5432072,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1752842369.229755,America/Detroit,closedApp,,,twitter,,False
+1752842381.721232,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752842377.851527,America/Detroit,closedApp,,,twitter,,False
+1752842948.4184608,America/Detroit,closedApp,,,twitter,,False
+1752842955.213722,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752843031.359501,America/Detroit,closedApp,,,reddit,,False
+1752843038.106436,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Escape / Avoid,False
+1752843050.796459,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752843053.005625,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752843092.092537,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752843282.076349,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1752843464.1184402,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752843477.252676,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752843489.605764,America/Detroit,closedApp,,,reddit,,False
+1752843497.777223,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752843493.5662909,America/Detroit,closedApp,,,reddit,,False
+1752843872.560549,America/Detroit,closedApp,,,reddit,,False
+1752843989.486515,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752844340.6376162,America/Detroit,closedApp,,,twitter,,False
+1752844349.6105928,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752844362.58493,America/Detroit,closedApp,,,reddit,,False
+1752844391.6634269,America/Detroit,closedApp,,,reddit,,False
+1752844403.936674,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1752844866.9528651,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752848870.859724,America/Detroit,openedApp,1.5,breathingExercise,youtube,Stay In the Loop,False
+1752860390.481236,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752860397.459048,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Stay In the Loop,False
+1752860401.653816,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752860412.0507522,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752860468.6709042,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752860541.66766,America/Detroit,closedApp,,,reddit,,False
+1752860570.30191,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752860601.395458,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752860620.56596,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752860627.427957,America/Detroit,openedApp,1.5,breathingExercise,youtube,Stay In the Loop,False
+1752865335.7646441,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752872347.703404,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1752879689.546082,America/Detroit,openedApp,1.5,breathingExercise,safari,Can’t sleep,False
+1752879700.172886,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752879701.0211349,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752879721.147183,America/Detroit,closedApp,,,reddit,,False
+1752879785.7237148,America/Detroit,closedApp,,,reddit,,False
+1752881683.542186,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752881690.122064,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752881711.567061,America/Detroit,closedApp,,,reddit,,False
+1752881718.4916291,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752882539.5242171,America/Detroit,closedApp,,,twitter,,False
+1752889100.367035,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752889103.192494,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752889102.998693,America/Detroit,closedApp,,,youtube,,False
+1752889105.871592,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752889105.859935,America/Detroit,closedApp,,,youtube,,False
+1752892816.03985,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752892811.8755178,America/Detroit,closedApp,,,youtube,,False
+1752892814.042623,America/Detroit,closedApp,,,youtube,,False
+1752892823.176547,America/Detroit,closedApp,,,youtube,,False
+1752892898.949691,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752893228.931982,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752893270.203354,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752893305.473762,America/Detroit,closedApp,,,reddit,,False
+1752893409.673142,America/Detroit,closedApp,,,reddit,,False
+1752893499.845387,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752893506.4533749,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752893585.2877278,America/Detroit,closedApp,,,reddit,,False
+1752894041.80491,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752894048.622108,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752894059.40805,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1752894301.6537519,America/Detroit,closedApp,,,twitter,,False
+1752895367.544802,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752896288.939884,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1752928987.100488,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752928992.940905,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1752929109.7124538,America/Detroit,closedApp,,,twitter,,False
+1752929129.569979,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752929215.335105,America/Detroit,closedApp,,,reddit,,False
+1752933970.0088491,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1752935909.2312899,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752935931.356478,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752935958.966165,America/Detroit,closedApp,,,reddit,,False
+1752936481.070386,America/Detroit,closedApp,,,reddit,,False
+1752936985.221651,America/Detroit,closedApp,,,reddit,,False
+1752936993.477335,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1752937009.652783,America/Detroit,closedApp,,,twitter,,False
+1752937017.954979,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752937014.144825,America/Detroit,closedApp,,,twitter,,False
+1752937537.363178,America/Detroit,closedApp,,,twitter,,False
+1752937543.8775148,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752937556.990453,America/Detroit,closedApp,,,reddit,,False
+1752937914.3448958,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752937917.9048,America/Detroit,closedApp,,,reddit,,False
+1752937952.213879,America/Detroit,closedApp,,,reddit,,False
+1752937975.805917,America/Detroit,closedApp,,,reddit,,False
+1752937982.605016,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752938296.258243,America/Detroit,closedApp,,,twitter,,False
+1752938488.321855,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752938494.229372,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1752938547.529858,America/Detroit,closedApp,,,twitter,,False
+1752938571.579865,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752938578.091731,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1752939347.672766,America/Detroit,closedApp,,,twitter,,False
+1752939425.391415,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752941610.483728,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752941622.443088,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752941657.4118319,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1752944507.320297,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752944537.097121,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752944575.4740129,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1752944598.503388,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752944703.062948,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752944819.1196918,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752944825.7147589,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1752944895.778476,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752946013.3134909,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752946403.877466,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752946423.570745,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752946436.03435,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Escape / Avoid,False
+1752946443.937096,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752946470.555572,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752946491.5222511,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752946774.309044,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752946935.646219,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1752947439.877456,America/Detroit,closedApp,,,reddit,,False
+1752947456.647841,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752947452.13617,America/Detroit,closedApp,,,reddit,,False
+1752947758.0467792,America/Detroit,closedApp,,,reddit,,False
+1752947892.7097979,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752947929.558156,America/Detroit,closedApp,,,reddit,,False
+1752947939.0456219,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752948095.957766,America/Detroit,closedApp,,,twitter,,False
+1752948731.485481,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1752948879.0516272,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1752952152.4305449,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1752952158.574816,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1752952323.952376,America/Detroit,closedApp,,,twitter,,False
+1752952358.665452,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752952393.954859,America/Detroit,closedApp,,,reddit,,False
+1752952409.6192698,America/Detroit,closedApp,,,reddit,,False
+1752952460.321543,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752952662.917685,America/Detroit,closedApp,,,reddit,,False
+1752952668.823395,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752952676.8921819,America/Detroit,closedApp,,,twitter,,False
+1752953217.740416,America/Detroit,closedApp,,,twitter,,False
+1752953221.2248979,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752953221.445874,America/Detroit,closedApp,,,twitter,,False
+1752953229.074516,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752953225.308677,America/Detroit,closedApp,,,twitter,,False
+1752953250.162816,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752953246.537072,America/Detroit,closedApp,,,twitter,,False
+1752953248.74375,America/Detroit,closedApp,,,twitter,,False
+1752953269.5278258,America/Detroit,closedApp,,,twitter,,False
+1752953276.65189,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1752953348.22092,America/Detroit,closedApp,,,reddit,,False
+1752953358.891673,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752953355.008476,America/Detroit,closedApp,,,reddit,,False
+1752953386.28575,America/Detroit,closedApp,,,reddit,,False
+1752953423.060499,America/Detroit,closedApp,,,reddit,,False
+1752953430.40784,America/Detroit,closedApp,,,reddit,,False
+1752964664.4779382,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752964781.976128,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752964817.346889,America/Detroit,closedApp,,,reddit,,False
+1752964870.792142,America/Detroit,closedApp,,,reddit,,False
+1752965089.032666,America/Detroit,closedApp,,,reddit,,False
+1752965125.280572,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752965132.260062,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752965447.333463,America/Detroit,closedApp,,,youtube,,False
+1752965447.71459,America/Detroit,closedApp,,,youtube,,False
+1752965453.671078,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1752965922.163834,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752965919.81774,America/Detroit,closedApp,,,youtube,,False
+1752965931.0522618,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752965924.648891,America/Detroit,closedApp,,,youtube,,False
+1752965944.960288,America/Detroit,closedApp,,,youtube,,False
+1752965949.572994,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1752966162.030192,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752966114.664349,America/Detroit,closedApp,,,youtube,,False
+1752966167.245184,America/Detroit,closedApp,,,youtube,,False
+1752966171.4923859,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1752966186.087438,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752966182.472831,America/Detroit,closedApp,,,youtube,,False
+1752966196.030858,America/Detroit,closedApp,,,youtube,,False
+1752966236.5686731,America/Detroit,closedApp,,,youtube,,False
+1752966258.5680342,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752966288.933776,America/Detroit,closedApp,,,reddit,,False
+1752966418.245366,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752966428.3765578,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752966599.381572,America/Detroit,closedApp,,,reddit,,False
+1752967020.861929,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1752967122.769802,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752967854.311983,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752968140.324274,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752968150.345608,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752968158.949892,America/Detroit,closedApp,,,reddit,,False
+1752968715.385427,America/Detroit,closedApp,,,reddit,,False
+1752968723.9982672,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1752968819.199996,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752968945.570914,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1752968957.620353,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1752969257.950892,America/Detroit,closedApp,,,twitter,,False
+1752971134.785255,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1752971144.844096,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752971213.567977,America/Detroit,closedApp,,,twitter,,False
+1752971272.9222832,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752971279.477917,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752971374.764027,America/Detroit,closedApp,,,twitter,,False
+1752971403.761547,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752971409.6903749,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1752971418.319545,America/Detroit,closedApp,,,twitter,,False
+1752971477.986568,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752971484.057121,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1752971869.488992,America/Detroit,closedApp,,,twitter,,False
+1752971874.6481419,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1752972225.638205,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1752974895.639731,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1752974902.620525,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1752974947.716827,America/Detroit,closedApp,,,twitter,,False
+1752976146.855362,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1752976153.154799,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1752976165.237437,America/Detroit,closedApp,,,reddit,,False
+1752976187.812046,America/Detroit,closedApp,,,reddit,,False
+1752976237.3150969,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1752976256.7587829,America/Detroit,closedApp,,,reddit,,False
+1753011662.172679,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1753011673.005124,America/Detroit,openedApp,1.5,breathingExercise,reddit,Stay In the Loop,False
+1753011680.804196,America/Detroit,closedApp,,,reddit,,False
+1753011777.971786,America/Detroit,closedApp,,,reddit,,False
+1753011784.697777,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753012096.806278,America/Detroit,closedApp,,,twitter,,False
+1753012144.578596,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753012153.820883,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Escape / Avoid,False
+1753012244.0300431,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Escape / Avoid,False
+1753012253.459084,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753012260.582643,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753012616.376406,America/Detroit,closedApp,,,twitter,,False
+1753014152.855212,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753014162.688733,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753014311.86425,America/Detroit,closedApp,,,twitter,,False
+1753014320.852261,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753014397.043376,America/Detroit,closedApp,,,reddit,,False
+1753014438.3464742,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753014444.7004719,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753014857.482153,America/Detroit,closedApp,,,reddit,,False
+1753014863.413338,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753015964.180646,America/Detroit,closedApp,,,twitter,,False
+1753016994.3532681,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753017327.497908,America/Detroit,closedApp,,,twitter,,False
+1753017340.3051639,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753017335.5073318,America/Detroit,closedApp,,,twitter,,False
+1753018002.181454,America/Detroit,closedApp,,,twitter,,False
+1753018009.030974,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753018023.4273229,America/Detroit,closedApp,,,reddit,,False
+1753018154.4979482,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753018150.967924,America/Detroit,closedApp,,,reddit,,False
+1753018157.705196,America/Detroit,closedApp,,,reddit,,False
+1753018164.168112,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753019158.586372,America/Detroit,closedApp,,,twitter,,False
+1753019164.418795,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753019275.7198238,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753019284.998623,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753019753.184032,America/Detroit,closedApp,,,reddit,,False
+1753019757.461907,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1753019764.07657,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753019763.284704,America/Detroit,closedApp,,,reddit,,False
+1753019776.760772,America/Detroit,openedApp,1.5,breathingExercise,espn,Escape / Avoid,False
+1753022749.030222,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753023783.75161,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753023817.9663172,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753023842.4177809,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753023853.1305141,America/Detroit,closedApp,,,reddit,,False
+1753023868.909123,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753023869.108557,America/Detroit,closedApp,,,reddit,,False
+1753023923.6127992,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753023871.4018679,America/Detroit,closedApp,,,reddit,,False
+1753023938.639069,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753024264.3765368,America/Detroit,closedApp,,,reddit,,False
+1753024300.3323479,America/Detroit,closedApp,,,reddit,,False
+1753024327.112413,America/Detroit,closedApp,,,reddit,,False
+1753024331.019253,America/Detroit,closedApp,,,reddit,,False
+1753024332.233208,America/Detroit,closedApp,,,reddit,,False
+1753024333.524743,America/Detroit,closedApp,,,reddit,,False
+1753024363.716566,America/Detroit,closedApp,,,reddit,,False
+1753024417.903491,America/Detroit,closedApp,,,reddit,,False
+1753024446.114017,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753024453.8520799,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753024643.641474,America/Detroit,closedApp,,,reddit,,False
+1753024649.782007,America/Detroit,closedApp,,,reddit,,False
+1753024651.6832762,America/Detroit,closedApp,,,reddit,,False
+1753024651.87236,America/Detroit,closedApp,,,reddit,,False
+1753025027.422178,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753025383.829753,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753025389.6384,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753025926.752244,America/Detroit,closedApp,,,instagram,,False
+1753025552.776435,America/Detroit,closedApp,,,reddit,,False
+1753025694.310641,America/Detroit,closedApp,,,reddit,,False
+1753025916.8752298,America/Detroit,closedApp,,,reddit,,False
+1753025937.565094,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753026118.648876,America/Detroit,closedApp,,,twitter,,False
+1753027226.257491,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753027232.0038981,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753027620.938743,America/Detroit,closedApp,,,twitter,,False
+1753028052.35905,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753028058.090883,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753028176.817865,America/Detroit,closedApp,,,twitter,,False
+1753037273.880252,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753037280.987535,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753037444.5025048,America/Detroit,closedApp,,,twitter,,False
+1753037453.9764838,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753037531.349287,America/Detroit,closedApp,,,reddit,,False
+1753037584.404572,America/Detroit,closedApp,,,reddit,,False
+1753038500.2328238,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753038505.828714,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753038587.740802,America/Detroit,closedApp,,,reddit,,False
+1753038594.169339,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1753038601.555294,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753038604.9666681,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753039928.5948792,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753039938.014874,America/Detroit,dismissedAppOpening,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753040690.622126,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753041708.852344,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1753042122.635088,America/Detroit,dismissedAppOpening,1.5,breathingExercise,espn,,False
+1753050646.141911,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753050734.9546928,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753050742.8888578,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Escape / Avoid,False
+1753050752.403624,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753050802.740931,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753050809.5550041,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753050824.6872659,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753050882.646564,America/Detroit,closedApp,,,reddit,,False
+1753051313.457285,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753053032.350151,America/Detroit,closedApp,,,twitter,,False
+1753053041.2430382,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753053116.779562,America/Detroit,closedApp,,,reddit,,False
+1753063363.1573591,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753063425.362955,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1753063901.399548,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753064786.3772411,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753095106.0814772,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753095491.794049,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753095497.86054,America/Detroit,closedApp,,,linkedin,,False
+1753095501.650553,America/Detroit,closedApp,,,linkedin,,False
+1753095504.3369908,America/Detroit,closedApp,,,linkedin,,False
+1753095672.30226,America/Detroit,closedApp,,,linkedin,,False
+1753095839.098061,America/Detroit,closedApp,,,linkedin,,False
+1753096077.855188,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753096376.746038,America/Detroit,closedApp,,,reddit,,False
+1753096383.075657,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753097112.330616,America/Detroit,closedApp,,,twitter,,False
+1753097118.466625,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753097182.397268,America/Detroit,closedApp,,,reddit,,False
+1753097192.5653229,America/Detroit,openedApp,1.5,breathingExercise,espn,Escape / Avoid,False
+1753097285.2806091,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753097375.041004,America/Detroit,closedApp,,,chessCom,,False
+1753097416.7509,America/Detroit,closedApp,,,chessCom,,False
+1753097422.975371,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1753097471.9963632,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753097550.7156692,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753097883.398714,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753097892.361483,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753097977.671094,America/Detroit,closedApp,,,reddit,,False
+1753098013.336546,America/Detroit,closedApp,,,medium,,False
+1753098015.810423,America/Detroit,closedApp,,,medium,,False
+1753098021.747089,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753098074.018194,America/Detroit,closedApp,,,reddit,,False
+1753098079.447884,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753098100.459214,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753099579.414346,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753103186.422316,America/Detroit,openedApp,1.5,breathingExercise,safari,Search Info,False
+1753103204.010398,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Escape / Avoid,False
+1753103249.477559,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753103255.8238091,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753103337.486861,America/Detroit,closedApp,,,reddit,,False
+1753103344.2438722,America/Detroit,openedApp,1.5,breathingExercise,twitter,Stay In the Loop,False
+1753104898.364421,America/Detroit,closedApp,,,twitter,,False
+1753104911.0010772,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753104907.4453921,America/Detroit,closedApp,,,twitter,,False
+1753104917.200763,America/Detroit,closedApp,,,twitter,,False
+1753104923.282367,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753104990.515428,America/Detroit,closedApp,,,reddit,,False
+1753105099.8708038,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753105251.4681659,America/Detroit,closedApp,,,twitter,,False
+1753105365.5329962,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753106378.684095,America/Detroit,closedApp,,,twitter,,False
+1753106386.150395,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753106382.129895,America/Detroit,closedApp,,,twitter,,False
+1753106694.180184,America/Detroit,closedApp,,,twitter,,False
+1753107385.0376081,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753108455.317718,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753108461.121783,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753108544.6054568,America/Detroit,closedApp,,,twitter,,False
+1753108550.048181,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753108552.982058,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753109167.6165318,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753109173.64612,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753109684.961839,America/Detroit,closedApp,,,twitter,,False
+1753109857.912646,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753109863.562155,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753110132.675652,America/Detroit,closedApp,,,twitter,,False
+1753110139.8163428,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753110256.2266278,America/Detroit,closedApp,,,reddit,,False
+1753110319.962218,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753110325.853374,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753110405.052218,America/Detroit,closedApp,,,reddit,,False
+1753110411.12276,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753112061.260232,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753112066.914068,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753112108.04569,America/Detroit,closedApp,,,twitter,,False
+1753112114.382865,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753112169.475068,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753112179.9507499,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753112187.843213,America/Detroit,closedApp,,,reddit,,False
+1753112655.295114,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753112661.5858011,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753112668.265184,America/Detroit,closedApp,,,reddit,,False
+1753112677.243192,America/Detroit,closedApp,,,reddit,,False
+1753112928.869837,America/Detroit,closedApp,,,reddit,,False
+1753112943.636287,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753112939.868402,America/Detroit,closedApp,,,reddit,,False
+1753113067.092979,America/Detroit,closedApp,,,reddit,,False
+1753113099.4481668,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753113147.959749,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753113157.381134,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753114034.543993,America/Detroit,closedApp,,,twitter,,False
+1753114267.5848532,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753116375.8914928,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753116771.017487,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753116778.184525,America/Detroit,closedApp,,,linkedin,,False
+1753116784.2629108,America/Detroit,closedApp,,,linkedin,,False
+1753116806.515297,America/Detroit,closedApp,,,linkedin,,False
+1753116808.422925,America/Detroit,closedApp,,,linkedin,,False
+1753116814.0259008,America/Detroit,closedApp,,,linkedin,,False
+1753116920.853605,America/Detroit,closedApp,,,linkedin,,False
+1753122030.078248,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753122185.0924392,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753122188.391468,America/Detroit,closedApp,,,linkedin,,False
+1753122192.6886091,America/Detroit,closedApp,,,linkedin,,False
+1753122194.0653958,America/Detroit,closedApp,,,linkedin,,False
+1753122210.722773,America/Detroit,closedApp,,,linkedin,,False
+1753124589.6753778,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753124953.418531,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753130713.2816582,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753131159.572448,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753131391.2269979,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753131431.615155,America/Detroit,closedApp,,,reddit,,False
+1753131545.59268,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753131557.869642,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753131998.38725,America/Detroit,closedApp,,,twitter,,False
+1753133509.7717052,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753133546.555241,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753133552.6512,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753133556.50557,America/Detroit,closedApp,,,twitter,,False
+1753133619.8272948,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753136528.4607081,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753137710.092273,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753138255.206087,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753138455.191365,America/Detroit,closedApp,,,reddit,,False
+1753138466.908194,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753140544.27901,America/Detroit,closedApp,,,twitter,,False
+1753141374.879791,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753141380.649617,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753141767.0434918,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753141763.957257,America/Detroit,closedApp,,,linkedin,,False
+1753141763.997297,America/Detroit,closedApp,,,linkedin,,False
+1753141807.90254,America/Detroit,closedApp,,,linkedin,,False
+1753141840.621642,America/Detroit,closedApp,,,linkedin,,False
+1753141842.556318,America/Detroit,closedApp,,,linkedin,,False
+1753141927.667155,America/Detroit,closedApp,,,linkedin,,False
+1753141936.3248281,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753141945.924964,America/Detroit,closedApp,,,reddit,,False
+1753142020.608033,America/Detroit,closedApp,,,reddit,,False
+1753142027.6749558,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753142153.875072,America/Detroit,closedApp,,,twitter,,False
+1753142331.419411,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753142421.083494,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753142997.921951,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753143004.94836,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753143044.715703,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753143434.777276,America/Detroit,closedApp,,,reddit,,False
+1753146247.29937,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753146664.226163,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753146677.059225,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753146700.80112,America/Detroit,closedApp,,,reddit,,False
+1753146792.858537,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753146810.631456,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753147041.04129,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1753147110.343534,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753147118.361939,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753147124.5795321,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753147121.241633,America/Detroit,closedApp,,,reddit,,False
+1753147181.460794,America/Detroit,closedApp,,,reddit,,False
+1753151289.725945,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753152653.083037,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753152677.458324,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753152751.217675,America/Detroit,closedApp,,,reddit,,False
+1753152758.168479,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753153247.691864,America/Detroit,closedApp,,,twitter,,False
+1753153277.1197891,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753153282.866458,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753153780.372273,America/Detroit,closedApp,,,twitter,,False
+1753154490.3047051,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753187679.929102,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753187686.56352,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753187818.046073,America/Detroit,closedApp,,,twitter,,False
+1753187831.912303,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753187839.140157,America/Detroit,closedApp,,,reddit,,False
+1753188517.2310128,America/Detroit,closedApp,,,reddit,,False
+1753188533.4949489,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753188552.694205,America/Detroit,closedApp,,,twitter,,False
+1753188557.32182,America/Detroit,closedApp,,,twitter,,False
+1753188580.918985,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753188586.693948,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753188591.273279,America/Detroit,closedApp,,,twitter,,False
+1753188648.7901359,America/Detroit,openedApp,1.5,breathingExercise,espn,Escape / Avoid,False
+1753198962.808498,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753198984.778528,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753198990.725531,America/Detroit,closedApp,,,twitter,,False
+1753198998.439719,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753199009.022241,America/Detroit,closedApp,,,reddit,,False
+1753199011.753715,America/Detroit,closedApp,,,reddit,,False
+1753199296.602967,America/Detroit,closedApp,,,reddit,,False
+1753199406.842164,America/Detroit,closedApp,,,reddit,,False
+1753202814.69132,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753202821.241138,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753202834.443887,America/Detroit,closedApp,,,reddit,,False
+1753205396.5882359,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753205441.532312,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753205450.4486961,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753205503.03785,America/Detroit,closedApp,,,reddit,,False
+1753205525.917992,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753205557.886754,America/Detroit,closedApp,,,reddit,,False
+1753205573.681456,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753205568.95789,America/Detroit,closedApp,,,reddit,,False
+1753205654.515887,America/Detroit,closedApp,,,reddit,,False
+1753205796.7909532,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753205829.028086,America/Detroit,closedApp,,,reddit,,False
+1753209276.240289,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753209281.856821,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753209471.079386,America/Detroit,closedApp,,,reddit,,False
+1753209568.0770578,America/Detroit,closedApp,,,reddit,,False
+1753209596.599859,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753209699.199738,America/Detroit,closedApp,,,reddit,,False
+1753209762.1213589,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753209894.894062,America/Detroit,closedApp,,,reddit,,False
+1753209910.422272,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753209916.526394,America/Detroit,closedApp,,,twitter,,False
+1753209927.874487,America/Detroit,closedApp,,,twitter,,False
+1753210332.438597,America/Detroit,closedApp,,,twitter,,False
+1753210374.2388911,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753210386.327549,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753210809.340652,America/Detroit,closedApp,,,twitter,,False
+1753210821.166858,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753210817.803907,America/Detroit,closedApp,,,twitter,,False
+1753210904.16348,America/Detroit,closedApp,,,twitter,,False
+1753216320.984724,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753216327.367134,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753216332.9379082,America/Detroit,closedApp,,,twitter,,False
+1753217951.243631,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753219191.2262359,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753219231.1407561,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753220159.7802582,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753220168.38645,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753220175.6622229,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753221348.121572,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753223588.1104321,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753223917.5138888,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753223922.849577,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753223929.199864,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753223941.818856,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753223950.887697,America/Detroit,closedApp,,,reddit,,False
+1753224016.548408,America/Detroit,closedApp,,,reddit,,False
+1753224061.3175402,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753224066.368,America/Detroit,dismissedAppOpening,1.5,breathingExercise,reddit,,False
+1753224081.4752998,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753224276.4268851,America/Detroit,closedApp,,,twitter,,False
+1753226246.649936,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753226262.153614,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753226269.019768,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753226570.313081,America/Detroit,closedApp,,,twitter,,False
+1753226609.4495878,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753226875.042614,America/Detroit,closedApp,,,twitter,,False
+1753226930.604522,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753227407.372589,America/Detroit,closedApp,,,twitter,,False
+1753227533.274722,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753227597.524456,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753227603.974299,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753227665.412643,America/Detroit,closedApp,,,twitter,,False
+1753227791.7312322,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753228034.68749,America/Detroit,closedApp,,,twitter,,False
+1753228077.161973,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753228140.2507691,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753228152.4675379,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753228307.632298,America/Detroit,closedApp,,,twitter,,False
+1753228415.118137,America/Detroit,dismissedAppOpening,1.5,breathingExercise,twitter,,False
+1753228430.2986588,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753228437.9378881,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753228445.522622,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753228608.807888,America/Detroit,closedApp,,,twitter,,False
+1753228684.467197,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753228690.266512,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753228734.949051,America/Detroit,closedApp,,,twitter,,False
+1753228839.221789,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753228859.0965319,America/Detroit,closedApp,,,twitter,,False
+1753228906.2382832,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753230344.555499,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753230366.708829,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753230440.853646,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753231079.8411899,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753231134.852812,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753231291.5842009,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753231396.4555368,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753231435.194937,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753231543.544911,America/Detroit,closedApp,,,reddit,,False
+1753231550.798069,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753233991.022809,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753233996.972373,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753234005.721729,America/Detroit,closedApp,,,reddit,,False
+1753234019.374508,America/Detroit,closedApp,,,reddit,,False
+1753234066.3897781,America/Detroit,closedApp,,,reddit,,False
+1753271586.781944,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753271592.730832,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753271634.855346,America/Detroit,closedApp,,,reddit,,False
+1753271934.7903528,America/Detroit,closedApp,,,reddit,,False
+1753271941.357482,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1753271997.779844,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753272004.126131,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753272360.074348,America/Detroit,closedApp,,,twitter,,False
+1753272551.943481,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753272567.938323,America/Detroit,closedApp,,,reddit,,False
+1753272600.986934,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753272606.4535651,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753272925.6747952,America/Detroit,closedApp,,,reddit,,False
+1753273092.480816,America/Detroit,closedApp,,,reddit,,False
+1753273126.068386,America/Detroit,closedApp,,,linkedin,,False
+1753273128.7159228,America/Detroit,closedApp,,,linkedin,,False
+1753273191.681618,America/Detroit,closedApp,,,linkedin,,False
+1753273275.0349321,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753273658.11446,America/Detroit,closedApp,,,reddit,,False
+1753273719.2235441,America/Detroit,closedApp,,,bbcNews,,False
+1753273856.8312001,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753273875.3941379,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1753273886.605945,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753273967.586746,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753273973.899081,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753274600.053783,America/Detroit,closedApp,,,reddit,,False
+1753275225.2923,America/Detroit,closedApp,,,reddit,,False
+1753275455.7509398,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753278084.181246,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753278678.44714,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753278914.5299768,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753278924.944207,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1753278934.833014,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753278942.411001,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753278954.8303518,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753278998.936032,America/Detroit,closedApp,,,reddit,,False
+1753279070.497532,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753279247.4250689,America/Detroit,closedApp,,,reddit,,False
+1753279555.832933,America/Detroit,closedApp,,,reddit,,False
+1753279563.604953,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753280264.254427,America/Detroit,closedApp,,,twitter,,False
+1753280838.3828,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753280850.19169,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753280858.1209831,America/Detroit,closedApp,,,reddit,,False
+1753280915.2199469,America/Detroit,closedApp,,,reddit,,False
+1753280994.711039,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753281000.357288,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753281044.9954472,America/Detroit,closedApp,,,reddit,,False
+1753281049.156897,America/Detroit,closedApp,,,linkedin,,False
+1753281051.665694,America/Detroit,closedApp,,,linkedin,,False
+1753281130.710474,America/Detroit,closedApp,,,linkedin,,False
+1753281137.418385,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753281140.5802,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753281144.949779,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753282418.1908832,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753286570.991506,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753286579.243211,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753286587.333457,America/Detroit,closedApp,,,reddit,,False
+1753286597.0650802,America/Detroit,closedApp,,,reddit,,False
+1753286603.8111892,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753286627.057801,America/Detroit,closedApp,,,twitter,,False
+1753286705.212574,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753286714.625756,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753286728.7563581,America/Detroit,closedApp,,,reddit,,False
+1753286751.750366,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753286767.755578,America/Detroit,closedApp,,,twitter,,False
+1753286815.655885,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753286873.75456,America/Detroit,closedApp,,,reddit,,False
+1753288248.506546,America/Detroit,dismissedAppOpening,1.5,breathingExercise,espn,,False
+1753289381.299679,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1753291530.5614572,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753291550.697456,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753291560.5335588,America/Detroit,closedApp,,,reddit,,False
+1753291583.5147948,America/Detroit,closedApp,,,reddit,,False
+1753291940.687109,America/Detroit,closedApp,,,reddit,,False
+1753291974.356164,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753292329.0099301,America/Detroit,closedApp,,,twitter,,False
+1753294237.508343,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753294243.9057388,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753294305.836246,America/Detroit,closedApp,,,twitter,,False
+1753295140.968523,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753296191.931576,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753294308.553791,America/Detroit,closedApp,,,twitter,,False
+1753296248.3492541,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753296254.8508801,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753296357.132313,America/Detroit,closedApp,,,twitter,,False
+1753299392.071805,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753299402.659507,America/Detroit,closedApp,,,linkedin,,False
+1753299405.387776,America/Detroit,closedApp,,,linkedin,,False
+1753299412.602072,America/Detroit,closedApp,,,linkedin,,False
+1753299418.540848,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753299426.720779,America/Detroit,closedApp,,,reddit,,False
+1753299623.5508971,America/Detroit,closedApp,,,reddit,,False
+1753311979.280898,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753311985.079577,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753312008.110416,America/Detroit,closedApp,,,reddit,,False
+1753312128.6982841,America/Detroit,closedApp,,,reddit,,False
+1753312171.412106,America/Detroit,closedApp,,,reddit,,False
+1753312239.5153642,America/Detroit,closedApp,,,linkedin,,False
+1753312242.188724,America/Detroit,closedApp,,,linkedin,,False
+1753312253.966255,America/Detroit,closedApp,,,linkedin,,False
+1753312893.25141,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753312970.36475,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753312978.816207,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753313051.154972,America/Detroit,closedApp,,,reddit,,False
+1753313519.004143,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753313627.6529741,America/Detroit,closedApp,,,reddit,,False
+1753313796.697257,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753313816.3773031,America/Detroit,closedApp,,,reddit,,False
+1753313837.80175,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753314080.35847,America/Detroit,closedApp,,,twitter,,False
+1753314255.3170772,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753314260.9815621,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753314460.934742,America/Detroit,closedApp,,,twitter,,False
+1753314858.983686,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753314865.39676,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753315428.139159,America/Detroit,closedApp,,,twitter,,False
+1753315493.5921888,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753315644.684128,America/Detroit,closedApp,,,twitter,,False
+1753315809.136117,America/Detroit,closedApp,,,twitter,,False
+1753315846.935116,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753315924.261426,America/Detroit,closedApp,,,twitter,,False
+1753315971.0922952,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753316037.786016,America/Detroit,closedApp,,,twitter,,False
+1753316052.038887,America/Detroit,closedApp,,,twitter,,False
+1753316135.548075,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753316378.988178,America/Detroit,closedApp,,,twitter,,False
+1753316517.027668,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753316563.509927,America/Detroit,closedApp,,,twitter,,False
+1753316590.1828442,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753316753.470685,America/Detroit,closedApp,,,twitter,,False
+1753316811.919814,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753316847.579593,America/Detroit,closedApp,,,twitter,,False
+1753316927.397246,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753316967.4282699,America/Detroit,closedApp,,,twitter,,False
+1753317075.225614,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753317187.706922,America/Detroit,closedApp,,,twitter,,False
+1753318147.369048,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753318153.786227,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753318204.964047,America/Detroit,closedApp,,,twitter,,False
+1753318410.855581,America/Detroit,closedApp,,,twitter,,False
+1753319435.99922,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753320701.540021,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753320708.651047,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753320740.2446342,America/Detroit,closedApp,,,twitter,,False
+1753321546.8900309,America/Detroit,closedApp,,,twitter,,False
+1753323196.593011,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753323219.4946508,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753323234.694821,America/Detroit,closedApp,,,reddit,,False
+1753323239.087271,America/Detroit,closedApp,,,reddit,,False
+1753323593.511419,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753323599.361407,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753323710.338105,America/Detroit,closedApp,,,reddit,,False
+1753323718.292715,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753324106.447784,America/Detroit,closedApp,,,twitter,,False
+1753353378.218275,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753353384.117111,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753353390.95182,America/Detroit,closedApp,,,twitter,,False
+1753353458.1631851,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753353670.123064,America/Detroit,closedApp,,,reddit,,False
+1753353763.47716,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753354743.704576,America/Detroit,closedApp,,,twitter,,False
+1753354822.5828729,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753355071.488649,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753354887.911577,America/Detroit,closedApp,,,twitter,,False
+1753354972.795037,America/Detroit,closedApp,,,twitter,,False
+1753355077.709106,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753357762.9734402,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753357769.638138,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753357952.7632031,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753357951.699482,America/Detroit,closedApp,,,twitter,,False
+1753357951.739214,America/Detroit,closedApp,,,twitter,,False
+1753357957.4056711,America/Detroit,closedApp,,,twitter,,False
+1753357964.1980429,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753358058.8507872,America/Detroit,closedApp,,,reddit,,False
+1753361672.208702,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753361744.793164,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753361756.460407,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753361930.4115062,America/Detroit,closedApp,,,twitter,,False
+1753361977.210783,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753362175.1777859,America/Detroit,closedApp,,,twitter,,False
+1753363420.754411,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753363426.354487,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753363554.496492,America/Detroit,closedApp,,,twitter,,False
+1753369623.165792,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753369642.182722,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753369674.6918411,America/Detroit,closedApp,,,reddit,,False
+1753369681.7385159,America/Detroit,closedApp,,,reddit,,False
+1753369722.732808,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753369745.32692,America/Detroit,closedApp,,,reddit,,False
+1753369752.859112,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753369973.9431129,America/Detroit,closedApp,,,twitter,,False
+1753369983.578021,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753370025.006441,America/Detroit,closedApp,,,reddit,,False
+1753370032.330947,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753370334.821969,America/Detroit,closedApp,,,twitter,,False
+1753370427.7641358,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753370670.909319,America/Detroit,closedApp,,,twitter,,False
+1753370678.9600139,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753370801.526305,America/Detroit,closedApp,,,reddit,,False
+1753371082.6226292,America/Detroit,closedApp,,,reddit,,False
+1753371086.73434,America/Detroit,closedApp,,,linkedin,,False
+1753371093.679587,America/Detroit,closedApp,,,linkedin,,False
+1753371118.1025229,America/Detroit,closedApp,,,linkedin,,False
+1753371122.188498,America/Detroit,closedApp,,,linkedin,,False
+1753371188.319427,America/Detroit,closedApp,,,linkedin,,False
+1753371356.460359,America/Detroit,closedApp,,,linkedin,,False
+1753371514.672062,America/Detroit,closedApp,,,linkedin,,False
+1753371518.144946,America/Detroit,closedApp,,,linkedin,,False
+1753371527.213784,America/Detroit,closedApp,,,linkedin,,False
+1753371758.279733,America/Detroit,closedApp,,,linkedin,,False
+1753371855.4660401,America/Detroit,closedApp,,,linkedin,,False
+1753372006.8886151,America/Detroit,closedApp,,,linkedin,,False
+1753372015.976503,America/Detroit,closedApp,,,linkedin,,False
+1753372022.462425,America/Detroit,dismissedAppOpening,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753372362.68995,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753372402.250027,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753372409.266868,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753372486.300198,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753372504.6412292,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753372571.266726,America/Detroit,closedApp,,,reddit,,False
+1753374324.225847,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753378136.295477,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753378142.562706,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753378163.122791,America/Detroit,closedApp,,,reddit,,False
+1753378349.846247,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753378428.103832,America/Detroit,closedApp,,,twitter,,False
+1753378485.41078,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753378743.567058,America/Detroit,closedApp,,,twitter,,False
+1753378749.548767,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753378787.4943318,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753378754.315192,America/Detroit,closedApp,,,twitter,,False
+1753378904.441093,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753378910.542206,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753378946.9105868,America/Detroit,closedApp,,,twitter,,False
+1753380701.860337,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753380731.510793,America/Detroit,closedApp,,,reddit,,False
+1753380747.2912312,America/Detroit,closedApp,,,reddit,,False
+1753380824.243112,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753380828.3425798,America/Detroit,closedApp,,,reddit,,False
+1753380836.311349,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753380881.6694012,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753380873.325309,America/Detroit,closedApp,,,twitter,,False
+1753381940.7733722,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753381978.19768,America/Detroit,openedApp,1.5,breathingExercise,youtube,Toilet,False
+1753383670.3750238,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753383697.1728,America/Detroit,closedApp,,,quora,,False
+1753383802.540561,America/Detroit,closedApp,,,quora,,False
+1753384183.906198,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753384248.573437,America/Detroit,closedApp,,,instagram,,False
+1753385983.787325,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753390319.471561,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753390414.653991,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753390434.4160361,America/Detroit,closedApp,,,reddit,,False
+1753390755.522959,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753390789.102406,America/Detroit,closedApp,,,reddit,,False
+1753391159.021665,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753391181.131113,America/Detroit,closedApp,,,reddit,,False
+1753392550.485138,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753392556.62011,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753392567.506748,America/Detroit,closedApp,,,reddit,,False
+1753394174.791121,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753394480.939252,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753394487.089315,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753394518.1016579,America/Detroit,closedApp,,,reddit,,False
+1753394528.7954311,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753394693.802124,America/Detroit,closedApp,,,twitter,,False
+1753394969.251495,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753395087.268939,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753395531.922394,America/Detroit,closedApp,,,twitter,,False
+1753395613.324817,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753395622.311104,America/Detroit,closedApp,,,twitter,,False
+1753395637.360009,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753395633.458116,America/Detroit,closedApp,,,twitter,,False
+1753395788.415277,America/Detroit,closedApp,,,twitter,,False
+1753395922.2778568,America/Detroit,closedApp,,,twitter,,False
+1753396079.5959558,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753396904.852,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753396913.5397382,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753396919.408566,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753397372.331544,America/Detroit,closedApp,,,twitter,,False
+1753397488.500056,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753397968.832257,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753398155.2549129,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753398445.483525,America/Detroit,openedApp,1.5,breathingExercise,youtube,Escape / Avoid,False
+1753398724.125875,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753398770.212333,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753399443.1085792,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753399536.077405,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753403020.462885,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753403026.235612,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753403061.24458,America/Detroit,closedApp,,,reddit,,False
+1753403177.170394,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753403183.642826,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753403189.209384,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753403213.400171,America/Detroit,closedApp,,,reddit,,False
+1753403222.71762,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753403219.176095,America/Detroit,closedApp,,,reddit,,False
+1753403383.136868,America/Detroit,closedApp,,,reddit,,False
+1753403437.0606852,America/Detroit,closedApp,,,reddit,,False
+1753403481.705982,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753403488.382358,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753403599.720212,America/Detroit,closedApp,,,twitter,,False
+1753403775.186674,America/Detroit,closedApp,,,newYorkTimes,,False
+1753403780.794055,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753404715.194202,America/Detroit,closedApp,,,twitter,,False
+1753404742.859007,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753404748.492358,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753406151.1837149,America/Detroit,closedApp,,,twitter,,False
+1753406157.7453132,America/Detroit,openedApp,1.5,breathingExercise,reddit,Escape / Avoid,False
+1753406211.842452,America/Detroit,closedApp,,,reddit,,False
+1753406252.8260489,America/Detroit,closedApp,,,reddit,,False
+1753406589.505608,America/Detroit,closedApp,,,reddit,,False
+1753406632.4163718,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753406829.839515,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753407529.3514152,America/Detroit,openedApp,1.5,breathingExercise,espn,Escape / Avoid,False
+1753407782.0607219,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753442625.860495,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753442632.7130089,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753442667.948841,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753442730.5924978,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753442742.117899,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753442746.492239,America/Detroit,closedApp,,,reddit,,False
+1753442871.465652,America/Detroit,closedApp,,,reddit,,False
+1753443347.681087,America/Detroit,closedApp,,,reddit,,False
+1753443354.3954601,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753444795.054624,America/Detroit,closedApp,,,twitter,,False
+1753446913.9927258,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753446924.352917,America/Detroit,closedApp,,,linkedin,,False
+1753446930.216356,America/Detroit,closedApp,,,linkedin,,False
+1753446945.7160969,America/Detroit,closedApp,,,linkedin,,False
+1753446962.980237,America/Detroit,closedApp,,,linkedin,,False
+1753446991.549984,America/Detroit,closedApp,,,linkedin,,False
+1753447134.070154,America/Detroit,closedApp,,,linkedin,,False
+1753447687.643707,America/Detroit,closedApp,,,linkedin,,False
+1753452097.650373,America/Detroit,closedApp,,,linkedin,,False
+1753452440.228703,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753452436.436857,America/Detroit,closedApp,,,linkedin,,False
+1753452502.264677,America/Detroit,closedApp,,,linkedin,,False
+1753452506.709971,America/Detroit,closedApp,,,linkedin,,False
+1753452530.793256,America/Detroit,closedApp,,,linkedin,,False
+1753452598.94662,America/Detroit,closedApp,,,linkedin,,False
+1753452606.290704,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753453082.397622,America/Detroit,closedApp,,,twitter,,False
+1753453089.5552301,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753453184.0789452,America/Detroit,closedApp,,,reddit,,False
+1753453190.4834452,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753453589.42845,America/Detroit,closedApp,,,twitter,,False
+1753453852.620748,America/Detroit,closedApp,,,twitter,,False
+1753453880.96813,America/Detroit,closedApp,,,twitter,,False
+1753457375.367634,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753457381.0176702,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753457714.8043919,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753457905.071728,America/Detroit,closedApp,,,twitter,,False
+1753457928.311728,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753461738.588424,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753467824.48275,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753467858.879695,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753469849.624871,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753484943.651626,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753485043.492691,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753485386.1046019,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753485395.8198252,America/Detroit,closedApp,,,linkedin,,False
+1753485401.2303572,America/Detroit,closedApp,,,linkedin,,False
+1753485414.953172,America/Detroit,closedApp,,,linkedin,,False
+1753485433.693406,America/Detroit,closedApp,,,linkedin,,False
+1753485444.342458,America/Detroit,closedApp,,,linkedin,,False
+1753485538.97534,America/Detroit,closedApp,,,linkedin,,False
+1753485712.7527308,America/Detroit,closedApp,,,linkedin,,False
+1753485761.894387,America/Detroit,closedApp,,,linkedin,,False
+1753485773.9068089,America/Detroit,closedApp,,,linkedin,,False
+1753485865.8054209,America/Detroit,closedApp,,,linkedin,,False
+1753485974.698874,America/Detroit,closedApp,,,linkedin,,False
+1753485984.566323,America/Detroit,closedApp,,,linkedin,,False
+1753485995.420919,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753485991.80307,America/Detroit,closedApp,,,linkedin,,False
+1753485998.546852,America/Detroit,closedApp,,,linkedin,,False
+1753486018.614977,America/Detroit,closedApp,,,linkedin,,False
+1753486027.7611341,America/Detroit,closedApp,,,linkedin,,False
+1753486093.242073,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753486089.725214,America/Detroit,closedApp,,,linkedin,,False
+1753486101.705587,America/Detroit,closedApp,,,linkedin,,False
+1753486197.369657,America/Detroit,closedApp,,,linkedin,,False
+1753490721.9561749,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753490716.057145,America/Detroit,closedApp,,,linkedin,,False
+1753490726.092578,America/Detroit,closedApp,,,linkedin,,False
+1753490947.828268,America/Detroit,closedApp,,,linkedin,,False
+1753496288.9531531,America/Detroit,closedApp,,,linkedin,,False
+1753496310.9691439,America/Detroit,closedApp,,,linkedin,,False
+1753496322.324294,America/Detroit,closedApp,,,linkedin,,False
+1753496335.234689,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753496381.779593,America/Detroit,closedApp,,,reddit,,False
+1753496393.883638,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753497563.317513,America/Detroit,closedApp,,,twitter,,False
+1753497644.835034,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753497650.695976,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753497825.846417,America/Detroit,closedApp,,,twitter,,False
+1753497844.3749042,America/Detroit,closedApp,,,twitter,,False
+1753526999.791965,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753531940.922373,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753531955.184933,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753532004.743834,America/Detroit,closedApp,,,twitter,,False
+1753532449.665732,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753532475.651912,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753532507.582201,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753532540.985941,America/Detroit,closedApp,,,reddit,,False
+1753532668.53574,America/Detroit,closedApp,,,reddit,,False
+1753532709.951247,America/Detroit,closedApp,,,reddit,,False
+1753532739.367113,America/Detroit,closedApp,,,reddit,,False
+1753533055.72289,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753533063.891665,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753533433.2616382,America/Detroit,closedApp,,,reddit,,False
+1753533476.878168,America/Detroit,closedApp,,,reddit,,False
+1753533483.8422,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753533691.197225,America/Detroit,closedApp,,,twitter,,False
+1753538793.575499,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753538799.714765,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753539329.572864,America/Detroit,closedApp,,,twitter,,False
+1753540515.27304,America/Detroit,openedApp,1.5,breathingExercise,espn,Stay In the Loop,False
+1753540837.1404681,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753540871.1047978,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753541289.78701,America/Detroit,closedApp,,,twitter,,False
+1753541302.857209,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753541597.712501,America/Detroit,closedApp,,,reddit,,False
+1753541616.9789991,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753542068.092385,America/Detroit,closedApp,,,twitter,,False
+1753542124.4372,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753542610.577666,America/Detroit,closedApp,,,twitter,,False
+1753542984.880949,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753542994.264729,America/Detroit,openedApp,1.5,breathingExercise,twitter,Escape / Avoid,False
+1753543136.875667,America/Detroit,closedApp,,,twitter,,False
+1753543403.262745,America/Detroit,closedApp,,,twitter,,False
+1753543411.156327,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753543874.854217,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753544219.241483,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753544232.3717198,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753544405.56152,America/Detroit,closedApp,,,reddit,,False
+1753544429.7587729,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753544418.373407,America/Detroit,closedApp,,,reddit,,False
+1753544627.3322449,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753544633.263938,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753544732.485297,America/Detroit,closedApp,,,linkedin,,False
+1753544737.751854,America/Detroit,closedApp,,,linkedin,,False
+1753544740.8154922,America/Detroit,closedApp,,,linkedin,,False
+1753544850.6865869,America/Detroit,closedApp,,,linkedin,,False
+1753544888.3561602,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753544916.99677,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753544958.573779,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753544999.435776,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753545175.341354,America/Detroit,closedApp,,,reddit,,False
+1753553082.149394,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753553080.711987,America/Detroit,closedApp,,,quora,,False
+1753553436.121424,America/Detroit,closedApp,,,quora,,False
+1753555484.400444,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753555493.0799851,America/Detroit,closedApp,,,reddit,,False
+1753555525.132452,America/Detroit,closedApp,,,reddit,,False
+1753555536.246234,America/Detroit,openedApp,1.5,breathingExercise,espn,Entertainment,False
+1753556652.7863522,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753556663.0006409,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753556748.5304651,America/Detroit,closedApp,,,reddit,,False
+1753556762.937813,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753556763.1017299,America/Detroit,closedApp,,,reddit,,False
+1753569649.684568,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753569655.2042742,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753569669.763606,America/Detroit,closedApp,,,reddit,,False
+1753569904.7352939,America/Detroit,closedApp,,,reddit,,False
+1753569909.715559,America/Detroit,closedApp,,,reddit,,False
+1753571643.244211,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753571649.0007792,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753571671.889474,America/Detroit,closedApp,,,reddit,,False
+1753571751.097972,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753571777.993456,America/Detroit,closedApp,,,reddit,,False
+1753577651.049306,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753577656.602289,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753578014.768454,America/Detroit,closedApp,,,reddit,,False
+1753578085.283135,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753578102.057951,America/Detroit,closedApp,,,reddit,,False
+1753578112.239398,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753578139.995007,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753578168.960699,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753578502.8458009,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753578516.9975019,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753578631.4973922,America/Detroit,closedApp,,,reddit,,False
+1753578655.844098,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753578991.5347,America/Detroit,closedApp,,,twitter,,False
+1753579101.468369,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753579145.2599459,America/Detroit,closedApp,,,linkedin,,False
+1753579282.681951,America/Detroit,closedApp,,,linkedin,,False
+1753579289.0437331,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753579483.6171951,America/Detroit,closedApp,,,reddit,,False
+1753581056.565734,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753581062.453954,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753581114.492299,America/Detroit,closedApp,,,reddit,,False
+1753581120.657862,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753581176.5654058,America/Detroit,openedApp,1.5,breathingExercise,youtube,Stay In the Loop,False
+1753582224.432301,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753582407.2985349,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753582411.808471,America/Detroit,dismissedAppOpening,1.5,breathingExercise,reddit,,False
+1753582575.267266,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753586382.482819,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753586393.673126,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753589686.864551,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753589902.027385,America/Detroit,closedApp,,,linkedin,,False
+1753589908.56359,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753590514.060875,America/Detroit,closedApp,,,twitter,,False
+1753591403.722846,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753591412.783205,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753617933.730828,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753617944.111868,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753622388.234838,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753622407.4061499,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753622434.494288,America/Detroit,closedApp,,,reddit,,False
+1753622445.6541371,America/Detroit,closedApp,,,reddit,,False
+1753622451.8773742,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753622557.813031,America/Detroit,closedApp,,,twitter,,False
+1753622566.913869,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753622592.921321,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753622744.8407521,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753624412.01617,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753624533.471795,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753624658.395369,America/Detroit,closedApp,,,linkedin,,False
+1753624663.346555,America/Detroit,closedApp,,,linkedin,,False
+1753624668.150331,America/Detroit,closedApp,,,linkedin,,False
+1753624681.113744,America/Detroit,closedApp,,,linkedin,,False
+1753624702.6310492,America/Detroit,closedApp,,,linkedin,,False
+1753624847.956574,America/Detroit,closedApp,,,linkedin,,False
+1753624991.929117,America/Detroit,closedApp,,,linkedin,,False
+1753625014.510822,America/Detroit,closedApp,,,linkedin,,False
+1753625017.367935,America/Detroit,closedApp,,,linkedin,,False
+1753625032.282085,America/Detroit,closedApp,,,linkedin,,False
+1753625079.2414951,America/Detroit,closedApp,,,linkedin,,False
+1753625093.5542212,America/Detroit,closedApp,,,linkedin,,False
+1753625102.823045,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753625169.014553,America/Detroit,closedApp,,,reddit,,False
+1753625220.124783,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753625706.608314,America/Detroit,closedApp,,,reddit,,False
+1753625895.825752,America/Detroit,closedApp,,,linkedin,,False
+1753625902.713111,America/Detroit,closedApp,,,linkedin,,False
+1753625904.115751,America/Detroit,closedApp,,,linkedin,,False
+1753625943.936338,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753626330.802561,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753626359.70653,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753626376.075273,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753626457.2384028,America/Detroit,closedApp,,,reddit,,False
+1753633691.257257,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753633698.886971,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753633794.294693,America/Detroit,closedApp,,,reddit,,False
+1753634225.2556,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753634455.335465,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753634597.694148,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753634731.795023,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753634770.48504,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753635861.877073,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753636013.144819,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753636236.159982,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753637220.770927,America/Detroit,closedApp,,,reddit,,False
+1753648823.408911,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753648829.346477,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753648873.316529,America/Detroit,closedApp,,,reddit,,False
+1753648951.437597,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753648957.7631059,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753648980.130128,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753649395.309928,America/Detroit,closedApp,,,twitter,,False
+1753649421.225618,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753649447.622695,America/Detroit,closedApp,,,linkedin,,False
+1753649450.923452,America/Detroit,closedApp,,,linkedin,,False
+1753649474.199788,America/Detroit,closedApp,,,linkedin,,False
+1753649438.788209,America/Detroit,closedApp,,,twitter,,False
+1753649675.0026422,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753649684.0500221,America/Detroit,closedApp,,,reddit,,False
+1753650079.557448,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753650078.046895,America/Detroit,closedApp,,,reddit,,False
+1753650611.0883431,America/Detroit,closedApp,,,reddit,,False
+1753650618.945695,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753650613.82826,America/Detroit,closedApp,,,reddit,,False
+1753650633.2909942,America/Detroit,closedApp,,,reddit,,False
+1753650720.0923991,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753650979.990065,America/Detroit,closedApp,,,reddit,,False
+1753651814.532144,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753652049.0271711,America/Detroit,closedApp,,,reddit,,False
+1753652070.905192,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753652077.269897,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753652182.8181381,America/Detroit,closedApp,,,reddit,,False
+1753652196.948735,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753652191.623554,America/Detroit,closedApp,,,reddit,,False
+1753653062.176021,America/Detroit,closedApp,,,reddit,,False
+1753653099.7190819,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753653271.1040301,America/Detroit,closedApp,,,reddit,,False
+1753653293.021852,America/Detroit,closedApp,,,reddit,,False
+1753653308.295053,America/Detroit,closedApp,,,reddit,,False
+1753653327.9193668,America/Detroit,closedApp,,,reddit,,False
+1753653462.967517,America/Detroit,closedApp,,,reddit,,False
+1753653469.768756,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753653892.06056,America/Detroit,closedApp,,,twitter,,False
+1753653916.452261,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753653922.65294,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753654179.2317262,America/Detroit,closedApp,,,twitter,,False
+1753654495.116749,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753654501.283797,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753658244.300277,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753658351.406975,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753658356.943801,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753658444.488473,America/Detroit,closedApp,,,twitter,,False
+1753658515.526437,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753658541.3362231,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753658581.119915,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753658584.758304,America/Detroit,closedApp,,,reddit,,False
+1753658601.888122,America/Detroit,closedApp,,,reddit,,False
+1753659020.230699,America/Detroit,closedApp,,,reddit,,False
+1753659399.765503,America/Detroit,dismissedAppOpening,1.5,breathingExercise,reddit,,False
+1753660122.345948,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753660348.324995,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753660381.980918,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753660560.175198,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753660613.0845718,America/Detroit,closedApp,,,reddit,,False
+1753660624.667597,America/Detroit,closedApp,,,reddit,,False
+1753660641.722965,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753660638.165364,America/Detroit,closedApp,,,reddit,,False
+1753660645.940839,America/Detroit,closedApp,,,reddit,,False
+1753660807.818135,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753660813.527118,America/Detroit,openedApp,1.5,breathingExercise,reddit,Entertainment,False
+1753660852.851358,America/Detroit,closedApp,,,reddit,,False
+1753660871.579033,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753660868.020025,America/Detroit,closedApp,,,reddit,,False
+1753660878.270056,America/Detroit,closedApp,,,reddit,,False
+1753661005.570867,America/Detroit,closedApp,,,reddit,,False
+1753661009.827316,America/Detroit,closedApp,,,linkedin,,False
+1753661014.327759,America/Detroit,closedApp,,,linkedin,,False
+1753661019.396389,America/Detroit,closedApp,,,linkedin,,False
+1753661026.869102,America/Detroit,closedApp,,,linkedin,,False
+1753661044.1897411,America/Detroit,closedApp,,,linkedin,,False
+1753661106.56186,America/Detroit,closedApp,,,linkedin,,False
+1753661154.437448,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753661276.840102,America/Detroit,closedApp,,,reddit,,False
+1753661303.336046,America/Detroit,closedApp,,,reddit,,False
+1753661317.950799,America/Detroit,closedApp,,,reddit,,False
+1753661539.99079,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753661553.340935,America/Detroit,closedApp,,,reddit,,False
+1753661633.6322799,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753662173.930029,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753662477.539177,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753662726.832263,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753662733.746544,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753663445.7989101,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753663465.729331,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753663517.8015661,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753663571.253726,America/Detroit,closedApp,,,reddit,,False
+1753663583.114773,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753664429.73659,America/Detroit,closedApp,,,twitter,,False
+1753664451.0572062,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753670389.649199,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753670464.7347178,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753699710.279135,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753700231.66438,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753701536.0171561,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753710466.8733358,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753710523.177229,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753710540.085633,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753710547.052486,America/Detroit,closedApp,,,reddit,,False
+1753710551.377905,America/Detroit,closedApp,,,reddit,,False
+1753710562.138232,America/Detroit,closedApp,,,linkedin,,False
+1753710595.49973,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753710624.398884,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753712307.522152,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753712327.637049,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753712356.941509,America/Detroit,closedApp,,,reddit,,False
+1753712363.555352,America/Detroit,closedApp,,,reddit,,False
+1753712797.572702,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753712921.435669,America/Detroit,closedApp,,,reddit,,False
+1753713019.830363,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753713039.182378,America/Detroit,closedApp,,,reddit,,False
+1753714720.024949,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753715040.130641,America/Detroit,closedApp,,,reddit,,False
+1753716343.569069,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753716349.361927,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753716369.893722,America/Detroit,closedApp,,,reddit,,False
+1753716384.584322,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753716380.9503798,America/Detroit,closedApp,,,reddit,,False
+1753716835.6564631,America/Detroit,closedApp,,,reddit,,False
+1753716929.521291,America/Detroit,closedApp,,,reddit,,False
+1753717103.356574,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753717143.363064,America/Detroit,closedApp,,,reddit,,False
+1753717154.276175,America/Detroit,closedApp,,,linkedin,,False
+1753717160.109446,America/Detroit,closedApp,,,linkedin,,False
+1753717168.428052,America/Detroit,closedApp,,,linkedin,,False
+1753718273.271872,America/Detroit,closedApp,,,linkedin,,False
+1753718276.5066218,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753718288.3992,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753719995.8902059,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753719992.2872128,America/Detroit,closedApp,,,linkedin,,False
+1753719998.8740602,America/Detroit,closedApp,,,linkedin,,False
+1753720006.478487,America/Detroit,closedApp,,,linkedin,,False
+1753720017.178097,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753720029.165125,America/Detroit,closedApp,,,reddit,,False
+1753720480.779908,America/Detroit,closedApp,,,reddit,,False
+1753720488.376361,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753720648.342942,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753723157.801656,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753723904.9693398,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753723912.1371632,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753723918.386928,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1753723923.964717,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753723939.430612,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753723948.817934,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753723990.818419,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753724311.8175259,America/Detroit,closedApp,,,linkedin,,False
+1753724321.761549,America/Detroit,closedApp,,,linkedin,,False
+1753724327.276383,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753724331.562454,America/Detroit,closedApp,,,twitter,,False
+1753734041.333185,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753734047.839102,America/Detroit,openedApp,1.5,breathingExercise,twitter,Entertainment,False
+1753734095.9981918,America/Detroit,closedApp,,,twitter,,False
+1753734499.679389,America/Detroit,closedApp,,,twitter,,False
+1753734502.6116428,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753734509.8530889,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753734505.8400211,America/Detroit,closedApp,,,twitter,,False
+1753734513.387527,America/Detroit,closedApp,,,twitter,,False
+1753734599.1125941,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753735058.5547209,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753735089.837569,America/Detroit,closedApp,,,twitter,,False
+1753735096.650199,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753735109.566993,America/Detroit,closedApp,,,reddit,,False
+1753735480.583346,America/Detroit,closedApp,,,reddit,,False
+1753735575.351542,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753735582.366599,America/Detroit,closedApp,,,reddit,,False
+1753735625.141089,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753735632.659408,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753736035.500081,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753736619.087462,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753736786.970478,America/Detroit,openedApp,1.5,breathingExercise,safari,Stay In the Loop,False
+1753736814.634666,America/Detroit,closedApp,,,medium,,False
+1753737042.8555741,America/Detroit,closedApp,,,medium,,False
+1753737055.682708,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753742182.081492,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753737063.312288,America/Detroit,closedApp,,,reddit,,False
+1753742336.057454,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753744445.961416,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753744455.535448,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753744477.9595342,America/Detroit,closedApp,,,reddit,,False
+1753744515.697365,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753744537.9739308,America/Detroit,closedApp,,,reddit,,False
+1753744594.927269,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753744597.245065,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753744601.403592,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753744715.765329,America/Detroit,openedApp,1.5,breathingExercise,safari,Entertainment,False
+1753744802.624596,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753744837.439667,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753744849.780229,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753745815.974756,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753745848.4027638,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753746169.73909,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753746364.112715,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753746381.407768,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753746442.292273,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753746743.147194,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753746749.046984,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1753746761.3560019,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753746854.147371,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753746864.610373,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753747078.540616,America/Detroit,openedApp,1.5,breathingExercise,youtube,Entertainment,False
+1753747144.15677,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753747205.046596,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753747530.3523622,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753747541.1682348,America/Detroit,dismissedAppOpening,1.5,breathingExercise,youtube,,False
+1753747561.995564,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753747642.6302671,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753748105.283403,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753748112.221925,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753748118.6564422,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753748550.9725199,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753748557.3053389,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753748577.464648,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753748725.4765,America/Detroit,openedApp,1.5,breathingExercise,espn,Relax,False
+1753748792.454939,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753749031.97297,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753749059.67736,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753749299.692133,America/Detroit,closedApp,,,reddit,,False
+1753751327.672834,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753751333.823718,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753751423.9798489,America/Detroit,closedApp,,,twitter,,False
+1753751612.3616462,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753751618.103732,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753751624.204383,America/Detroit,closedApp,,,twitter,,False
+1753755042.2963939,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753755130.78691,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753755982.88593,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753756370.1728668,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753756524.221637,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753756557.4707441,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753756787.818507,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753786445.959124,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753786652.978003,America/Detroit,closedApp,,,newYorkTimes,,False
+1753786682.795277,America/Detroit,openedApp,1.5,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753786748.56131,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753786756.873666,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753786770.293027,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753786785.47051,America/Detroit,closedApp,,,reddit,,False
+1753786838.3633041,America/Detroit,closedApp,,,reddit,,False
+1753786938.700272,America/Detroit,closedApp,,,reddit,,False
+1753786945.0320768,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753791954.343226,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753791961.37728,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753792151.1449928,America/Detroit,closedApp,,,twitter,,False
+1753792168.170412,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753792164.553605,America/Detroit,closedApp,,,twitter,,False
+1753792342.026517,America/Detroit,closedApp,,,twitter,,False
+1753792377.985351,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753792383.786073,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753792400.6152658,America/Detroit,closedApp,,,twitter,,False
+1753792420.223678,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753792414.38449,America/Detroit,closedApp,,,twitter,,False
+1753792501.938576,America/Detroit,closedApp,,,twitter,,False
+1753792523.4549909,America/Detroit,openedApp,1.5,breathingExercise,safari,Escape / Avoid,False
+1753792529.780689,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753792563.2873359,America/Detroit,closedApp,,,twitter,,False
+1753792574.2732859,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753792570.665059,America/Detroit,closedApp,,,twitter,,False
+1753792951.8880138,America/Detroit,closedApp,,,twitter,,False
+1753793869.8039222,America/Detroit,closedApp,,,twitter,,False
+1753793944.766274,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753793951.140646,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753794021.9305549,America/Detroit,closedApp,,,twitter,,False
+1753794035.215774,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753794500.024334,America/Detroit,closedApp,,,reddit,,False
+1753794508.058245,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753795033.0785499,America/Detroit,closedApp,,,twitter,,False
+1753795054.196063,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753795059.7630339,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753795299.113586,America/Detroit,closedApp,,,twitter,,False
+1753802511.277149,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753802529.992113,America/Detroit,openedApp,1.5,breathingExercise,reddit,Relax,False
+1753802541.05667,America/Detroit,closedApp,,,reddit,,False
+1753802561.2016501,America/Detroit,closedApp,,,reddit,,False
+1753802564.335088,America/Detroit,closedApp,,,reddit,,False
+1753802569.475534,America/Detroit,closedApp,,,reddit,,False
+1753802587.4557061,America/Detroit,closedApp,,,reddit,,False
+1753802660.66293,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753803154.677229,America/Detroit,closedApp,,,twitter,,False
+1753803161.509373,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753803222.9083462,America/Detroit,dismissedAppOpening,1.5,breathingExercise,safari,,False
+1753807773.31399,America/Detroit,openedApp,1.5,breathingExercise,youtube,Relax,False
+1753807866.091656,America/Detroit,openedApp,1.5,breathingExercise,safari,Relax,False
+1753807872.062317,America/Detroit,openedApp,1.5,breathingExercise,twitter,Relax,False
+1753808098.522388,America/Detroit,closedApp,,,twitter,,False
+1753808108.222774,America/Detroit,closedApp,,,twitter,,False
+1753814803.6478539,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753814889.5486479,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753814933.073807,America/Detroit,closedApp,,,reddit,,False
+1753815562.351832,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753815572.026016,America/Detroit,openedApp,3.0,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753815631.041748,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753815657.948978,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753815662.403645,America/Detroit,closedApp,,,reddit,,False
+1753815701.102557,America/Detroit,closedApp,,,reddit,,False
+1753815747.313222,America/Detroit,closedApp,,,reddit,,False
+1753815773.057611,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753815781.784124,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753816065.722219,America/Detroit,closedApp,,,reddit,,False
+1753816094.785142,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753816098.081019,America/Detroit,closedApp,,,twitter,,False
+1753816101.3573961,America/Detroit,closedApp,,,twitter,,False
+1753816108.6649961,America/Detroit,closedApp,,,twitter,,False
+1753816704.2039452,America/Detroit,closedApp,,,twitter,,False
+1753816720.408154,America/Detroit,openedApp,3.0,breathingExercise,reddit,Stay In the Loop,False
+1753816729.781672,America/Detroit,closedApp,,,reddit,,False
+1753816734.588175,America/Detroit,closedApp,,,reddit,,False
+1753816738.6993918,America/Detroit,closedApp,,,reddit,,False
+1753816738.7045789,America/Detroit,closedApp,,,reddit,,False
+1753816738.7078981,America/Detroit,closedApp,,,reddit,,False
+1753816741.059329,America/Detroit,closedApp,,,reddit,,False
+1753822015.805121,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753822024.342669,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753822097.683619,America/Detroit,closedApp,,,reddit,,False
+1753822341.453878,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753822380.207494,America/Detroit,closedApp,,,reddit,,False
+1753824756.204822,America/Detroit,openedApp,3.0,breathingExercise,espn,Bored,False
+1753824918.8963342,America/Detroit,dismissedAppOpening,3.0,breathingExercise,espn,,False
+1753826488.611609,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753826497.104202,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753826513.591775,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753826516.8662848,America/Detroit,closedApp,,,twitter,,False
+1753826662.46129,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753827277.525992,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753827385.6816611,America/Detroit,closedApp,,,twitter,,False
+1753827783.719462,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753827920.8093572,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753830145.569995,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1753830155.693084,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753830221.525793,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753832626.777711,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753832620.04569,America/Detroit,closedApp,,,instagram,,False
+1753832642.268914,America/Detroit,closedApp,,,instagram,,False
+1753832657.0834541,America/Detroit,openedApp,3.0,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753832661.003402,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753832761.877018,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753832944.864717,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753832989.239538,America/Detroit,closedApp,,,reddit,,False
+1753833000.806182,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753832993.944121,America/Detroit,closedApp,,,reddit,,False
+1753833016.563095,America/Detroit,closedApp,,,reddit,,False
+1753833203.171791,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753833218.621002,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753833335.475703,America/Detroit,closedApp,,,twitter,,False
+1753833741.60459,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1753833751.380096,America/Detroit,openedApp,3.0,breathingExercise,twitter,Entertainment,False
+1753833789.160699,America/Detroit,closedApp,,,twitter,,False
+1753833892.69174,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753834079.7282891,America/Detroit,closedApp,,,twitter,,False
+1753834088.711915,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753837546.517818,America/Detroit,openedApp,3.0,breathingExercise,youtube,Entertainment,False
+1753838779.196906,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1753839037.0266042,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1753839046.372898,America/Detroit,openedApp,3.0,breathingExercise,twitter,Entertainment,False
+1753839640.039212,America/Detroit,closedApp,,,twitter,,False
+1753839649.518889,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1753839843.1178288,America/Detroit,closedApp,,,reddit,,False
+1753839852.901248,America/Detroit,openedApp,3.0,breathingExercise,twitter,Escape / Avoid,False
+1753840328.9650211,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753872242.3595672,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753872282.885147,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753872357.6470141,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1753877953.394932,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753878046.5875459,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753878870.501023,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753879184.269932,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753879209.316104,America/Detroit,dismissedAppOpening,3.0,breathingExercise,espn,,False
+1753879357.167985,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753879663.419787,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1753892218.0189629,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1753892891.082233,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1753908915.763968,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753915257.392257,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753915546.4386969,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753925106.883158,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1753925117.394227,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1753925130.694335,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1753925171.3397179,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1753925195.667395,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1753925222.0597,America/Detroit,openedApp,3.0,breathingExercise,espn,Entertainment,False
+1753926045.8267488,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1753926166.7721891,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753926323.41006,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1753926337.8342981,America/Detroit,closedApp,,,reddit,,False
+1753926389.762961,America/Detroit,closedApp,,,reddit,,False
+1753926401.000331,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753926749.976546,America/Detroit,closedApp,,,twitter,,False
+1753928138.834659,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1753928140.4878259,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1753958057.231495,America/Detroit,dismissedAppOpening,3.0,breathingExercise,espn,,False
+1753958352.7147322,America/Detroit,dismissedAppOpening,3.0,breathingExercise,youtube,,False
+1753958364.155684,America/Detroit,openedApp,3.0,breathingExercise,espn,Entertainment,False
+1753958421.914551,America/Detroit,openedApp,3.0,breathingExercise,youtube,Escape / Avoid,False
+1753958439.4119248,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753958453.430785,America/Detroit,openedApp,3.0,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Entertainment,False
+1753958493.6959429,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753960137.08128,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753961040.741811,America/Detroit,closedApp,,,reddit,,False
+1753961149.079185,America/Detroit,closedApp,,,reddit,,False
+1753961159.636471,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753961267.607983,America/Detroit,closedApp,,,twitter,,False
+1753961521.152765,America/Detroit,openedApp,3.0,breathingExercise,youtube,Entertainment,False
+1753961593.41172,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753961603.47121,America/Detroit,openedApp,3.0,breathingExercise,twitter,Entertainment,False
+1753961891.465948,America/Detroit,closedApp,,,twitter,,False
+1753961907.253623,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753961900.695292,America/Detroit,closedApp,,,twitter,,False
+1753962611.6563392,America/Detroit,closedApp,,,twitter,,False
+1753962621.160355,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753962629.439359,America/Detroit,closedApp,,,reddit,,False
+1753962913.242979,America/Detroit,closedApp,,,reddit,,False
+1753966540.1244512,America/Detroit,dismissedAppOpening,3.0,breathingExercise,youtube,,False
+1753971662.239008,America/Detroit,openedApp,3.0,breathingExercise,espn,Escape / Avoid,False
+1753972007.715691,America/Detroit,openedApp,3.0,breathingExercise,espn,Entertainment,False
+1753972061.582646,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753972075.57248,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753972086.064153,America/Detroit,closedApp,,,reddit,,False
+1753972258.040032,America/Detroit,closedApp,,,reddit,,False
+1753972268.570805,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753972684.001886,America/Detroit,closedApp,,,twitter,,False
+1753972693.0029612,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753972703.171902,America/Detroit,closedApp,,,reddit,,False
+1753972951.365416,America/Detroit,closedApp,,,reddit,,False
+1753972968.636584,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753973041.887337,America/Detroit,closedApp,,,twitter,,False
+1753973066.782346,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1753976543.0065742,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753976581.597038,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753976591.381995,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753976879.931874,America/Detroit,closedApp,,,twitter,,False
+1753976891.635061,America/Detroit,openedApp,3.0,breathingExercise,reddit,Escape / Avoid,False
+1753976908.293589,America/Detroit,closedApp,,,reddit,,False
+1753976994.947001,America/Detroit,closedApp,,,reddit,,False
+1753977073.943987,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753977085.116318,America/Detroit,openedApp,3.0,breathingExercise,youtube,Stay In the Loop,False
+1753977108.22944,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753977121.6282768,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753977458.28515,America/Detroit,closedApp,,,reddit,,False
+1753977515.761919,America/Detroit,openedApp,3.0,breathingExercise,twitter,Entertainment,False
+1753977833.0680199,America/Detroit,closedApp,,,twitter,,False
+1753977939.1712189,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753977948.2556539,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753978740.057277,America/Detroit,closedApp,,,twitter,,False
+1753978754.122826,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1753978827.772063,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753979078.718693,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753979695.774179,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1753979729.9611049,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753979780.9219952,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753980398.028541,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1753982341.494688,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753983968.330097,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753983979.935606,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753983984.3500051,America/Detroit,closedApp,,,twitter,,False
+1753984600.333765,America/Detroit,closedApp,,,twitter,,False
+1753987925.58582,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753987960.030047,America/Detroit,closedApp,,,reddit,,False
+1753987975.6824698,America/Detroit,closedApp,,,reddit,,False
+1753988043.3536658,America/Detroit,openedApp,3.0,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753988076.0049272,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753988086.101414,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753988098.7915869,America/Detroit,closedApp,,,reddit,,False
+1753988110.489768,America/Detroit,openedApp,3.0,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1753988155.2257,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1753988181.134985,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753988237.470923,America/Detroit,closedApp,,,reddit,,False
+1753988248.4376612,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753988610.4787889,America/Detroit,closedApp,,,twitter,,False
+1753988689.077855,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753988715.477783,America/Detroit,closedApp,,,reddit,,False
+1753989156.9990911,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753989171.504947,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753989234.8279,America/Detroit,closedApp,,,reddit,,False
+1753989550.202766,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753989890.983351,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753989977.731617,America/Detroit,closedApp,,,reddit,,False
+1753990142.0037699,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753990159.364413,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753990319.415662,America/Detroit,closedApp,,,reddit,,False
+1753990328.736634,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753990333.614547,America/Detroit,closedApp,,,twitter,,False
+1753990353.335114,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753990346.6092129,America/Detroit,closedApp,,,twitter,,False
+1753990892.1831698,America/Detroit,closedApp,,,twitter,,False
+1753992883.259373,America/Detroit,dismissedAppOpening,3.0,breathingExercise,youtube,,False
+1753993006.815649,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753993031.777997,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753993035.3837662,America/Detroit,closedApp,,,twitter,,False
+1753993354.98696,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753993363.519536,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1753993579.462638,America/Detroit,closedApp,,,twitter,,False
+1753994837.251265,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753995389.649447,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1753995444.624697,America/Detroit,closedApp,,,reddit,,False
+1753995654.2230558,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1753996479.746852,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1753996488.481515,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1753996562.741668,America/Detroit,closedApp,,,reddit,,False
+1753997510.787755,America/Detroit,openedApp,3.0,breathingExercise,youtube,Entertainment,False
+1753997524.066553,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1753997538.042025,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1753997553.088083,America/Detroit,closedApp,,,reddit,,False
+1754000722.456603,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754000745.889734,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1754000754.277052,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1754000781.3504272,America/Detroit,closedApp,,,reddit,,False
+1754002370.33514,America/Detroit,openedApp,3.0,breathingExercise,safari,Escape / Avoid,False
+1754002382.469977,America/Detroit,openedApp,3.0,breathingExercise,reddit,Escape / Avoid,False
+1754002426.028315,America/Detroit,closedApp,,,reddit,,False
+1754002510.1257172,America/Detroit,closedApp,,,reddit,,False
+1754002530.171377,America/Detroit,closedApp,,,reddit,,False
+1754003724.657104,America/Detroit,closedApp,,,reddit,,False
+1754004056.491492,America/Detroit,closedApp,,,reddit,,False
+1754004066.9967098,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754006149.525279,America/Detroit,closedApp,,,twitter,,False
+1754006948.701374,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754007603.400189,America/Detroit,closedApp,,,twitter,,False
+1754007614.215395,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754007627.384006,America/Detroit,closedApp,,,reddit,,False
+1754007651.690211,America/Detroit,closedApp,,,reddit,,False
+1754007731.668014,America/Detroit,closedApp,,,reddit,,False
+1754007744.699734,America/Detroit,openedApp,3.0,breathingExercise,twitter,Escape / Avoid,False
+1754008038.276925,America/Detroit,closedApp,,,twitter,,False
+1754013206.655222,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754013216.3692,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754015671.669085,America/Detroit,dismissedAppOpening,3.0,breathingExercise,twitter,,False
+1754015684.810915,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754017177.170753,America/Detroit,closedApp,,,twitter,,False
+1754017197.510333,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754017190.3102021,America/Detroit,closedApp,,,twitter,,False
+1754017203.090436,America/Detroit,closedApp,,,twitter,,False
+1754017212.847189,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754017223.780202,America/Detroit,closedApp,,,reddit,,False
+1754017246.475878,America/Detroit,closedApp,,,reddit,,False
+1754017413.400836,America/Detroit,closedApp,,,reddit,,False
+1754017468.190671,America/Detroit,closedApp,,,reddit,,False
+1754017471.652501,America/Detroit,closedApp,,,reddit,,False
+1754017535.2806911,America/Detroit,closedApp,,,reddit,,False
+1754019858.468491,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754019861.926499,America/Detroit,closedApp,,,reddit,,False
+1754020633.930068,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754020641.648337,America/Detroit,dismissedAppOpening,3.0,breathingExercise,reddit,,False
+1754020655.3639321,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754020664.822818,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1754044612.862588,America/Detroit,openedApp,3.0,breathingExercise,espn,Entertainment,False
+1754045151.8677201,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754045165.02184,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754045210.28798,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754045822.365083,America/Detroit,closedApp,,,reddit,,False
+1754045859.8560948,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754045868.8998709,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754045878.18064,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754046365.627259,America/Detroit,closedApp,,,reddit,,False
+1754046374.278296,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754047109.3530931,America/Detroit,closedApp,,,twitter,,False
+1754047119.551573,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754047130.1860209,America/Detroit,closedApp,,,reddit,,False
+1754047229.991755,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754047445.851289,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754047478.9760308,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754047488.577159,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1754047513.932081,America/Detroit,closedApp,,,reddit,,False
+1754047580.152402,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754047593.907846,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1754047614.650299,America/Detroit,closedApp,,,reddit,,False
+1754047622.143481,America/Detroit,openedApp,3.0,breathingExercise,youtube,Stay In the Loop,False
+1754048728.197425,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754048728.365746,America/Detroit,closedApp,,,youtube,,False
+1754048808.214577,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754050220.7240682,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754050214.391897,America/Detroit,closedApp,,,youtube,,False
+1754050235.736038,America/Detroit,closedApp,,,linkedin,,False
+1754050238.275924,America/Detroit,closedApp,,,linkedin,,False
+1754050376.242991,America/Detroit,closedApp,,,linkedin,,False
+1754050390.7474542,America/Detroit,closedApp,,,linkedin,,False
+1754050551.8690372,America/Detroit,closedApp,,,linkedin,,False
+1754050554.631223,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754050554.665833,America/Detroit,closedApp,,,linkedin,,False
+1754050563.5863972,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1754050557.103759,America/Detroit,closedApp,,,linkedin,,False
+1754050569.7556539,America/Detroit,closedApp,,,linkedin,,False
+1754050749.410017,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754050829.287965,America/Detroit,openedApp,3.0,breathingExercise,youtube,Stay In the Loop,False
+1754051213.2526278,America/Detroit,dismissedAppOpening,3.0,breathingExercise,youtube,,False
+1754051221.102808,America/Detroit,openedApp,3.0,breathingExercise,youtube,Entertainment,False
+1754053769.3455281,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754053802.589077,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754053811.0856252,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754053819.7441258,America/Detroit,closedApp,,,reddit,,False
+1754053881.993334,America/Detroit,closedApp,,,reddit,,False
+1754055600.57335,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754055692.508976,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754055883.359336,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754055924.6341882,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754055934.364294,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754056278.321382,America/Detroit,closedApp,,,reddit,,False
+1754056570.908421,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754056743.898452,America/Detroit,closedApp,,,reddit,,False
+1754057038.423903,America/Detroit,closedApp,,,reddit,,False
+1754057059.466171,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754057053.363781,America/Detroit,closedApp,,,reddit,,False
+1754057791.403131,America/Detroit,closedApp,,,reddit,,False
+1754058020.39011,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754058029.027698,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754058079.924948,America/Detroit,closedApp,,,reddit,,False
+1754058694.336804,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1754058707.501028,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754058973.573612,America/Detroit,closedApp,,,reddit,,False
+1754058983.036532,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754059192.621125,America/Detroit,closedApp,,,twitter,,False
+1754059328.045061,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754059338.453975,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754059344.939275,America/Detroit,closedApp,,,twitter,,False
+1754059398.763011,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754059458.890759,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754062327.536868,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754062530.514905,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754062561.914834,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754062753.099314,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754062797.7578568,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754062991.79206,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754063000.870974,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754063299.213532,America/Detroit,closedApp,,,reddit,,False
+1754063600.953681,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754063613.5300632,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754064424.866846,America/Detroit,closedApp,,,twitter,,False
+1754064708.948144,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754064973.674784,America/Detroit,closedApp,,,twitter,,False
+1754064988.8947759,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754065019.422017,America/Detroit,closedApp,,,reddit,,False
+1754065320.858224,America/Detroit,openedApp,3.0,breathingExercise,youtube,Entertainment,False
+1754073288.963784,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754073299.620594,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754073349.260608,America/Detroit,closedApp,,,reddit,,False
+1754073576.460061,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754074118.1592212,America/Detroit,closedApp,,,twitter,,False
+1754074128.449436,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754074344.689192,America/Detroit,closedApp,,,reddit,,False
+1754074354.174545,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754074772.1114101,America/Detroit,closedApp,,,twitter,,False
+1754075056.4229898,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754075063.8172278,America/Detroit,closedApp,,,reddit,,False
+1754075838.798372,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754075842.211035,America/Detroit,closedApp,,,linkedin,,False
+1754075845.7022638,America/Detroit,closedApp,,,linkedin,,False
+1754075906.5326362,America/Detroit,closedApp,,,linkedin,,False
+1754076514.722594,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754076508.203413,America/Detroit,closedApp,,,linkedin,,False
+1754076523.487372,America/Detroit,closedApp,,,linkedin,,False
+1754076831.285517,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754076845.520266,America/Detroit,closedApp,,,reddit,,False
+1754076850.436785,America/Detroit,closedApp,,,reddit,,False
+1754076857.7029738,America/Detroit,closedApp,,,reddit,,False
+1754076877.558702,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754076871.184799,America/Detroit,closedApp,,,reddit,,False
+1754076951.385694,America/Detroit,closedApp,,,reddit,,False
+1754076963.947847,America/Detroit,openedApp,3.0,breathingExercise,twitter,Escape / Avoid,False
+1754077359.2429218,America/Detroit,closedApp,,,twitter,,False
+1754078925.890821,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1754081458.586803,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754100310.949075,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754100323.195479,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754100555.385104,America/Detroit,closedApp,,,twitter,,False
+1754100762.664197,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754100796.357977,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754100815.518462,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1754100922.321611,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754100940.793871,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754130930.8699632,America/Detroit,openedApp,3.0,breathingExercise,espn,Entertainment,False
+1754135005.509376,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754135237.8766642,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754135260.898907,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754135278.6367369,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754135292.476225,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754135305.053444,America/Detroit,closedApp,,,reddit,,False
+1754135426.4617991,America/Detroit,closedApp,,,reddit,,False
+1754135436.219822,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754135532.820817,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754135526.191831,America/Detroit,closedApp,,,twitter,,False
+1754135967.1145658,America/Detroit,closedApp,,,twitter,,False
+1754135976.156611,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754136026.77017,America/Detroit,closedApp,,,reddit,,False
+1754136035.093663,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754136603.426142,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754136613.9100761,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754136618.831136,America/Detroit,closedApp,,,reddit,,False
+1754137148.56561,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1754138224.8360162,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754138237.3740559,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754138256.58256,America/Detroit,closedApp,,,twitter,,False
+1754138336.630696,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754139351.040156,America/Detroit,openedApp,3.0,breathingExercise,espn,Entertainment,False
+1754139411.195671,America/Detroit,dismissedAppOpening,3.0,breathingExercise,youtube,,False
+1754140117.706788,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754140127.585906,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754140234.910579,America/Detroit,closedApp,,,twitter,,False
+1754140480.1957932,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754140530.4377751,America/Detroit,closedApp,,,twitter,,False
+1754140537.968549,America/Detroit,closedApp,,,twitter,,False
+1754140548.1479921,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754140585.667974,America/Detroit,closedApp,,,reddit,,False
+1754140595.9291801,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754142744.784452,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754142756.159943,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754142781.127877,America/Detroit,closedApp,,,reddit,,False
+1754142851.9544249,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754143527.301965,America/Detroit,closedApp,,,twitter,,False
+1754143535.4778519,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754144000.929017,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754144009.755519,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754144257.967071,America/Detroit,closedApp,,,twitter,,False
+1754144267.737009,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754144479.92539,America/Detroit,closedApp,,,reddit,,False
+1754144544.96193,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754144835.817565,America/Detroit,closedApp,,,reddit,,False
+1754144869.51748,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754145317.4521341,America/Detroit,closedApp,,,twitter,,False
+1754147062.7623448,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754147413.008304,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754147520.028132,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754147584.062451,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754147605.6788259,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754147622.01316,America/Detroit,closedApp,,,reddit,,False
+1754148107.663763,America/Detroit,openedApp,3.0,breathingExercise,espn,Entertainment,False
+1754148170.072802,America/Detroit,dismissedAppOpening,3.0,breathingExercise,youtube,,False
+1754149943.27366,America/Detroit,openedApp,3.0,breathingExercise,espn,Escape / Avoid,False
+1754150748.6869612,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754150757.7670012,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754150780.521415,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754150807.447613,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754150818.138654,America/Detroit,closedApp,,,reddit,,False
+1754150829.526122,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754150986.517712,America/Detroit,closedApp,,,twitter,,False
+1754151005.568056,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754151152.371804,America/Detroit,closedApp,,,reddit,,False
+1754151167.682616,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754151210.720494,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754151391.994299,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754151422.53127,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1754152062.196224,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754152366.4798908,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754152605.397705,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754152624.283598,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754153933.6523,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754153969.651895,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754153995.585357,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754154006.774012,America/Detroit,closedApp,,,reddit,,False
+1754154276.421962,America/Detroit,closedApp,,,reddit,,False
+1754155442.0815868,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754155453.2849112,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754155826.2002568,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754155848.956641,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754156799.188848,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754156808.267672,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754156848.0158439,America/Detroit,closedApp,,,reddit,,False
+1754156886.298007,America/Detroit,openedApp,3.0,breathingExercise,youtube,Entertainment,False
+1754157000.6496968,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754157077.377685,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754157094.734448,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754157396.862551,America/Detroit,closedApp,,,reddit,,False
+1754157461.133,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754157398.720972,America/Detroit,closedApp,,,reddit,,False
+1754157471.792099,America/Detroit,openedApp,3.0,breathingExercise,reddit,Escape / Avoid,False
+1754157550.7678108,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754159912.1559958,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754159923.649222,America/Detroit,openedApp,3.0,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1754159929.513742,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1754159964.449407,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754159972.5712829,America/Detroit,closedApp,,,reddit,,False
+1754159979.369802,America/Detroit,closedApp,,,reddit,,False
+1754161047.6595922,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754161097.183313,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754161111.453795,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754161722.5980039,America/Detroit,closedApp,,,reddit,,False
+1754161830.440816,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754162711.5889711,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754162867.295407,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754162883.756328,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754163252.510653,America/Detroit,closedApp,,,reddit,,False
+1754164350.6265311,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754164359.218728,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754164614.486349,America/Detroit,closedApp,,,reddit,,False
+1754165333.210614,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754183552.394671,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754183839.5963578,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754183848.239533,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754183856.006122,America/Detroit,closedApp,,,reddit,,False
+1754183899.141265,America/Detroit,closedApp,,,reddit,,False
+1754183908.65667,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754183985.1792169,America/Detroit,closedApp,,,twitter,,False
+1754183994.116609,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754191732.822029,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754215866.231166,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754221745.902882,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754221811.892528,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754221835.1996121,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754221839.924942,America/Detroit,closedApp,,,reddit,,False
+1754221840.00603,America/Detroit,closedApp,,,reddit,,False
+1754221863.3725,America/Detroit,closedApp,,,reddit,,False
+1754221970.5809278,America/Detroit,closedApp,,,reddit,,False
+1754221979.8918428,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754222114.112582,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754222108.287389,America/Detroit,closedApp,,,twitter,,False
+1754222126.677617,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754222119.170295,America/Detroit,closedApp,,,twitter,,False
+1754222495.976762,America/Detroit,closedApp,,,twitter,,False
+1754222507.046138,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754222625.373904,America/Detroit,closedApp,,,reddit,,False
+1754222634.741781,America/Detroit,openedApp,3.0,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1754222655.419191,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1754222722.02489,America/Detroit,closedApp,,,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1754222730.9894161,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754222863.832057,America/Detroit,closedApp,,,reddit,,False
+1754226663.8025231,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754226842.883318,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754229100.953016,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754237470.7142549,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754237545.27254,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754237553.994008,America/Detroit,openedApp,3.0,breathingExercise,espn,Entertainment,False
+1754237671.470128,America/Detroit,openedApp,3.0,breathingExercise,safari,Entertainment,False
+1754237706.343312,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754237751.323854,America/Detroit,closedApp,,,reddit,,False
+1754238287.410647,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1754238702.7429,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754238448.9314818,America/Detroit,closedApp,,,reddit,,False
+1754238747.3743958,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754238769.779418,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754238801.717788,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754239213.677248,America/Detroit,closedApp,,,twitter,,False
+1754239241.49434,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754240362.365994,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754240585.19385,America/Detroit,dismissedAppOpening,3.0,breathingExercise,espn,,False
+1754252845.220829,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754253100.411967,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754253205.522136,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754253240.045635,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754253250.186873,America/Detroit,closedApp,,,reddit,,False
+1754253370.7734199,America/Detroit,closedApp,,,reddit,,False
+1754253381.190161,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754253536.260151,America/Detroit,closedApp,,,twitter,,False
+1754256691.950887,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754256700.27776,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754256745.6472821,America/Detroit,closedApp,,,twitter,,False
+1754257067.969197,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754257081.79578,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754257112.236098,America/Detroit,closedApp,,,twitter,,False
+1754257233.5652409,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754257384.680579,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754257434.8595428,America/Detroit,closedApp,,,reddit,,False
+1754259250.195345,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754259255.661025,America/Detroit,dismissedAppOpening,3.0,breathingExercise,reddit,,False
+1754259269.1526,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754259277.620249,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754259315.742682,America/Detroit,closedApp,,,reddit,,False
+1754259442.2775311,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1754259490.448897,America/Detroit,closedApp,,,reddit,,False
+1754260765.285852,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754260773.7408261,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754261028.895057,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754261039.624887,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754261076.5730062,America/Detroit,closedApp,,,reddit,,False
+1754261083.447466,America/Detroit,openedApp,3.0,breathingExercise,youtube,Entertainment,False
+1754261274.778094,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754261283.578306,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754261361.977493,America/Detroit,closedApp,,,reddit,,False
+1754261380.720556,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754261389.070709,America/Detroit,openedApp,3.0,breathingExercise,twitter,Entertainment,False
+1754262404.3748488,America/Detroit,closedApp,,,twitter,,False
+1754277433.703713,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754277442.869623,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754277481.634588,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754277991.8412619,America/Detroit,closedApp,,,reddit,,False
+1754278031.535547,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754278040.469295,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754278049.0694718,America/Detroit,closedApp,,,reddit,,False
+1754278130.4214091,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754278138.7357879,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754278298.670926,America/Detroit,closedApp,,,reddit,,False
+1754278307.6315122,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754278342.36012,America/Detroit,closedApp,,,twitter,,False
+1754279132.43362,America/Detroit,closedApp,,,twitter,,False
+1754279141.769937,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754279186.764302,America/Detroit,closedApp,,,reddit,,False
+1754304393.0630999,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754304499.6847181,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754304511.805361,America/Detroit,closedApp,,,reddit,,False
+1754304529.50136,America/Detroit,closedApp,,,reddit,,False
+1754304559.543213,America/Detroit,closedApp,,,reddit,,False
+1754304952.3735151,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754304997.177149,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754305036.691644,America/Detroit,closedApp,,,reddit,,False
+1754305130.3851671,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754305139.431525,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754305218.426118,America/Detroit,closedApp,,,reddit,,False
+1754305393.468946,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754305688.814378,America/Detroit,closedApp,,,reddit,,False
+1754305907.775902,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754305921.3695002,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754306392.428389,America/Detroit,closedApp,,,twitter,,False
+1754307295.6895828,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754307531.572598,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754307577.28516,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754308166.57062,America/Detroit,closedApp,,,twitter,,False
+1754308299.710641,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754308444.0334148,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754308936.1515331,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754309382.193274,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754310179.44135,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754310303.855464,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754311412.4354858,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754318652.436893,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754318667.481886,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754318685.05626,America/Detroit,closedApp,,,reddit,,False
+1754319047.225093,America/Detroit,closedApp,,,reddit,,False
+1754319194.720148,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754319203.276527,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754319609.2421842,America/Detroit,closedApp,,,reddit,,False
+1754319650.931123,America/Detroit,closedApp,,,reddit,,False
+1754321002.802603,America/Detroit,dismissedAppOpening,3.0,breathingExercise,espn,,False
+1754326431.185719,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754326439.7490048,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754326455.246238,America/Detroit,closedApp,,,reddit,,False
+1754326458.209707,America/Detroit,closedApp,,,reddit,,False
+1754326461.053996,America/Detroit,closedApp,,,reddit,,False
+1754327040.322393,America/Detroit,closedApp,,,reddit,,False
+1754328166.240069,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754334601.4604192,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754334609.8317041,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754334623.6662412,America/Detroit,closedApp,,,reddit,,False
+1754334785.3284268,America/Detroit,closedApp,,,reddit,,False
+1754334927.4210129,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754334950.131019,America/Detroit,closedApp,,,reddit,,False
+1754341683.6637568,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754341767.261647,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754341774.091388,America/Detroit,closedApp,,,reddit,,False
+1754341818.200242,America/Detroit,closedApp,,,reddit,,False
+1754341931.60196,America/Detroit,closedApp,,,reddit,,False
+1754342073.231575,America/Detroit,closedApp,,,reddit,,False
+1754342546.666884,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754342554.93016,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754342559.872797,America/Detroit,closedApp,,,reddit,,False
+1754342792.3585281,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754343530.835472,America/Detroit,dismissedAppOpening,3.0,breathingExercise,youtube,,False
+1754343538.8807411,America/Detroit,openedApp,3.0,breathingExercise,youtube,Escape / Avoid,False
+1754347064.140964,America/Detroit,dismissedAppOpening,3.0,breathingExercise,safari,,False
+1754347072.122291,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754347083.9951692,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754347094.237046,America/Detroit,dismissedAppOpening,3.0,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,,False
+1754347102.247761,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754347162.130879,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754347172.6200318,America/Detroit,openedApp,3.0,breathingExercise,B641DBF8-0E0C-4F33-863E-7B6A744FB922,Relax,False
+1754347204.568233,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754347237.529489,America/Detroit,closedApp,,,reddit,,False
+1754347298.887855,America/Detroit,closedApp,,,reddit,,False
+1754357207.199261,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754357228.6507201,America/Detroit,openedApp,3.0,breathingExercise,reddit,Entertainment,False
+1754357560.0740461,America/Detroit,closedApp,,,reddit,,False
+1754357570.512998,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754357906.0575151,America/Detroit,closedApp,,,twitter,,False
+1754358627.604042,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754358636.564062,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754358711.960065,America/Detroit,closedApp,,,twitter,,False
+1754358720.456581,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754359023.3708649,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754359219.634886,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754360579.062613,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754395288.961261,America/Detroit,openedApp,3.0,breathingExercise,safari,Relax,False
+1754395306.127631,America/Detroit,openedApp,3.0,breathingExercise,reddit,Relax,False
+1754395331.6442518,America/Detroit,closedApp,,,reddit,,False
+1754395499.472686,America/Detroit,closedApp,,,reddit,,False
+1754395509.199267,America/Detroit,openedApp,3.0,breathingExercise,twitter,Relax,False
+1754395637.301756,America/Detroit,closedApp,,,twitter,,False
+1754395796.621311,America/Detroit,closedApp,,,twitter,,False
+1754399863.4562612,America/Detroit,openedApp,3.0,breathingExercise,espn,Relax,False
+1754404233.8211389,America/Detroit,dismissedAppOpening,3.0,breathingExercise,espn,,False
+1754404242.5461578,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754406008.809109,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754408575.494036,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754409091.931375,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754409943.046773,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754410558.905157,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754410681.0806189,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754412021.6681309,America/Detroit,dismissedAppOpening,3.0,breathingExercise,youtube,,False
+1754420918.460407,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754426852.6928291,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754426900.247021,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754439504.472271,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False
+1754486031.043429,America/Detroit,openedApp,3.0,breathingExercise,youtube,Relax,False

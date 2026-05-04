@@ -1,0 +1,2 @@
+resolution,timestamp,interventionType,timezone,interventionDuration,app,isReIntervention
+dismissedAppOpening,1751656422.554245,breathingExercise,Europe/Rome,1.5,whastapp,False

@@ -1,0 +1,647 @@
+interventionDuration,interventionType,timezone,timestamp,app,isReIntervention,resolution,purpose
+3,breathingExercise,America/Los_Angeles,1749517091.292328,safari,False,openedApp,Search Info
+3,breathingExercise,America/Los_Angeles,1749517115.475009,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749520448.03351,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749522493.407567,safari,False,openedApp,Search Info
+3,breathingExercise,America/Los_Angeles,1749524884.9274402,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749526587.203524,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749526604.234129,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749562015.9055629,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749562900.146656,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749564851.39603,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749564867.9772658,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749565417.116835,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749567995.70838,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749568038.429167,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749572176.0584521,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749572179.431324,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749588856.385556,safari,False,openedApp,Search Info
+3,breathingExercise,America/Los_Angeles,1749589009.516645,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749592724.408565,tikTok,False,openedApp,Search Info
+3,breathingExercise,America/Los_Angeles,1749594632.929076,safari,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749596042.798009,safari,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749597390.377245,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749611006.341985,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749612249.931047,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749613656.657258,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749647483.471761,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749648017.29521,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749648049.213717,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749649126.012556,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749655612.987325,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749668352.9751182,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749671243.96564,safari,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749671861.6818318,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749676961.2435598,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749678085.414709,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749684803.616485,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749687519.8874202,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749690429.355264,safari,False,openedApp,Search Info
+3,breathingExercise,America/Los_Angeles,1749691188.914412,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749699627.118736,tikTok,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749700769.837381,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749734124.986592,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749739660.9853249,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749739960.866183,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749745500.509553,safari,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749747314.564258,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749762708.731341,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749763399.330339,safari,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749768292.4841309,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749770074.281174,safari,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749770775.701309,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749771316.934958,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749773916.434383,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749777680.956643,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749780200.978332,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749780204.2706761,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749818862.254911,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749820442.163975,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749821525.721593,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749834060.9869308,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749834628.9218369,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749837653.4254131,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749837793.313062,safari,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749838708.753014,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749839912.596109,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749841536.4211721,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749844363.2043839,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749846515.581651,safari,False,openedApp,Search Info
+3,breathingExercise,America/Los_Angeles,1749847793.687994,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749852973.398168,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749858776.1380172,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749859008.063294,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749865212.549201,safari,False,openedApp,Search Info
+3,breathingExercise,America/Los_Angeles,1749871399.607431,tikTok,False,openedApp,Search Info
+3,breathingExercise,America/Los_Angeles,1749873399.679604,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749876429.622044,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749910539.926264,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749925537.0252728,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749926477.744845,safari,False,dismissedAppOpening,
+3,breathingExercise,America/Los_Angeles,1749935765.8869529,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749935876.688282,safari,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749936055.126936,tikTok,False,openedApp,Bored
+3,breathingExercise,America/Los_Angeles,1749936364.424259,tikTok,False,openedApp,Entertainment
+3,breathingExercise,America/Los_Angeles,1749942376.608526,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749942699.884031,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749942744.584066,safari,False,openedApp,Message
+3,breathingExercise,America/Los_Angeles,1749942805.6432161,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749942842.623258,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749943104.6711369,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749947063.272997,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/Los_Angeles,1749950510.325378,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1749957371.545203,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1749957383.3903298,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1749958578.1451569,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1749990505.5015302,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1749992274.972542,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1749996915.681656,tikTok,False,openedApp,Search Info
+3,breathingExercise,America/New_York,1749997591.5422602,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1749997612.2822828,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1749998044.682899,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1749998056.577522,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750011183.7534928,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750013767.510089,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750013851.554442,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750015062.657939,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750026684.5821152,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750028904.3930922,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750029132.0222611,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750033567.924213,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750033723.8259568,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750033832.9846191,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750035725.006279,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750038281.8009439,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750070071.464614,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750071795.6940432,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750080417.0010052,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750082827.7019958,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750087442.032992,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750093694.9996,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750098818.618843,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750100611.008037,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750101748.673438,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750111913.600652,safari,False,openedApp,Search Info
+3,breathingExercise,America/New_York,1750112518.395328,safari,False,openedApp,Search Info
+3,breathingExercise,America/New_York,1750113039.090837,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750115104.0681648,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750117215.778789,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750117234.6091208,tikTok,False,openedApp,Search Info
+3,breathingExercise,America/New_York,1750117430.9563808,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750122949.443975,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750126382.241976,tikTok,False,openedApp,Search Info
+3,breathingExercise,America/New_York,1750128198.0148048,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750128218.3190799,tikTok,False,openedApp,Search Info
+3,breathingExercise,America/New_York,1750146467.136119,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750161716.59781,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750163064.495707,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750163686.8325648,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750165471.2260408,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750165611.93466,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750167712.9761848,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750169794.993273,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750173629.796078,safari,False,openedApp,Search Info
+3,breathingExercise,America/New_York,1750178834.661687,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750180285.349527,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750180400.234405,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750180515.532486,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750182492.825691,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750182957.826788,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750183843.965613,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750184099.7447228,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750188243.096776,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750189676.2828588,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750190344.080414,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750190599.299749,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750191813.4268389,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750193738.31701,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750196783.428388,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750197303.5411282,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750200039.198755,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750200892.244627,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750204165.8889198,safari,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750204345.990093,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750248850.0515618,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750250708.568983,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750252860.508191,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750256174.095005,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750257122.097275,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750258576.450746,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750262593.437185,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750266066.4285998,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750267345.869617,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750270609.285955,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750276868.094065,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750276901.277772,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750280476.461683,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750280712.1329799,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750287719.7175179,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750288702.364563,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750291619.781575,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750291823.250551,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750291905.625897,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750292835.702527,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750295408.432279,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750295422.26842,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750302515.109396,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750328531.111696,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750332057.2930322,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750335619.8710032,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750337582.401386,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750338012.721058,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750338016.434479,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750338067.126943,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750339766.958249,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750340106.7419949,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750345573.506891,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750354320.007451,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750354506.6529489,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750355866.081083,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750361684.074933,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750363190.898672,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750364160.879318,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750371940.700922,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750372493.3300738,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750373988.0906901,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750375274.4567409,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750379892.6374931,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750382378.9231582,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750382392.099972,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750383050.8410192,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750385525.083982,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750388249.527742,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750388445.586344,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750388617.6513119,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750388663.254572,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750389536.4446611,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750415935.549776,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750417204.158393,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750417980.9248152,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750420895.611495,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750421417.975616,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750421428.7195349,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750426653.720168,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750428149.24621,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750428506.657665,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750429435.251797,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750429954.30654,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750430939.04346,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750431856.660842,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750434516.768379,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750435785.32358,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750435976.7071471,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750438161.175521,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750438193.601789,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750438993.341078,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750439874.321578,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750441721.8024678,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750442581.9275808,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750442747.921379,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750447437.8088999,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750449332.648493,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750450126.756081,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750450168.3569698,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750450779.400138,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750452469.465225,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750454341.365907,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750454804.95989,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750455354.660308,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750457026.678421,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750459823.385169,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750463668.281065,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750488252.2391229,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750488310.539115,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750504294.1626658,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750507785.948448,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750512153.5107121,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750512296.161906,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750512410.2049398,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750513238.401236,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750516292.4011688,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750517929.685861,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750523162.346425,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750539283.7115278,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750544644.092146,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750545029.379787,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750546371.2350059,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750547715.5557132,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750548015.43254,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750550695.4511042,tikTok,False,openedApp,Stay In the Loop
+3,breathingExercise,America/New_York,1750551080.035118,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750551212.707443,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750556240.1677198,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750557861.207227,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750588556.501738,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750589857.175177,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750591062.138222,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750595216.087425,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750595357.1673942,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750600198.317874,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750600420.5285711,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750602163.508171,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750602780.4390059,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750605672.170809,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750606143.974561,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750615493.411263,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750615553.277044,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750621227.1873422,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750624753.4224138,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750625748.1674871,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750626638.062952,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750628582.421875,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750628738.134684,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750640289.827492,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750641126.7103229,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750641936.450594,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750644317.428163,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750676560.8972049,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750677100.1319551,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750681846.040814,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750681860.679586,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750686167.157717,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750688808.505268,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750691625.535444,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750691659.9674559,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750692914.998714,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750692958.227038,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750694895.8957539,safari,False,openedApp,Message
+3,breathingExercise,America/New_York,1750699622.847805,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750702472.7861052,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750704767.839984,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750706808.8495898,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750710735.344634,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750712830.90978,tikTok,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750712873.3262649,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750716037.2488608,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750720171.342084,tikTok,False,openedApp,Message
+3,breathingExercise,America/New_York,1750721630.932051,safari,False,dismissedAppOpening,
+3,breathingExercise,America/New_York,1750721667.803502,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750726608.983715,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750762394.124555,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750762428.245798,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750762946.182475,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750763010.843018,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750763179.8989391,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750766274.372731,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750767139.786988,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750768424.351614,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750772818.152673,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750782164.1482348,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750783720.085068,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750784128.274291,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750785032.856709,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750787781.8099298,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750790719.0557132,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750790735.432395,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750791660.019491,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750795033.507742,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750796036.0407639,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750797201.8759,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750797476.1403232,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750797825.928199,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750798966.755063,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750800155.564725,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750800588.6879911,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750800714.7488708,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750800793.2231321,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750805074.5657082,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750806227.02775,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750806994.364999,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750807007.670687,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750807299.7042851,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750807700.840263,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750808659.76523,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750808694.427993,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750811506.90386,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750845953.018437,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750851870.152968,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750852120.3398042,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750852690.9583411,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750860640.07461,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750863686.970304,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750866962.2858481,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750866978.501929,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750871451.1991901,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750872817.721919,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750876450.778758,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750884458.2921572,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750884860.69188,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750887049.85705,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750889880.213803,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750889896.487088,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750890665.386327,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750892518.4768438,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750892739.769311,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750892770.771933,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750895668.978754,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750895720.9804459,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750895740.22331,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750934920.117027,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750936434.556202,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750936563.3070478,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750946920.430914,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750951763.1193008,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750953383.448858,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750963082.583342,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750963099.769309,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750966631.747521,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750966653.447177,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750972338.190289,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750973120.3272061,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1750975870.4015532,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750978999.4596272,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750979061.404601,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750981211.6518621,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750982523.764287,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750983260.866343,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1750983432.646416,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750986219.611978,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1750986362.88465,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751018144.718142,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751019165.364495,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751019192.5814362,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751027932.6212912,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751028483.6808748,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751030701.789312,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751033612.3416271,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751033649.278802,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751034118.726449,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751034142.542763,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751038210.139478,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751046143.0900168,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751047990.571871,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751048007.135944,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751054143.396714,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751058927.916987,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751060776.824802,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751060953.1881862,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751061167.0312328,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751061454.868208,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751065607.3025389,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751067024.4536939,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751068972.996793,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751069290.859056,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751069316.1719,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751069742.4853,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751072639.5332398,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751072680.285507,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751077378.343787,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751101544.610402,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751106786.032528,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751109457.925966,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751112223.5236201,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751115703.0199552,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751116072.7145638,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751116231.329445,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751116715.297816,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751117484.1653671,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751126386.099854,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751127944.122103,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751128270.3573232,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751135796.404148,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751143936.543024,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751144122.778349,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751145584.7580872,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751148160.690563,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751151776.90767,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751155461.460857,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751205788.924814,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751207377.300956,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751215655.098919,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751230796.078768,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751283074.843883,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751293410.5246801,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751296254.9839082,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751306917.551594,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751308238.90274,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751308243.783319,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751310052.1236591,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751311387.1614962,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751314844.4391599,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751314857.574548,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751316068.6651502,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751317703.540042,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751322050.492288,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751323640.936439,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751324448.3716578,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751325344.041127,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751366159.178141,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751366630.535912,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751370316.6543422,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751372304.8726358,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751376668.697969,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751377402.218346,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751379784.031193,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751381710.671617,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751385446.551244,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751400279.431603,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751400295.9597359,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751401945.214569,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751401948.179316,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751406421.705833,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751408721.834357,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751411512.174344,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751411578.0855489,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751411598.923864,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751416761.1604052,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751417433.7337089,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751417450.501374,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751418150.505669,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751418171.438153,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751423978.111483,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751423995.493041,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751448579.6469169,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751449263.752265,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751451567.968751,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751451731.121623,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751451748.29663,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751452940.087367,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751459687.528244,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751466668.113501,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751477456.147512,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751483061.4989228,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751483609.039781,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751483748.396502,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751483759.882752,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751487480.565638,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751487789.456619,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751487898.600147,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751489467.983485,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751489635.977488,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751490155.466385,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751490444.777858,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751490969.208955,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751494462.295151,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751497999.961736,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751500083.5326738,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751501238.380852,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751523153.611249,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751545781.0144958,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751547936.623262,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751553681.52455,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751554018.884448,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751554141.571083,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751556343.407724,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751557123.7037768,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751565223.6724591,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751565991.3858972,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751576397.675513,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751581749.641224,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751582606.6115441,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751583225.077837,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751584732.7796469,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751588173.503893,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751629025.346025,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751631094.755505,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751634591.121263,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751635154.4865031,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751642352.271349,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751646071.568131,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751648421.005077,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751648853.509866,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751658857.564482,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751659221.3206701,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751659379.416532,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751659561.570067,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751660034.4429688,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751660200.083638,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751661546.534799,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751665850.932894,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751667429.207444,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751681070.2903352,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751681715.165563,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751681737.4390302,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1751684698.8729692,safari,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1751705126.2029881,safari,False,openedApp,Message
+6,breathingExercise,America/New_York,1751705277.916844,safari,False,dismissedAppOpening,
+6,breathingExercise,America/Chicago,1751764684.492142,tikTok,False,openedApp,Message
+6,breathingExercise,America/Chicago,1751765031.237896,tikTok,False,openedApp,Message
+6,breathingExercise,America/Chicago,1751765377.778261,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1751768703.556141,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1751782927.985507,xiaohongshu,False,dismissedAppOpening,
+6,breathingExercise,America/Los_Angeles,1751847077.126945,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1751891331.4653668,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1751891542.592617,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1751893473.556524,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/Los_Angeles,1751933086.772375,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1751938129.167656,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1751945198.404423,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1751945804.944052,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752021366.707656,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752022211.395584,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752022320.411899,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752022672.076134,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752023812.642144,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752025279.4888,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752026940.313016,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/Los_Angeles,1752027735.498853,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/Los_Angeles,1752030676.5190039,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752031521.831934,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752097667.208075,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752104977.703654,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752105239.619721,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752108158.476711,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752112146.329081,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752112756.156403,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752115130.84269,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752119368.3804622,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752182753.412633,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752187351.247608,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752188866.3535252,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752189243.16861,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752189989.3830562,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752195417.919306,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752197615.302885,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752198062.602377,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752200363.160699,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752205371.936347,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752206808.807321,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752252886.020203,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752278570.133483,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752292024.6873012,tikTok,False,openedApp,Message
+6,breathingExercise,America/Los_Angeles,1752296500.482456,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752424342.844047,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752456261.9436731,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752458332.077991,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1752458932.5664759,tikTok,False,dismissedAppOpening,
+6,breathingExercise,America/New_York,1752512769.338482,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752518932.708173,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752527896.057115,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752541519.452487,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752542712.342492,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752580585.994234,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752583254.564791,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752624065.209553,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752686759.074821,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752705250.9675899,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752713311.526833,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752758041.448268,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752786807.447833,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752793550.669574,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752799907.003793,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752804610.0109,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752806687.594573,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752806809.1703892,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752835793.1646461,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752837512.789064,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752842318.0124068,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752846248.1116219,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752848003.424636,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752859550.177851,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752871193.743732,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752874955.3689299,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752875579.8134341,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752888172.10703,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752891344.247373,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752916556.992326,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752929420.406211,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752933186.83818,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752940256.912509,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752941895.394351,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752949807.5166821,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752953154.919945,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752956520.946677,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752962243.064728,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752967754.4104152,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1752972218.014503,tikTok,False,openedApp,Message
+6,breathingExercise,America/New_York,1753008511.338722,tikTok,False,openedApp,Message

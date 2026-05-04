@@ -1705,7 +1705,7 @@ planned?</li>
 <h1>Step 1: Load and combine all CSVs</h1>
 <p>Column order varies across files; read everything as character to
 avoid type-guessing failures on inconsistent columns.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a>base_path  <span class="ot">&lt;-</span> <span class="st">&quot;../data/raw/behavioral data&quot;</span></span>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" tabindex="-1"></a>base_path  <span class="ot">&lt;-</span> <span class="st">&quot;../data/raw/behavioral data/phase2&quot;</span></span>
 <span id="cb2-2"><a href="#cb2-2" tabindex="-1"></a></span>
 <span id="cb2-3"><a href="#cb2-3" tabindex="-1"></a>label_map  <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="at">experimental1 =</span> <span class="st">&quot;ABC&quot;</span>,</span>
 <span id="cb2-4"><a href="#cb2-4" tabindex="-1"></a>                <span class="at">experimental2 =</span> <span class="st">&quot;ACC&quot;</span>,</span>
@@ -2016,9 +2016,9 @@ and dismissal, following Hanna’s approach. Confirm if correct.</p>
 <span id="cb42-6"><a href="#cb42-6" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_1_model, &quot;../data/processed/df_rq2_1_model.rds&quot;)</span></span>
 <span id="cb42-7"><a href="#cb42-7" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_2_model, &quot;../data/processed/df_rq2_2_model.rds&quot;)</span></span>
 <span id="cb42-8"><a href="#cb42-8" tabindex="-1"></a></span>
-<span id="cb42-9"><a href="#cb42-9" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed, <span class="st">&quot;../data/processed/dat_processed_behavioral_data.csv&quot;</span>)</span>
-<span id="cb42-10"><a href="#cb42-10" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_dropout, <span class="st">&quot;../data/processed/dat_processed_behavioral_data_dropout.csv&quot;</span>)</span>
-<span id="cb42-11"><a href="#cb42-11" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_open_attempts, <span class="st">&quot;../data/processed/dat_processed_open_attempts.csv&quot;</span>)</span></code></pre></div>
+<span id="cb42-9"><a href="#cb42-9" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed, <span class="st">&quot;../data/processed/data_processed_behavioral_data_all.csv&quot;</span>)</span>
+<span id="cb42-10"><a href="#cb42-10" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_dropout, <span class="st">&quot;../data/processed/data_processed_behavioral_data_dropout.csv&quot;</span>)</span>
+<span id="cb42-11"><a href="#cb42-11" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_open_attempts, <span class="st">&quot;../data/processed/data_processed_behavioral_data_open_attempts.csv&quot;</span>)</span></code></pre></div>
 </div>
 <div id="verification-checks" class="section level1">
 <h1>Verification checks</h1>

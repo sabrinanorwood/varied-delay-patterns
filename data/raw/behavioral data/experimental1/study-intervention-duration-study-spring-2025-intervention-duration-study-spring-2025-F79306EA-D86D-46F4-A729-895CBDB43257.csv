@@ -1,5 +1,0 @@
-interventionDuration,timestamp,timezone,purpose,interventionType,app,resolution,timeIntervalUntilReIntervention,isReIntervention,terminationReason
-1.5,1751556518.365375,Asia/Kuala_Lumpur,i want to message darshini,breathingExercise,instagram,openedApp,60.0,0.0,
-,1751556531.219362,Asia/Kuala_Lumpur,,,instagram,closedApp,,0.0,
-1.5,1751556946.507141,Asia/Kuala_Lumpur,,breathingExercise,instagram,dismissedAppOpening,,0.0,
-,1751556993.150331,,,,,,,,terminatedByUser

@@ -1,0 +1,2 @@
+timezone,resolution,interventionDuration,app,timestamp,isReIntervention,interventionType
+America/New_York,dismissedAppOpening,3,newYorkTimes,1748901918.361456,False,breathingExercise

@@ -1,0 +1,433 @@
+interventionType,timestamp,resolution,interventionDuration,isReIntervention,timezone,app,purpose
+breathingExercise,1752411317.0004048,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752413766.251412,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752413915.7725558,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752414504.4637132,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752414535.597991,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752415178.246358,openedApp,1.5,False,Asia/Tehran,twitter,Escape / Avoid
+breathingExercise,1752415508.8242102,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752416731.850624,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752417921.7782412,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752420170.277617,openedApp,1.5,False,Asia/Tehran,twitter,Escape / Avoid
+breathingExercise,1752420225.680886,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752422981.879147,openedApp,1.5,False,Asia/Tehran,instagram,Stalk crush
+breathingExercise,1752424630.70997,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752425682.197177,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752426456.6294122,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752427377.566822,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752427732.782865,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752427742.9288201,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752428697.4832501,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752428727.2745252,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752429073.43262,openedApp,1.5,False,Asia/Tehran,twitter,Escape / Avoid
+breathingExercise,1752429474.050688,openedApp,1.5,False,Asia/Tehran,twitter,Escape / Avoid
+breathingExercise,1752429562.999629,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752429955.580612,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752430082.7704902,openedApp,1.5,False,Asia/Tehran,twitter,Bored
+breathingExercise,1752430608.841535,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752430712.6740088,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752430766.582058,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752430986.521908,openedApp,1.5,False,Asia/Tehran,twitter,Bored
+breathingExercise,1752431207.3563519,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752431337.740377,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752431349.05765,openedApp,1.5,False,Asia/Tehran,twitter,Post something
+breathingExercise,1752431526.379943,openedApp,1.5,False,Asia/Tehran,twitter,Bored
+breathingExercise,1752431648.7812052,openedApp,1.5,False,Asia/Tehran,twitter,Bored
+breathingExercise,1752431764.440047,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752431934.379533,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752432482.0695581,openedApp,1.5,False,Asia/Tehran,twitter,Stay In the Loop
+breathingExercise,1752432837.666194,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752433260.280809,openedApp,1.5,False,Asia/Tehran,instagram,Stay In the Loop
+breathingExercise,1752433429.249162,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752433446.338964,openedApp,1.5,False,Asia/Tehran,twitter,Bored
+breathingExercise,1752433609.4134998,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752435826.17537,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752435955.1520371,openedApp,1.5,False,Asia/Tehran,twitter,Escape / Avoid
+breathingExercise,1752436138.025552,openedApp,1.5,False,Asia/Tehran,twitter,Bored
+breathingExercise,1752442732.8650079,openedApp,1.5,False,Asia/Tehran,twitter,Bored
+breathingExercise,1752442760.467241,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752460457.5923,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752460838.430593,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752467450.6548982,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752473239.225453,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752473352.5956268,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752473675.3685741,openedApp,1.5,False,Asia/Tehran,twitter,Stay In the Loop
+breathingExercise,1752480198.34054,openedApp,1.5,False,Asia/Tehran,twitter,Stay In the Loop
+breathingExercise,1752482086.671328,openedApp,1.5,False,Asia/Tehran,twitter,Stay In the Loop
+breathingExercise,1752482114.794435,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752488430.489183,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752489453.844925,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752496358.143008,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752501106.9038591,openedApp,1.5,False,Asia/Tehran,twitter,Bored
+breathingExercise,1752501196.892112,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752501289.310851,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752501443.666263,openedApp,1.5,False,Asia/Tehran,instagram,Search Info
+breathingExercise,1752502302.505837,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752503295.128735,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752513943.440567,openedApp,1.5,False,Asia/Tehran,instagram,Stay In the Loop
+breathingExercise,1752516748.6816149,openedApp,1.5,False,Asia/Tehran,instagram,Stay In the Loop
+breathingExercise,1752517945.858978,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752518417.311382,openedApp,1.5,False,Asia/Tehran,instagram,Stay In the Loop
+breathingExercise,1752519461.292148,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752519640.768686,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752519661.063806,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752519839.3869781,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752519993.026725,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752520708.2179918,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752523176.53928,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752548270.187951,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752556331.478725,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752558972.3814921,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752559286.481711,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752563007.4474359,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752563071.1598911,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752563582.8166919,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752563652.325521,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752563733.600682,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752563916.3628402,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752564201.4243212,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752568645.954674,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752568676.8652701,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752568832.320492,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752570200.589714,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752574535.0130382,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752575637.30304,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752577612.803286,openedApp,1.5,False,Asia/Tehran,instagram,Escape / Avoid
+breathingExercise,1752578312.52683,openedApp,1.5,False,Asia/Tehran,instagram,Stay In the Loop
+breathingExercise,1752578954.213639,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752579293.052984,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752579313.086076,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752579412.085637,openedApp,1.5,False,Asia/Tehran,twitter,Post something
+breathingExercise,1752580754.695518,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752587447.954543,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752588089.3843842,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752588707.754945,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752591426.8392692,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752591477.204619,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752593720.4120278,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752594092.027704,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752600883.770122,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752601282.5975251,openedApp,1.5,False,Asia/Tehran,twitter,Post something
+breathingExercise,1752601806.811253,openedApp,1.5,False,Asia/Tehran,twitter,Post something
+breathingExercise,1752602556.080517,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752602893.841536,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752604925.310049,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752605001.5771089,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752605460.367161,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752605789.564052,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752605947.482582,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752606093.367595,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752606101.870895,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752606879.017185,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752607238.362698,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752607415.626433,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752607819.846992,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752607824.048526,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752607832.2829351,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752609269.3570251,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752610546.503772,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752610705.455189,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752610946.204329,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752610986.945482,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752611473.099339,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752611482.29475,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752611570.6154141,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752611580.837476,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752628118.89412,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752628131.961894,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752628321.905411,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752628427.2384028,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752644820.70393,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752644981.791656,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752645074.242525,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752647615.4823198,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752649877.0700421,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752649973.555558,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752651761.5974379,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752658771.541764,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752658893.183671,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752659218.853397,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752659839.2778878,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752659954.027456,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752660013.5803719,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752660307.0100322,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752660894.254665,openedApp,1.5,False,Asia/Tehran,instagram,Search Info
+breathingExercise,1752662923.114758,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752663961.435545,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752665278.392365,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752667932.465126,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752671046.554879,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752671323.582628,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752671698.500599,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752672507.8925261,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752672534.2246408,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752673309.416658,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752674499.357507,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752675405.1358318,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752675503.804954,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752676391.3398929,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752676496.7859678,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752676557.679956,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752676692.280477,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752676757.442325,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752676970.0433412,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752677156.854244,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752677199.554523,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752677501.357861,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752677556.633627,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752678977.297287,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752679509.88117,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752679712.9094071,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752680126.4058828,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752680153.267465,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752681205.074579,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752681922.195397,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752682490.220043,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752682531.308051,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752683493.173487,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752683538.565748,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752683837.623667,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752683865.586475,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752684068.920374,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752684803.955828,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752684899.351306,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752686043.87801,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752686648.431314,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752687458.49465,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752690488.790683,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752690773.522666,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752691117.225724,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752691331.44342,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752691397.46698,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752691723.2383199,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752692691.076007,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752692848.369987,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752693127.046114,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752693342.950489,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752693568.176399,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752693722.0355248,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752694198.739825,openedApp,1.5,False,Asia/Tehran,instagram,Entertainment
+breathingExercise,1752694841.046284,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752695117.7987208,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752695579.0520701,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752695753.044796,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752695828.702441,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752696164.236135,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752696247.89259,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752696407.5873342,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752696720.708942,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752696920.788866,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752696934.821673,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752696953.997501,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752697005.693104,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752697025.822525,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752697288.768316,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752697389.822509,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752697441.828367,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752698259.275625,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752698285.843427,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752698345.959878,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752698617.6960912,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752698689.320334,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752698740.2225518,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752718769.709731,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752718956.8834891,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752720550.6029859,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752732388.629797,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752732650.646185,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752733575.778364,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752735689.1670299,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752735717.5383,openedApp,1.5,False,Asia/Tehran,instagram,Search Info
+breathingExercise,1752735738.195627,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752737749.586201,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752738010.95366,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752738516.758187,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752738583.379918,openedApp,1.5,False,Asia/Tehran,instagram,Relax
+breathingExercise,1752738708.8032808,openedApp,1.5,False,Asia/Tehran,instagram,Search Info
+breathingExercise,1752739994.0928001,openedApp,1.5,False,Asia/Tehran,instagram,Stay In the Loop
+breathingExercise,1752740535.966788,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752740793.70033,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752740970.516244,openedApp,1.5,False,Asia/Tehran,twitter,Post something
+breathingExercise,1752741459.05653,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752742573.150955,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752742668.3581362,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752742695.247926,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752743381.49578,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752744351.447178,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752744970.0989509,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752746457.433631,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752747152.002161,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752748601.8510032,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752748886.7738318,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752749643.96111,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752749671.0643559,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752751344.805519,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752751396.36744,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752753186.391407,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752756107.959735,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752758140.208222,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752759577.303457,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752759655.300997,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752764573.644242,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752764709.414115,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752765437.37131,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752765919.013262,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752766151.094305,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752766425.442478,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752766488.359785,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752766644.977345,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752767257.938634,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752767936.65078,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752768121.2705169,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752768242.0892391,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752768491.020257,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752769023.508953,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752769241.377307,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752769707.4681659,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752771225.437479,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752771699.170594,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752771787.821944,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752771800.272305,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752771893.065218,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752771946.076744,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752772187.661067,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752772222.969901,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752772345.024826,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752772717.3541222,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752772940.054222,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752773043.99598,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752773082.765225,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752773088.292367,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752774333.247532,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752776984.190843,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752777319.49915,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752777627.04235,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752777695.683906,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752778196.4463758,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752778636.00463,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752778714.1432629,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752780731.540153,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752780852.528472,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752781102.823487,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752782404.56277,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752782491.5563421,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752784248.9555311,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752785168.018919,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752785965.4819431,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752786500.954722,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752787228.704688,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752787747.581423,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752787875.189643,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752788514.392031,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752788539.174825,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752792989.811326,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752793178.136232,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752793504.864269,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752794200.04596,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752795362.7680922,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752808115.760957,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752808480.13869,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752813362.4702659,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752813393.2176309,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752815682.102522,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752817483.75103,openedApp,1.5,False,Asia/Tehran,twitter,Escape / Avoid
+breathingExercise,1752817628.0834599,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752817727.1136642,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752818000.4185839,openedApp,1.5,False,Asia/Tehran,instagram,Entertainment
+breathingExercise,1752818546.146299,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752818891.457065,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752821490.341532,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752822632.8384728,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752822679.97583,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752822708.818804,openedApp,1.5,False,Asia/Tehran,instagram,Message
+breathingExercise,1752822746.218293,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752822769.6629128,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752822871.2071528,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752822891.745195,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752823898.600204,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752825373.176433,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752825929.589034,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752828218.795032,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752828434.63152,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752829453.42243,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752829615.139359,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752830162.1973128,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752831863.532387,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752832224.2767081,openedApp,1.5,False,Asia/Tehran,twitter,Post something
+breathingExercise,1752832419.627558,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752832799.203495,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752832942.60903,openedApp,1.5,False,Asia/Tehran,instagram,Post something
+breathingExercise,1752835443.272996,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752836921.056391,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752837384.826038,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752837598.490652,openedApp,1.5,False,Asia/Tehran,twitter,Post something
+breathingExercise,1752837782.875423,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752838273.901933,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752838323.894143,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752838940.115574,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752839064.570529,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752839892.843693,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752841189.30801,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752841610.113322,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752844641.6137729,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752844902.080793,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752844928.0218391,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752846957.118455,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752847111.71656,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752847157.3332891,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752848720.884848,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752849674.211118,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752852297.1753159,openedApp,1.5,False,Asia/Tehran,instagram,Bored
+breathingExercise,1752853796.24374,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752853898.118716,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752859100.096105,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752859114.676,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752859147.314939,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752859429.024735,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752860143.430547,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752860968.886678,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752861603.016628,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752862089.065085,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752864425.825599,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752866262.710237,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752866314.2185469,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752866574.749542,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752868499.603339,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752869846.4662352,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752870087.27571,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752870726.738172,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752870869.690003,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752870996.472083,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752871111.297429,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752871240.208612,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752871318.036409,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752871383.9221358,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752871437.4785519,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752888896.98252,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752889028.097295,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752889127.524057,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752889199.676714,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752890018.136601,openedApp,1.5,False,Asia/Tehran,twitter,Post something
+breathingExercise,1752890212.149615,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752890729.854142,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752892295.2579799,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752892371.451123,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752892723.5718699,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752893050.7232208,openedApp,1.5,False,Asia/Tehran,instagram,Search Info
+breathingExercise,1752909558.931798,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752909599.477274,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752910082.099325,dismissedAppOpening,1.5,False,Asia/Tehran,instagram,
+breathingExercise,1752911672.274745,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752912501.448221,openedApp,1.5,False,Asia/Tehran,instagram,Search Info
+breathingExercise,1752915406.3903642,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752918913.1589031,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752920672.5687919,openedApp,1.5,False,Asia/Tehran,twitter,Escape / Avoid
+breathingExercise,1752920740.2914429,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752924000.0650458,openedApp,1.5,False,Asia/Tehran,instagram,Search Info
+breathingExercise,1752924785.8072739,openedApp,1.5,False,Asia/Tehran,twitter,Check likes
+breathingExercise,1752926196.142661,dismissedAppOpening,1.5,False,Asia/Tehran,twitter,
+breathingExercise,1752928460.812675,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752928484.875119,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752928859.25426,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752929179.300407,openedApp,1.5,False,Asia/Tehran,instagram,Check likes
+breathingExercise,1752929743.582467,openedApp,1.5,False,Asia/Tehran,instagram,Stay In the Loop

@@ -1,0 +1,215 @@
+---
+title: "Data processing surveys"
+author: "Sabrina Norwood"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    code_folding: hide
+    highlight: haddock
+    theme: flatly
+    toc: yes
+    toc_float: yes
+---
+
+# TODO
+
+1. 93 post-survey completers have no behavioral CSV. Investigate before using post-survey data for RQ3 (may be missing app data, not true completers, or accessed the survey link without finishing 6 weeks).
+2. "Never started" (N=1,275): pre-survey finishers with no behavioral data. Decide if these count as immediate dropouts in RQ1.
+3. termination reason not captured, contrary to prereg
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(message = FALSE,
+                      warning = FALSE)
+
+```
+
+# Dependencies
+
+```{r}
+
+library(tidyverse)
+
+pre_path  <- "../data/raw/self-report data/pre_survey.csv"
+post_path <- "../data/raw/self-report data/post_survey.csv"
+
+```
+
+# Pre-survey
+
+Qualtrics exports have 3 header rows: row 1 = column names, row 2 = question labels, row 3 = import instructions. `slice(-c(1, 2))` removes the label and import rows while keeping column names.
+
+```{r}
+
+df_pre_raw <- read_csv(pre_path,
+                       col_types = cols(.default = col_character()),
+                       show_col_types = FALSE) %>%
+  slice(-c(1, 2))
+
+df_pre <- df_pre_raw %>%
+  filter(
+    str_starts(uuid, "intervention-duration-study-spring-2025"),
+    Finished == "True"
+  ) %>%
+  mutate(
+    participant_id = str_extract(
+      uuid,
+      "[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}"
+    ) %>% str_to_upper(),
+    condition = recode(group,
+      control       = "CCC",
+      experimental1 = "ABC",
+      experimental2 = "ACC",
+      experimental3 = "BCC"
+    ),
+    # Baseline social media measures (shared with post-survey for pre-post comparison)
+    sm_problematic_pre  = as.integer(str_extract(Q6, "^[0-9]")),
+    sm_happiness_pre    = as.integer(str_extract(Q9, "^[0-9]")),
+    sm_general_prob_pre = as.integer(str_extract(Q8, "^[0-9]")),
+    sm_comparison_pre   = as.integer(str_extract(Q5, "^[0-9]")),
+    problems_sm         = Q2,
+    goals_sm            = Q3
+  ) %>%
+  select(participant_id, condition, ResponseId, StartDate, EndDate,
+         starts_with("sm_"), problems_sm, goals_sm, isNewUser, appSetupTimeStamp)
+
+cat("Pre-survey finishers (this study):", nrow(df_pre), "\n")
+cat("Pre-survey condition distribution:\n")
+print(count(df_pre, condition))
+
+# Document "never started": pre-survey finishers with no behavioral CSV
+dat_behavioral <- read_csv("../data/processed/data_processed_behavioral_data_all.csv") 
+
+behavioral_ids <- dat_behavioral %>%
+  distinct(participant_id) %>%
+  pull()
+
+df_pre <- df_pre %>%
+  mutate(has_behavioral = participant_id %in% behavioral_ids)
+
+never_started <- df_pre %>% filter(!has_behavioral)
+cat("\n'Never started' (pre-survey only, no behavioral data):", nrow(never_started), "\n")
+cat("Never started by condition:\n")
+print(count(never_started, condition))
+
+```
+
+# Post-survey
+
+```{r}
+
+df_post_raw <- read_csv(post_path,
+                        col_types = cols(.default = col_character()),
+                        show_col_types = FALSE) %>%
+  slice(-c(1, 2))
+
+df_post <- df_post_raw %>%
+  filter(Finished == "True") %>%
+  mutate(
+    participant_id = str_extract(
+      uuid,
+      "[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}"
+    ) %>% str_to_upper(),
+    # Likert responses are stored as "4 - neutral" — extract the leading integer
+    across(c(Q19_1, Q19_2, Q37, Q38, Q40, Q39, Q17, Q9, Q8, Q5),
+           ~ as.integer(str_extract(.x, "^[0-9]"))),
+    # RQ3: satisfaction items
+    solved_problems  = Q19_1,
+    achieved_goals   = Q19_2,
+    helpful_problems = Q37,
+    helpful_goals    = Q38,
+    satisfied_interv = Q40,
+    satisfied_progr  = Q39,
+    # Post-survey social media measures (for pre-post comparison)
+    sm_problematic_post  = Q17,
+    sm_happiness_post    = Q9,
+    sm_general_prob_post = Q8,
+    sm_comparison_post   = Q5,
+    # RQ5: delay preference items
+    prefer_own_delay  = Q27,
+    pref_delay_secs   = as.numeric(Q28_4),
+    prefer_increasing = Q29,
+    pref_pattern      = Q31,
+    # RQ5: custom weekly pattern (if participant chose "other")
+    pref_week1 = as.numeric(Q36_1),
+    pref_week2 = as.numeric(Q36_2),
+    pref_week3 = as.numeric(Q36_3),
+    pref_week4 = as.numeric(Q36_7),
+    pref_week5 = as.numeric(Q36_8),
+    pref_week6 = as.numeric(Q36_9)
+  ) %>%
+  select(participant_id, ResponseId, StartDate, EndDate,
+         solved_problems:pref_week6, appSetupTimeStamp)
+
+# Join condition from pre-survey (post-survey has no group column)
+df_post <- df_post %>%
+  left_join(df_pre %>% select(participant_id, condition), by = "participant_id")
+
+# Flag the 93 post-survey completers who have no behavioral data
+df_post <- df_post %>%
+  mutate(has_behavioral = participant_id %in% behavioral_ids) |>
+  filter(has_behavioral)
+
+cat("\nPost-survey completers:", nrow(df_post), "\n")
+cat("  With behavioral data:", sum(df_post$has_behavioral), "\n")
+cat("  Without behavioral data (investigate before RQ3):",
+    sum(!df_post$has_behavioral), "\n")
+cat("Post-survey condition distribution:\n")
+print(count(df_post, condition))
+
+```
+
+# RQ4: Dropout reasons from behavioral CSVs
+
+Some CSV files include a `terminationReason` column. The only value present is `"terminatedByUser"` (N = 66) — this is a flag rather than a free-text reason category. The preregistered dropout-reason question ("I lost motivation…", "I find one sec unhelpful…", etc.) was a separate in-app screen; if that data was captured in a separate export, it is not in the current behavioral CSVs.
+
+```{r}
+
+df_termination <- read_csv("../data/processed/data_processed_behavioral_data_all.csv") %>%
+  filter(!is.na(terminationReason) & terminationReason != "") %>%
+  distinct(participant_id, terminationReason) %>%
+  left_join(df_pre %>% select(participant_id, condition), by = "participant_id")
+
+cat("\nParticipants with a recorded termination reason:", nrow(df_termination), "\n")
+cat("Termination reasons:\n")
+print(count(df_termination, terminationReason, sort = TRUE))
+
+```
+
+# Start dates
+
+```{r}
+
+dat_behavioral |>
+  arrange(participant_id, date) |>
+  group_by(participant_id) |>
+  slice_head(n = 1) |>
+  ungroup() |>
+  ggplot(aes(date, condition)) +
+  geom_jitter(width = 0, height = .2, alpha = 0.4) 
+
+df_pre |>
+  mutate(date = lubridate::ymd_hms(StartDate)) |>
+  ggplot(aes(date, condition)) +
+  geom_jitter(width = 0, height = .2, alpha = 0.4)
+
+df_post |>
+  mutate(date = lubridate::ymd_hms(StartDate)) |>
+  ggplot(aes(date, condition)) +
+  geom_jitter(width = 0, height = .2, alpha = 0.4)
+
+```
+
+# Save
+
+```{r}
+write_csv(df_pre,         "../data/processed/data_processed_selfreport_pre.csv")
+write_csv(df_post,        "../data/processed/data_processed_selfreport_post.csv")
+#write_csv(df_termination, "../data/processed/df_termination.csv")
+```
+
+# Session info
+
+```{r}
+sessionInfo()
+```

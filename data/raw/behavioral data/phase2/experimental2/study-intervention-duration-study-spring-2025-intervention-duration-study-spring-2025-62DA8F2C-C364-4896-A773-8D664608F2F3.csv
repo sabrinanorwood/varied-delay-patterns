@@ -1,0 +1,16 @@
+interventionDuration,timestamp,interventionType,resolution,isReIntervention,app,timezone,purpose,timeIntervalUntilReIntervention,terminationReason
+1.5,1753255644.243569,breathingExercise,dismissedAppOpening,0.0,safari,Europe/Berlin,,,
+1.5,1753255702.7067962,breathingExercise,openedApp,0.0,safari,Europe/Berlin,Einstellung,,
+1.5,1753255805.71714,breathingExercise,openedApp,0.0,safari,Europe/Berlin,Einstellung,,
+1.5,1753255879.3825421,breathingExercise,openedApp,0.0,safari,Europe/Berlin,Einstellung,,
+,1753255909.612101,,closedApp,0.0,mydealz,Europe/Berlin,,,
+,1753255921.8459249,,closedApp,0.0,mydealz,Europe/Berlin,,,
+,1753255926.799665,,closedApp,0.0,safari,Europe/Berlin,,,
+,1753255965.4963741,,closedApp,0.0,safari,Europe/Berlin,,,
+1.5,1753256115.24262,breathingExercise,dismissedAppOpening,0.0,snapchat,Europe/Berlin,,,
+1.5,1753256162.35842,breathingExercise,openedApp,0.0,safari,Europe/Berlin,Infos suchen,240.0,
+1.5,1753256675.208549,breathingExercise,dismissedAppOpening,0.0,safari,Europe/Berlin,,,
+,1753256175.9516048,,closedApp,0.0,safari,Europe/Berlin,,,
+1.5,1753256689.034229,breathingExercise,openedApp,0.0,safari,Europe/Berlin,Infos suchen,60.0,
+,1753256715.5910811,,closedApp,0.0,safari,Europe/Berlin,,,
+,1753256717.944032,,,,,,,,terminatedByUser

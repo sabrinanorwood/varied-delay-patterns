@@ -1,0 +1,33 @@
+purpose,timeIntervalUntilReIntervention,interventionDuration,isReIntervention,resolution,app,timezone,interventionType,timestamp
+Nachricht / Schreiben,480.0,1.5,False,openedApp,instagram,Europe/Dublin,breathingExercise,1748521008.734589
+,,,False,dismissedAppOpening,instagram,Europe/Dublin,journaling,1748521382.078951
+Infos suchen,300.0,1.5,False,openedApp,instagram,Europe/Dublin,breathingExercise,1748521395.824188
+Infos suchen,600.0,1.5,False,openedApp,instagram,Europe/Dublin,breathingExercise,1748614574.5660238
+Infos suchen,420.0,1.5,False,openedApp,instagram,Europe/Vienna,breathingExercise,1748637529.512301
+,,1.5,False,dismissedAppOpening,instagram,Europe/Vienna,breathingExercise,1748901368.340959
+Auf dem Laufenden bleiben,300.0,1.5,False,openedApp,instagram,Europe/Dublin,breathingExercise,1749054237.5611129
+Klo,240.0,1.5,False,openedApp,instagram,Europe/Dublin,breathingExercise,1749057888.4381819
+Auf dem Laufenden bleiben,480.0,1.5,True,openedApp,instagram,Europe/Dublin,breathingExercise,1749058149.483017
+Auf dem Laufenden bleiben,900.0,1.5,True,openedApp,instagram,Europe/Dublin,breathingExercise,1749058660.7138681
+Nachricht / Schreiben,240.0,1.5,False,openedApp,instagram,Europe/Dublin,breathingExercise,1749202097.1073399
+Nachricht / Schreiben,900.0,1.5,True,openedApp,instagram,Europe/Dublin,breathingExercise,1749202358.772334
+Crush stalken,60.0,1.5,False,openedApp,instagram,Europe/Dublin,breathingExercise,1749202536.094806
+Infos suchen,360.0,1.5,False,openedApp,instagram,Europe/Dublin,breathingExercise,1749213367.631496
+,,,False,dismissedByStructuredIntervention,instagram,Europe/Dublin,structured,1749485983.02768
+,,,False,dismissedByStructuredIntervention,instagram,Europe/Dublin,structured,1749486046.109562
+,,,False,dismissedByStructuredIntervention,instagram,Europe/Dublin,structured,1749558556.248065
+,,,False,dismissedByStructuredIntervention,instagram,Europe/Dublin,structured,1749719675.217194
+Auf dem Laufenden bleiben,900.0,3.0,False,openedApp,instagram,Europe/Dublin,breathingExercise,1749751164.247164
+Auf dem Laufenden bleiben,960.0,3.0,True,openedApp,instagram,Europe/Dublin,breathingExercise,1749752082.273932
+,,,False,dismissedByStructuredIntervention,instagram,Europe/Dublin,structured,1749752083.393269
+,,,False,dismissedByStructuredIntervention,instagram,Europe/Dublin,structured,1749815743.344798
+Infos suchen,900.0,3.0,False,openedApp,instagram,Europe/Dublin,breathingExercise,1749815889.2393398
+Nachricht / Schreiben,600.0,3.0,False,openedApp,instagram,Europe/Dublin,breathingExercise,1749820640.279773
+Infos suchen,900.0,3.0,True,openedApp,instagram,Europe/Dublin,breathingExercise,1749821261.640051
+Auf dem Laufenden bleiben,900.0,3.0,True,openedApp,instagram,Europe/Dublin,breathingExercise,1749822197.841455
+Auf dem Laufenden bleiben,600.0,3.0,True,openedApp,instagram,Europe/Dublin,breathingExercise,1749823127.046484
+,,,False,dismissedAppOpening,instagram,Europe/Dublin,journaling,1750764468.679353
+Auf dem Laufenden bleiben,540.0,6.0,False,openedApp,instagram,Europe/Dublin,breathingExercise,1750977025.8922129
+,,,False,dismissedByStructuredIntervention,instagram,Europe/Dublin,structured,1751036259.965035
+Nachricht / Schreiben,1020.0,6.0,False,openedApp,instagram,Europe/Dublin,breathingExercise,1751272858.066812
+,,,False,dismissedByStructuredIntervention,instagram,Europe/Dublin,structured,1751467872.898711

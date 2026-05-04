@@ -1,0 +1,353 @@
+app,timezone,isReIntervention,interventionType,interventionDuration,timestamp,resolution,timeIntervalUntilReIntervention,purpose
+instagram,Europe/Paris,False,breathingExercise,3.0,1753543261.764377,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753543275.917973,openedApp,60.0,Buscar info
+instagram,Europe/Paris,False,breathingExercise,3.0,1753543510.466716,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753543539.9563851,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753543547.1623921,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753543592.091198,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753543619.647925,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753544823.6504889,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753544873.7034411,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753544893.878166,openedApp,,Mantente Informado
+instagram,Europe/Paris,False,breathingExercise,3.0,1753550448.814849,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1753545087.210753,closedApp,,
+instagram,Europe/Paris,False,,,1753547214.614219,closedApp,,
+instagram,Europe/Paris,False,,,1753550476.947303,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753551692.1336222,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753551823.903006,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753552764.6283221,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753552828.2675881,closedApp,,
+instagram,Europe/Paris,False,,,1753552893.2009702,closedApp,,
+instagram,Europe/Paris,False,,,1753553211.080553,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753555260.790896,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1753555292.4702091,closedApp,,
+instagram,Europe/Paris,False,,,1753555377.738539,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753555941.023715,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753555959.933866,closedApp,,
+instagram,Europe/Paris,False,,,1753556141.129621,closedApp,,
+instagram,Europe/Paris,False,,,1753556570.651613,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753556679.8331199,openedApp,60.0,Aburrido
+youtube,Europe/Paris,False,breathingExercise,3.0,1753556773.948318,openedApp,,Aburrido
+instagram,Europe/Paris,False,breathingExercise,3.0,1753560549.939568,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1753560859.686274,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753562766.85059,openedApp,,Revisar me gusta
+instagram,Europe/Paris,False,,,1753563084.6172361,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753571290.071135,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753571521.4472551,closedApp,,
+instagram,Europe/Paris,False,,,1753572942.292731,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753572959.743923,openedApp,,Entretenimiento
+instagram,Europe/Paris,False,breathingExercise,3.0,1753575370.5833158,openedApp,,Obsesionarse con un crush
+instagram,Europe/Paris,False,,,1753575481.1169581,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753603728.344125,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1753604039.267473,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753604051.367641,openedApp,,Mantente Informado
+instagram,Europe/Paris,False,,,1753604319.637127,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753606824.8063211,openedApp,,Revisar me gusta
+instagram,Europe/Paris,False,,,1753606867.797744,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753607493.395133,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1753607516.370623,closedApp,,
+instagram,Europe/Paris,False,,,1753608019.33265,closedApp,,
+instagram,Europe/Paris,False,,,1753608200.5772982,closedApp,,
+instagram,Europe/Paris,False,,,1753608338.8970652,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753619666.759653,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1753619861.360307,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753621237.901839,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1753621378.321387,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753621392.336845,openedApp,,Aburrido
+youtube,Europe/Paris,False,breathingExercise,3.0,1753621963.878859,dismissedAppOpening,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753622417.8598661,openedApp,,Aburrido
+instagram,Europe/Paris,False,breathingExercise,3.0,1753625123.751668,openedApp,,Aburrido
+youtube,Europe/Paris,False,breathingExercise,3.0,1753626625.80899,dismissedAppOpening,,
+instagram,Europe/Paris,False,,,1753625457.3143759,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753626987.350821,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753629653.442302,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1753630206.842122,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753630222.563005,openedApp,,Escapar / Evitar
+instagram,Europe/Paris,False,breathingExercise,3.0,1753630423.9073582,dismissedAppOpening,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753632136.4733229,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753632256.129292,openedApp,,Escapar / Evitar
+instagram,Europe/Paris,False,,,1753632678.350815,closedApp,,
+instagram,Europe/Paris,False,,,1753633652.709966,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753633663.637316,openedApp,,Escapar / Evitar
+youtube,Europe/Paris,False,breathingExercise,3.0,1753635150.532325,openedApp,,Escapar / Evitar
+instagram,Europe/Paris,False,breathingExercise,3.0,1753645849.0612102,openedApp,,Obsesionarse con un crush
+instagram,Europe/Paris,False,,,1753646673.5923629,closedApp,,
+instagram,Europe/Paris,False,,,1753646926.736589,closedApp,,
+instagram,Europe/Paris,False,,,1753649904.801917,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753685136.11088,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753686793.216742,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753686847.6109118,openedApp,,Aburrido
+instagram,Europe/Paris,False,breathingExercise,3.0,1753687297.977995,openedApp,,Obsesionarse con un crush
+instagram,Europe/Paris,False,,,1753687826.412331,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753688187.447085,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753690573.700644,openedApp,,Buscar info
+instagram,Europe/Paris,False,,,1753691267.0104542,closedApp,,
+instagram,Europe/Paris,False,,,1753691474.127612,closedApp,,
+instagram,Europe/Paris,False,,,1753691749.515166,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753693912.6029382,dismissedAppOpening,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753703728.014511,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753704593.94307,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753707999.672715,openedApp,,Mantente Informado
+instagram,Europe/Paris,False,,,1753708388.400526,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753710545.763805,dismissedAppOpening,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753710913.31569,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753711117.3361459,closedApp,,
+youtube,Europe/Paris,False,,,1753712980.920224,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753713012.732171,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753717623.577616,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753718347.548973,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753720748.682092,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753722464.8175778,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753722593.228159,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753723435.900786,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753725659.876357,closedApp,,
+youtube,Europe/Paris,False,,,1753727796.409673,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753728616.620991,openedApp,,Buscar info
+youtube,Europe/Paris,False,breathingExercise,3.0,1753730393.636421,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753729751.5156012,closedApp,,
+youtube,Europe/Paris,False,,,1753730588.499474,closedApp,,
+youtube,Europe/Paris,False,,,1753737050.9230309,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753737063.060492,openedApp,,Inodoro
+instagram,Europe/Paris,False,,,1753737796.997997,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753738080.523767,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753738090.96697,openedApp,,Obsesionarse con un crush
+instagram,Europe/Paris,False,,,1753738171.933742,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753770565.409013,openedApp,,Aburrido
+instagram,Europe/Paris,False,breathingExercise,3.0,1753784146.450491,dismissedAppOpening,,
+instagram,Europe/Paris,False,,,1753770848.991129,closedApp,,
+instagram,Europe/Paris,False,,,1753771944.5933719,closedApp,,
+instagram,Europe/Paris,False,,,1753773445.492657,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753787315.113148,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753787528.306452,closedApp,,
+instagram,Europe/Paris,False,,,1753787739.8640099,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753791171.6110249,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753791447.427326,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753797015.31851,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1753797112.0573,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753802778.695113,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753803215.376052,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753804285.680259,openedApp,,Mantente Informado
+instagram,Europe/Paris,False,,,1753804579.880702,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753810936.8543649,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753811027.3630981,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753815587.6405249,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753815720.655765,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753820538.67586,openedApp,,Mantente Informado
+instagram,Europe/Paris,False,,,1753820945.2460608,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753822872.91191,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753823149.003628,closedApp,,
+instagram,Europe/Paris,False,,,1753824075.0897021,closedApp,,
+instagram,Europe/Paris,False,,,1753825506.486479,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753854392.401597,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753854787.3945131,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753866805.588815,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753867078.0457,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753873742.502904,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753873858.7926211,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753877677.578171,dismissedAppOpening,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753877688.485894,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753878879.499621,closedApp,,
+youtube,Europe/Paris,False,,,1753879172.87535,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753884087.6061049,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753884776.994094,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753884947.134742,closedApp,,
+instagram,Europe/Paris,False,,,1753885450.096066,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753888817.214301,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753888820.5295172,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753889062.846218,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753889567.13629,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753889584.644819,openedApp,,Mantente Informado
+youtube,Europe/Paris,False,,,1753890201.9369822,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753892942.863822,openedApp,,Mantente Informado
+youtube,Europe/Paris,False,,,1753893043.3345308,closedApp,,
+youtube,Europe/Paris,False,,,1753893793.234945,closedApp,,
+youtube,Europe/Paris,False,,,1753894245.290628,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753895873.837265,openedApp,,Mensaje
+youtube,Europe/Paris,False,,,1753897311.953212,closedApp,,
+youtube,Europe/Paris,False,,,1753897911.9800029,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753913938.767564,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753914197.898284,closedApp,,
+instagram,Europe/Paris,False,,,1753915397.290093,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753915409.5437388,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753916460.017978,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753946280.2554688,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753946361.111985,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753947252.904609,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753948116.196014,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753949699.1261768,openedApp,,Buscar info
+instagram,Europe/Paris,False,,,1753950250.912448,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753950264.571171,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753951130.2412028,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753951390.3254929,dismissedAppOpening,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753951909.193766,dismissedAppOpening,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753952111.040845,openedApp,,Buscar info
+instagram,Europe/Paris,False,breathingExercise,3.0,1753954165.926845,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753954261.832601,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753962922.047395,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753963082.832417,closedApp,,
+instagram,Europe/Paris,False,,,1753963479.333678,closedApp,,
+instagram,Europe/Paris,False,,,1753963748.161221,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753963761.919018,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753965478.5988321,closedApp,,
+youtube,Europe/Paris,False,,,1753965504.586318,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753965985.423586,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753968810.478819,openedApp,,Escapar / Evitar
+instagram,Europe/Paris,False,,,1753968958.339828,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753968970.528909,openedApp,,Escapar / Evitar
+youtube,Europe/Paris,False,,,1753970067.156585,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753971936.8633451,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753973458.73622,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753983250.9626532,openedApp,,Buscar info
+youtube,Europe/Paris,False,,,1753983705.1881552,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753984126.089635,openedApp,,Buscar info
+youtube,Europe/Paris,False,,,1753984566.883582,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753985463.000828,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753987285.606933,closedApp,,
+youtube,Europe/Paris,False,,,1753987755.396018,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753987850.235097,openedApp,,Buscar info
+instagram,Europe/Paris,False,,,1753988646.1528668,closedApp,,
+instagram,Europe/Paris,False,,,1753988695.818948,closedApp,,
+instagram,Europe/Paris,False,,,1753989613.087205,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1753989647.4397101,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1753989850.028543,closedApp,,
+youtube,Europe/Paris,False,,,1753989943.661634,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753992101.79058,openedApp,,Buscar info
+instagram,Europe/Paris,False,,,1753992306.17458,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1753992810.338243,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1753993037.9277558,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754028507.021696,openedApp,,Revisar me gusta
+instagram,Europe/Paris,False,,,1754028992.994561,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754031083.4055471,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754031197.67494,closedApp,,
+instagram,Europe/Paris,False,,,1754031233.019985,closedApp,,
+instagram,Europe/Paris,False,,,1754031274.771646,closedApp,,
+instagram,Europe/Paris,False,,,1754031591.5583758,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754046901.348388,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754047048.561458,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754060896.636642,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754061056.3212929,closedApp,,
+instagram,Europe/Paris,False,,,1754061618.028265,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754068828.7584028,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1754069706.00836,closedApp,,
+youtube,Europe/Paris,False,,,1754071710.123344,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754073655.413731,openedApp,,Mantente Informado
+instagram,Europe/Paris,False,,,1754073763.031837,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754075696.142663,openedApp,,Buscar info
+youtube,Europe/Paris,False,,,1754075857.0506558,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754078746.1538281,openedApp,,Mensaje
+instagram,Europe/Paris,False,breathingExercise,3.0,1754082817.376378,dismissedAppOpening,,
+instagram,Europe/Paris,False,,,1754078792.630836,closedApp,,
+instagram,Europe/Paris,False,,,1754078882.474307,closedApp,,
+instagram,Europe/Paris,False,,,1754081558.946903,closedApp,,
+instagram,Europe/Paris,False,,,1754082427.608333,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754094291.66378,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754094607.628409,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754094627.06605,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1754095411.239013,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754095425.861721,openedApp,,Obsesionarse con un crush
+instagram,Europe/Paris,False,,,1754095739.5077438,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754117485.336134,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754118385.0202951,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754119639.1947079,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1754119958.145257,closedApp,,
+youtube,Europe/Paris,False,,,1754124764.980387,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754125079.052871,openedApp,,Aburrido
+instagram,Europe/Paris,False,breathingExercise,3.0,1754125079.090849,openedApp,,Chat
+instagram,Europe/Paris,False,,,1754125252.896899,closedApp,,
+instagram,Europe/Paris,False,,,1754125803.125556,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754127713.655148,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754127811.021169,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754127818.933414,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754129679.2558541,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754130257.662252,closedApp,,
+instagram,Europe/Paris,False,,,1754130743.0850239,closedApp,,
+instagram,Europe/Paris,False,,,1754130867.01224,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754130877.2265239,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1754132782.244503,closedApp,,
+youtube,Europe/Paris,False,,,1754133132.644361,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754133786.2735739,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754145297.702311,openedApp,,Aburrido
+instagram,Europe/Paris,False,breathingExercise,3.0,1754145915.878611,dismissedAppOpening,,
+instagram,Europe/Paris,False,,,1754145311.7038221,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754156035.047707,openedApp,,Mantente Informado
+instagram,Europe/Paris,False,,,1754156283.762158,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754156856.058408,openedApp,,Mantente Informado
+instagram,Europe/Paris,False,,,1754157059.0193958,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754165574.795035,openedApp,,Mantente Informado
+instagram,Europe/Paris,False,,,1754166206.438613,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754171395.0473099,openedApp,,Obsesionarse con un crush
+instagram,Europe/Paris,False,breathingExercise,3.0,1754174451.830944,openedApp,,Obsesionarse con un crush
+instagram,Europe/Paris,False,,,1754174689.162991,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754175152.702798,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754175178.8512158,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754204949.2283258,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1754205020.295844,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754205065.1937451,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754205379.4389381,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754227087.830338,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754227164.953049,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754228580.259151,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754228640.179631,closedApp,,
+instagram,Europe/Paris,False,,,1754228820.186404,closedApp,,
+instagram,Europe/Paris,False,,,1754229379.255341,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754233193.537679,openedApp,,Buscar info
+youtube,Europe/Paris,False,,,1754235346.1959949,closedApp,,
+youtube,Europe/Paris,False,,,1754235824.499928,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754235885.863326,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754236306.366936,closedApp,,
+instagram,Europe/Paris,False,,,1754236967.852953,closedApp,,
+instagram,Europe/Paris,False,,,1754237103.3186069,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754241302.026669,dismissedAppOpening,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754241348.749387,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1754242491.186413,closedApp,,
+youtube,Europe/Paris,False,,,1754244004.528017,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754246166.351342,openedApp,,Revisar me gusta
+instagram,Europe/Paris,False,,,1754246775.242132,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754246905.33426,openedApp,,Aprender
+youtube,Europe/Paris,False,,,1754247667.8275461,closedApp,,
+youtube,Europe/Paris,False,,,1754247693.902808,closedApp,,
+youtube,Europe/Paris,False,,,1754248110.868499,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754254489.757577,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754254569.7274098,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754256343.660495,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754256714.820435,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754257421.629078,openedApp,,Revisar me gusta
+instagram,Europe/Paris,False,,,1754257846.7557302,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754261110.362308,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754261374.181319,openedApp,,Obsesionarse con un crush
+instagram,Europe/Paris,False,,,1754262046.8936071,closedApp,,
+instagram,Europe/Paris,False,,,1754262384.019635,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754285626.2732239,dismissedAppOpening,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754285932.839929,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1754286263.661135,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754291778.527894,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754292108.1591048,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754294744.4469929,openedApp,,Buscar info
+instagram,Europe/Paris,False,,,1754294814.7060452,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754295057.8536282,dismissedAppOpening,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754295914.1600618,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1754295960.774603,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754301047.625575,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1754301131.054558,closedApp,,
+instagram,Europe/Paris,False,,,1754301350.258761,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754307631.4277039,openedApp,,Escapar / Evitar
+youtube,Europe/Paris,False,,,1754307873.364684,closedApp,,
+youtube,Europe/Paris,False,,,1754308432.0035992,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754309618.928557,openedApp,,Podcast
+youtube,Europe/Paris,False,,,1754309812.937104,closedApp,,
+youtube,Europe/Paris,False,,,1754310413.437782,closedApp,,
+youtube,Europe/Paris,False,,,1754310537.1238341,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754314681.929405,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1754314743.29361,closedApp,,
+instagram,Europe/Paris,False,,,1754315119.381788,closedApp,,
+youtube,Europe/Paris,False,breathingExercise,3.0,1754315133.9235091,openedApp,,Aburrido
+youtube,Europe/Paris,False,,,1754315705.97912,closedApp,,
+youtube,Europe/Paris,False,,,1754316311.461343,closedApp,,
+youtube,Europe/Paris,False,,,1754318408.8199039,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754319233.806735,openedApp,,Publicar algo
+instagram,Europe/Paris,False,,,1754320431.021096,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754321150.7588081,openedApp,,Mensaje
+instagram,Europe/Paris,False,,,1754321220.9915051,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754325251.08147,openedApp,,Aburrido
+instagram,Europe/Paris,False,,,1754325429.591319,closedApp,,
+instagram,Europe/Paris,False,breathingExercise,3.0,1754327806.967843,openedApp,,Aburrido

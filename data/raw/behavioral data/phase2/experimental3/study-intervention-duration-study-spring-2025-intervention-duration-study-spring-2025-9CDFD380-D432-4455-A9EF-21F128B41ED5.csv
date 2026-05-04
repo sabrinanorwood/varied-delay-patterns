@@ -1,0 +1,287 @@
+isReIntervention,interventionType,resolution,purpose,timestamp,timezone,app,interventionDuration
+False,breathingExercise,openedApp,Post something,1748720326.079536,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1748720481.544337,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Post something,1748720494.486047,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1748720507.397612,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1748725745.719028,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1748877770.501752,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1748878820.795498,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1748889921.956541,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Search Info,1748929270.152904,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1748929379.9288468,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Search Info,1748929392.54806,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1748930538.477189,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1748955718.744215,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1748955719.7601671,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Stay In the Loop,1748963048.7825341,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1748963543.162873,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749027911.7552428,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749033675.8744159,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1749063195.8237329,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1749063286.9571419,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Post something,1749063375.7661371,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1749063755.791009,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Post something,1749063780.376748,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Stay In the Loop,1749066076.8505821,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749099120.387943,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749107364.826946,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749107491.195337,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749108250.38628,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749112104.4213529,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Stay In the Loop,1749132759.1177711,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749136678.001247,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1749212181.708263,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749283865.034102,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1749402294.49371,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749402665.87568,Europe/Riga,instagram,3.0
+False,,closedApp,,1749403030.720146,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749456335.67694,Europe/Riga,instagram,3.0
+False,,closedApp,,1749456448.9558501,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749456583.1022968,Europe/Riga,instagram,3.0
+False,,closedApp,,1749457411.567424,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1749457433.572966,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749461657.667285,Europe/Riga,instagram,3.0
+False,,closedApp,,1749461748.262697,Europe/Riga,instagram,
+False,,closedApp,,1749463087.075336,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749530909.340272,Europe/Riga,instagram,3.0
+False,,closedApp,,1749531025.940473,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749544305.1104422,Europe/Riga,instagram,3.0
+False,,closedApp,,1749544764.315053,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749544784.27416,Europe/Riga,instagram,3.0
+False,,closedApp,,1749545116.290576,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Stay In the Loop,1749545165.775865,Europe/Riga,instagram,3.0
+False,,closedApp,,1749545299.389369,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749555204.78329,Europe/Riga,instagram,3.0
+False,,closedApp,,1749556009.6146579,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1749556031.413471,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749589936.774934,Europe/Riga,instagram,3.0
+False,,closedApp,,1749590894.504843,Europe/Riga,instagram,
+False,,closedApp,,1749591732.707809,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749632753.940795,Europe/Riga,instagram,3.0
+False,,closedApp,,1749632861.08844,Europe/Riga,instagram,
+False,,closedApp,,1749632939.259301,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749635569.493607,Europe/Riga,instagram,3.0
+False,,closedApp,,1749635679.197915,Europe/Riga,instagram,
+False,,closedApp,,1749635845.3353848,Europe/Riga,instagram,
+False,,closedApp,,1749635993.8014898,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749636250.777314,Europe/Riga,instagram,3.0
+False,,closedApp,,1749636642.875037,Europe/Riga,instagram,
+False,,closedApp,,1749642763.741055,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749643115.900939,Europe/Riga,instagram,3.0
+False,,closedApp,,1749643356.158791,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1749643445.467177,Europe/Riga,instagram,3.0
+False,breathingExercise,dismissedAppOpening,,1749643697.4122062,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749643738.100404,Europe/Riga,instagram,3.0
+False,,closedApp,,1749644184.566798,Europe/Riga,instagram,
+False,,closedApp,,1749645721.364956,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749656501.1081638,Europe/Riga,instagram,3.0
+False,,closedApp,,1749657255.461617,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1749657557.254632,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749715318.253252,Europe/Riga,instagram,3.0
+False,,closedApp,,1749715453.401661,Europe/Riga,instagram,
+False,,closedApp,,1749716876.8284059,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749717232.462659,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749717265.5245261,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749717295.830698,Europe/Riga,instagram,3.0
+False,,closedApp,,1749717573.051537,Europe/Riga,instagram,
+False,,closedApp,,1749718296.0397801,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749720212.691029,Europe/Riga,instagram,3.0
+False,,closedApp,,1749720858.675746,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Stay In the Loop,1749743121.610163,Europe/Riga,instagram,3.0
+False,,closedApp,,1749744928.611722,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Stay In the Loop,1749793812.9014978,Europe/Riga,instagram,3.0
+False,,closedApp,,1749793872.1056008,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749800115.771076,Europe/Riga,instagram,3.0
+False,,closedApp,,1749800685.856097,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749816723.1797671,Europe/Riga,instagram,3.0
+False,,closedApp,,1749816820.701922,Europe/Riga,instagram,
+False,,closedApp,,1749816923.9603438,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749818538.2110538,Europe/Riga,instagram,3.0
+False,,closedApp,,1749818601.99887,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1749830396.0035381,Europe/Riga,instagram,3.0
+False,breathingExercise,openedApp,Message,1749833327.399998,Europe/Riga,instagram,3.0
+False,,closedApp,,1749833839.920399,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749883939.600105,Europe/Riga,instagram,3.0
+False,,closedApp,,1749884160.748382,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749898963.358574,Europe/Riga,instagram,3.0
+False,,closedApp,,1749899024.597917,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1749902459.014087,Europe/Riga,instagram,3.0
+False,,closedApp,,1749902573.571096,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1749987348.247196,Europe/Riga,instagram,6.0
+False,,closedApp,,1749987682.160944,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750064683.873479,Europe/Riga,instagram,6.0
+False,,closedApp,,1750064928.8873281,Europe/Riga,instagram,
+False,,closedApp,,1750065743.734577,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750073993.1267781,Europe/Riga,instagram,6.0
+False,,closedApp,,1750074266.74376,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750083736.740573,Europe/Riga,instagram,6.0
+False,,closedApp,,1750084070.033886,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750084403.494584,Europe/Riga,instagram,6.0
+False,,closedApp,,1750084680.4764981,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1750096421.240722,Europe/Riga,instagram,6.0
+False,breathingExercise,openedApp,Message,1750102372.235884,Europe/Riga,instagram,6.0
+False,,closedApp,,1750102417.065583,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750109259.760824,Europe/Riga,instagram,6.0
+False,,closedApp,,1750109577.911726,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1750139436.7472172,Europe/Riga,instagram,6.0
+False,breathingExercise,openedApp,Message,1750142213.915141,Europe/Riga,instagram,6.0
+False,,closedApp,,1750142246.715507,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1750155204.140737,Europe/Riga,instagram,6.0
+False,,closedApp,,1750157537.443826,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1750159768.485734,Europe/Riga,instagram,6.0
+False,,closedApp,,1750159897.645296,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1750160640.022439,Europe/Riga,instagram,6.0
+False,,closedApp,,1750161054.255073,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750177297.732043,Europe/Riga,instagram,6.0
+False,,closedApp,,1750179056.022691,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1750179125.905565,Europe/Riga,instagram,6.0
+False,breathingExercise,dismissedAppOpening,,1750179615.382731,Europe/Riga,instagram,6.0
+False,breathingExercise,dismissedAppOpening,,1750185002.040309,Europe/Riga,instagram,6.0
+False,breathingExercise,openedApp,Message,1750232543.105432,Europe/Riga,instagram,6.0
+False,breathingExercise,dismissedAppOpening,,1750234725.912457,Europe/Riga,instagram,6.0
+False,,closedApp,,1750234287.933481,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750234997.131545,Europe/Riga,instagram,6.0
+False,,closedApp,,1750235191.650428,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1750235220.9754338,Europe/Riga,instagram,6.0
+False,breathingExercise,dismissedAppOpening,,1750237268.195607,Europe/Riga,instagram,6.0
+False,breathingExercise,openedApp,Message,1750260003.365777,Europe/Riga,instagram,6.0
+False,,closedApp,,1750260155.120127,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750324421.9386,Europe/Riga,instagram,6.0
+False,,closedApp,,1750325303.840131,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750326011.337978,Europe/Riga,instagram,6.0
+False,,closedApp,,1750326152.14255,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Post something,1750329114.8680968,Europe/Riga,instagram,6.0
+False,,closedApp,,1750329621.3432431,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1750329645.555221,Europe/Riga,instagram,6.0
+False,breathingExercise,openedApp,Search Info,1750341553.553107,Europe/Riga,instagram,6.0
+False,,closedApp,,1750341852.967509,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1750348110.926396,Europe/Riga,instagram,6.0
+False,,closedApp,,1750348274.379908,Europe/Riga,instagram,
+False,,closedApp,,1750348833.055695,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750413774.0089788,Europe/Riga,instagram,6.0
+False,,closedApp,,1750414464.398709,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750421426.125626,Europe/Riga,instagram,6.0
+False,,closedApp,,1750421455.643899,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750603563.9476008,Europe/Riga,instagram,6.0
+False,,closedApp,,1750603962.596811,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1750687775.034748,Europe/Riga,instagram,6.0
+False,breathingExercise,dismissedAppOpening,,1750798031.3686981,Europe/Riga,instagram,6.0
+False,,closedApp,,1750688217.120349,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1750884673.899578,Europe/Riga,instagram,6.0
+False,,closedApp,,1750884859.940178,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1750889929.20332,Europe/Riga,instagram,6.0
+False,,closedApp,,1750890381.678073,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1750972556.337296,Europe/Riga,instagram,6.0
+False,,closedApp,,1750973215.588103,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751031735.686112,Europe/Riga,instagram,6.0
+False,,closedApp,,1751032154.89137,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751043678.262361,Europe/Riga,instagram,6.0
+False,,closedApp,,1751043729.158659,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751093758.4744658,Europe/Riga,instagram,6.0
+False,,closedApp,,1751093928.704947,Europe/Riga,instagram,
+False,,closedApp,,1751094294.562498,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751110620.0477939,Europe/Riga,instagram,6.0
+False,,closedApp,,1751111399.167492,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751111660.495599,Europe/Riga,instagram,6.0
+False,,closedApp,,1751112668.395998,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751218133.436204,Europe/Riga,instagram,6.0
+False,,closedApp,,1751220296.543392,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751280061.6897922,Europe/Riga,instagram,6.0
+False,,closedApp,,1751280670.0522718,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751281114.516535,Europe/Riga,instagram,6.0
+False,,closedApp,,1751281410.7428432,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1751281434.822651,Europe/Riga,instagram,6.0
+False,breathingExercise,dismissedAppOpening,,1751281441.364464,Europe/Riga,instagram,6.0
+False,breathingExercise,openedApp,Message,1751355310.292121,Europe/Riga,instagram,6.0
+False,,closedApp,,1751355688.836333,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751359879.343532,Europe/Riga,instagram,6.0
+False,,closedApp,,1751360382.812711,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751360768.3915591,Europe/Riga,instagram,6.0
+False,,closedApp,,1751361623.850332,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751441838.09729,Europe/Riga,instagram,6.0
+False,,closedApp,,1751442344.4213948,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751442385.0737128,Europe/Riga,instagram,6.0
+False,,closedApp,,1751443715.604063,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751445725.916583,Europe/Riga,instagram,6.0
+False,,closedApp,,1751446106.0033011,Europe/Riga,instagram,
+False,,closedApp,,1751447005.769187,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1751447057.29103,Europe/Riga,instagram,6.0
+False,breathingExercise,openedApp,Message,1751449636.870301,Europe/Riga,instagram,6.0
+False,,closedApp,,1751449747.236433,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Post something,1751486176.9513578,Europe/Riga,instagram,6.0
+False,,closedApp,,1751486305.173538,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Post something,1751486361.6910071,Europe/Riga,instagram,6.0
+False,,closedApp,,1751486452.5547562,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Post something,1751486658.7267241,Europe/Riga,instagram,6.0
+False,,closedApp,,1751487008.797111,Europe/Riga,instagram,
+False,,closedApp,,1751487152.675601,Europe/Riga,instagram,
+False,,closedApp,,1751491884.886581,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751526482.797204,Europe/Riga,instagram,6.0
+False,,closedApp,,1751526903.975034,Europe/Riga,instagram,
+False,,closedApp,,1751529606.167309,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751535381.862039,Europe/Riga,instagram,6.0
+False,,closedApp,,1751535476.1210752,Europe/Riga,instagram,
+False,,closedApp,,1751538288.541679,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751556961.633604,Europe/Riga,instagram,6.0
+False,,closedApp,,1751557705.768338,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751558622.879432,Europe/Riga,instagram,6.0
+False,,closedApp,,1751558701.936802,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751656139.019013,Europe/Riga,instagram,6.0
+False,,closedApp,,1751656355.522843,Europe/Riga,instagram,
+False,,closedApp,,1751657457.056629,Europe/Riga,instagram,
+False,,closedApp,,1751658017.6227531,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751658036.9419332,Europe/Riga,instagram,6.0
+False,,closedApp,,1751658318.244114,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751690503.186357,Europe/Riga,instagram,6.0
+False,,closedApp,,1751690715.051187,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751725759.018929,Europe/Riga,instagram,6.0
+False,,closedApp,,1751726377.508009,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751796676.5666962,Europe/Riga,instagram,6.0
+False,,closedApp,,1751797645.8012938,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751798168.656779,Europe/Riga,instagram,6.0
+False,,closedApp,,1751798645.003498,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751808036.831291,Europe/Riga,instagram,6.0
+False,,closedApp,,1751808929.590143,Europe/Riga,instagram,
+False,,closedApp,,1751813411.0001512,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751815329.991545,Europe/Riga,instagram,6.0
+False,,closedApp,,1751815399.2654052,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751816733.564848,Europe/Riga,instagram,6.0
+False,,closedApp,,1751817953.768336,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751825475.023572,Europe/Riga,instagram,6.0
+False,,closedApp,,1751825693.9721088,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751825938.7806978,Europe/Riga,instagram,6.0
+False,,closedApp,,1751829715.619749,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751873188.358911,Europe/Riga,instagram,6.0
+False,,closedApp,,1751876022.0144439,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751878743.5638661,Europe/Riga,instagram,6.0
+False,,closedApp,,1751878846.602353,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751879351.6757011,Europe/Riga,instagram,6.0
+False,,closedApp,,1751879978.341522,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751880003.5554318,Europe/Riga,instagram,6.0
+False,,closedApp,,1751880243.161325,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751884888.716249,Europe/Riga,instagram,6.0
+False,,closedApp,,1751885377.120174,Europe/Riga,instagram,
+False,,closedApp,,1751885412.609036,Europe/Riga,instagram,
+False,breathingExercise,dismissedAppOpening,,1751885497.3042731,Europe/Riga,instagram,6.0
+False,breathingExercise,openedApp,Message,1751912469.373359,Europe/Riga,instagram,6.0
+False,,closedApp,,1751912561.0994081,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1751913514.2816129,Europe/Riga,instagram,6.0
+False,,closedApp,,1751913596.144741,Europe/Riga,instagram,
+False,,closedApp,,1751913993.010148,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751923907.8234138,Europe/Riga,instagram,6.0
+False,,closedApp,,1751923957.96861,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Message,1751953137.8637261,Europe/Riga,instagram,6.0
+False,,closedApp,,1751953340.581188,Europe/Rome,instagram,
+False,breathingExercise,openedApp,Search Info,1752092487.044538,Europe/Rome,instagram,6.0
+False,,closedApp,,1752093107.473952,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1752167514.095738,Europe/Riga,instagram,6.0
+False,,closedApp,,1752167866.8589602,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1752179778.041914,Europe/Riga,instagram,6.0
+False,,closedApp,,1752179999.064537,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1752263691.752933,Europe/Riga,instagram,6.0
+False,,closedApp,,1752264017.86698,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1752319213.123452,Europe/Riga,instagram,6.0
+False,,closedApp,,1752319515.256979,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1752319559.5913548,Europe/Riga,instagram,6.0
+False,,closedApp,,1752319611.630491,Europe/Riga,instagram,
+False,breathingExercise,openedApp,Search Info,1752323638.74161,Europe/Riga,instagram,6.0

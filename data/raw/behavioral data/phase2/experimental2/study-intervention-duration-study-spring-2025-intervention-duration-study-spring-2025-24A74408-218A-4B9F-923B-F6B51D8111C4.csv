@@ -1,0 +1,580 @@
+timestamp,interventionType,interventionDuration,isReIntervention,timezone,resolution,app,purpose
+1738771240.391233,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1738787530.6024132,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1738795556.000634,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1738828043.242336,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1738834013.922904,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Search Info
+1738834767.575375,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1738839070.75251,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1738845109.402759,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1738854513.87675,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1738861597.244491,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1738878364.8417258,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1738879727.3900862,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1738915273.358675,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1738919307.292326,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1738921219.432765,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1738927697.131455,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1738932130.866646,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1738935433.118483,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1738946636.604298,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Relax
+1738950687.492132,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1738952145.183142,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1738954068.317274,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1738961290.19272,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Kan niet slapen
+1738964777.051704,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Kan niet slapen
+1738965081.887806,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1738965186.3877668,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1738966692.015417,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1738966694.887075,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739004748.216165,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1739014851.2188501,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739021369.0541968,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739032162.6046271,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Relax
+1739034854.772219,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Relax
+1739039702.879529,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Relax
+1739051634.854446,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739054069.343954,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739056437.125661,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739059185.5798612,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739090044.992155,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739096547.998128,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739102271.593962,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739104589.565641,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739110877.469255,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Relax
+1739111090.8137589,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739114178.327003,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739114585.282624,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739121847.084889,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Relax
+1739123395.577934,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739128780.0856519,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739129179.616197,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739131343.0973558,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739131905.5008621,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739141507.170629,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739142322.4294338,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739142654.826932,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739143009.610738,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739175667.86233,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739183936.136975,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739183987.697195,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739188417.703563,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739194344.146243,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739196072.712585,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739197294.379376,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739201301.612853,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739207639.149759,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739213266.8233662,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Relax
+1739217203.927192,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Relax
+1739219958.876739,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739221467.732374,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739223016.41205,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739224615.173499,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739226937.434348,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Relax
+1739227223.524234,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Search Info
+1739227315.762639,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Search Info
+1739229162.2226539,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739263535.068965,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739268446.7662868,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739279821.003959,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739281618.186939,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739286156.5341759,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1739287724.1704578,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739291557.59825,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739300939.4730182,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739302667.8380508,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1739311446.094729,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739315597.731261,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739349357.813118,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739355752.4444752,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739363925.471517,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739366380.850545,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739369139.801058,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739372031.100229,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739372715.704519,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739377511.895012,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739384961.275271,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739387209.6858191,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739387649.360509,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739390565.294959,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739392756.05737,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739397353.0920038,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739399818.000424,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739406725.497246,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1739435460.671773,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739441256.513269,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739444905.6546469,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739449536.016377,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1739452242.719878,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739461585.498065,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739470130.35491,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739472444.3823361,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739476115.55371,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1739480676.549677,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739487782.0941281,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1739519079.287366,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739526478.505886,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739528381.4056969,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739531274.36628,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739532065.2761002,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739533877.132405,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739534871.909378,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739539366.550782,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739543094.900706,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739545707.93855,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1739548346.261375,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739549085.4465961,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739549454.664777,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739561307.2808151,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739565655.611246,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739566971.885055,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739576093.488744,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739577066.518281,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739580774.3316169,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739581251.946563,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739607862.593997,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739609887.230654,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739612066.4982672,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739615220.112258,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739622420.97254,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stalk crush
+1739627136.133634,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739631166.73671,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739633723.750924,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739637298.31431,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739639059.2329679,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739639419.7626681,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739643386.6353831,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739644345.386234,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739645216.023223,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739647933.610718,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739653499.6068811,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739657496.887374,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739662867.763582,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739668199.587778,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739699463.865511,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739706426.259448,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739707515.2727242,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739713496.290746,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739723380.3293529,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739728277.140573,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739735200.232605,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739740033.465012,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1739749279.7199879,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739776901.807275,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739787551.871115,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739790685.547669,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739799875.3315969,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739802041.1722012,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739802705.9082909,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739806456.4932761,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739810573.9957762,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739812397.492923,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739813285.122439,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1739814229.8831081,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739816012.4023762,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739817793.920898,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739819587.401689,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739822984.4716969,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739828122.893594,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739830276.565371,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Post something
+1739830867.322187,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Post something
+1739831379.233172,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Post something
+1739831793.4538069,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739832135.81195,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Post something
+1739833153.970588,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739834775.290824,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739837481.846569,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739864908.745833,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739865688.648263,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739868867.1311479,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739869867.470041,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739870404.303962,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739870649.187844,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739872324.59919,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739874700.325869,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739876222.334295,breathingExercise,1.5,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739878174.9289088,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739880214.4415932,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739885797.52745,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739887631.6419048,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739894402.142507,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739898469.3080502,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739898993.644023,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739899620.878253,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739899960.152499,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739905560.3363218,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739908687.5298781,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739911810.9082742,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739912152.057827,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739915319.452735,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739917890.915432,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739920462.2156239,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739950498.209896,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Message
+1739960159.314382,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739960480.479693,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739965053.255449,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739966408.580371,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739970322.2127419,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739971857.689285,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739972867.9913092,breathingExercise,1.5,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1739991547.164019,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1739993937.977573,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1739998521.9947581,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1740000978.749408,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1740003156.34172,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1740034825.797437,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740041500.319865,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740045766.129766,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740046420.285507,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Post something
+1740046842.943815,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1740048079.281711,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740049749.1781092,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1740052382.385164,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1740057268.307736,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740060722.538292,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1740063473.949212,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1740067374.5102491,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1740071092.835227,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1740074178.438802,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1740077071.9468021,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740086111.577124,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740091631.7058249,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1740123873.2129521,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740136782.131645,breathingExercise,6.0,False,Europe/Brussels,openedApp,instagram,Entertainment
+1740137748.704304,breathingExercise,6.0,False,Europe/Brussels,openedApp,instagram,Entertainment
+1740140994.143492,breathingExercise,6.0,False,Europe/Paris,openedApp,instagram,Entertainment
+1740142998.186825,breathingExercise,6.0,False,Europe/Paris,openedApp,instagram,Entertainment
+1740144408.8641338,breathingExercise,6.0,False,Europe/Paris,openedApp,instagram,Entertainment
+1740149246.436709,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740149742.740951,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740161182.684139,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740168890.6807098,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740181857.738546,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740215575.204874,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740216660.078055,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740217038.309681,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740218444.5906348,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740229206.544485,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740242925.489355,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740247863.506902,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740252892.031427,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740264897.7952662,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740265579.634501,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740271340.97697,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740299564.233937,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740314118.909574,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740327434.632041,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740329434.322866,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740335837.274166,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740347982.517898,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740352324.729289,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740386135.664628,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740388719.643162,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740389107.9711719,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740395902.494662,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740395928.330437,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740399839.830126,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740408945.5744162,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740408984.623784,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740411782.65587,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740412493.673001,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740416345.163872,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740419581.8719501,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740435527.78743,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740440409.0083299,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740474086.782171,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740482148.4142609,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740484293.578799,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740485045.172917,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740489824.463478,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740502142.854405,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740518609.233622,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Search Info
+1740560807.5740662,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740563411.4358149,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740563432.713293,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740565133.754476,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740568407.547072,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Message
+1740570532.8499331,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740570834.575788,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740571507.550156,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740575431.4799829,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740576592.02409,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740578242.957399,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740580631.815812,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740581091.339484,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740583761.060179,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740583780.1982841,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740587843.553141,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740591636.037878,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740594904.096411,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740597955.546742,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740604095.478805,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740607246.695897,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740609619.128487,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740625200.453759,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740629290.118157,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740647420.578007,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740650796.574692,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740655508.699627,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740656615.406842,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740670998.8049998,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740679747.593133,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740683681.200745,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740687290.473572,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740690974.662679,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740692231.593787,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740692249.904908,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Post something
+1740692710.428821,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740693421.2957811,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740693855.883378,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Entertainment
+1740694671.008594,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740724766.3858771,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Stay In the Loop
+1740729917.590725,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Message
+1740735373.732218,breathingExercise,6.0,False,Europe/London,dismissedAppOpening,instagram,
+1740735397.089047,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Message
+1740739810.277759,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Message
+1740745595.716223,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Message
+1740746100.999514,breathingExercise,6.0,False,Europe/London,openedApp,instagram,Message
+1740748202.621177,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1740749464.520626,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1740752230.848932,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1740758644.821329,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1740759631.8882198,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740761208.736682,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1740765212.609256,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1740771754.2653952,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1740775739.732922,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740780113.672584,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1740780138.98076,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1740808944.083249,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740815423.7384791,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740816024.479249,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740821917.693513,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1740833859.104681,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1740842523.876494,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1740843994.32324,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1740863259.363867,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Message
+1740865312.2659578,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Message
+1740872161.652732,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1740876716.904338,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1740881454.919421,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1740905256.781862,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Message
+1740919627.233285,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1740931103.552176,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1740931689.812928,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1740943747.092566,breathingExercise,6.0,False,Europe/Rome,dismissedAppOpening,instagram,
+1740943766.483886,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1740945177.611119,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1740949102.66325,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1740951448.0353909,breathingExercise,6.0,False,Europe/Rome,dismissedAppOpening,instagram,
+1740952598.982751,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1740986696.489541,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1740991422.033365,breathingExercise,6.0,False,Europe/Rome,dismissedAppOpening,instagram,
+1740991434.326079,breathingExercise,6.0,False,Europe/Rome,dismissedAppOpening,instagram,
+1740993526.706056,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1740999597.187162,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1741002193.125386,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1741004361.949585,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Relax
+1741011558.7356892,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741012102.2246618,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741013320.769583,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741014197.124206,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1741016920.4650111,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741017355.180122,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Message
+1741019801.450789,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Message
+1741021252.6475549,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741025459.896315,breathingExercise,6.0,False,Europe/Rome,dismissedAppOpening,instagram,
+1741025774.4700708,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1741027497.807736,breathingExercise,6.0,False,Europe/Rome,dismissedAppOpening,instagram,
+1741027557.8649569,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Stay In the Loop
+1741031933.077551,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741033425.578562,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741034926.909689,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741040576.527147,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741067368.2945042,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741075487.016255,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Message
+1741079038.572751,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Message
+1741080047.8648682,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741084263.192017,breathingExercise,6.0,False,Europe/Rome,openedApp,instagram,Entertainment
+1741092540.880487,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741096924.51211,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741120546.235111,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741122757.172324,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1741125683.6624908,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741127605.890143,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1741158994.6043072,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741162781.104296,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741165969.2982259,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741172465.936939,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741172933.981252,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741183992.6594071,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741190371.874563,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741193105.4200401,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1741195619.3817859,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741197138.883204,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741197743.468301,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741210374.554768,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741210402.464929,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741214021.4246402,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741215211.97858,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741248223.2160401,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741249000.922069,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741252422.197078,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741252443.042135,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741252464.357912,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741259093.9158401,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741259437.046617,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741264511.7253509,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741269503.451083,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741273605.6114821,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741280845.3363938,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741281596.0094461,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741289156.042625,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741289655.564611,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741289899.162921,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741289984.410739,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741293694.767458,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741305245.267869,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Kan niet slapen
+1741330394.005406,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741334316.710268,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741345566.648212,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741353515.786758,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741353536.471277,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741354872.99179,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741383460.579356,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741416153.532208,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741418207.553203,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741418230.5818172,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741425168.786936,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741426374.347482,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741429648.7910872,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741443876.8817391,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741451514.7711558,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741452319.856632,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741456232.865905,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741459302.929914,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741470684.744189,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741472239.005218,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741473039.70149,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741478766.1519,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1741498364.6777349,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741509028.344806,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741509116.032773,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1741521036.794132,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Escape / Avoid
+1741521697.5903912,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741535620.957833,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1741542786.7375178,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741544044.8904371,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741557549.439547,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741558538.6071181,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Watercloset
+1741588329.317414,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741591963.384183,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1741594105.996141,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741597057.655771,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741598278.99698,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741599445.6843119,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741605856.111906,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741610318.00774,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Verveeld
+1741612479.972197,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741615921.1684399,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741622437.056593,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Post something
+1741626640.897608,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Post something
+1741640006.1521158,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741644279.2881808,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741647105.730109,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Kan niet slapen
+1741684830.371598,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741684850.00159,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741687897.077643,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741692217.327743,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741715923.399724,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741722858.851153,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741727953.086673,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741732478.44339,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741765278.1338592,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741766144.641803,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741774928.780391,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741786924.44297,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741796948.446793,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741807267.231384,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741811300.716656,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741811629.4852362,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741852829.64331,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741854634.6193361,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741864096.137906,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741868791.050782,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741870446.655182,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741882267.187083,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741888606.292319,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741889819.08251,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1741892796.247659,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741895890.212133,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741905143.848182,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741936556.645055,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741945141.2854261,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741969962.516333,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741975999.725127,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1741982134.892807,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1741986537.668563,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1741992950.6018372,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742026830.9663339,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742038530.506834,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742045011.425623,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1742050374.947783,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1742058299.910181,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742063415.2951732,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742064776.490786,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742076524.8323221,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742076850.399338,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742096377.190689,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742114658.985884,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1742114681.440315,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742115710.496098,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1742117681.867372,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742137779.269843,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742143553.883465,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742145414.8621712,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742146703.36515,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742152711.444737,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742156395.176516,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742157925.146525,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742163595.538334,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742164736.87131,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Entertainment
+1742165525.22156,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742167410.5685902,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742169360.704702,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742197969.1477342,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742200019.870573,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742202638.2440019,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742209928.314176,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742211558.31376,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742212026.1020532,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742212886.247076,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742215730.967453,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742217185.830347,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742219034.748446,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742230852.607822,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1742230863.21176,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1742236226.813129,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742246543.6806688,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742248274.4042912,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742280998.694057,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742286000.7009811,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742291336.373362,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742294635.271065,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742295522.1144571,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742297209.7023711,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742299835.201285,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742301600.649897,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742303758.9564319,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742311985.2200742,breathingExercise,6.0,False,Europe/Amsterdam,dismissedAppOpening,instagram,
+1742319138.176806,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742330209.9469008,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Message
+1742337103.3344269,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742340049.943378,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742368692.976479,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742374694.673586,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742376821.4089231,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742380357.9638948,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742385937.7358809,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742390309.327745,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop
+1742391254.8948321,breathingExercise,6.0,False,Europe/Amsterdam,openedApp,instagram,Stay In the Loop

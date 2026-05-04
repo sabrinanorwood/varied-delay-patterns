@@ -1,0 +1,16 @@
+interventionDuration,resolution,app,timestamp,timezone,interventionType,isReIntervention,timeIntervalUntilReIntervention,purpose,terminationReason
+1.5,dismissedAppOpening,tikTok,1748571040.562201,America/Detroit,breathingExercise,0.0,,,
+1.5,dismissedAppOpening,reddit,1748571119.2261171,America/Detroit,breathingExercise,0.0,,,
+1.5,dismissedAppOpening,tikTok,1748571123.174047,America/Detroit,breathingExercise,0.0,,,
+1.5,dismissedAppOpening,tikTok,1748571148.199854,America/Detroit,breathingExercise,0.0,,,
+1.5,dismissedAppOpening,tikTok,1748571150.1989589,America/Detroit,breathingExercise,0.0,,,
+1.5,dismissedAppOpening,tikTok,1748571153.784287,America/Detroit,breathingExercise,0.0,,,
+1.5,dismissedAppOpening,tikTok,1748571155.66769,America/Detroit,breathingExercise,0.0,,,
+1.5,dismissedAppOpening,youtube,1748571187.8156319,America/Detroit,breathingExercise,0.0,,,
+1.5,dismissedAppOpening,tikTok,1748571195.594254,America/Detroit,breathingExercise,0.0,,,
+1.5,dismissedAppOpening,tikTok,1748571318.606307,America/Detroit,askForTimeLimit,0.0,,,
+1.5,openedApp,tikTok,1748571356.878556,America/Detroit,breathingExercise,0.0,480.0,,
+1.5,dismissedAppOpening,instagram,1748571810.439173,America/Detroit,breathingExercise,0.0,,,
+1.5,openedApp,instagram,1748571978.607542,America/Detroit,breathingExercise,0.0,,Escape / Avoid,
+1.5,dismissedAppOpening,instagram,1748572011.158324,America/Detroit,breathingExercise,0.0,,,
+,,,1748572061.142452,,,,,,terminatedByUser

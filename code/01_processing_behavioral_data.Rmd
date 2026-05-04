@@ -49,7 +49,7 @@ type-guessing failures on inconsistent columns.
 
 ```{r}
 
-base_path  <- "../data/raw/behavioral data"
+base_path  <- "../data/raw/behavioral data/phase2"
 
 label_map  <- c(experimental1 = "ABC",
                 experimental2 = "ACC",
@@ -333,9 +333,9 @@ dir.create("../data/processed", showWarnings = FALSE)
 # saveRDS(df_rq2_1_model, "../data/processed/df_rq2_1_model.rds")
 # saveRDS(df_rq2_2_model, "../data/processed/df_rq2_2_model.rds")
 
-write_csv(dat_processed, "../data/processed/dat_processed_behavioral_data.csv")
-write_csv(dat_processed_dropout, "../data/processed/dat_processed_behavioral_data_dropout.csv")
-write_csv(dat_processed_open_attempts, "../data/processed/dat_processed_open_attempts.csv")
+write_csv(dat_processed, "../data/processed/data_processed_behavioral_data_all.csv")
+write_csv(dat_processed_dropout, "../data/processed/data_processed_behavioral_data_dropout.csv")
+write_csv(dat_processed_open_attempts, "../data/processed/data_processed_behavioral_data_open_attempts.csv")
 ```
 
 # Verification checks 

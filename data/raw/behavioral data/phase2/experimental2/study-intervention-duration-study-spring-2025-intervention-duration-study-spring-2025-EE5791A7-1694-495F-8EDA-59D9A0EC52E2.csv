@@ -1,0 +1,516 @@
+interventionDuration,resolution,timezone,isReIntervention,app,purpose,interventionType,timestamp
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1752571951.331423
+1.5,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1752574250.0320048
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752575979.3243
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752575981.6031299
+1.5,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1752576634.175609
+1.5,openedApp,Europe/Berlin,False,outlook,Nachricht / Schreiben,breathingExercise,1752585753.944572
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1752589083.535054
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752590032.890995
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752590742.635285
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752593245.337111
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1752596529.566321
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752597541.2297711
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752597545.1439319
+1.5,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1752599093.546589
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752599378.300582
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752599950.236589
+1.5,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1752602903.1080132
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752608562.416552
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752609801.6429439
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752640316.449069
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752640538.162774
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752642554.0942512
+1.5,openedApp,Europe/Berlin,False,outlook,Auf dem Laufenden bleiben,breathingExercise,1752647440.735981
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1752647519.1983771
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752647960.174491
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1752655254.241545
+1.5,openedApp,Europe/Berlin,False,outlook,Auf dem Laufenden bleiben,breathingExercise,1752657912.5525599
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1752658327.516628
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752684779.651873
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752685173.963735
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752687133.54861
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752687663.966927
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752690690.964292
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1752694076.019771
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752727019.066627
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752728334.059754
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752729706.465034
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752729707.821255
+1.5,openedApp,Europe/Berlin,False,outlook,Auf dem Laufenden bleiben,breathingExercise,1752736928.569376
+1.5,openedApp,Europe/Berlin,False,outlook,Infos suchen,breathingExercise,1752737279.6579552
+1.5,dismissedAppOpening,Europe/Berlin,False,outlook,,breathingExercise,1752737394.414515
+1.5,dismissedAppOpening,Europe/Berlin,False,outlook,,breathingExercise,1752737411.3244119
+1.5,dismissedAppOpening,Europe/Berlin,False,outlook,,breathingExercise,1752737576.442174
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1752738659.305612
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752739313.3049679
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752741027.056185
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752745869.39837
+1.5,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1752746915.0568109
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752748355.4393702
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1752750852.422235
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752752223.701735
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752752664.826058
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752760575.89187
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752761215.325204
+1.5,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1752763326.385816
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752764123.566691
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752765378.228743
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752766523.772647
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1752769342.3562841
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1752769530.907306
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1752772158.338845
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752776510.4519029
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752776511.821406
+1.5,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1752776521.82409
+1.5,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1752780962.049409
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752781529.273127
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752784468.743197
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1752812541.382742
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752818873.223023
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752819207.506027
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752819288.008987
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752819320.169946
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752819323.613361
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752819330.032368
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752820169.322947
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752830032.82376
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752831219.599148
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752836729.6372051
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752848724.591361
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1752855624.350939
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752857928.547734
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752858002.665067
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1752858021.782206
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1752887396.188496
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752901848.901394
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752914434.272706
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752914471.8626518
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752923978.302619
+1.5,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1752924349.693307
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752956727.17031
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752956768.4106522
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1752956941.631692
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1752957351.888103
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752957746.7999039
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752994150.265212
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752996144.200983
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1752996794.7306252
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753000973.082804
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753001814.992579
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753003276.357853
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753049399.79562
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753049726.48457
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753083625.911079
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753084251.504116
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753086271.4043689
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753086967.4488769
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753088370.283361
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753091859.686864
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753096918.6453571
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753097411.2702708
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753098345.737131
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753098514.656971
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753098940.458457
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753102119.9382792
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753102427.0566359
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753105860.24349
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753105925.744724
+1.5,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1753106137.473903
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753108468.379406
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753109370.169567
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753109886.077683
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753113254.12281
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753119449.898238
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753122048.314019
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753127761.016365
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753156593.3927379
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753161511.352553
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753174840.842805
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753175697.4033542
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753175835.431946
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753179806.359767
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753180060.070267
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753180416.5076861
+1.5,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1753181518.843221
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753181557.036034
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753183483.748965
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753184065.83881
+1.5,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1753184782.5002499
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753185269.611672
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753185361.363987
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753185366.889717
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753193310.164909
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753193479.242962
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753193620.216329
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753203616.660348
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753204407.32425
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753208266.240206
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753209034.701984
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753209697.050314
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753209702.480289
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753213328.962836
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753214430.3268251
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753214571.762783
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753244508.6485162
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753252839.5991468
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753254881.36758
+1.5,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1753255172.563072
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753255406.660304
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753256859.264888
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753272008.986536
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753276035.6300669
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753278380.041785
+1.5,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1753279659.766849
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753279886.9568582
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753279938.859509
+1.5,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1753279950.2784061
+1.5,openedApp,Europe/Berlin,False,instagram,Etwas posten,breathingExercise,1753280070.351409
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753286616.336412
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753287459.45654
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753294663.312381
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753295081.8319988
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753295331.187275
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753295485.701685
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753295594.8310041
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753296086.17606
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753297645.839597
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753297721.740814
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753297971.042478
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753298045.4987922
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753298413.070936
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753298472.611635
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753298547.4523702
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753298717.951573
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753298778.950207
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753298784.9803839
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753330775.1544209
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753340884.286417
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753341538.7745152
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753342548.7743979
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753342953.852566
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753346785.1547751
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753346903.097568
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753347084.617985
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753351673.504735
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753351698.248095
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753352054.428062
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753352070.26383
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753352557.064756
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753352558.322582
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753352607.290299
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753352659.498527
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753356977.1032782
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753359045.556864
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753359372.814023
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753359998.531678
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753366648.291078
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753367491.16645
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753371220.367095
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753376289.180347
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753376406.8480868
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753381556.120503
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753382344.9469318
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753383396.183476
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753384548.7608318
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753423096.106907
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753424709.3548908
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753429281.2159061
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753435179.346895
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753435201.294497
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753449472.035049
+1.5,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1753450696.609714
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753451381.1872358
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753461352.6416159
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753463276.4448628
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753469635.064024
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753475832.356605
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753476060.3383532
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753476111.304045
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753508707.502016
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753510547.74442
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753511094.735246
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753512801.161717
+1.5,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753515860.477622
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753518976.32903
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753525699.308672
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753530288.2655149
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753532498.521692
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753533032.242173
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753538946.5753078
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753538953.673019
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753542182.612175
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753542374.7263122
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753542387.202127
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753544234.977252
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753546452.006885
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753548167.1335402
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753549753.7348561
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753549777.160702
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753550319.3755898
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753553344.3837
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753554396.23001
+1.5,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1753554464.779489
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753554607.356214
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753554609.947037
+1.5,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1753554642.5268722
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753590225.622622
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753602273.203656
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753604317.410552
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753605008.113025
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753605324.107377
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753623730.151483
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753624803.9073482
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753625235.659617
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753631833.550875
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753632114.5291271
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753632120.935359
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753634059.190096
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753634403.288254
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753638848.911207
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753645180.20407
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753645459.307352
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753645522.4887428
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753645525.735621
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753645603.143837
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753650107.983645
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753678334.947818
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753681357.352006
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753681607.315744
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753695131.620212
+1.5,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753695233.7428498
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753696964.162827
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753697458.590842
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753698352.851299
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753702304.722728
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753703095.2378201
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753711450.93835
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753712615.192033
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753715342.0355248
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753715925.461156
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753721152.687296
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753725072.426059
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753727036.393622
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753728774.303938
+1.5,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753729720.132535
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753731441.44444
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753731823.522716
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753734165.088974
+1.5,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753734767.4216619
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753734945.843596
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753735354.331182
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753764645.37482
+1.5,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753771031.191975
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753771215.309483
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753771763.6945062
+1.5,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753771983.7394528
+1.5,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753773200.847347
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753775936.992714
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753775976.631676
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753776003.800081
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753788087.829149
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753790177.377139
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753790312.759438
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753791258.661495
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753791990.301208
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753793884.965575
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753800680.394969
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753800899.240603
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753802095.373507
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753802199.7218652
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753802455.7225518
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753803126.6379452
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1753805263.891773
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753805656.9725199
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1753810609.7026591
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753813679.836141
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753813979.376929
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753814264.1606731
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753815696.459779
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753817143.5452561
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753817774.444049
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753851062.992599
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753854794.797507
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753854941.191483
+6.0,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753854971.331806
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753855060.08608
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753855061.536382
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753855075.034584
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753855170.378484
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753855627.9263492
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753855781.7007809
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753855813.64107
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753855942.169966
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753857885.911981
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753857906.354724
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753857953.4704661
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753858527.854737
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753870016.602985
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753870720.4819489
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753872255.486796
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753873909.645735
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753874292.659569
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753875363.3337998
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753878125.937954
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753878141.632555
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753878349.5845299
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753880969.674882
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753881607.424233
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753882574.754918
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753890158.618326
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753890476.512816
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753890543.3484921
+6.0,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1753890767.1516619
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753891278.9250832
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753892699.245057
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753893447.92381
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753894233.1364899
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753896187.995699
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753899954.2482119
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753899976.2373428
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753901336.009316
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753902294.117733
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753902951.5849729
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753903044.710338
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753904479.287702
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753904499.155674
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753935680.0995522
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753941029.217056
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753946771.6639318
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753946987.680506
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753948169.230376
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1753951978.790828
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753953672.125149
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753954090.9093719
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753964106.395896
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1753964251.061181
+6.0,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1753966082.105633
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753969735.06468
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753973773.6707501
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1753975165.3104038
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753975266.7323909
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753975286.0388489
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753975391.93697
+6.0,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1753975576.554871
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753975689.3016682
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1753976290.739517
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753980516.808282
+6.0,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1753986195.923571
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753986360.370343
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753986412.124857
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753986876.52009
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753986907.751134
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753989795.96928
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1753990671.550638
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1753991436.146033
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1753991488.4242392
+6.0,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1754023440.609062
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1754025246.578137
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754025567.9633799
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1754028089.895101
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754028636.603485
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754028708.6173182
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754029241.764009
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754030572.760361
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754034689.2491841
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1754034786.353833
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754035688.1972442
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1754040521.158015
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754042592.640569
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754043628.533976
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754044871.288245
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754045311.691311
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754047389.2531672
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754047393.56643
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754048501.445638
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754051674.473865
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754051944.951031
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754051979.422962
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754052155.630229
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754055620.9970899
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754059596.2723231
+6.0,openedApp,Europe/Berlin,False,instagram,Infos suchen,breathingExercise,1754062306.520951
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754062984.491562
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754067216.344737
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754072693.230155
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754073887.824833
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754079578.8983731
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1754114893.285958
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754139810.9361072
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1754141682.874227
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754151554.8289871
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754159305.145351
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754159799.040976
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754160125.193104
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754162607.77052
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1754164781.2989469
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754165738.242245
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754193553.541513
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754195180.583431
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1754195599.6846461
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1754197708.802825
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1754199548.5304952
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1754201377.727644
+6.0,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1754204514.677764
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754205511.072184
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754207592.748836
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754207938.615118
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754207978.163635
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754212836.416054
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1754216129.5484219
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754221685.1527581
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754222144.625561
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754235708.085
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754235978.611515
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754236074.1599112
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754238756.260231
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754238819.472643
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1754245038.0548081
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754246051.7100239
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754283076.2418451
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754289053.499152
+6.0,openedApp,Europe/Berlin,False,instagram,Crush stalken,breathingExercise,1754289582.98226
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754289686.628911
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754290719.9485521
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754291044.784647
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754295613.1312299
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1754295635.3619351
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1754298927.2626219
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754300178.45849
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754300297.3641849
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754300312.1670442
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754301399.324058
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754301692.130875
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754304769.835297
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754305862.001498
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754306026.2368379
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754312566.07225
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754314024.670533
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754317820.158783
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754318269.839807
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754321880.504271
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1754323369.7061028
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1754323565.970025
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754324374.599417
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1754324518.9697099
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754324651.8265939
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754324684.997922
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754324775.8500319
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754324805.777925
+6.0,openedApp,Europe/Berlin,False,instagram,Ablenkung,breathingExercise,1754329123.0720592
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754329602.205381
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1754330818.447912
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1754331356.081152
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754333845.890954
+6.0,openedApp,Europe/Berlin,False,instagram,Auf dem Laufenden bleiben,breathingExercise,1754371634.509428
+6.0,openedApp,Europe/Berlin,False,instagram,Langeweile,breathingExercise,1754374658.4959002
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754375959.295387
+6.0,openedApp,Europe/Berlin,False,instagram,Nachricht / Schreiben,breathingExercise,1754380231.6190538
+6.0,openedApp,Europe/Berlin,False,instagram,Klo,breathingExercise,1754386908.588207
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1754387386.375726
+6.0,dismissedAppOpening,Europe/Berlin,False,instagram,,breathingExercise,1754389555.294794
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754394893.945147
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754395009.4478269
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754401784.3527288
+6.0,openedApp,Europe/Berlin,False,instagram,Entspannung,breathingExercise,1754402452.005392
+6.0,openedApp,Europe/Berlin,False,instagram,Unterhaltung,breathingExercise,1754402505.6887631

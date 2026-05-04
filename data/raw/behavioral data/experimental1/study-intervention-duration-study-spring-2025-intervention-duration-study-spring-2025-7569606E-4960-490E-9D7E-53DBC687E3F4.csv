@@ -1,5 +1,0 @@
-timezone,app,resolution,isReIntervention,timestamp,interventionDuration,interventionType
-Asia/Kolkata,instagram,openedApp,False,1749626126.21643,,
-Asia/Kolkata,instagram,closedApp,False,1749626726.2164311,,
-Asia/Kolkata,instagram,dismissedAppOpening,False,1749626726.2164311,,
-Asia/Kolkata,instagram,openedApp,False,1749662968.731147,1.5,breathingExercise

@@ -1,4 +1,0 @@
-isReIntervention,timestamp,timezone,resolution,app
-False,1750873765.3168979,Europe/Berlin,openedApp,instagram
-False,1750874065.3168979,Europe/Berlin,closedApp,instagram
-False,1750874065.3168979,Europe/Berlin,dismissedAppOpening,instagram
