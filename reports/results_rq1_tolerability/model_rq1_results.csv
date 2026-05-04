@@ -1,0 +1,5 @@
+Predictor,OR,95% CI,p
+(Intercept),1.964,"[1.606, 2.413]",< .001
+conditionABC,0.94,"[0.702, 1.258]",0.675
+conditionACC,1.033,"[0.776, 1.375]",0.826
+conditionBCC,1.212,"[0.903, 1.627]",0.201

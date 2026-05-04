@@ -32,7 +32,8 @@ library(emmeans)
 library(flextable)
 library(officer)
 
-dir.create("results_rq1", showWarnings = FALSE)
+dir.create("../reports/")
+dir.create("../reports/results_rq1_tolerability/")
 
 ```
 
@@ -40,7 +41,7 @@ dir.create("results_rq1", showWarnings = FALSE)
 
 ```{r}
 
-df_rq1 <- readRDS("data_clean/df_rq1.rds") %>%
+df_rq1 <- read_csv("../data/processed/data_processed_behavioral_data_dropout.csv") %>%
   mutate(condition = relevel(factor(condition), ref = "CCC"))
 
 ```
@@ -59,8 +60,9 @@ df_rq1_summary <- df_rq1 %>%
     .groups = "drop"
   )
 
-print(df_rq1_summary)
-write_csv(df_rq1_summary, "results_rq1/dropout_summary.csv")
+df_rq1_summary
+
+write_csv(df_rq1_summary, "../reports/results_rq1_tolerability/dropout_summary.csv")
 
 ```
 
@@ -70,9 +72,14 @@ write_csv(df_rq1_summary, "results_rq1/dropout_summary.csv")
 
 df_weekly_dropout <- df_rq1 %>%
   filter(dropout == 1) %>%
-  count(condition, last_week, name = "n_dropouts")
+  count(condition, last_week, name = "n_dropouts") |>
+  pivot_wider(names_from = "condition", 
+              values_from = "n_dropouts",
+              names_prefix = "n_dropouts_")
 
-write_csv(df_weekly_dropout, "results_rq1/weekly_dropout_counts.csv")
+df_weekly_dropout
+
+write_csv(df_weekly_dropout, "../reports/results_rq1_tolerability/weekly_dropout_counts.csv")
 
 ```
 
@@ -82,7 +89,7 @@ Preregistration specified negative binomial but dropout is binary — logistic i
 
 ```{r}
 
-model_rq1 <- glm(dropout ~ condition,
+model_rq1 <- glm(dropout ~ 1 + condition,
                  data = df_rq1,
                  family = binomial(link = "logit"))
 
@@ -96,14 +103,13 @@ results_rq1 <- tidy(model_rq1, exponentiate = TRUE, conf.int = TRUE) %>%
     p    = case_when(p.value < .001 ~ "< .001",
                      p.value < .01  ~ "< .01",
                      p.value < .05  ~ "< .05",
-                     TRUE           ~ as.character(round(p.value, 3))),
-    B_SE = paste0(round(log(estimate), 3), " (", round(std.error, 3), ")")
+                     TRUE           ~ as.character(round(p.value, 3)))
   ) %>%
-  select(term, B_SE, OR, CI, p) %>%
-  rename(Predictor = term, `B (SE)` = B_SE, `OR` = OR, `95% CI` = CI, `p` = p)
+  select(Predictor = term, OR, `95% CI` = CI, p) 
 
-print(results_rq1)
-write_csv(results_rq1, "results_rq1/model_rq1_results.csv")
+results_rq1
+
+write_csv(results_rq1, "../reports/results_rq1_tolerability/model_rq1_results.csv")
 
 # Model fit
 chi_sq  <- model_rq1$null.deviance - model_rq1$deviance
@@ -132,8 +138,9 @@ pairwise_rq1 <- emmeans(model_rq1, ~ condition) %>%
                   TRUE           ~ as.character(round(p.value, 3)))
   )
 
-print(pairwise_rq1)
-write_csv(pairwise_rq1, "results_rq1/pairwise_rq1.csv")
+pairwise_rq1
+
+write_csv(pairwise_rq1, "../reports/results_rq1_tolerability/pairwise_rq1.csv")
 
 ```
 
@@ -150,8 +157,7 @@ doc <- read_docx() %>%
                                  select(contrast, odds.ratio, SE, asymp.LCL, asymp.UCL, p)) %>%
                        autofit())
 
-print(doc, target = "results_rq1/results_rq1.docx")
-cat("RQ1 complete. Results saved to results_rq1/\n")
+print(doc, target = "../reports/results_rq1_tolerability/results_rq1.docx")
 
 ```
 
