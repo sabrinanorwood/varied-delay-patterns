@@ -1,0 +1,361 @@
+---
+title: "Data processing for behavioral data"
+author: "Sabrina Norwood"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    code_folding: hide
+    highlight: haddock
+    theme: flatly
+    toc: yes
+    toc_float: yes
+---
+
+# Necessary data cleaning
+
+- Interventions other than breathing exercise were included erroneously
+- 40 second interventions allowed erroneously for a minority of cases
+- reintervention was enabled for some users; excluded
+
+# Deviations from preregistration
+
+- Attrition wasn't defined in the prereg. We define it as no behavioral data in week 6.
+
+# TODO
+
+1. "Never started" participants (N=1,275): completed pre-survey but generated no behavioral data. These do not count towards dropouts, they are excluded entirely. 
+2. why does RQ 2 only have unique participants: 218?
+3. interventionDuration codes are 1.5, 3, 6, and NA, not 3, 6, 10 as per design. Is this a coding error or did the intervention not occur as planned?
+     
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE)
+
+```
+
+# Dependencies
+
+```{r}
+
+library(tidyverse)
+
+```
+
+# Step 1: Load and combine all CSVs
+
+Column order varies across files; read everything as character to avoid
+type-guessing failures on inconsistent columns.
+
+```{r}
+
+base_path  <- "../data/raw/behavioral data"
+
+label_map  <- c(experimental1 = "ABC",
+                experimental2 = "ACC",
+                experimental3 = "BCC",
+                control       = "CCC")
+
+# Load pre-survey condition map (authoritative source for condition assignment)
+pre_survey_path <- list.files("../data/raw/self-report data", 
+                              pattern = "pre_survey", 
+                              full.names = TRUE)
+
+condition_map <- read_csv(pre_survey_path,
+                          col_types = cols(.default = col_character()),
+                          show_col_types = FALSE) %>%
+  slice(-c(1, 2)) %>%
+  filter(str_starts(uuid, "intervention-duration-study-spring-2025"),
+         Finished == "True") %>%
+  transmute(
+    participant_id = str_extract(
+      uuid,
+      "[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}"
+    ) %>% str_to_upper(),
+    condition_presurvey = recode(group,
+      control       = "CCC",
+      experimental1 = "ABC",
+      experimental2 = "ACC",
+      experimental3 = "BCC"
+    )
+  ) %>%
+  distinct(participant_id, .keep_all = TRUE)
+
+dat_processed <- map_dfr(names(label_map), function(cond) {
+  folder <- file.path(base_path, cond)
+  files  <- list.files(folder, full.names = TRUE, pattern = "\\.csv$")
+
+  map_dfr(files, function(f) {
+    read_csv(f, col_types = cols(.default = col_character()), show_col_types = FALSE) %>%
+      mutate(source_file = basename(f))
+  }) %>%
+    mutate(condition_folder = label_map[[cond]])
+}) %>%
+  mutate(
+    participant_id = str_extract(
+      source_file,
+      "[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}"
+    ) %>% str_to_upper()
+  ) %>%
+  # Join authoritative condition from pre-survey
+  left_join(condition_map, by = "participant_id") %>%
+  # For participants appearing in multiple folders, keep only rows matching
+  # their pre-survey condition (resolves 7 duplicated CSVs)
+  filter(condition_folder == condition_presurvey | is.na(condition_presurvey)) %>%
+  mutate(condition = coalesce(condition_presurvey, condition_folder)) %>%
+  select(-condition_folder, -condition_presurvey)
+
+cat("Rows loaded:", nrow(dat_processed), "\n")
+
+# Flag and remove rows where UUID extraction failed (filename didn't match pattern)
+na_uuid_rows <- sum(is.na(dat_processed$participant_id))
+if (na_uuid_rows > 0) {
+  cat("WARNING: rows with NA participant_id (bad filename):", na_uuid_rows, "\n")
+  na_uuid_files <- dat_processed %>% filter(is.na(participant_id)) %>% distinct(source_file)
+  print(na_uuid_files)
+  dat_processed <- dat_processed %>% filter(!is.na(participant_id))
+}
+
+# breathing exercise intervention only; exclude minority of 40 second interventions
+# dat_processed |>
+#   count(interventionType)
+
+dat_processed <- dat_processed |>
+  filter(interventionType == "breathingExercise" & 
+           (is.na(interventionDuration) | interventionDuration %in% c(1.5, 3, 6)))
+
+dat_processed |>
+  count(condition, interventionDuration)
+
+cat("Unique participants:", n_distinct(dat_processed$participant_id), "\n")
+cat("Conditions:\n"); print(table(dat_processed$condition, useNA = "always"))
+
+```
+
+# Step 2: Coerce column types
+
+```{r}
+dat_processed <- dat_processed %>%
+  mutate(
+    timestamp            = as.numeric(timestamp),
+    interventionDuration = as.numeric(interventionDuration),
+    isReIntervention = case_when(
+      isReIntervention %in% c("1", "True")  ~ TRUE,
+      isReIntervention %in% c("0", "False") ~ FALSE,
+      TRUE ~ NA
+    )
+  ) |>
+  filter(is.na(isReIntervention) | isReIntervention==FALSE)
+
+dat_processed |>
+  count(isReIntervention)
+```
+
+# Step 3: Parse timestamp → datetime + study week
+
+study_week: floor(day_since_start / 7) + 1  → day 0 = week 1
+
+```{r}
+dat_processed <- dat_processed %>%
+  mutate(datetime = as.POSIXct(timestamp, origin = "1970-01-01", tz = "UTC"),
+         date     = as.Date(datetime)) %>%
+  group_by(participant_id) %>%
+  arrange(timestamp, .by_group = TRUE) %>%
+  mutate(
+    user_start      = min(timestamp, na.rm = TRUE),
+    day_since_start = as.integer(difftime(
+      datetime,
+      as.POSIXct(user_start, origin = "1970-01-01", tz = "UTC"),
+      units = "days"
+    )),
+    study_week = floor(day_since_start / 7) + 1
+  ) %>%
+  ungroup()
+```
+
+# Step 4: Flag and remove invalid data
+
+- Non-2025 timestamps (Hanna found one participant with year-2001 data)
+- Weeks > 6 (should disappear once non-2025 rows are removed)
+- Missing condition
+
+```{r}
+dat_processed <- dat_processed %>%
+  mutate(year = format(date, "%Y"))
+
+invalid_year_ids <- dat_processed %>%
+  filter(year != "2025") %>%
+  distinct(participant_id) %>%
+  pull()
+
+cat("\nParticipants with non-2025 timestamps:", length(invalid_year_ids), "\n")
+if (length(invalid_year_ids) > 0) print(invalid_year_ids)
+
+missing_condition_ids <- dat_processed %>%
+  filter(is.na(condition)) %>%
+  distinct(participant_id) %>%
+  pull()
+cat("Participants with missing condition:", length(missing_condition_ids), "\n")
+
+dat_processed <- dat_processed %>%
+  filter(year == "2025",
+         study_week <= 6,
+         !is.na(condition))
+
+cat("\nParticipants after cleaning:", n_distinct(dat_processed$participant_id), "\n")
+cat("Rows after cleaning:", nrow(dat_processed), "\n")
+
+```
+
+# Step 5: Assign delay type from condition + study week
+
+interventionDuration values in the CSVs are unreliable (per developer).
+Delay type is derived entirely from condition + week.
+  A = 3s (preregistered), B = 6s, C = 10s
+
+```{r}
+dat_processed <- dat_processed %>%
+  mutate(delay_type = case_when(
+    condition == "CCC"                         ~ "C",
+    condition == "ABC" & study_week <= 2       ~ "A",
+    condition == "ABC" & study_week <= 4       ~ "B",
+    condition == "ABC"                         ~ "C",
+    condition == "ACC" & study_week <= 2       ~ "A",
+    condition == "ACC"                         ~ "C",
+    condition == "BCC" & study_week <= 2       ~ "B",
+    condition == "BCC"                         ~ "C",
+    TRUE ~ NA_character_
+  ))
+
+cat("\nDelay type × condition:\n")
+print(table(dat_processed$delay_type, dat_processed$condition, useNA = "always"))
+
+```
+
+# Step 6: Event classification variables
+
+initial_attempt: all intervention-triggered attempts (excludes closedApp)
+dismissed: user did not open the app after the intervention
+executed: user opened the app after the intervention
+
+NOTE: dismissedByStructuredIntervention is included as both attempt and
+dismissal, following Hanna's approach. Confirm if correct.
+
+```{r}
+
+dat_processed <- dat_processed %>%
+  mutate(
+    initial_attempt = if_else(
+      resolution %in% c("openedApp", "dismissedAppOpening",
+                         "dismissedByStructuredIntervention"),
+      1L, 0L, missing = 0L
+    ),
+    dismissed = if_else(
+      resolution %in% c("dismissedAppOpening",
+                         "dismissedByStructuredIntervention"),
+      1L, 0L, missing = 0L
+    ),
+    executed = if_else(resolution == "openedApp", 1L, 0L, missing = 0L)
+  )
+
+cat("\nResolution value counts:\n")
+print(dat_processed %>% count(resolution, sort = TRUE))
+
+```
+
+# Step 7: Flag missing resolution rows
+
+```{r}
+dat_processed <- dat_processed %>%
+  mutate(flag_resolution_missing = is.na(resolution) | resolution == "")
+
+cat("\nMissing resolution rows:", sum(dat_processed$flag_resolution_missing), "\n")
+cat("Missing resolution by condition:\n")
+print(dat_processed %>% filter(flag_resolution_missing) %>% count(condition))
+
+```
+
+# Step 8: Dropout status
+
+dropout = 1 if participant has no activity in week 6
+
+```{r}
+dat_processed_dropout <- dat_processed %>%
+  group_by(participant_id) %>%
+  summarise(
+    last_week = max(study_week, na.rm = TRUE),
+    condition = first(condition),
+    .groups   = "drop"
+  ) %>%
+  mutate(dropout = if_else(last_week < 6, 1L, 0L))
+
+dat_processed <- dat_processed %>%
+  left_join(dat_processed_dropout %>% select(participant_id, dropout), by = "participant_id")
+
+cat("\nDropout counts per condition:\n")
+print(dat_processed_dropout %>% count(condition, dropout))
+
+```
+
+# Step 9: Analytical subsets
+
+```{r}
+# RQ1: one row per participant
+# dat_processed_behavioral_data_dropout
+
+# RQ2.1 model: one row per participant, week 1 + week 6 dismissed/attempted
+dat_processed_open_attempts <- dat_processed %>%
+  filter(study_week %in% c(1, 6)) %>%
+  group_by(participant_id, condition, study_week) %>%
+  summarise(
+    dismissed = sum(dismissed),
+    attempted = sum(initial_attempt),
+    .groups   = "drop"
+  ) %>%
+  pivot_wider(
+    names_from  = study_week,
+    values_from = c(dismissed, attempted),
+    names_glue  = "{.value}_w{study_week}"
+  ) 
+
+# RQ2: initial events only, completers only, no missing resolution
+cat("\nRQ2 — unique participants:", n_distinct(dat_processed_open_attempts$participant_id), "\n")
+```
+
+# Save
+
+```{r}
+dir.create("../data/processed", showWarnings = FALSE)
+
+# saveRDS(dat_processed,      "../data/processed/dat_processed_behavioral_data.rds")
+# saveRDS(df_rq1,         "../data/processed/df_rq1.rds")
+# saveRDS(df_rq2,         "../data/processed/df_rq2.rds")
+# saveRDS(df_rq2_1_model, "../data/processed/df_rq2_1_model.rds")
+# saveRDS(df_rq2_2_model, "../data/processed/df_rq2_2_model.rds")
+
+write_csv(dat_processed, "../data/processed/dat_processed_behavioral_data.csv")
+write_csv(dat_processed_dropout, "../data/processed/dat_processed_behavioral_data_dropout.csv")
+write_csv(dat_processed_open_attempts, "../data/processed/dat_processed_open_attempts.csv")
+```
+
+# Verification checks 
+
+```{r}
+multi_cond <- dat_processed %>%
+  distinct(participant_id, condition) %>%
+  count(participant_id) %>%
+  filter(n > 1)
+
+cat("\nParticipants in multiple conditions (should be 0):", nrow(multi_cond), "\n")
+if (nrow(multi_cond) > 0) print(multi_cond)
+
+cat("delay_type NAs (should be 0):", sum(is.na(dat_processed$delay_type)), "\n")
+```
+
+# Session info
+
+```{r}
+sessionInfo()
+```
+
+

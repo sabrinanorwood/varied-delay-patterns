@@ -1,0 +1,197 @@
+library(tidyverse)
+library(MASS)
+library(broom)
+library(emmeans)
+library(flextable)
+library(officer)
+library(AER)
+
+dir.create("results_rq2", showWarnings = FALSE)
+
+df_rq2_1 <- readRDS("data_clean/df_rq2_1_model.rds") %>%
+  mutate(condition = relevel(factor(condition), ref = "CCC"))
+
+df_rq2_2 <- readRDS("data_clean/df_rq2_2_model.rds") %>%
+  mutate(condition = relevel(factor(condition), ref = "CCC"))
+
+# ==============================================================================
+# RQ 2.1: Dismissed app openings in week 6
+# Model: NB regression, offset = log(attempted_w6)
+# Covariates: dismissed_w1, attempted_w1
+# ==============================================================================
+
+# --- Assumption check: overdispersion ---
+poisson_21 <- glm(
+  dismissed_w6 ~ condition + dismissed_w1 + attempted_w1,
+  offset = log(attempted_w6),
+  data   = df_rq2_1,
+  family = poisson()
+)
+disp_test_21 <- dispersiontest(poisson_21)
+cat("RQ2.1 dispersion test:", capture.output(print(disp_test_21)), sep = "\n")
+
+# Zero-inflation check
+zero_pct_21 <- mean(df_rq2_1$dismissed_w6 == 0) * 100
+cat(sprintf("RQ2.1 zero proportion: %.1f%%\n", zero_pct_21))
+
+# --- Main model ---
+model_rq2_1 <- glm.nb(
+  dismissed_w6 ~ condition + dismissed_w1 + attempted_w1 + offset(log(attempted_w6)),
+  data = df_rq2_1
+)
+
+summary(model_rq2_1)
+
+results_rq2_1 <- tidy(model_rq2_1, exponentiate = TRUE, conf.int = TRUE) %>%
+  mutate(
+    RR   = round(estimate, 3),
+    CI   = paste0("[", round(conf.low, 3), ", ", round(conf.high, 3), "]"),
+    p    = case_when(p.value < .001 ~ "< .001",
+                     p.value < .01  ~ "< .01",
+                     p.value < .05  ~ "< .05",
+                     TRUE           ~ as.character(round(p.value, 3))),
+    B_SE = paste0(round(log(estimate), 3), " (", round(std.error, 3), ")")
+  ) %>%
+  dplyr::select(term, B_SE, RR, CI, p) %>%
+  rename(Predictor = term, `B (SE)` = B_SE, `Rate Ratio` = RR, `95% CI` = CI, `p` = p)
+
+print(results_rq2_1)
+write_csv(results_rq2_1, "results_rq2/model_rq2_1_results.csv")
+
+# Pairwise comparisons
+pairwise_rq2_1 <- emmeans(model_rq2_1, ~ condition) %>%
+  contrast("pairwise", adjust = "none") %>%
+  summary(infer = TRUE, type = "response") %>%
+  as_tibble() %>%
+  mutate(
+    across(where(is.numeric), ~ round(.x, 3)),
+    p = case_when(p.value < .001 ~ "< .001",
+                  p.value < .01  ~ "< .01",
+                  p.value < .05  ~ "< .05",
+                  TRUE           ~ as.character(round(p.value, 3)))
+  )
+
+print(pairwise_rq2_1)
+write_csv(pairwise_rq2_1, "results_rq2/pairwise_rq2_1.csv")
+
+# Additional: relative reduction effect (% dismissed of attempted) per condition × week
+df_rq2_event <- readRDS("data_clean/df_rq2.rds")
+
+df_reduction <- df_rq2_event %>%
+  group_by(condition, study_week) %>%
+  summarise(
+    n_attempted = sum(initial_attempt),
+    n_dismissed = sum(dismissed),
+    pct_dismissed = round(n_dismissed / n_attempted * 100, 1),
+    .groups = "drop"
+  )
+
+write_csv(df_reduction, "results_rq2/dismissal_rate_by_condition_week.csv")
+cat("RQ2.1 dismissal rates:\n"); print(df_reduction)
+
+# ==============================================================================
+# RQ 2.2: Initial app opening attempts in week 6
+# Model: NB regression, covariate = initial_w1
+# ==============================================================================
+
+# --- Assumption check: overdispersion ---
+poisson_22 <- glm(
+  initial_w6 ~ condition + initial_w1,
+  data   = df_rq2_2,
+  family = poisson()
+)
+disp_test_22 <- dispersiontest(poisson_22)
+cat("\nRQ2.2 dispersion test:", capture.output(print(disp_test_22)), sep = "\n")
+
+zero_pct_22 <- mean(df_rq2_2$initial_w6 == 0) * 100
+cat(sprintf("RQ2.2 zero proportion: %.1f%%\n", zero_pct_22))
+
+# --- Main model ---
+model_rq2_2 <- glm.nb(
+  initial_w6 ~ condition + initial_w1,
+  data = df_rq2_2
+)
+
+summary(model_rq2_2)
+
+results_rq2_2 <- tidy(model_rq2_2, exponentiate = TRUE, conf.int = TRUE) %>%
+  mutate(
+    RR   = round(estimate, 3),
+    CI   = paste0("[", round(conf.low, 3), ", ", round(conf.high, 3), "]"),
+    p    = case_when(p.value < .001 ~ "< .001",
+                     p.value < .01  ~ "< .01",
+                     p.value < .05  ~ "< .05",
+                     TRUE           ~ as.character(round(p.value, 3))),
+    B_SE = paste0(round(log(estimate), 3), " (", round(std.error, 3), ")")
+  ) %>%
+  dplyr::select(term, B_SE, RR, CI, p) %>%
+  rename(Predictor = term, `B (SE)` = B_SE, `Rate Ratio` = RR, `95% CI` = CI, `p` = p)
+
+print(results_rq2_2)
+write_csv(results_rq2_2, "results_rq2/model_rq2_2_results.csv")
+
+# Pairwise comparisons
+pairwise_rq2_2 <- emmeans(model_rq2_2, ~ condition) %>%
+  contrast("pairwise", adjust = "none") %>%
+  summary(infer = TRUE, type = "response") %>%
+  as_tibble() %>%
+  mutate(
+    across(where(is.numeric), ~ round(.x, 3)),
+    p = case_when(p.value < .001 ~ "< .001",
+                  p.value < .01  ~ "< .01",
+                  p.value < .05  ~ "< .05",
+                  TRUE           ~ as.character(round(p.value, 3)))
+  )
+
+print(pairwise_rq2_2)
+write_csv(pairwise_rq2_2, "results_rq2/pairwise_rq2_2.csv")
+
+# Additional: mean initial attempts per user per condition × week
+df_weekly_attempts <- df_rq2_event %>%
+  group_by(participant_id, condition, study_week) %>%
+  summarise(initial = sum(initial_attempt), .groups = "drop") %>%
+  group_by(condition, study_week) %>%
+  summarise(
+    n_users       = n(),
+    mean_initial  = round(mean(initial), 2),
+    .groups = "drop"
+  )
+
+write_csv(df_weekly_attempts, "results_rq2/weekly_attempts_by_condition.csv")
+
+# Additional: reduction from week 1 to week 6
+df_reduction_w1w6 <- df_weekly_attempts %>%
+  filter(study_week %in% c(1, 6)) %>%
+  pivot_wider(names_from = study_week, values_from = c(mean_initial, n_users),
+              names_glue = "{.value}_w{study_week}") %>%
+  mutate(
+    absolute_reduction = round(mean_initial_w1 - mean_initial_w6, 2),
+    relative_reduction = round((mean_initial_w1 - mean_initial_w6) / mean_initial_w1 * 100, 1)
+  )
+
+print(df_reduction_w1w6)
+write_csv(df_reduction_w1w6, "results_rq2/reduction_w1_to_w6.csv")
+
+# ------------------------------------------------------------------------------
+# Word tables
+# ------------------------------------------------------------------------------
+
+doc <- read_docx() %>%
+  body_add_par("RQ2.1: NB Regression — Dismissed Openings (Week 6)", style = "heading 1") %>%
+  body_add_flextable(flextable(results_rq2_1) %>% autofit()) %>%
+  body_add_par("", style = "Normal") %>%
+  body_add_par("Pairwise Comparisons", style = "heading 2") %>%
+  body_add_flextable(flextable(pairwise_rq2_1 %>%
+                                 dplyr::select(contrast, ratio, SE, asymp.LCL, asymp.UCL, p)) %>%
+                       autofit()) %>%
+  body_add_par("", style = "Normal") %>%
+  body_add_par("RQ2.2: NB Regression — Initial App Opening Attempts (Week 6)", style = "heading 1") %>%
+  body_add_flextable(flextable(results_rq2_2) %>% autofit()) %>%
+  body_add_par("", style = "Normal") %>%
+  body_add_par("Pairwise Comparisons", style = "heading 2") %>%
+  body_add_flextable(flextable(pairwise_rq2_2 %>%
+                                 dplyr::select(contrast, ratio, SE, asymp.LCL, asymp.UCL, p)) %>%
+                       autofit())
+
+print(doc, target = "results_rq2/results_rq2.docx")
+cat("RQ2 complete. Results saved to results_rq2/\n")
