@@ -27,6 +27,8 @@ library(broom)
 library(emmeans)
 library(flextable)
 library(officer)
+library(knitr)
+library(kableExtra)
 
 dir.create("results_rq3", showWarnings = FALSE)
 
@@ -74,7 +76,7 @@ df_desc <- map_dfr(names(satisfaction_items), function(item) {
     )
 })
 
-print(df_desc)
+df_desc |> kable() |> kable_classic()
 write_csv(df_desc, "results_rq3/satisfaction_descriptives.csv")
 
 # Linear regression: each item ~ condition
@@ -96,7 +98,7 @@ all_results <- map_dfr(names(satisfaction_items), function(item) {
     select(item, label, term, B_CI, p)
 })
 
-print(all_results)
+all_results |> kable() |> kable_classic()
 write_csv(all_results, "results_rq3/model_rq3_all_items.csv")
 
 # Pairwise comparisons for each item
@@ -120,7 +122,7 @@ pairwise_rq3 <- map_dfr(names(satisfaction_items), function(item) {
     select(item, contrast, estimate, SE, lower.CL, upper.CL, p)
 })
 
-print(pairwise_rq3)
+pairwise_rq3 |> kable() |> kable_classic()
 write_csv(pairwise_rq3, "results_rq3/pairwise_rq3.csv")
 
 ```

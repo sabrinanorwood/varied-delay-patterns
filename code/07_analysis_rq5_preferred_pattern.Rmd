@@ -25,6 +25,8 @@ knitr::opts_chunk$set(message = FALSE,
 library(tidyverse)
 library(flextable)
 library(officer)
+library(knitr)
+library(kableExtra)
 
 dir.create("results_rq5", showWarnings = FALSE)
 
@@ -50,7 +52,8 @@ df_own_delay <- df_post %>%
   count(prefer_own_delay) %>%
   mutate(pct = round(n / sum(n) * 100, 1))
 
-cat("\nPrefer to set own delay?\n"); print(df_own_delay)
+cat("\nPrefer to set own delay?\n")
+df_own_delay |> kable() |> kable_classic()
 
 # Among those who said yes: preferred duration in seconds
 df_pref_secs <- df_post %>%
@@ -64,7 +67,8 @@ df_pref_secs <- df_post %>%
     max    = max(pref_delay_secs)
   )
 
-cat("\nPreferred delay duration (among 'Yes' respondents):\n"); print(df_pref_secs)
+cat("\nPreferred delay duration (among 'Yes' respondents):\n")
+df_pref_secs |> kable() |> kable_classic()
 
 ```
 
@@ -76,7 +80,8 @@ df_increasing <- df_post %>%
   count(prefer_increasing) %>%
   mutate(pct = round(n / sum(n) * 100, 1))
 
-cat("\nPrefer increasing delay?\n"); print(df_increasing)
+cat("\nPrefer increasing delay?\n")
+df_increasing |> kable() |> kable_classic()
 
 # Among those who said yes: which pattern?
 df_pref_pattern <- df_post %>%
@@ -85,7 +90,7 @@ df_pref_pattern <- df_post %>%
   mutate(pct = round(n / sum(n) * 100, 1))
 
 cat("\nPreferred pattern (among those who want increasing delay):\n")
-print(df_pref_pattern)
+df_pref_pattern |> kable() |> kable_classic()
 
 # Custom weekly pattern responses (Q36_1 to Q36_9 — open-ended)
 df_custom <- df_post %>%
@@ -104,7 +109,7 @@ df_custom <- df_post %>%
   )
 
 cat("\nCustom preferred weekly pattern (among those who entered one):\n")
-print(df_custom)
+df_custom |> kable() |> kable_classic()
 
 ```
 

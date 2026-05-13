@@ -25,6 +25,8 @@ knitr::opts_chunk$set(message = FALSE,
 library(tidyverse)
 library(flextable)
 library(officer)
+library(knitr)
+library(kableExtra)
 
 dir.create("results_rq4", showWarnings = FALSE)
 
@@ -47,14 +49,14 @@ The behavioral CSVs record a `terminationReason` column for participants who exp
 
 cat("Participants with a recorded termination flag:", nrow(df_termination), "\n")
 cat("Breakdown by condition:\n")
-print(count(df_termination, condition))
+count(df_termination, condition) |> kable() |> kable_classic()
 
 # How many of the flagged terminators are in df_rq1 (i.e. had behavioral data)?
 termination_with_dropout <- df_termination %>%
   left_join(df_rq1 %>% select(participant_id, dropout, last_week), by = "participant_id")
 
 cat("\nTerminated participants — dropout status:\n")
-print(count(termination_with_dropout, condition, dropout, last_week))
+count(termination_with_dropout, condition, dropout, last_week) |> kable() |> kable_classic()
 
 ```
 
@@ -76,7 +78,7 @@ df_termination_summary <- termination_with_dropout %>%
     pct_of_total    = round(n_terminated / n_total * 100, 1)
   )
 
-print(df_termination_summary)
+df_termination_summary |> kable() |> kable_classic()
 write_csv(df_termination_summary, "results_rq4/termination_summary.csv")
 
 ```

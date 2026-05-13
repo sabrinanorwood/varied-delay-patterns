@@ -13,9 +13,7 @@ output:
 
 # TODO
 
-1. 93 post-survey completers have no behavioral CSV. Investigate before using post-survey data for RQ3 (may be missing app data, not true completers, or accessed the survey link without finishing 6 weeks).
-2. "Never started" (N=1,275): pre-survey finishers with no behavioral data. Decide if these count as immediate dropouts in RQ1.
-3. termination reason not captured, contrary to prereg
+1. termination reason not captured, contrary to prereg
 
 ```{r setup, include=FALSE}
 
@@ -78,7 +76,7 @@ cat("Pre-survey condition distribution:\n")
 print(count(df_pre, condition))
 
 # Document "never started": pre-survey finishers with no behavioral CSV
-dat_behavioral <- read_csv("../data/processed/data_processed_behavioral_data_all.csv") 
+dat_behavioral <- read_rds("../data/processed/data_processed_behavioral_data_all.rds") 
 
 behavioral_ids <- dat_behavioral %>%
   distinct(participant_id) %>%
@@ -165,7 +163,7 @@ Some CSV files include a `terminationReason` column. The only value present is `
 
 ```{r}
 
-df_termination <- read_csv("../data/processed/data_processed_behavioral_data_all.csv") %>%
+df_termination <- read_rds("../data/processed/data_processed_behavioral_data_all.rds") %>%
   filter(!is.na(terminationReason) & terminationReason != "") %>%
   distinct(participant_id, terminationReason) %>%
   left_join(df_pre %>% select(participant_id, condition), by = "participant_id")

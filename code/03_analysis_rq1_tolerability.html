@@ -1371,6 +1371,230 @@ window.initializeCodeFolding = function(show) {
 
 }
 </script>
+<script>$(document).ready(function(){
+    if (typeof $('[data-toggle="tooltip"]').tooltip === 'function') {
+        $('[data-toggle="tooltip"]').tooltip();
+    }
+    if ($('[data-toggle="popover"]').popover === 'function') {
+        $('[data-toggle="popover"]').popover();
+    }
+});
+</script>
+<style type="text/css">
+.lightable-minimal {
+border-collapse: separate;
+border-spacing: 16px 1px;
+width: 100%;
+margin-bottom: 10px;
+}
+.lightable-minimal td {
+margin-left: 5px;
+margin-right: 5px;
+}
+.lightable-minimal th {
+margin-left: 5px;
+margin-right: 5px;
+}
+.lightable-minimal thead tr:last-child th {
+border-bottom: 2px solid #00000050;
+empty-cells: hide;
+}
+.lightable-minimal tbody tr:first-child td {
+padding-top: 0.5em;
+}
+.lightable-minimal.lightable-hover tbody tr:hover {
+background-color: #f5f5f5;
+}
+.lightable-minimal.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-classic {
+border-top: 0.16em solid #111111;
+border-bottom: 0.16em solid #111111;
+width: 100%;
+margin-bottom: 10px;
+margin: 10px 5px;
+}
+.lightable-classic tfoot tr td {
+border: 0;
+}
+.lightable-classic tfoot tr:first-child td {
+border-top: 0.14em solid #111111;
+}
+.lightable-classic caption {
+color: #222222;
+}
+.lightable-classic td {
+padding-left: 5px;
+padding-right: 5px;
+color: #222222;
+}
+.lightable-classic th {
+padding-left: 5px;
+padding-right: 5px;
+font-weight: normal;
+color: #222222;
+}
+.lightable-classic thead tr:last-child th {
+border-bottom: 0.10em solid #111111;
+}
+.lightable-classic.lightable-hover tbody tr:hover {
+background-color: #F9EEC1;
+}
+.lightable-classic.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-classic-2 {
+border-top: 3px double #111111;
+border-bottom: 3px double #111111;
+width: 100%;
+margin-bottom: 10px;
+}
+.lightable-classic-2 tfoot tr td {
+border: 0;
+}
+.lightable-classic-2 tfoot tr:first-child td {
+border-top: 3px double #111111;
+}
+.lightable-classic-2 caption {
+color: #222222;
+}
+.lightable-classic-2 td {
+padding-left: 5px;
+padding-right: 5px;
+color: #222222;
+}
+.lightable-classic-2 th {
+padding-left: 5px;
+padding-right: 5px;
+font-weight: normal;
+color: #222222;
+}
+.lightable-classic-2 tbody tr:last-child td {
+border-bottom: 3px double #111111;
+}
+.lightable-classic-2 thead tr:last-child th {
+border-bottom: 1px solid #111111;
+}
+.lightable-classic-2.lightable-hover tbody tr:hover {
+background-color: #F9EEC1;
+}
+.lightable-classic-2.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-material {
+min-width: 100%;
+white-space: nowrap;
+table-layout: fixed;
+font-family: Roboto, sans-serif;
+border: 1px solid #EEE;
+border-collapse: collapse;
+margin-bottom: 10px;
+}
+.lightable-material tfoot tr td {
+border: 0;
+}
+.lightable-material tfoot tr:first-child td {
+border-top: 1px solid #EEE;
+}
+.lightable-material th {
+height: 56px;
+padding-left: 16px;
+padding-right: 16px;
+}
+.lightable-material td {
+height: 52px;
+padding-left: 16px;
+padding-right: 16px;
+border-top: 1px solid #eeeeee;
+}
+.lightable-material.lightable-hover tbody tr:hover {
+background-color: #f5f5f5;
+}
+.lightable-material.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-material.lightable-striped tbody td {
+border: 0;
+}
+.lightable-material.lightable-striped thead tr:last-child th {
+border-bottom: 1px solid #ddd;
+}
+.lightable-material-dark {
+min-width: 100%;
+white-space: nowrap;
+table-layout: fixed;
+font-family: Roboto, sans-serif;
+border: 1px solid #FFFFFF12;
+border-collapse: collapse;
+margin-bottom: 10px;
+background-color: #363640;
+}
+.lightable-material-dark tfoot tr td {
+border: 0;
+}
+.lightable-material-dark tfoot tr:first-child td {
+border-top: 1px solid #FFFFFF12;
+}
+.lightable-material-dark th {
+height: 56px;
+padding-left: 16px;
+padding-right: 16px;
+color: #FFFFFF60;
+}
+.lightable-material-dark td {
+height: 52px;
+padding-left: 16px;
+padding-right: 16px;
+color: #FFFFFF;
+border-top: 1px solid #FFFFFF12;
+}
+.lightable-material-dark.lightable-hover tbody tr:hover {
+background-color: #FFFFFF12;
+}
+.lightable-material-dark.lightable-striped tbody tr:nth-child(even) {
+background-color: #FFFFFF12;
+}
+.lightable-material-dark.lightable-striped tbody td {
+border: 0;
+}
+.lightable-material-dark.lightable-striped thead tr:last-child th {
+border-bottom: 1px solid #FFFFFF12;
+}
+.lightable-paper {
+width: 100%;
+margin-bottom: 10px;
+color: #444;
+}
+.lightable-paper tfoot tr td {
+border: 0;
+}
+.lightable-paper tfoot tr:first-child td {
+border-top: 1px solid #00000020;
+}
+.lightable-paper thead tr:last-child th {
+color: #666;
+vertical-align: bottom;
+border-bottom: 1px solid #00000020;
+line-height: 1.15em;
+padding: 10px 5px;
+}
+.lightable-paper td {
+vertical-align: middle;
+border-bottom: 1px solid #00000010;
+line-height: 1.15em;
+padding: 7px 5px;
+}
+.lightable-paper.lightable-hover tbody tr:hover {
+background-color: #F9EEC1;
+}
+.lightable-paper.lightable-striped tbody tr:nth-child(even) {
+background-color: #00000008;
+}
+.lightable-paper.lightable-striped tbody td {
+border: 0;
+}
+</style>
 
 <style type="text/css">
 code{white-space: pre-wrap;}
@@ -1683,9 +1907,12 @@ prereg.</li>
 <span id="cb1-3"><a href="#cb1-3" tabindex="-1"></a><span class="fu">library</span>(emmeans)</span>
 <span id="cb1-4"><a href="#cb1-4" tabindex="-1"></a><span class="fu">library</span>(flextable)</span>
 <span id="cb1-5"><a href="#cb1-5" tabindex="-1"></a><span class="fu">library</span>(officer)</span>
-<span id="cb1-6"><a href="#cb1-6" tabindex="-1"></a></span>
-<span id="cb1-7"><a href="#cb1-7" tabindex="-1"></a><span class="fu">dir.create</span>(<span class="st">&quot;../reports/&quot;</span>)</span>
-<span id="cb1-8"><a href="#cb1-8" tabindex="-1"></a><span class="fu">dir.create</span>(<span class="st">&quot;../reports/results_rq1_tolerability/&quot;</span>)</span></code></pre></div>
+<span id="cb1-6"><a href="#cb1-6" tabindex="-1"></a><span class="fu">library</span>(lme4)</span>
+<span id="cb1-7"><a href="#cb1-7" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
+<span id="cb1-8"><a href="#cb1-8" tabindex="-1"></a><span class="fu">library</span>(kableExtra)</span>
+<span id="cb1-9"><a href="#cb1-9" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" tabindex="-1"></a><span class="fu">dir.create</span>(<span class="st">&quot;../reports/&quot;</span>)</span>
+<span id="cb1-11"><a href="#cb1-11" tabindex="-1"></a><span class="fu">dir.create</span>(<span class="st">&quot;../reports/results_rq1_tolerability/&quot;</span>)</span></code></pre></div>
 </div>
 <div id="load-data" class="section level1">
 <h1>Load data</h1>
@@ -1704,45 +1931,228 @@ prereg.</li>
 <span id="cb3-8"><a href="#cb3-8" tabindex="-1"></a>    <span class="at">.groups =</span> <span class="st">&quot;drop&quot;</span></span>
 <span id="cb3-9"><a href="#cb3-9" tabindex="-1"></a>  )</span>
 <span id="cb3-10"><a href="#cb3-10" tabindex="-1"></a></span>
-<span id="cb3-11"><a href="#cb3-11" tabindex="-1"></a>df_rq1_summary</span></code></pre></div>
-<pre><code>## # A tibble: 4 × 5
-##   condition n_total n_dropout n_complete dropout_rate
-##   &lt;fct&gt;       &lt;int&gt;     &lt;dbl&gt;      &lt;int&gt;        &lt;dbl&gt;
-## 1 CCC           415       275        140         66.3
-## 2 ABC           387       251        136         64.9
-## 3 ACC           430       288        142         67  
-## 4 BCC           409       288        121         70.4</code></pre>
-<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" tabindex="-1"></a><span class="fu">write_csv</span>(df_rq1_summary, <span class="st">&quot;../reports/results_rq1_tolerability/dropout_summary.csv&quot;</span>)</span></code></pre></div>
+<span id="cb3-11"><a href="#cb3-11" tabindex="-1"></a>df_rq1_summary <span class="sc">|&gt;</span> <span class="fu">kable</span>() <span class="sc">|&gt;</span> <span class="fu">kable_classic</span>()</span></code></pre></div>
+<table class=" lightable-classic" style="color: black; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+condition
+</th>
+<th style="text-align:right;">
+n_total
+</th>
+<th style="text-align:right;">
+n_dropout
+</th>
+<th style="text-align:right;">
+n_complete
+</th>
+<th style="text-align:right;">
+dropout_rate
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+CCC
+</td>
+<td style="text-align:right;">
+415
+</td>
+<td style="text-align:right;">
+275
+</td>
+<td style="text-align:right;">
+140
+</td>
+<td style="text-align:right;">
+66.3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+ABC
+</td>
+<td style="text-align:right;">
+387
+</td>
+<td style="text-align:right;">
+251
+</td>
+<td style="text-align:right;">
+136
+</td>
+<td style="text-align:right;">
+64.9
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+ACC
+</td>
+<td style="text-align:right;">
+430
+</td>
+<td style="text-align:right;">
+288
+</td>
+<td style="text-align:right;">
+142
+</td>
+<td style="text-align:right;">
+67.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+BCC
+</td>
+<td style="text-align:right;">
+409
+</td>
+<td style="text-align:right;">
+288
+</td>
+<td style="text-align:right;">
+121
+</td>
+<td style="text-align:right;">
+70.4
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" tabindex="-1"></a><span class="fu">write_csv</span>(df_rq1_summary, <span class="st">&quot;../reports/results_rq1_tolerability/dropout_summary.csv&quot;</span>)</span></code></pre></div>
 </div>
 <div id="weekly-dropout-how-many-dropped-out-in-each-week" class="section level1">
 <h1>Weekly dropout: how many dropped out in each week</h1>
-<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" tabindex="-1"></a>df_weekly_dropout <span class="ot">&lt;-</span> df_rq1 <span class="sc">%&gt;%</span></span>
-<span id="cb6-2"><a href="#cb6-2" tabindex="-1"></a>  <span class="fu">filter</span>(dropout <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb6-3"><a href="#cb6-3" tabindex="-1"></a>  <span class="fu">count</span>(condition, last_week, <span class="at">name =</span> <span class="st">&quot;n_dropouts&quot;</span>) <span class="sc">|&gt;</span></span>
-<span id="cb6-4"><a href="#cb6-4" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(<span class="at">names_from =</span> <span class="st">&quot;condition&quot;</span>, </span>
-<span id="cb6-5"><a href="#cb6-5" tabindex="-1"></a>              <span class="at">values_from =</span> <span class="st">&quot;n_dropouts&quot;</span>,</span>
-<span id="cb6-6"><a href="#cb6-6" tabindex="-1"></a>              <span class="at">names_prefix =</span> <span class="st">&quot;n_dropouts_&quot;</span>)</span>
-<span id="cb6-7"><a href="#cb6-7" tabindex="-1"></a></span>
-<span id="cb6-8"><a href="#cb6-8" tabindex="-1"></a>df_weekly_dropout</span></code></pre></div>
-<pre><code>## # A tibble: 5 × 5
-##   last_week n_dropouts_CCC n_dropouts_ABC n_dropouts_ACC n_dropouts_BCC
-##       &lt;dbl&gt;          &lt;int&gt;          &lt;int&gt;          &lt;int&gt;          &lt;int&gt;
-## 1         1            144            133            143            134
-## 2         2             34             36             43             42
-## 3         3             32             28             39             39
-## 4         4             28             30             31             36
-## 5         5             37             24             32             37</code></pre>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" tabindex="-1"></a><span class="fu">write_csv</span>(df_weekly_dropout, <span class="st">&quot;../reports/results_rq1_tolerability/weekly_dropout_counts.csv&quot;</span>)</span></code></pre></div>
-</div>
-<div id="rq1-model-binary-logistic-regression-dropout-condition" class="section level1">
-<h1>RQ1 model: binary logistic regression (dropout ~ condition)</h1>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" tabindex="-1"></a>df_weekly_dropout <span class="ot">&lt;-</span> df_rq1 <span class="sc">%&gt;%</span></span>
+<span id="cb5-2"><a href="#cb5-2" tabindex="-1"></a>  <span class="fu">filter</span>(dropout <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb5-3"><a href="#cb5-3" tabindex="-1"></a>  <span class="fu">count</span>(condition, last_week, <span class="at">name =</span> <span class="st">&quot;n_dropouts&quot;</span>) <span class="sc">|&gt;</span></span>
+<span id="cb5-4"><a href="#cb5-4" tabindex="-1"></a>  <span class="fu">pivot_wider</span>(<span class="at">names_from =</span> <span class="st">&quot;condition&quot;</span>, </span>
+<span id="cb5-5"><a href="#cb5-5" tabindex="-1"></a>              <span class="at">values_from =</span> <span class="st">&quot;n_dropouts&quot;</span>,</span>
+<span id="cb5-6"><a href="#cb5-6" tabindex="-1"></a>              <span class="at">names_prefix =</span> <span class="st">&quot;n_dropouts_&quot;</span>)</span>
+<span id="cb5-7"><a href="#cb5-7" tabindex="-1"></a></span>
+<span id="cb5-8"><a href="#cb5-8" tabindex="-1"></a>df_weekly_dropout <span class="sc">|&gt;</span> <span class="fu">kable</span>() <span class="sc">|&gt;</span> <span class="fu">kable_classic</span>()</span></code></pre></div>
+<table class=" lightable-classic" style="color: black; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+last_week
+</th>
+<th style="text-align:right;">
+n_dropouts_CCC
+</th>
+<th style="text-align:right;">
+n_dropouts_ABC
+</th>
+<th style="text-align:right;">
+n_dropouts_ACC
+</th>
+<th style="text-align:right;">
+n_dropouts_BCC
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+144
+</td>
+<td style="text-align:right;">
+133
+</td>
+<td style="text-align:right;">
+143
+</td>
+<td style="text-align:right;">
+134
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:right;">
+34
+</td>
+<td style="text-align:right;">
+36
+</td>
+<td style="text-align:right;">
+43
+</td>
+<td style="text-align:right;">
+42
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+32
+</td>
+<td style="text-align:right;">
+28
+</td>
+<td style="text-align:right;">
+39
+</td>
+<td style="text-align:right;">
+39
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+28
+</td>
+<td style="text-align:right;">
+30
+</td>
+<td style="text-align:right;">
+31
+</td>
+<td style="text-align:right;">
+36
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:right;">
+37
+</td>
+<td style="text-align:right;">
+24
+</td>
+<td style="text-align:right;">
+32
+</td>
+<td style="text-align:right;">
+37
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" tabindex="-1"></a><span class="fu">write_csv</span>(df_weekly_dropout, <span class="st">&quot;../reports/results_rq1_tolerability/weekly_dropout_counts.csv&quot;</span>)</span></code></pre></div>
+<div id="rq1-model-binary-logistic-regression-dropout-condition" class="section level2">
+<h2>RQ1 model: binary logistic regression (dropout ~ condition)</h2>
 <p>Preregistration specified negative binomial but dropout is binary —
 logistic is the correct choice (confirmed by Hanna’s thesis).</p>
-<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" tabindex="-1"></a>model_rq1 <span class="ot">&lt;-</span> <span class="fu">glm</span>(dropout <span class="sc">~</span> <span class="dv">1</span> <span class="sc">+</span> condition,</span>
-<span id="cb9-2"><a href="#cb9-2" tabindex="-1"></a>                 <span class="at">data =</span> df_rq1,</span>
-<span id="cb9-3"><a href="#cb9-3" tabindex="-1"></a>                 <span class="at">family =</span> <span class="fu">binomial</span>(<span class="at">link =</span> <span class="st">&quot;logit&quot;</span>))</span>
-<span id="cb9-4"><a href="#cb9-4" tabindex="-1"></a></span>
-<span id="cb9-5"><a href="#cb9-5" tabindex="-1"></a><span class="fu">summary</span>(model_rq1)</span></code></pre></div>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" tabindex="-1"></a>model_rq1 <span class="ot">&lt;-</span> <span class="fu">glm</span>(dropout <span class="sc">~</span> <span class="dv">1</span> <span class="sc">+</span> condition,</span>
+<span id="cb7-2"><a href="#cb7-2" tabindex="-1"></a>                 <span class="at">data =</span> df_rq1,</span>
+<span id="cb7-3"><a href="#cb7-3" tabindex="-1"></a>                 <span class="at">family =</span> <span class="fu">binomial</span>(<span class="at">link =</span> <span class="st">&quot;logit&quot;</span>))</span>
+<span id="cb7-4"><a href="#cb7-4" tabindex="-1"></a></span>
+<span id="cb7-5"><a href="#cb7-5" tabindex="-1"></a><span class="fu">summary</span>(model_rq1)</span></code></pre></div>
 <pre><code>## 
 ## Call:
 ## glm(formula = dropout ~ 1 + condition, family = binomial(link = &quot;logit&quot;), 
@@ -1764,78 +2174,963 @@ logistic is the correct choice (confirmed by Hanna’s thesis).</p>
 ## AIC: 2082.7
 ## 
 ## Number of Fisher Scoring iterations: 4</code></pre>
-<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" tabindex="-1"></a><span class="co"># Tidy results with odds ratios and 95% CIs</span></span>
-<span id="cb11-2"><a href="#cb11-2" tabindex="-1"></a>results_rq1 <span class="ot">&lt;-</span> <span class="fu">tidy</span>(model_rq1, <span class="at">exponentiate =</span> <span class="cn">TRUE</span>, <span class="at">conf.int =</span> <span class="cn">TRUE</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb11-3"><a href="#cb11-3" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
-<span id="cb11-4"><a href="#cb11-4" tabindex="-1"></a>    <span class="at">OR   =</span> <span class="fu">round</span>(estimate, <span class="dv">3</span>),</span>
-<span id="cb11-5"><a href="#cb11-5" tabindex="-1"></a>    <span class="at">CI   =</span> <span class="fu">paste0</span>(<span class="st">&quot;[&quot;</span>, <span class="fu">round</span>(conf.low, <span class="dv">3</span>), <span class="st">&quot;, &quot;</span>, <span class="fu">round</span>(conf.high, <span class="dv">3</span>), <span class="st">&quot;]&quot;</span>),</span>
-<span id="cb11-6"><a href="#cb11-6" tabindex="-1"></a>    <span class="at">p    =</span> <span class="fu">case_when</span>(p.value <span class="sc">&lt;</span> .<span class="dv">001</span> <span class="sc">~</span> <span class="st">&quot;&lt; .001&quot;</span>,</span>
-<span id="cb11-7"><a href="#cb11-7" tabindex="-1"></a>                     <span class="cn">TRUE</span>           <span class="sc">~</span> <span class="fu">as.character</span>(<span class="fu">round</span>(p.value, <span class="dv">3</span>)))</span>
-<span id="cb11-8"><a href="#cb11-8" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
-<span id="cb11-9"><a href="#cb11-9" tabindex="-1"></a>  <span class="fu">select</span>(<span class="at">Predictor =</span> term, OR, <span class="st">`</span><span class="at">95% CI</span><span class="st">`</span> <span class="ot">=</span> CI, p) </span>
-<span id="cb11-10"><a href="#cb11-10" tabindex="-1"></a></span>
-<span id="cb11-11"><a href="#cb11-11" tabindex="-1"></a>results_rq1</span></code></pre></div>
-<pre><code>## # A tibble: 4 × 4
-##   Predictor       OR `95% CI`       p     
-##   &lt;chr&gt;        &lt;dbl&gt; &lt;chr&gt;          &lt;chr&gt; 
-## 1 (Intercept)   1.96 [1.606, 2.413] &lt; .001
-## 2 conditionABC  0.94 [0.702, 1.258] 0.675 
-## 3 conditionACC  1.03 [0.776, 1.375] 0.826 
-## 4 conditionBCC  1.21 [0.903, 1.627] 0.201</code></pre>
-<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" tabindex="-1"></a><span class="fu">write_csv</span>(results_rq1, <span class="st">&quot;../reports/results_rq1_tolerability/model_rq1_results.csv&quot;</span>)</span>
-<span id="cb13-2"><a href="#cb13-2" tabindex="-1"></a></span>
-<span id="cb13-3"><a href="#cb13-3" tabindex="-1"></a><span class="co"># Model fit</span></span>
-<span id="cb13-4"><a href="#cb13-4" tabindex="-1"></a>chi_sq  <span class="ot">&lt;-</span> model_rq1<span class="sc">$</span>null.deviance <span class="sc">-</span> model_rq1<span class="sc">$</span>deviance</span>
-<span id="cb13-5"><a href="#cb13-5" tabindex="-1"></a>df_diff <span class="ot">&lt;-</span> model_rq1<span class="sc">$</span>df.null <span class="sc">-</span> model_rq1<span class="sc">$</span>df.residual</span>
-<span id="cb13-6"><a href="#cb13-6" tabindex="-1"></a>p_fit   <span class="ot">&lt;-</span> <span class="fu">pchisq</span>(chi_sq, <span class="at">df =</span> df_diff, <span class="at">lower.tail =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb13-7"><a href="#cb13-7" tabindex="-1"></a>r2_mcf  <span class="ot">&lt;-</span> <span class="dv">1</span> <span class="sc">-</span> (<span class="fu">logLik</span>(model_rq1) <span class="sc">/</span> <span class="fu">logLik</span>(<span class="fu">update</span>(model_rq1, . <span class="sc">~</span> <span class="dv">1</span>)))</span>
-<span id="cb13-8"><a href="#cb13-8" tabindex="-1"></a></span>
-<span id="cb13-9"><a href="#cb13-9" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">sprintf</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Model fit: χ²(%d) = %.2f, p = %.3f, McFadden R² = %.3f</span><span class="sc">\n</span><span class="st">&quot;</span>,</span>
-<span id="cb13-10"><a href="#cb13-10" tabindex="-1"></a>            df_diff, chi_sq, p_fit, <span class="fu">as.numeric</span>(r2_mcf)))</span></code></pre></div>
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" tabindex="-1"></a><span class="co"># Tidy results with odds ratios and 95% CIs</span></span>
+<span id="cb9-2"><a href="#cb9-2" tabindex="-1"></a>results_rq1 <span class="ot">&lt;-</span> <span class="fu">tidy</span>(model_rq1, <span class="at">exponentiate =</span> <span class="cn">TRUE</span>, <span class="at">conf.int =</span> <span class="cn">TRUE</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb9-3"><a href="#cb9-3" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb9-4"><a href="#cb9-4" tabindex="-1"></a>    <span class="at">OR   =</span> <span class="fu">round</span>(estimate, <span class="dv">3</span>),</span>
+<span id="cb9-5"><a href="#cb9-5" tabindex="-1"></a>    <span class="at">CI   =</span> <span class="fu">paste0</span>(<span class="st">&quot;[&quot;</span>, <span class="fu">round</span>(conf.low, <span class="dv">3</span>), <span class="st">&quot;, &quot;</span>, <span class="fu">round</span>(conf.high, <span class="dv">3</span>), <span class="st">&quot;]&quot;</span>),</span>
+<span id="cb9-6"><a href="#cb9-6" tabindex="-1"></a>    <span class="at">p    =</span> <span class="fu">case_when</span>(p.value <span class="sc">&lt;</span> .<span class="dv">001</span> <span class="sc">~</span> <span class="st">&quot;&lt; .001&quot;</span>,</span>
+<span id="cb9-7"><a href="#cb9-7" tabindex="-1"></a>                     <span class="cn">TRUE</span>           <span class="sc">~</span> <span class="fu">as.character</span>(<span class="fu">round</span>(p.value, <span class="dv">3</span>)))</span>
+<span id="cb9-8"><a href="#cb9-8" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb9-9"><a href="#cb9-9" tabindex="-1"></a>  <span class="fu">select</span>(<span class="at">Predictor =</span> term, OR, <span class="st">`</span><span class="at">95% CI</span><span class="st">`</span> <span class="ot">=</span> CI, p) </span>
+<span id="cb9-10"><a href="#cb9-10" tabindex="-1"></a></span>
+<span id="cb9-11"><a href="#cb9-11" tabindex="-1"></a>results_rq1 <span class="sc">|&gt;</span> <span class="fu">kable</span>() <span class="sc">|&gt;</span> <span class="fu">kable_classic</span>()</span></code></pre></div>
+<table class=" lightable-classic" style="color: black; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Predictor
+</th>
+<th style="text-align:right;">
+OR
+</th>
+<th style="text-align:left;">
+95% CI
+</th>
+<th style="text-align:left;">
+p
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+(Intercept)
+</td>
+<td style="text-align:right;">
+1.964
+</td>
+<td style="text-align:left;">
+[1.606, 2.413]
+</td>
+<td style="text-align:left;">
+&lt; .001
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+conditionABC
+</td>
+<td style="text-align:right;">
+0.940
+</td>
+<td style="text-align:left;">
+[0.702, 1.258]
+</td>
+<td style="text-align:left;">
+0.675
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+conditionACC
+</td>
+<td style="text-align:right;">
+1.033
+</td>
+<td style="text-align:left;">
+[0.776, 1.375]
+</td>
+<td style="text-align:left;">
+0.826
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+conditionBCC
+</td>
+<td style="text-align:right;">
+1.212
+</td>
+<td style="text-align:left;">
+[0.903, 1.627]
+</td>
+<td style="text-align:left;">
+0.201
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" tabindex="-1"></a><span class="fu">write_csv</span>(results_rq1, <span class="st">&quot;../reports/results_rq1_tolerability/model_rq1_results.csv&quot;</span>)</span>
+<span id="cb10-2"><a href="#cb10-2" tabindex="-1"></a></span>
+<span id="cb10-3"><a href="#cb10-3" tabindex="-1"></a><span class="co"># Model fit</span></span>
+<span id="cb10-4"><a href="#cb10-4" tabindex="-1"></a>chi_sq  <span class="ot">&lt;-</span> model_rq1<span class="sc">$</span>null.deviance <span class="sc">-</span> model_rq1<span class="sc">$</span>deviance</span>
+<span id="cb10-5"><a href="#cb10-5" tabindex="-1"></a>df_diff <span class="ot">&lt;-</span> model_rq1<span class="sc">$</span>df.null <span class="sc">-</span> model_rq1<span class="sc">$</span>df.residual</span>
+<span id="cb10-6"><a href="#cb10-6" tabindex="-1"></a>p_fit   <span class="ot">&lt;-</span> <span class="fu">pchisq</span>(chi_sq, <span class="at">df =</span> df_diff, <span class="at">lower.tail =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb10-7"><a href="#cb10-7" tabindex="-1"></a>r2_mcf  <span class="ot">&lt;-</span> <span class="dv">1</span> <span class="sc">-</span> (<span class="fu">logLik</span>(model_rq1) <span class="sc">/</span> <span class="fu">logLik</span>(<span class="fu">update</span>(model_rq1, . <span class="sc">~</span> <span class="dv">1</span>)))</span>
+<span id="cb10-8"><a href="#cb10-8" tabindex="-1"></a></span>
+<span id="cb10-9"><a href="#cb10-9" tabindex="-1"></a><span class="fu">cat</span>(<span class="fu">sprintf</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Model fit: χ²(%d) = %.2f, p = %.3f, McFadden R² = %.3f</span><span class="sc">\n</span><span class="st">&quot;</span>,</span>
+<span id="cb10-10"><a href="#cb10-10" tabindex="-1"></a>            df_diff, chi_sq, p_fit, <span class="fu">as.numeric</span>(r2_mcf)))</span></code></pre></div>
 <pre><code>## 
 ## Model fit: χ²(3) = 3.08, p = 0.380, McFadden R² = 0.001</code></pre>
 </div>
-<div id="pairwise-comparisons-all-pairs" class="section level1">
-<h1>Pairwise comparisons (all pairs)</h1>
-<div class="sourceCode" id="cb15"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" tabindex="-1"></a>pairwise_rq1 <span class="ot">&lt;-</span> <span class="fu">emmeans</span>(model_rq1, <span class="sc">~</span> condition) <span class="sc">%&gt;%</span></span>
-<span id="cb15-2"><a href="#cb15-2" tabindex="-1"></a>  <span class="fu">contrast</span>(<span class="st">&quot;pairwise&quot;</span>, <span class="at">adjust =</span> <span class="st">&quot;none&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb15-3"><a href="#cb15-3" tabindex="-1"></a>  <span class="fu">summary</span>(<span class="at">infer =</span> <span class="cn">TRUE</span>, <span class="at">type =</span> <span class="st">&quot;response&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb15-4"><a href="#cb15-4" tabindex="-1"></a>  <span class="fu">as_tibble</span>() <span class="sc">%&gt;%</span></span>
-<span id="cb15-5"><a href="#cb15-5" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
-<span id="cb15-6"><a href="#cb15-6" tabindex="-1"></a>    <span class="fu">across</span>(<span class="fu">where</span>(is.numeric), <span class="sc">~</span> <span class="fu">round</span>(.x, <span class="dv">3</span>)),</span>
-<span id="cb15-7"><a href="#cb15-7" tabindex="-1"></a>    <span class="at">p =</span> <span class="fu">case_when</span>(p.value <span class="sc">&lt;</span> .<span class="dv">001</span> <span class="sc">~</span> <span class="st">&quot;&lt; .001&quot;</span>,</span>
-<span id="cb15-8"><a href="#cb15-8" tabindex="-1"></a>                  <span class="cn">TRUE</span>           <span class="sc">~</span> <span class="fu">as.character</span>(<span class="fu">round</span>(p.value, <span class="dv">3</span>)))</span>
-<span id="cb15-9"><a href="#cb15-9" tabindex="-1"></a>  )</span>
-<span id="cb15-10"><a href="#cb15-10" tabindex="-1"></a></span>
-<span id="cb15-11"><a href="#cb15-11" tabindex="-1"></a>pairwise_rq1</span></code></pre></div>
-<pre><code>## # A tibble: 6 × 10
-##   contrast  odds.ratio    SE    df asymp.LCL asymp.UCL  null z.ratio p.value
-##   &lt;fct&gt;          &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;     &lt;dbl&gt;     &lt;dbl&gt; &lt;dbl&gt;   &lt;dbl&gt;   &lt;dbl&gt;
-## 1 CCC / ABC      1.06  0.158   Inf     0.795      1.42     1   0.419   0.675
-## 2 CCC / ACC      0.969 0.141   Inf     0.728      1.29     1  -0.219   0.826
-## 3 CCC / BCC      0.825 0.124   Inf     0.615      1.11     1  -1.28    0.201
-## 4 ABC / ACC      0.91  0.135   Inf     0.681      1.22     1  -0.638   0.523
-## 5 ABC / BCC      0.775 0.118   Inf     0.576      1.04     1  -1.68    0.094
-## 6 ACC / BCC      0.852 0.127   Inf     0.636      1.14     1  -1.07    0.283
-## # ℹ 1 more variable: p &lt;chr&gt;</code></pre>
-<div class="sourceCode" id="cb17"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" tabindex="-1"></a><span class="fu">write_csv</span>(pairwise_rq1, <span class="st">&quot;../reports/results_rq1_tolerability/pairwise_rq1.csv&quot;</span>)</span></code></pre></div>
+<div id="pairwise-comparisons-all-pairs" class="section level2">
+<h2>Pairwise comparisons (all pairs)</h2>
+<div class="sourceCode" id="cb12"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" tabindex="-1"></a>pairwise_rq1 <span class="ot">&lt;-</span> <span class="fu">emmeans</span>(model_rq1, <span class="sc">~</span> condition) <span class="sc">%&gt;%</span></span>
+<span id="cb12-2"><a href="#cb12-2" tabindex="-1"></a>  <span class="fu">contrast</span>(<span class="st">&quot;pairwise&quot;</span>, <span class="at">adjust =</span> <span class="st">&quot;none&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb12-3"><a href="#cb12-3" tabindex="-1"></a>  <span class="fu">summary</span>(<span class="at">infer =</span> <span class="cn">TRUE</span>, <span class="at">type =</span> <span class="st">&quot;response&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb12-4"><a href="#cb12-4" tabindex="-1"></a>  <span class="fu">as_tibble</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb12-5"><a href="#cb12-5" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb12-6"><a href="#cb12-6" tabindex="-1"></a>    <span class="fu">across</span>(<span class="fu">where</span>(is.numeric), <span class="sc">~</span> <span class="fu">round</span>(.x, <span class="dv">3</span>)),</span>
+<span id="cb12-7"><a href="#cb12-7" tabindex="-1"></a>    <span class="at">p =</span> <span class="fu">case_when</span>(p.value <span class="sc">&lt;</span> .<span class="dv">001</span> <span class="sc">~</span> <span class="st">&quot;&lt; .001&quot;</span>,</span>
+<span id="cb12-8"><a href="#cb12-8" tabindex="-1"></a>                  <span class="cn">TRUE</span>           <span class="sc">~</span> <span class="fu">as.character</span>(<span class="fu">round</span>(p.value, <span class="dv">3</span>)))</span>
+<span id="cb12-9"><a href="#cb12-9" tabindex="-1"></a>  )</span>
+<span id="cb12-10"><a href="#cb12-10" tabindex="-1"></a></span>
+<span id="cb12-11"><a href="#cb12-11" tabindex="-1"></a>pairwise_rq1 <span class="sc">|&gt;</span> <span class="fu">kable</span>() <span class="sc">|&gt;</span> <span class="fu">kable_classic</span>()</span></code></pre></div>
+<table class=" lightable-classic" style="color: black; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+contrast
+</th>
+<th style="text-align:right;">
+odds.ratio
+</th>
+<th style="text-align:right;">
+SE
+</th>
+<th style="text-align:right;">
+df
+</th>
+<th style="text-align:right;">
+asymp.LCL
+</th>
+<th style="text-align:right;">
+asymp.UCL
+</th>
+<th style="text-align:right;">
+null
+</th>
+<th style="text-align:right;">
+z.ratio
+</th>
+<th style="text-align:right;">
+p.value
+</th>
+<th style="text-align:left;">
+p
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+CCC / ABC
+</td>
+<td style="text-align:right;">
+1.064
+</td>
+<td style="text-align:right;">
+0.158
+</td>
+<td style="text-align:right;">
+Inf
+</td>
+<td style="text-align:right;">
+0.795
+</td>
+<td style="text-align:right;">
+1.424
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+0.419
+</td>
+<td style="text-align:right;">
+0.675
+</td>
+<td style="text-align:left;">
+0.675
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+CCC / ACC
+</td>
+<td style="text-align:right;">
+0.969
+</td>
+<td style="text-align:right;">
+0.141
+</td>
+<td style="text-align:right;">
+Inf
+</td>
+<td style="text-align:right;">
+0.728
+</td>
+<td style="text-align:right;">
+1.289
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+-0.219
+</td>
+<td style="text-align:right;">
+0.826
+</td>
+<td style="text-align:left;">
+0.826
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+CCC / BCC
+</td>
+<td style="text-align:right;">
+0.825
+</td>
+<td style="text-align:right;">
+0.124
+</td>
+<td style="text-align:right;">
+Inf
+</td>
+<td style="text-align:right;">
+0.615
+</td>
+<td style="text-align:right;">
+1.107
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+-1.280
+</td>
+<td style="text-align:right;">
+0.201
+</td>
+<td style="text-align:left;">
+0.201
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+ABC / ACC
+</td>
+<td style="text-align:right;">
+0.910
+</td>
+<td style="text-align:right;">
+0.135
+</td>
+<td style="text-align:right;">
+Inf
+</td>
+<td style="text-align:right;">
+0.681
+</td>
+<td style="text-align:right;">
+1.216
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+-0.638
+</td>
+<td style="text-align:right;">
+0.523
+</td>
+<td style="text-align:left;">
+0.523
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+ABC / BCC
+</td>
+<td style="text-align:right;">
+0.775
+</td>
+<td style="text-align:right;">
+0.118
+</td>
+<td style="text-align:right;">
+Inf
+</td>
+<td style="text-align:right;">
+0.576
+</td>
+<td style="text-align:right;">
+1.044
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+-1.675
+</td>
+<td style="text-align:right;">
+0.094
+</td>
+<td style="text-align:left;">
+0.094
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+ACC / BCC
+</td>
+<td style="text-align:right;">
+0.852
+</td>
+<td style="text-align:right;">
+0.127
+</td>
+<td style="text-align:right;">
+Inf
+</td>
+<td style="text-align:right;">
+0.636
+</td>
+<td style="text-align:right;">
+1.141
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+-1.073
+</td>
+<td style="text-align:right;">
+0.283
+</td>
+<td style="text-align:left;">
+0.283
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" tabindex="-1"></a><span class="fu">write_csv</span>(pairwise_rq1, <span class="st">&quot;../reports/results_rq1_tolerability/pairwise_rq1.csv&quot;</span>)</span></code></pre></div>
 </div>
-<div id="word-table" class="section level1">
-<h1>Word table</h1>
-<div class="sourceCode" id="cb18"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" tabindex="-1"></a>doc <span class="ot">&lt;-</span> <span class="fu">read_docx</span>() <span class="sc">%&gt;%</span></span>
-<span id="cb18-2"><a href="#cb18-2" tabindex="-1"></a>  <span class="fu">body_add_par</span>(<span class="st">&quot;RQ1: Logistic Regression — Dropout by Condition&quot;</span>, <span class="at">style =</span> <span class="st">&quot;heading 1&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb18-3"><a href="#cb18-3" tabindex="-1"></a>  <span class="fu">body_add_flextable</span>(<span class="fu">flextable</span>(results_rq1) <span class="sc">%&gt;%</span> <span class="fu">autofit</span>()) <span class="sc">%&gt;%</span></span>
-<span id="cb18-4"><a href="#cb18-4" tabindex="-1"></a>  <span class="fu">body_add_par</span>(<span class="st">&quot;&quot;</span>, <span class="at">style =</span> <span class="st">&quot;Normal&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb18-5"><a href="#cb18-5" tabindex="-1"></a>  <span class="fu">body_add_par</span>(<span class="st">&quot;Pairwise Comparisons (odds ratios)&quot;</span>, <span class="at">style =</span> <span class="st">&quot;heading 2&quot;</span>) <span class="sc">%&gt;%</span></span>
-<span id="cb18-6"><a href="#cb18-6" tabindex="-1"></a>  <span class="fu">body_add_flextable</span>(<span class="fu">flextable</span>(pairwise_rq1 <span class="sc">%&gt;%</span></span>
-<span id="cb18-7"><a href="#cb18-7" tabindex="-1"></a>                                 <span class="fu">select</span>(contrast, odds.ratio, SE, asymp.LCL, asymp.UCL, p)) <span class="sc">%&gt;%</span></span>
-<span id="cb18-8"><a href="#cb18-8" tabindex="-1"></a>                       <span class="fu">autofit</span>())</span>
-<span id="cb18-9"><a href="#cb18-9" tabindex="-1"></a></span>
-<span id="cb18-10"><a href="#cb18-10" tabindex="-1"></a><span class="fu">print</span>(doc, <span class="at">target =</span> <span class="st">&quot;../reports/results_rq1_tolerability/results_rq1.docx&quot;</span>)</span></code></pre></div>
+<div id="word-table" class="section level2">
+<h2>Word table</h2>
+<div class="sourceCode" id="cb14"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" tabindex="-1"></a>doc <span class="ot">&lt;-</span> <span class="fu">read_docx</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb14-2"><a href="#cb14-2" tabindex="-1"></a>  <span class="fu">body_add_par</span>(<span class="st">&quot;RQ1: Logistic Regression — Dropout by Condition&quot;</span>, <span class="at">style =</span> <span class="st">&quot;heading 1&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb14-3"><a href="#cb14-3" tabindex="-1"></a>  <span class="fu">body_add_flextable</span>(<span class="fu">flextable</span>(results_rq1) <span class="sc">%&gt;%</span> <span class="fu">autofit</span>()) <span class="sc">%&gt;%</span></span>
+<span id="cb14-4"><a href="#cb14-4" tabindex="-1"></a>  <span class="fu">body_add_par</span>(<span class="st">&quot;&quot;</span>, <span class="at">style =</span> <span class="st">&quot;Normal&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb14-5"><a href="#cb14-5" tabindex="-1"></a>  <span class="fu">body_add_par</span>(<span class="st">&quot;Pairwise Comparisons (odds ratios)&quot;</span>, <span class="at">style =</span> <span class="st">&quot;heading 2&quot;</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb14-6"><a href="#cb14-6" tabindex="-1"></a>  <span class="fu">body_add_flextable</span>(<span class="fu">flextable</span>(pairwise_rq1 <span class="sc">%&gt;%</span></span>
+<span id="cb14-7"><a href="#cb14-7" tabindex="-1"></a>                                 <span class="fu">select</span>(contrast, odds.ratio, SE, asymp.LCL, asymp.UCL, p)) <span class="sc">%&gt;%</span></span>
+<span id="cb14-8"><a href="#cb14-8" tabindex="-1"></a>                       <span class="fu">autofit</span>())</span>
+<span id="cb14-9"><a href="#cb14-9" tabindex="-1"></a></span>
+<span id="cb14-10"><a href="#cb14-10" tabindex="-1"></a><span class="fu">print</span>(doc, <span class="at">target =</span> <span class="st">&quot;../reports/results_rq1_tolerability/results_rq1.docx&quot;</span>)</span></code></pre></div>
+</div>
+</div>
+<div id="non-preregistered-model-discrete-time-dropout-hazard" class="section level1">
+<h1>Non preregistered model: discrete-time dropout hazard</h1>
+<p><strong>Research question shift.</strong> The preregistered RQ1 asks
+whether <em>condition assignment</em> affects total dropouts — an
+intention-to-treat (ITT) question at the level of the randomised arm.
+The non-preregistered model below reframes this to a
+<strong>dose-response</strong> question: does the <em>current delay
+length</em> (in seconds) raise the per-week dropout hazard, regardless
+of which condition produced that dose? This is a different scientific
+question — closer to the underlying mechanism the study cares about (do
+longer delays cause people to give up?).</p>
+<p><strong>Why a hazard model.</strong> The preregistered NB regression
+on per-condition dropout <em>counts</em> effectively has 4 data points
+(one per condition) and models no within-condition variation. The
+logistic model used above is a clear improvement, but still collapses 6
+weeks of activity into a single bit per participant. A discrete-time
+hazard model preserves <em>when</em> people drop out: each participant
+contributes one row per week-at-risk, with a binary indicator for
+whether they dropped out that week.</p>
+<p><strong>Why <code>delay_secs</code> instead of
+<code>condition</code>.</strong> The covariate of interest is the
+current delay length in seconds (3s, 6s, or 10s), which varies by
+condition × week. Treating it as a continuous numeric predictor uses 1
+df instead of 3, gaining power <em>if</em> the dose-response is
+approximately linear. <code>factor(week)</code> is included to absorb
+baseline weekly hazard (study fatigue, time-since-start), so the
+<code>delay_secs</code> coefficient captures the marginal effect of dose
+holding week constant. Note: in this hazard model, identification of
+<code>delay_secs</code> is largely between-subject (at any fixed week, a
+participant’s delay is determined by their condition); the
+within-subject component exists but is limited because the design only
+ever ramps delay up.</p>
+<div class="sourceCode" id="cb15"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" tabindex="-1"></a><span class="co"># Person-period dataset: one row per participant × at-risk week.</span></span>
+<span id="cb15-2"><a href="#cb15-2" tabindex="-1"></a><span class="co"># Dropout assumed to occur at the start of week (last_week + 1).</span></span>
+<span id="cb15-3"><a href="#cb15-3" tabindex="-1"></a><span class="co"># Censored at week 6 if last_week == 6 (no dropout event).</span></span>
+<span id="cb15-4"><a href="#cb15-4" tabindex="-1"></a><span class="co"># delay_secs derived from the same rule as Step 5 of data processing.</span></span>
+<span id="cb15-5"><a href="#cb15-5" tabindex="-1"></a>person_period <span class="ot">&lt;-</span> df_rq1 <span class="sc">%&gt;%</span></span>
+<span id="cb15-6"><a href="#cb15-6" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">exit_week =</span> <span class="fu">if_else</span>(dropout <span class="sc">==</span> <span class="dv">1</span><span class="dt">L</span>, last_week <span class="sc">+</span> <span class="dv">1</span><span class="dt">L</span>, <span class="dv">6</span><span class="dt">L</span>)) <span class="sc">%&gt;%</span></span>
+<span id="cb15-7"><a href="#cb15-7" tabindex="-1"></a>  <span class="fu">rowwise</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb15-8"><a href="#cb15-8" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">week =</span> <span class="fu">list</span>(<span class="fu">seq_len</span>(<span class="fu">min</span>(exit_week, <span class="dv">6</span><span class="dt">L</span>)))) <span class="sc">%&gt;%</span></span>
+<span id="cb15-9"><a href="#cb15-9" tabindex="-1"></a>  <span class="fu">unnest</span>(week) <span class="sc">%&gt;%</span></span>
+<span id="cb15-10"><a href="#cb15-10" tabindex="-1"></a>  <span class="fu">ungroup</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb15-11"><a href="#cb15-11" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb15-12"><a href="#cb15-12" tabindex="-1"></a>    <span class="at">dropped_out =</span> <span class="fu">as.integer</span>(week <span class="sc">==</span> exit_week <span class="sc">&amp;</span> dropout <span class="sc">==</span> <span class="dv">1</span><span class="dt">L</span>),</span>
+<span id="cb15-13"><a href="#cb15-13" tabindex="-1"></a>    <span class="at">delay_secs  =</span> <span class="fu">case_when</span>(</span>
+<span id="cb15-14"><a href="#cb15-14" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;CCC&quot;</span>                  <span class="sc">~</span> <span class="dv">10</span>,</span>
+<span id="cb15-15"><a href="#cb15-15" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span> <span class="sc">&amp;</span> week <span class="sc">&lt;=</span> <span class="dv">2</span>      <span class="sc">~</span> <span class="dv">3</span>,</span>
+<span id="cb15-16"><a href="#cb15-16" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span> <span class="sc">&amp;</span> week <span class="sc">&lt;=</span> <span class="dv">4</span>      <span class="sc">~</span> <span class="dv">6</span>,</span>
+<span id="cb15-17"><a href="#cb15-17" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span>                  <span class="sc">~</span> <span class="dv">10</span>,</span>
+<span id="cb15-18"><a href="#cb15-18" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ACC&quot;</span> <span class="sc">&amp;</span> week <span class="sc">&lt;=</span> <span class="dv">2</span>      <span class="sc">~</span> <span class="dv">3</span>,</span>
+<span id="cb15-19"><a href="#cb15-19" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ACC&quot;</span>                  <span class="sc">~</span> <span class="dv">10</span>,</span>
+<span id="cb15-20"><a href="#cb15-20" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;BCC&quot;</span> <span class="sc">&amp;</span> week <span class="sc">&lt;=</span> <span class="dv">2</span>      <span class="sc">~</span> <span class="dv">6</span>,</span>
+<span id="cb15-21"><a href="#cb15-21" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;BCC&quot;</span>                  <span class="sc">~</span> <span class="dv">10</span></span>
+<span id="cb15-22"><a href="#cb15-22" tabindex="-1"></a>    )</span>
+<span id="cb15-23"><a href="#cb15-23" tabindex="-1"></a>  )</span>
+<span id="cb15-24"><a href="#cb15-24" tabindex="-1"></a></span>
+<span id="cb15-25"><a href="#cb15-25" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Person-periods:&quot;</span>, <span class="fu">nrow</span>(person_period),</span>
+<span id="cb15-26"><a href="#cb15-26" tabindex="-1"></a>    <span class="st">&quot;</span><span class="sc">\n</span><span class="st">Dropout events:&quot;</span>, <span class="fu">sum</span>(person_period<span class="sc">$</span>dropped_out), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## Person-periods: 6764 
+## Dropout events: 1102</code></pre>
+<div class="sourceCode" id="cb17"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Dropouts by week (should be 0 in week 1 by construction):</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## Dropouts by week (should be 0 in week 1 by construction):</code></pre>
+<div class="sourceCode" id="cb19"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" tabindex="-1"></a>person_period <span class="sc">|&gt;</span></span>
+<span id="cb19-2"><a href="#cb19-2" tabindex="-1"></a>  <span class="fu">group_by</span>(week) <span class="sc">|&gt;</span></span>
+<span id="cb19-3"><a href="#cb19-3" tabindex="-1"></a>  <span class="fu">summarise</span>(<span class="at">n_dropped =</span> <span class="fu">sum</span>(dropped_out)) <span class="sc">|&gt;</span></span>
+<span id="cb19-4"><a href="#cb19-4" tabindex="-1"></a>  <span class="fu">kable</span>() <span class="sc">|&gt;</span> <span class="fu">kable_classic</span>()</span></code></pre></div>
+<table class=" lightable-classic" style="color: black; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+week
+</th>
+<th style="text-align:right;">
+n_dropped
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:right;">
+554
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+155
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+138
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:right;">
+125
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:right;">
+130
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb20"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" tabindex="-1"></a><span class="co"># Drop week 1: by construction it has zero dropout events (earliest possible</span></span>
+<span id="cb20-2"><a href="#cb20-2" tabindex="-1"></a><span class="co"># exit_week is 2 because last_week &gt;= 1 for anyone with data). Including it</span></span>
+<span id="cb20-3"><a href="#cb20-3" tabindex="-1"></a><span class="co"># causes separation — the intercept is fit at -Inf and the week dummies blow</span></span>
+<span id="cb20-4"><a href="#cb20-4" tabindex="-1"></a><span class="co"># up to compensate.</span></span>
+<span id="cb20-5"><a href="#cb20-5" tabindex="-1"></a>m_hazard <span class="ot">&lt;-</span> <span class="fu">glm</span>(</span>
+<span id="cb20-6"><a href="#cb20-6" tabindex="-1"></a>  dropped_out <span class="sc">~</span> delay_secs <span class="sc">+</span> <span class="fu">factor</span>(week),</span>
+<span id="cb20-7"><a href="#cb20-7" tabindex="-1"></a>  <span class="at">family =</span> <span class="fu">binomial</span>(<span class="at">link =</span> <span class="st">&quot;logit&quot;</span>),</span>
+<span id="cb20-8"><a href="#cb20-8" tabindex="-1"></a>  <span class="at">data   =</span> <span class="fu">filter</span>(person_period, week <span class="sc">&gt;=</span> <span class="dv">2</span>)</span>
+<span id="cb20-9"><a href="#cb20-9" tabindex="-1"></a>)</span>
+<span id="cb20-10"><a href="#cb20-10" tabindex="-1"></a><span class="fu">summary</span>(m_hazard)</span></code></pre></div>
+<pre><code>## 
+## Call:
+## glm(formula = dropped_out ~ delay_secs + factor(week), family = binomial(link = &quot;logit&quot;), 
+##     data = filter(person_period, week &gt;= 2))
+## 
+## Coefficients:
+##                Estimate Std. Error z value Pr(&gt;|z|)    
+## (Intercept)   -0.722535   0.104295  -6.928 4.27e-12 ***
+## delay_secs     0.008775   0.016293   0.539     0.59    
+## factor(week)3 -1.150998   0.116535  -9.877  &lt; 2e-16 ***
+## factor(week)4 -1.106911   0.120663  -9.174  &lt; 2e-16 ***
+## factor(week)5 -1.042684   0.132278  -7.883 3.21e-15 ***
+## factor(week)6 -0.787395   0.132478  -5.944 2.79e-09 ***
+## ---
+## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+## 
+## (Dispersion parameter for binomial family taken to be 1)
+## 
+##     Null deviance: 5334.5  on 5122  degrees of freedom
+## Residual deviance: 5120.8  on 5117  degrees of freedom
+## AIC: 5132.8
+## 
+## Number of Fisher Scoring iterations: 4</code></pre>
+<div class="sourceCode" id="cb22"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" tabindex="-1"></a><span class="co"># signif() rounds to N significant figures (round() rounds to N decimal</span></span>
+<span id="cb22-2"><a href="#cb22-2" tabindex="-1"></a><span class="co"># places, which is useless for very large or very small numbers).</span></span>
+<span id="cb22-3"><a href="#cb22-3" tabindex="-1"></a>results_hazard <span class="ot">&lt;-</span> <span class="fu">tidy</span>(m_hazard, <span class="at">exponentiate =</span> <span class="cn">TRUE</span>, <span class="at">conf.int =</span> <span class="cn">TRUE</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb22-4"><a href="#cb22-4" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb22-5"><a href="#cb22-5" tabindex="-1"></a>    <span class="at">OR =</span> <span class="fu">round</span>(estimate, <span class="dv">3</span>),</span>
+<span id="cb22-6"><a href="#cb22-6" tabindex="-1"></a>    <span class="at">CI =</span> <span class="fu">paste0</span>(<span class="st">&quot;[&quot;</span>, <span class="fu">round</span>(conf.low, <span class="dv">3</span>), <span class="st">&quot;, &quot;</span>, <span class="fu">round</span>(conf.high, <span class="dv">3</span>), <span class="st">&quot;]&quot;</span>),</span>
+<span id="cb22-7"><a href="#cb22-7" tabindex="-1"></a>    <span class="at">p  =</span> <span class="fu">case_when</span>(p.value <span class="sc">&lt;</span> .<span class="dv">001</span> <span class="sc">~</span> <span class="st">&quot;&lt; .001&quot;</span>,</span>
+<span id="cb22-8"><a href="#cb22-8" tabindex="-1"></a>                   <span class="cn">TRUE</span>           <span class="sc">~</span> <span class="fu">as.character</span>(<span class="fu">round</span>(p.value, <span class="dv">3</span>)))</span>
+<span id="cb22-9"><a href="#cb22-9" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb22-10"><a href="#cb22-10" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">select</span>(<span class="at">Predictor =</span> term, OR, <span class="st">`</span><span class="at">95% CI</span><span class="st">`</span> <span class="ot">=</span> CI, p)</span>
+<span id="cb22-11"><a href="#cb22-11" tabindex="-1"></a></span>
+<span id="cb22-12"><a href="#cb22-12" tabindex="-1"></a>results_hazard <span class="sc">|&gt;</span> <span class="fu">kable</span>() <span class="sc">|&gt;</span> <span class="fu">kable_classic</span>()</span></code></pre></div>
+<table class=" lightable-classic" style="color: black; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Predictor
+</th>
+<th style="text-align:right;">
+OR
+</th>
+<th style="text-align:left;">
+95% CI
+</th>
+<th style="text-align:left;">
+p
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+(Intercept)
+</td>
+<td style="text-align:right;">
+0.486
+</td>
+<td style="text-align:left;">
+[0.395, 0.595]
+</td>
+<td style="text-align:left;">
+&lt; .001
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+delay_secs
+</td>
+<td style="text-align:right;">
+1.009
+</td>
+<td style="text-align:left;">
+[0.977, 1.042]
+</td>
+<td style="text-align:left;">
+0.59
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+factor(week)3
+</td>
+<td style="text-align:right;">
+0.316
+</td>
+<td style="text-align:left;">
+[0.251, 0.397]
+</td>
+<td style="text-align:left;">
+&lt; .001
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+factor(week)4
+</td>
+<td style="text-align:right;">
+0.331
+</td>
+<td style="text-align:left;">
+[0.26, 0.418]
+</td>
+<td style="text-align:left;">
+&lt; .001
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+factor(week)5
+</td>
+<td style="text-align:right;">
+0.353
+</td>
+<td style="text-align:left;">
+[0.271, 0.456]
+</td>
+<td style="text-align:left;">
+&lt; .001
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+factor(week)6
+</td>
+<td style="text-align:right;">
+0.455
+</td>
+<td style="text-align:left;">
+[0.35, 0.589]
+</td>
+<td style="text-align:left;">
+&lt; .001
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb23"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1" tabindex="-1"></a><span class="fu">write_csv</span>(results_hazard, <span class="st">&quot;../reports/results_rq1_tolerability/hazard_model_results.csv&quot;</span>)</span>
+<span id="cb23-2"><a href="#cb23-2" tabindex="-1"></a></span>
+<span id="cb23-3"><a href="#cb23-3" tabindex="-1"></a><span class="co"># Descriptive: weekly dropout rates (n_dropped / n_at_risk) per delay dose</span></span>
+<span id="cb23-4"><a href="#cb23-4" tabindex="-1"></a>hazard_by_dose <span class="ot">&lt;-</span> person_period <span class="sc">%&gt;%</span></span>
+<span id="cb23-5"><a href="#cb23-5" tabindex="-1"></a>  <span class="fu">group_by</span>(delay_secs, week) <span class="sc">%&gt;%</span></span>
+<span id="cb23-6"><a href="#cb23-6" tabindex="-1"></a>  <span class="fu">summarise</span>(</span>
+<span id="cb23-7"><a href="#cb23-7" tabindex="-1"></a>    <span class="at">n_at_risk  =</span> <span class="fu">n</span>(),</span>
+<span id="cb23-8"><a href="#cb23-8" tabindex="-1"></a>    <span class="at">n_dropped  =</span> <span class="fu">sum</span>(dropped_out),</span>
+<span id="cb23-9"><a href="#cb23-9" tabindex="-1"></a>    <span class="at">hazard_pct =</span> <span class="fu">round</span>(n_dropped <span class="sc">/</span> n_at_risk <span class="sc">*</span> <span class="dv">100</span>, <span class="dv">1</span>),</span>
+<span id="cb23-10"><a href="#cb23-10" tabindex="-1"></a>    <span class="at">.groups =</span> <span class="st">&quot;drop&quot;</span></span>
+<span id="cb23-11"><a href="#cb23-11" tabindex="-1"></a>  )</span>
+<span id="cb23-12"><a href="#cb23-12" tabindex="-1"></a></span>
+<span id="cb23-13"><a href="#cb23-13" tabindex="-1"></a>hazard_by_dose <span class="sc">|&gt;</span> <span class="fu">kable</span>() <span class="sc">|&gt;</span> <span class="fu">kable_classic</span>()</span></code></pre></div>
+<table class=" lightable-classic" style="color: black; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+delay_secs
+</th>
+<th style="text-align:right;">
+week
+</th>
+<th style="text-align:right;">
+n_at_risk
+</th>
+<th style="text-align:right;">
+n_dropped
+</th>
+<th style="text-align:right;">
+hazard_pct
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+817
+</td>
+<td style="text-align:right;">
+0
+</td>
+<td style="text-align:right;">
+0.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:right;">
+817
+</td>
+<td style="text-align:right;">
+276
+</td>
+<td style="text-align:right;">
+33.8
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+409
+</td>
+<td style="text-align:right;">
+0
+</td>
+<td style="text-align:right;">
+0.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:right;">
+409
+</td>
+<td style="text-align:right;">
+134
+</td>
+<td style="text-align:right;">
+32.8
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+254
+</td>
+<td style="text-align:right;">
+36
+</td>
+<td style="text-align:right;">
+14.2
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+218
+</td>
+<td style="text-align:right;">
+28
+</td>
+<td style="text-align:right;">
+12.8
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:right;">
+415
+</td>
+<td style="text-align:right;">
+0
+</td>
+<td style="text-align:right;">
+0.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:right;">
+415
+</td>
+<td style="text-align:right;">
+144
+</td>
+<td style="text-align:right;">
+34.7
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+833
+</td>
+<td style="text-align:right;">
+119
+</td>
+<td style="text-align:right;">
+14.3
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+714
+</td>
+<td style="text-align:right;">
+110
+</td>
+<td style="text-align:right;">
+15.4
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:right;">
+794
+</td>
+<td style="text-align:right;">
+125
+</td>
+<td style="text-align:right;">
+15.7
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:right;">
+669
+</td>
+<td style="text-align:right;">
+130
+</td>
+<td style="text-align:right;">
+19.4
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb24"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" tabindex="-1"></a><span class="fu">write_csv</span>(hazard_by_dose, <span class="st">&quot;../reports/results_rq1_tolerability/weekly_hazard_by_dose.csv&quot;</span>)</span>
+<span id="cb24-2"><a href="#cb24-2" tabindex="-1"></a></span>
+<span id="cb24-3"><a href="#cb24-3" tabindex="-1"></a><span class="co"># Predicted dropout probability per delay dose (emmeans).</span></span>
+<span id="cb24-4"><a href="#cb24-4" tabindex="-1"></a><span class="co"># The model is additive in delay_secs (no dose × week interaction), so the</span></span>
+<span id="cb24-5"><a href="#cb24-5" tabindex="-1"></a><span class="co"># OR per second is constant; what varies usefully across doses is the</span></span>
+<span id="cb24-6"><a href="#cb24-6" tabindex="-1"></a><span class="co"># absolute predicted weekly hazard. emmeans averages across the week</span></span>
+<span id="cb24-7"><a href="#cb24-7" tabindex="-1"></a><span class="co"># dummies to give a marginal predicted probability at each delay level.</span></span>
+<span id="cb24-8"><a href="#cb24-8" tabindex="-1"></a>em_hazard_by_dose <span class="ot">&lt;-</span> <span class="fu">emmeans</span>(</span>
+<span id="cb24-9"><a href="#cb24-9" tabindex="-1"></a>  m_hazard, <span class="sc">~</span> delay_secs,</span>
+<span id="cb24-10"><a href="#cb24-10" tabindex="-1"></a>  <span class="at">at   =</span> <span class="fu">list</span>(<span class="at">delay_secs =</span> <span class="fu">c</span>(<span class="dv">3</span>, <span class="dv">6</span>, <span class="dv">10</span>)),</span>
+<span id="cb24-11"><a href="#cb24-11" tabindex="-1"></a>  <span class="at">type =</span> <span class="st">&quot;response&quot;</span></span>
+<span id="cb24-12"><a href="#cb24-12" tabindex="-1"></a>) <span class="sc">|&gt;</span></span>
+<span id="cb24-13"><a href="#cb24-13" tabindex="-1"></a>  <span class="fu">summary</span>(<span class="at">infer =</span> <span class="cn">TRUE</span>) <span class="sc">|&gt;</span></span>
+<span id="cb24-14"><a href="#cb24-14" tabindex="-1"></a>  <span class="fu">as_tibble</span>() <span class="sc">|&gt;</span></span>
+<span id="cb24-15"><a href="#cb24-15" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb24-16"><a href="#cb24-16" tabindex="-1"></a>    <span class="st">`</span><span class="at">Pr(dropout)</span><span class="st">`</span> <span class="ot">=</span> <span class="fu">signif</span>(prob, <span class="dv">3</span>),</span>
+<span id="cb24-17"><a href="#cb24-17" tabindex="-1"></a>    <span class="st">`</span><span class="at">95% CI</span><span class="st">`</span>      <span class="ot">=</span> <span class="fu">paste0</span>(<span class="st">&quot;[&quot;</span>, <span class="fu">signif</span>(asymp.LCL, <span class="dv">3</span>), <span class="st">&quot;, &quot;</span>,</span>
+<span id="cb24-18"><a href="#cb24-18" tabindex="-1"></a>                                <span class="fu">signif</span>(asymp.UCL, <span class="dv">3</span>), <span class="st">&quot;]&quot;</span>)</span>
+<span id="cb24-19"><a href="#cb24-19" tabindex="-1"></a>  ) <span class="sc">|&gt;</span></span>
+<span id="cb24-20"><a href="#cb24-20" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">select</span>(<span class="st">`</span><span class="at">Delay (s)</span><span class="st">`</span> <span class="ot">=</span> delay_secs, <span class="st">`</span><span class="at">Pr(dropout)</span><span class="st">`</span>, <span class="st">`</span><span class="at">95% CI</span><span class="st">`</span>)</span>
+<span id="cb24-21"><a href="#cb24-21" tabindex="-1"></a></span>
+<span id="cb24-22"><a href="#cb24-22" tabindex="-1"></a>em_hazard_by_dose <span class="sc">|&gt;</span> <span class="fu">kable</span>() <span class="sc">|&gt;</span> <span class="fu">kable_classic</span>()</span></code></pre></div>
+<table class=" lightable-classic" style="color: black; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+Delay (s)
+</th>
+<th style="text-align:right;">
+Pr(dropout)
+</th>
+<th style="text-align:left;">
+95% CI
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:right;">
+0.180
+</td>
+<td style="text-align:left;">
+[0.153, 0.212]
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:right;">
+0.184
+</td>
+<td style="text-align:left;">
+[0.167, 0.202]
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:right;">
+0.190
+</td>
+<td style="text-align:left;">
+[0.177, 0.203]
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sourceCode" id="cb25"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" tabindex="-1"></a><span class="fu">write_csv</span>(em_hazard_by_dose,</span>
+<span id="cb25-2"><a href="#cb25-2" tabindex="-1"></a>          <span class="st">&quot;../reports/results_rq1_tolerability/hazard_by_dose_emmeans.csv&quot;</span>)</span></code></pre></div>
+<ul>
+<li>Hypothesis test provided by the delay_secs parameter.</li>
+</ul>
 </div>
 <div id="session-info" class="section level1">
 <h1>Session info</h1>
-<div class="sourceCode" id="cb19"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" tabindex="-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div>
+<div class="sourceCode" id="cb26"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" tabindex="-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div>
 <pre><code>## R version 4.5.2 (2025-10-31)
 ## Platform: aarch64-apple-darwin20
 ## Running under: macOS Tahoe 26.3
@@ -1854,34 +3149,38 @@ logistic is the correct choice (confirmed by Hanna’s thesis).</p>
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
 ## other attached packages:
-##  [1] officer_0.7.3    flextable_0.9.11 emmeans_2.0.3    broom_1.0.11    
-##  [5] lubridate_1.9.4  forcats_1.0.1    stringr_1.6.0    dplyr_1.2.0     
-##  [9] purrr_1.2.1      readr_2.2.0      tidyr_1.3.2      tibble_3.3.1    
-## [13] ggplot2_4.0.1    tidyverse_2.0.0 
+##  [1] kableExtra_1.4.0 knitr_1.51       lme4_1.1-38      Matrix_1.7-4    
+##  [5] officer_0.7.3    flextable_0.9.11 emmeans_2.0.3    broom_1.0.11    
+##  [9] lubridate_1.9.4  forcats_1.0.1    stringr_1.6.0    dplyr_1.2.0     
+## [13] purrr_1.2.1      readr_2.2.0      tidyr_1.3.2      tibble_3.3.1    
+## [17] ggplot2_4.0.1    tidyverse_2.0.0 
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] gtable_0.3.6            xfun_0.56               bslib_0.10.0           
-##  [4] tzdb_0.5.0              vctrs_0.7.1             tools_4.5.2            
-##  [7] generics_0.1.4          parallel_4.5.2          pkgconfig_2.0.3        
-## [10] data.table_1.18.0       RColorBrewer_1.1-3      S7_0.2.1               
-## [13] uuid_1.2-1              lifecycle_1.0.5         compiler_4.5.2         
-## [16] farver_2.1.2            textshaping_1.0.4       fontquiver_0.2.1       
-## [19] fontLiberation_0.1.0    htmltools_0.5.9         sass_0.4.10            
-## [22] yaml_2.3.12             crayon_1.5.3            pillar_1.11.1          
-## [25] jquerylib_0.1.4         openssl_2.3.4           cachem_1.1.0           
-## [28] fontBitstreamVera_0.1.1 tidyselect_1.2.1        zip_2.3.3              
-## [31] digest_0.6.39           mvtnorm_1.3-7           stringi_1.8.7          
-## [34] fastmap_1.2.0           grid_4.5.2              cli_3.6.5              
-## [37] magrittr_2.0.4          patchwork_1.3.2         utf8_1.2.6             
-## [40] withr_3.0.2             gdtools_0.5.0           scales_1.4.0           
-## [43] backports_1.5.0         bit64_4.6.0-1           estimability_1.5.1     
-## [46] timechange_0.3.0        rmarkdown_2.30          bit_4.6.0              
-## [49] otel_0.2.0              askpass_1.2.1           ragg_1.5.0             
-## [52] hms_1.1.4               evaluate_1.0.5          knitr_1.51             
-## [55] rlang_1.1.7             Rcpp_1.1.1              xtable_1.8-8           
-## [58] glue_1.8.0              xml2_1.5.1              rstudioapi_0.18.0      
-## [61] vroom_1.7.0             jsonlite_2.0.0          R6_2.6.1               
-## [64] systemfonts_1.3.1</code></pre>
+##  [1] tidyselect_1.2.1        viridisLite_0.4.2       farver_2.1.2           
+##  [4] S7_0.2.1                fastmap_1.2.0           fontquiver_0.2.1       
+##  [7] digest_0.6.39           timechange_0.3.0        estimability_1.5.1     
+## [10] lifecycle_1.0.5         magrittr_2.0.4          compiler_4.5.2         
+## [13] rlang_1.1.7             sass_0.4.10             tools_4.5.2            
+## [16] yaml_2.3.12             data.table_1.18.0       askpass_1.2.1          
+## [19] bit_4.6.0               xml2_1.5.1              RColorBrewer_1.1-3     
+## [22] withr_3.0.2             grid_4.5.2              gdtools_0.5.0          
+## [25] xtable_1.8-8            scales_1.4.0            MASS_7.3-65            
+## [28] cli_3.6.5               mvtnorm_1.3-7           rmarkdown_2.30         
+## [31] crayon_1.5.3            ragg_1.5.0              reformulas_0.4.4       
+## [34] generics_0.1.4          otel_0.2.0              rstudioapi_0.18.0      
+## [37] tzdb_0.5.0              minqa_1.2.8             cachem_1.1.0           
+## [40] splines_4.5.2           parallel_4.5.2          vctrs_0.7.1            
+## [43] boot_1.3-32             jsonlite_2.0.0          fontBitstreamVera_0.1.1
+## [46] hms_1.1.4               patchwork_1.3.2         bit64_4.6.0-1          
+## [49] systemfonts_1.3.1       jquerylib_0.1.4         glue_1.8.0             
+## [52] nloptr_2.2.1            stringi_1.8.7           gtable_0.3.6           
+## [55] pillar_1.11.1           htmltools_0.5.9         openssl_2.3.4          
+## [58] R6_2.6.1                textshaping_1.0.4       Rdpack_2.6.6           
+## [61] vroom_1.7.0             evaluate_1.0.5          lattice_0.22-7         
+## [64] rbibutils_2.4.1         backports_1.5.0         fontLiberation_0.1.0   
+## [67] bslib_0.10.0            Rcpp_1.1.1              zip_2.3.3              
+## [70] uuid_1.2-1              svglite_2.2.2           coda_0.19-4.1          
+## [73] nlme_3.1-168            xfun_0.56               pkgconfig_2.0.3</code></pre>
 </div>
 
 

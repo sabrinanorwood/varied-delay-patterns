@@ -30,10 +30,15 @@ knitr::opts_chunk$set(message = FALSE,
 library(tidyverse)
 library(MASS)
 library(broom)
+library(broom.mixed)
 library(emmeans)
 library(flextable)
 library(officer)
 library(AER)
+library(lme4)
+library(glmmTMB)
+library(knitr)
+library(kableExtra)
 
 dir.create("../reports/", showWarnings = FALSE)
 dir.create("../reports/results_rq2_effectiveness/")
@@ -91,7 +96,7 @@ results_rq2_1 <- tidy(model_rq2_1, exponentiate = TRUE, conf.int = TRUE) %>%
   ) %>%
   dplyr::select(Predictor = term, `Rate Ratio` = RR, `95% CI` = CI, p) 
 
-results_rq2_1
+results_rq2_1 |> kable() |> kable_classic()
 
 write_csv(results_rq2_1, "../reports/results_rq2_effectiveness/model_rq2_1_results.csv")
 
@@ -111,7 +116,7 @@ pairwise_rq2_1 <- emmeans(model_rq2_1, ~ condition) %>%
                   TRUE           ~ as.character(round(p.value, 3)))
   )
 
-pairwise_rq2_1
+pairwise_rq2_1 |> kable() |> kable_classic()
 
 write_csv(pairwise_rq2_1, "../reports/results_rq2_effectiveness/pairwise_rq2_1.csv")
 
@@ -166,7 +171,7 @@ results_rq2_2 <- tidy(model_rq2_2, exponentiate = TRUE, conf.int = TRUE) %>%
   ) %>%
   dplyr::select(Predictor = term, `Rate Ratio` = RR, `95% CI` = CI, p) 
 
-results_rq2_2
+results_rq2_2 |> kable() |> kable_classic()
 
 write_csv(results_rq2_2, "../reports/results_rq2_effectiveness/model_rq2_2_results.csv")
 
@@ -186,7 +191,7 @@ pairwise_rq2_2 <- emmeans(model_rq2_2, ~ condition) %>%
                   TRUE           ~ as.character(round(p.value, 3)))
   )
 
-pairwise_rq2_2
+pairwise_rq2_2 |> kable() |> kable_classic()
 
 write_csv(pairwise_rq2_2, "../reports/results_rq2_effectiveness/pairwise_rq2_2.csv")
 
@@ -251,6 +256,446 @@ doc <- read_docx() %>%
 print(doc, target = "../reports/results_rq2_effectiveness/results_rq2.docx")
 
 ```
+
+# Non preregistered model: longitudinal binomial / NB GLMM
+
+**Research question shift.** The preregistered RQ2.1 and RQ2.2 ask whether *condition assignment* affects week-6 outcomes — intention-to-treat (ITT) questions about the randomised arm. The non-preregistered models below reframe these to **dose-response** questions: does the *current delay length* (in seconds) affect the dismissal rate / weekly attempt count, with the trajectory unfolding over all 6 weeks? This is a different scientific question — does the delay dose itself drive behaviour, regardless of which condition produced it — and complements rather than replaces the preregistered ITT analysis above. 
+
+**Why move away from the week-6-only spec.** Three problems with the preregistered week-6 cross-sectional models:
+
+1. **Selection / collider bias.** Condition affects who reaches week 6 (RQ1 is precisely about this). Restricting RQ2 to completers makes the week-6 cohort non-comparable across conditions, biasing the condition effect in an unknown direction. No covariate adjustment in the week-6 model fixes this — the bias is baked into the design choice to analyze week 6 alone.
+2. **Post-treatment offset (RQ2.1).** `attempted_w6` is itself an outcome influenced by condition (it is the outcome of RQ2.2). Using it as an offset conditions on a downstream variable. The rate ratio for `condition` then has a slippery interpretation: "dismissals per attempt, holding attempts fixed at whatever they happened to be in this condition."
+3. **Wasted information.** Weeks 2–5 are discarded entirely.
+
+**Why a GLMM on weekly counts.** The model uses all 6 weeks, with a random intercept per participant to share strength without conditioning on completion. Participants who drop out simply contribute fewer rows; under MAR-style dropout assumptions, the estimator does not need a completers-only restriction. The binomial spec is the natural one for "successes/trials" — no offset needed.
+
+**Why `delay_secs` instead of `condition`.** Using the time-varying current delay length (3s/6s/10s) operationalises the dose-response question directly. This is more sensitive than a 3-df condition contrast for two reasons: it uses 1 df, and because ABC/ACC/BCC participants experience multiple delays over the study, every such participant partially serves as their own control. The within-subject identification here is much stronger than in RQ1's hazard model — within-subject contrasts (e.g. an ABC participant at 3s in week 1 vs the same participant at 10s in week 5) directly identify the dose effect.
+
+```{r}
+
+# Weekly file: one row per participant × at-risk week (1..last_week).
+# Weeks where the participant was active but had no events of the relevant
+# type are explicit zeros; weeks past last_week are absent (post-dropout).
+weekly <- read_csv("../data/processed/data_processed_behavioral_data_weekly.csv",
+                   show_col_types = FALSE) %>%
+  mutate(condition = relevel(factor(condition), ref = "CCC"))
+
+cat("Person-weeks:", nrow(weekly),
+    "\nUnique participants:", n_distinct(weekly$participant_id), "\n")
+
+```
+
+## RQ2.1 analogue: dismissal rate trajectory
+
+Binomial spec models the proportion of attempts dismissed. Weeks with
+`attempted == 0` carry no information about the dismissal *rate* and are
+excluded — they would force `0/0` cells.
+
+```{r}
+
+m_dismiss <- glmer(
+  cbind(dismissed, attempted - dismissed) ~ delay_secs * study_week + (1 | participant_id),
+  family  = binomial,
+  data    = filter(weekly, attempted > 0),
+  control = glmerControl(optimizer = "bobyqa")
+)
+summary(m_dismiss)
+
+# Fixed-effect coefficient table. Binomial GLMM → exponentiated coefficients
+# are odds ratios (per second of delay, per week, and the interaction).
+results_glmm_dismiss <- broom.mixed::tidy(m_dismiss,
+                                          effects       = "fixed",
+                                          exponentiate  = TRUE,
+                                          conf.int      = TRUE) %>%
+  mutate(
+    OR = round(estimate, 3),
+    CI = paste0("[", round(conf.low, 3), ", ", round(conf.high, 3), "]"),
+    p  = case_when(p.value < .001 ~ "< .001",
+                   TRUE           ~ as.character(round(p.value, 3)))
+  ) %>%
+  dplyr::select(Predictor = term, OR, `95% CI` = CI, p)
+
+results_glmm_dismiss |> kable() |> kable_classic()
+
+write_csv(results_glmm_dismiss,
+          "../reports/results_rq2_effectiveness/glmm_dismiss_results.csv")
+write_rds(m_dismiss,
+          "../reports/results_rq2_effectiveness/glmm_dismiss.rds")
+
+# Dose slope by week (emtrends).
+# Because of the delay_secs × study_week interaction, the per-second dose
+# effect varies by week. This reports the slope at week 1, mid-study, and
+# week 6, exponentiated to "OR per second of delay".
+em_slopes_dismiss <- emtrends(
+  m_dismiss, ~ study_week,
+  var = "delay_secs",
+  at  = list(study_week = c(1, 3, 6))
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(
+    OR_per_sec = signif(exp(delay_secs.trend), 3),
+    CI         = paste0("[", signif(exp(asymp.LCL), 3), ", ",
+                              signif(exp(asymp.UCL), 3), "]"),
+    p          = case_when(p.value < .001 ~ "< .001",
+                           TRUE           ~ as.character(round(p.value, 3)))
+  ) |>
+  dplyr::select(`Study week`         = study_week,
+                `OR per sec of delay` = OR_per_sec,
+                `95% CI`              = CI,
+                p)
+
+em_slopes_dismiss |> kable() |> kable_classic()
+write_csv(em_slopes_dismiss,
+          "../reports/results_rq2_effectiveness/glmm_dismiss_slopes.csv")
+
+# Predicted dismissal probability at specific (delay, week) combinations.
+# Easier to interpret than OR-per-second: gives the absolute dismissal rate
+# the model expects for a typical participant at each grid point.
+em_pred_dismiss <- emmeans(
+  m_dismiss, ~ delay_secs * study_week,
+  at   = list(delay_secs = c(3, 6, 10), study_week = c(1, 3, 6)),
+  type = "response"
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(
+    `Pr(dismiss)` = signif(prob, 3),
+    `95% CI`      = paste0("[", signif(asymp.LCL, 3), ", ",
+                                signif(asymp.UCL, 3), "]")
+  ) |>
+  dplyr::select(`Delay (s)`  = delay_secs,
+                `Study week` = study_week,
+                `Pr(dismiss)`,
+                `95% CI`)
+
+em_pred_dismiss |> kable() |> kable_classic()
+write_csv(em_pred_dismiss,
+          "../reports/results_rq2_effectiveness/glmm_dismiss_predicted.csv")
+
+# # Predicted dismissal-rate trajectory: one line per delay, all 6 weeks.
+# # Ribbons are 95% CIs.
+# plot_data_dismiss <- emmeans(
+#   m_dismiss, ~ delay_secs * study_week,
+#   at   = list(delay_secs = c(3, 6, 10), study_week = 1:6),
+#   type = "response"
+# ) |>
+#   summary() |>
+#   as_tibble() |>
+#   mutate(`Delay (s)` = factor(delay_secs))
+# 
+# p_dismiss <- ggplot(plot_data_dismiss,
+#                     aes(study_week, prob,
+#                         colour = `Delay (s)`, fill = `Delay (s)`,
+#                         group  = `Delay (s)`)) +
+#   geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+#               alpha = 0.15, colour = NA) +
+#   geom_line(linewidth = 1) +
+#   geom_point() +
+#   scale_x_continuous(breaks = 1:6) +
+#   labs(x = "Study week", y = "Predicted dismissal probability") +
+#   theme_linedraw()
+# 
+# p_dismiss
+# 
+# ggsave("../reports/results_rq2_effectiveness/glmm_dismiss_trajectory.png",
+#        p_dismiss, width = 6, height = 4, dpi = 150)
+
+# Companion: condition-level trajectory.
+# The dose-response model above evaluates the linear (delay × week) surface
+# at combinations that don't all occur in the data (e.g., 3s at week 6,
+# which no condition reaches). The condition-level model below replaces
+# `delay_secs` with `condition`, so each predicted line corresponds to one
+# of the four randomised arms — the predictions stay inside the design,
+# no extrapolation beyond observed (delay × week) cells.
+m_dismiss_cond <- glmmTMB(
+  cbind(dismissed, attempted - dismissed) ~ condition * study_week + (1 | participant_id),
+  family = binomial,
+  data   = filter(weekly, attempted > 0)
+)
+summary(m_dismiss_cond)
+
+plot_data_dismiss_cond <- emmeans(
+  m_dismiss_cond, ~ condition * study_week,
+  at   = list(study_week = 1:6),
+  type = "response"
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  rename_with(~ "ci_lower", any_of(c("asymp.LCL", "lower.CL"))) |>
+  rename_with(~ "ci_upper", any_of(c("asymp.UCL", "upper.CL")))
+
+p_dismiss_cond <- ggplot(plot_data_dismiss_cond,
+                         aes(study_week, prob,
+                             colour = condition, fill = condition,
+                             group  = condition)) +
+  geom_ribbon(aes(ymin = ci_lower, ymax = ci_upper),
+              alpha = 0.2, colour = NA) +
+  geom_line(linewidth = 1) +
+  geom_point() +
+  scale_x_continuous(breaks = 1:6) +
+  labs(x = "Study week", y = "Predicted dismissal probability",
+       colour = "Condition", fill = "Condition") +
+  theme_linedraw()
+
+p_dismiss_cond
+
+ggsave("../reports/results_rq2_effectiveness/glmm_dismiss_trajectory_by_condition.png",
+       p_dismiss_cond, width = 6, height = 4, dpi = 150)
+
+# Companion: dose-response trajectory restricted to observed cells.
+# Same predictions as the original dose-response plot, but masked to the
+# (delay × week) combinations that actually occurred in the design.
+# The 3s line shows weeks 1–2 only; 6s shows weeks 1–4; 10s spans all 6.
+# This is the honest dose-response view — no late-week 3s extrapolation.
+observed_cells <- weekly |> distinct(delay_secs, study_week)
+
+plot_data_dismiss_obs <- plot_data_dismiss |>
+  semi_join(observed_cells, by = c("delay_secs", "study_week"))
+
+p_dismiss_obs <- ggplot(plot_data_dismiss_obs,
+                        aes(study_week, prob,
+                            colour = `Delay (s)`, fill = `Delay (s)`,
+                            group  = `Delay (s)`)) +
+  geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+              alpha = 0.15, colour = NA) +
+  geom_line(linewidth = 1) +
+  geom_point() +
+  scale_x_continuous(breaks = 1:6) +
+  labs(x = "Study week", y = "Predicted dismissal probability") +
+  theme_linedraw()
+
+p_dismiss_obs
+
+ggsave("../reports/results_rq2_effectiveness/glmm_dismiss_trajectory_observed.png",
+       p_dismiss_obs, width = 6, height = 4, dpi = 150)
+
+```
+
+- Hypothesis test provided by the delay_secs parameter.
+
+
+## RQ2.2 analogue: weekly attempt count trajectory
+
+NB on raw counts: a week with 0 attempts is a meaningful outcome ("this person
+didn't try to open the app at all"), so the full weekly file is used (no
+`attempted > 0` filter).
+
+```{r}
+
+# Centering predictors before fitting.
+# Without centering, glmer.nb fails to converge with "very large eigenvalue
+# – rescale variables". The interaction delay_secs * study_week has range
+# 3..60, an order of magnitude larger than the main effects, which makes
+# the design matrix poorly conditioned and trips up glmer.nb's outer-loop
+# optimisation of the dispersion parameter theta.
+# Centering at the mean fixes the conditioning problem. The interaction
+# coefficient is unchanged; the main effects are now interpreted at the
+# *mean* of the other predictor (i.e. the dose effect at mid-study, and
+# the time trend at mean dose), which is also more substantively useful
+# than "at zero" — week 0 and 0s delay are both outside the data.
+delay_mean <- mean(weekly$delay_secs)
+week_mean  <- mean(weekly$study_week)
+
+weekly_c <- weekly |>
+  mutate(
+    delay_secs_c = delay_secs - delay_mean,
+    study_week_c = study_week - week_mean
+  )
+
+# m_attempts <- glmer.nb(
+#   attempted ~ delay_secs_c * study_week_c + (1 | participant_id),
+#   data    = weekly_c,
+#   control = glmerControl(optimizer = "bobyqa",
+#                          optCtrl = list(maxfun = 2e5))
+# )
+
+m_attempts <- glmmTMB(
+  attempted ~ delay_secs_c * study_week_c + (1 | participant_id),
+  data   = weekly_c,
+  family = nbinom2
+)
+summary(m_attempts)
+
+# Fixed-effect coefficient table. NB GLMM with log link → exponentiated
+# coefficients are rate ratios. With centring:
+#   delay_secs_c           = dose effect at mean week (~3.5)
+#   study_week_c           = time trend at mean delay
+#   delay_secs_c:study_week_c = interaction (unchanged by centring)
+results_glmm_attempts <- broom.mixed::tidy(m_attempts,
+                                           effects       = "fixed",
+                                           exponentiate  = TRUE,
+                                           conf.int      = TRUE) %>%
+  mutate(
+    RR = round(estimate, 3),
+    CI = paste0("[", round(conf.low, 3), ", ", round(conf.high, 3), "]"),
+    p  = case_when(p.value < .001 ~ "< .001",
+                   TRUE           ~ as.character(round(p.value, 3)))
+  ) %>%
+  dplyr::select(Predictor = term, `Rate Ratio` = RR, `95% CI` = CI, p)
+
+results_glmm_attempts |> kable() |> kable_classic()
+
+write_csv(results_glmm_attempts,
+          "../reports/results_rq2_effectiveness/glmm_attempts_results.csv")
+write_rds(m_attempts,
+          "../reports/results_rq2_effectiveness/glmm_attempts.rds")
+
+# Dose slope by week (emtrends), reported on the original week scale.
+# emtrends is evaluated at centred week values corresponding to weeks 1, 3,
+# 6 on the original scale; the displayed `Study week` column adds the mean
+# back so the table is interpretable.
+em_slopes_attempts <- emtrends(
+  m_attempts, ~ study_week_c,
+  var = "delay_secs_c",
+  at  = list(study_week_c = c(1, 3, 6) - week_mean)
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(
+    `Study week` = study_week_c + week_mean,
+    RR_per_sec   = signif(exp(delay_secs_c.trend), 3),
+    CI           = paste0("[", signif(exp(asymp.LCL), 3), ", ",
+                                signif(exp(asymp.UCL), 3), "]"),
+    p            = case_when(p.value < .001 ~ "< .001",
+                             TRUE           ~ as.character(round(p.value, 3)))
+  ) |>
+  dplyr::select(`Study week`,
+                `RR per sec of delay` = RR_per_sec,
+                `95% CI`              = CI,
+                p)
+
+em_slopes_attempts |> kable() |> kable_classic()
+write_csv(em_slopes_attempts,
+          "../reports/results_rq2_effectiveness/glmm_attempts_slopes.csv")
+
+# Predicted weekly attempt count at specific (delay, week) combinations.
+# Model uses centred predictors, so convert original-scale grid points to
+# the centred scale before passing to emmeans, then convert back for display.
+em_pred_attempts <- emmeans(
+  m_attempts, ~ delay_secs_c * study_week_c,
+  at   = list(
+    delay_secs_c = c(3, 6, 10) - delay_mean,
+    study_week_c = c(1, 3, 6) - week_mean
+  ),
+  type = "response"
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(
+    `Delay (s)`     = delay_secs_c + delay_mean,
+    `Study week`    = study_week_c + week_mean,
+    `Mean attempts` = signif(response, 3),
+    `95% CI`        = paste0("[", signif(asymp.LCL, 3), ", ",
+                                  signif(asymp.UCL, 3), "]")
+  ) |>
+  dplyr::select(`Delay (s)`, `Study week`, `Mean attempts`, `95% CI`)
+
+em_pred_attempts |> kable() |> kable_classic()
+write_csv(em_pred_attempts,
+          "../reports/results_rq2_effectiveness/glmm_attempts_predicted.csv")
+
+# # Predicted weekly-attempt trajectory: one line per delay, all 6 weeks.
+# # Ribbons are 95% CIs. Predictors are on the centred scale internally;
+# # convert back to original scale for the plot axes.
+# plot_data_attempts <- emmeans(
+#   m_attempts, ~ delay_secs_c * study_week_c,
+#   at   = list(
+#     delay_secs_c = c(3, 6, 10) - delay_mean,
+#     study_week_c = (1:6) - week_mean
+#   ),
+#   type = "response"
+# ) |>
+#   summary() |>
+#   as_tibble() |>
+#   mutate(
+#     `Delay (s)` = factor(delay_secs_c + delay_mean),
+#     study_week  = study_week_c + week_mean
+#   )
+# 
+# p_attempts <- ggplot(plot_data_attempts,
+#                      aes(study_week, response,
+#                          colour = `Delay (s)`, fill = `Delay (s)`,
+#                          group  = `Delay (s)`)) +
+#   geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+#               alpha = 0.15, colour = NA) +
+#   geom_line(linewidth = 1) +
+#   geom_point() +
+#   scale_x_continuous(breaks = 1:6) +
+#   labs(x = "Study week", y = "Predicted weekly attempts") +
+#   theme_linedraw()
+# 
+# p_attempts
+# 
+# ggsave("../reports/results_rq2_effectiveness/glmm_attempts_trajectory.png",
+#        p_attempts, width = 6, height = 4, dpi = 150)
+
+# Companion: condition-level trajectory.
+# Same logic as the dismissal companion — predicting per condition keeps
+# every plotted (delay × week) point inside the actual design.
+m_attempts_cond <- glmmTMB(
+  attempted ~ condition * study_week_c + (1 | participant_id),
+  data   = weekly_c,
+  family = nbinom2
+)
+summary(m_attempts_cond)
+
+plot_data_attempts_cond <- emmeans(
+  m_attempts_cond, ~ condition * study_week_c,
+  at   = list(study_week_c = (1:6) - week_mean),
+  type = "response"
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  rename_with(~ "ci_lower", any_of(c("asymp.LCL", "lower.CL"))) |>
+  rename_with(~ "ci_upper", any_of(c("asymp.UCL", "upper.CL"))) |>
+  mutate(study_week = study_week_c + week_mean)
+
+p_attempts_cond <- ggplot(plot_data_attempts_cond,
+                          aes(study_week, response,
+                              colour = condition, fill = condition,
+                              group  = condition)) +
+  geom_ribbon(aes(ymin = ci_lower, ymax = ci_upper),
+              alpha = 0.2, colour = NA) +
+  geom_line(linewidth = 1) +
+  geom_point() +
+  scale_x_continuous(breaks = 1:6) +
+  labs(x = "Study week", y = "Predicted weekly attempts",
+       colour = "Condition", fill = "Condition") +
+  theme_linedraw()
+
+p_attempts_cond
+
+ggsave("../reports/results_rq2_effectiveness/glmm_attempts_trajectory_by_condition.png",
+       p_attempts_cond, width = 6, height = 4, dpi = 150)
+
+# Companion: dose-response trajectory restricted to observed cells.
+# Same logic as the dismissal version. The model uses centred predictors,
+# so recover the original-scale delay column for the semi_join.
+plot_data_attempts_obs <- plot_data_attempts |>
+  mutate(delay_secs = delay_secs_c + delay_mean) |>
+  semi_join(observed_cells, by = c("delay_secs", "study_week"))
+
+p_attempts_obs <- ggplot(plot_data_attempts_obs,
+                         aes(study_week, response,
+                             colour = `Delay (s)`, fill = `Delay (s)`,
+                             group  = `Delay (s)`)) +
+  geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+              alpha = 0.15, colour = NA) +
+  geom_line(linewidth = 1) +
+  geom_point() +
+  scale_x_continuous(breaks = 1:6) +
+  labs(x = "Study week", y = "Predicted weekly attempts") +
+  theme_linedraw()
+
+p_attempts_obs
+
+ggsave("../reports/results_rq2_effectiveness/glmm_attempts_trajectory_observed.png",
+       p_attempts_obs, width = 6, height = 4, dpi = 150)
+
+```
+
+
 
 # Session info
 

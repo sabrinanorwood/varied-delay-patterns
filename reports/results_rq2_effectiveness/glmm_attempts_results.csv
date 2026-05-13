@@ -1,0 +1,5 @@
+Predictor,Rate Ratio,95% CI,p
+(Intercept),31.45,"[28.75, 34.404]",< .001
+delay_secs_c,1,"[0.988, 1.011]",0.962
+study_week_c,0.863,"[0.847, 0.879]",< .001
+delay_secs_c:study_week_c,1.014,"[1.008, 1.02]",< .001

@@ -31,6 +31,9 @@ library(broom)
 library(emmeans)
 library(flextable)
 library(officer)
+library(lme4)
+library(knitr)
+library(kableExtra)
 
 dir.create("../reports/")
 dir.create("../reports/results_rq1_tolerability/")
@@ -60,7 +63,7 @@ df_rq1_summary <- df_rq1 %>%
     .groups = "drop"
   )
 
-df_rq1_summary
+df_rq1_summary |> kable() |> kable_classic()
 
 write_csv(df_rq1_summary, "../reports/results_rq1_tolerability/dropout_summary.csv")
 
@@ -77,13 +80,13 @@ df_weekly_dropout <- df_rq1 %>%
               values_from = "n_dropouts",
               names_prefix = "n_dropouts_")
 
-df_weekly_dropout
+df_weekly_dropout |> kable() |> kable_classic()
 
 write_csv(df_weekly_dropout, "../reports/results_rq1_tolerability/weekly_dropout_counts.csv")
 
 ```
 
-# RQ1 model: binary logistic regression (dropout ~ condition)
+## RQ1 model: binary logistic regression (dropout ~ condition)
 
 Preregistration specified negative binomial but dropout is binary — logistic is the correct choice (confirmed by Hanna's thesis).
 
@@ -105,7 +108,7 @@ results_rq1 <- tidy(model_rq1, exponentiate = TRUE, conf.int = TRUE) %>%
   ) %>%
   select(Predictor = term, OR, `95% CI` = CI, p) 
 
-results_rq1
+results_rq1 |> kable() |> kable_classic()
 
 write_csv(results_rq1, "../reports/results_rq1_tolerability/model_rq1_results.csv")
 
@@ -120,7 +123,7 @@ cat(sprintf("\nModel fit: χ²(%d) = %.2f, p = %.3f, McFadden R² = %.3f\n",
 
 ```
 
-# Pairwise comparisons (all pairs)
+## Pairwise comparisons (all pairs)
 
 ```{r}
 
@@ -134,13 +137,13 @@ pairwise_rq1 <- emmeans(model_rq1, ~ condition) %>%
                   TRUE           ~ as.character(round(p.value, 3)))
   )
 
-pairwise_rq1
+pairwise_rq1 |> kable() |> kable_classic()
 
 write_csv(pairwise_rq1, "../reports/results_rq1_tolerability/pairwise_rq1.csv")
 
 ```
 
-# Word table
+## Word table
 
 ```{r}
 
@@ -156,6 +159,115 @@ doc <- read_docx() %>%
 print(doc, target = "../reports/results_rq1_tolerability/results_rq1.docx")
 
 ```
+
+# Non preregistered model: discrete-time dropout hazard
+
+**Research question shift.** The preregistered RQ1 asks whether *condition assignment* affects total dropouts — an intention-to-treat (ITT) question at the level of the randomised arm. The non-preregistered model below reframes this to a **dose-response** question: does the *current delay length* (in seconds) raise the per-week dropout hazard, regardless of which condition produced that dose? This is a different scientific question — closer to the underlying mechanism the study cares about (do longer delays cause people to give up?). 
+
+**Why a hazard model.** The preregistered NB regression on per-condition dropout *counts* effectively has 4 data points (one per condition) and models no within-condition variation. The logistic model used above is a clear improvement, but still collapses 6 weeks of activity into a single bit per participant. A discrete-time hazard model preserves *when* people drop out: each participant contributes one row per week-at-risk, with a binary indicator for whether they dropped out that week.
+
+**Why `delay_secs` instead of `condition`.** The covariate of interest is the current delay length in seconds (3s, 6s, or 10s), which varies by condition × week. Treating it as a continuous numeric predictor uses 1 df instead of 3, gaining power *if* the dose-response is approximately linear. `factor(week)` is included to absorb baseline weekly hazard (study fatigue, time-since-start), so the `delay_secs` coefficient captures the marginal effect of dose holding week constant. Note: in this hazard model, identification of `delay_secs` is largely between-subject (at any fixed week, a participant's delay is determined by their condition); the within-subject component exists but is limited because the design only ever ramps delay up.
+
+```{r}
+
+# Person-period dataset: one row per participant × at-risk week.
+# Dropout assumed to occur at the start of week (last_week + 1).
+# Censored at week 6 if last_week == 6 (no dropout event).
+# delay_secs derived from the same rule as Step 5 of data processing.
+person_period <- df_rq1 %>%
+  mutate(exit_week = if_else(dropout == 1L, last_week + 1L, 6L)) %>%
+  rowwise() %>%
+  mutate(week = list(seq_len(min(exit_week, 6L)))) %>%
+  unnest(week) %>%
+  ungroup() %>%
+  mutate(
+    dropped_out = as.integer(week == exit_week & dropout == 1L),
+    delay_secs  = case_when(
+      condition == "CCC"                  ~ 10,
+      condition == "ABC" & week <= 2      ~ 3,
+      condition == "ABC" & week <= 4      ~ 6,
+      condition == "ABC"                  ~ 10,
+      condition == "ACC" & week <= 2      ~ 3,
+      condition == "ACC"                  ~ 10,
+      condition == "BCC" & week <= 2      ~ 6,
+      condition == "BCC"                  ~ 10
+    )
+  )
+
+cat("Person-periods:", nrow(person_period),
+    "\nDropout events:", sum(person_period$dropped_out), "\n")
+cat("Dropouts by week (should be 0 in week 1 by construction):\n")
+person_period |>
+  group_by(week) |>
+  summarise(n_dropped = sum(dropped_out)) |>
+  kable() |> kable_classic()
+
+# Drop week 1: by construction it has zero dropout events (earliest possible
+# exit_week is 2 because last_week >= 1 for anyone with data). Including it
+# causes separation — the intercept is fit at -Inf and the week dummies blow
+# up to compensate.
+m_hazard <- glm(
+  dropped_out ~ delay_secs + factor(week),
+  family = binomial(link = "logit"),
+  data   = filter(person_period, week >= 2)
+)
+summary(m_hazard)
+
+# signif() rounds to N significant figures (round() rounds to N decimal
+# places, which is useless for very large or very small numbers).
+results_hazard <- tidy(m_hazard, exponentiate = TRUE, conf.int = TRUE) %>%
+  mutate(
+    OR = round(estimate, 3),
+    CI = paste0("[", round(conf.low, 3), ", ", round(conf.high, 3), "]"),
+    p  = case_when(p.value < .001 ~ "< .001",
+                   TRUE           ~ as.character(round(p.value, 3)))
+  ) %>%
+  dplyr::select(Predictor = term, OR, `95% CI` = CI, p)
+
+results_hazard |> kable() |> kable_classic()
+
+write_csv(results_hazard, "../reports/results_rq1_tolerability/hazard_model_results.csv")
+
+# Descriptive: weekly dropout rates (n_dropped / n_at_risk) per delay dose
+hazard_by_dose <- person_period %>%
+  group_by(delay_secs, week) %>%
+  summarise(
+    n_at_risk  = n(),
+    n_dropped  = sum(dropped_out),
+    hazard_pct = round(n_dropped / n_at_risk * 100, 1),
+    .groups = "drop"
+  )
+
+hazard_by_dose |> kable() |> kable_classic()
+
+write_csv(hazard_by_dose, "../reports/results_rq1_tolerability/weekly_hazard_by_dose.csv")
+
+# Predicted dropout probability per delay dose (emmeans).
+# The model is additive in delay_secs (no dose × week interaction), so the
+# OR per second is constant; what varies usefully across doses is the
+# absolute predicted weekly hazard. emmeans averages across the week
+# dummies to give a marginal predicted probability at each delay level.
+em_hazard_by_dose <- emmeans(
+  m_hazard, ~ delay_secs,
+  at   = list(delay_secs = c(3, 6, 10)),
+  type = "response"
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(
+    `Pr(dropout)` = signif(prob, 3),
+    `95% CI`      = paste0("[", signif(asymp.LCL, 3), ", ",
+                                signif(asymp.UCL, 3), "]")
+  ) |>
+  dplyr::select(`Delay (s)` = delay_secs, `Pr(dropout)`, `95% CI`)
+
+em_hazard_by_dose |> kable() |> kable_classic()
+write_csv(em_hazard_by_dose,
+          "../reports/results_rq1_tolerability/hazard_by_dose_emmeans.csv")
+
+```
+
+- Hypothesis test provided by the delay_secs parameter.
 
 # Session info
 

@@ -23,9 +23,7 @@ output:
 
 # TODO
 
-1. "Never started" participants (N=1,275): completed pre-survey but generated no behavioral data. These do not count towards dropouts, they are excluded entirely.
-2. why does RQ 2 only have unique participants: 218?
-3. interventionDuration codes are 1.5, 3, 6, and NA, not 3, 6, 10 as per design. Is this a coding error or did the intervention not occur as planned?
+- interventionDuration codes are 1.5, 3, 6, and NA, not 3, 6, 10 as per design. Is this a coding error or did the intervention not occur as planned?
 
 # Data format differences: Phase 1 vs Phase 2
 
@@ -405,6 +403,54 @@ dat_processed_open_attempts <- dat_processed %>%
 
 # RQ2: initial events only, completers only, no missing resolution
 cat("\nRQ2 — unique participants:", n_distinct(dat_processed_open_attempts$participant_id), "\n")
+
+# Weekly aggregation for longitudinal models.
+# Each participant gets a row for every week between 1 and their last_week,
+# with zeros filled in for weeks where they were active but had no events of
+# the relevant type. Weeks past last_week are NOT filled — those are
+# post-dropout and not informative zeros.
+dat_processed_weekly <- dat_processed %>%
+  filter(!flag_resolution_missing) %>%
+  group_by(participant_id, condition, phase, study_week) %>%
+  summarise(
+    attempted = sum(initial_attempt),
+    dismissed = sum(dismissed),
+    executed  = sum(executed),
+    .groups   = "drop"
+  ) %>%
+  group_by(participant_id, condition, phase) %>%
+  complete(
+    study_week = seq.int(1L, max(study_week)),
+    fill = list(attempted = 0L, dismissed = 0L, executed = 0L)
+  ) %>%
+  ungroup() %>%
+  # Re-derive delay_type / delay_secs after complete() (filled rows lack it).
+  # Same rule as Step 5: A=3s, B=6s, C=10s.
+  mutate(
+    delay_type = case_when(
+      condition == "CCC"                         ~ "C",
+      condition == "ABC" & study_week <= 2       ~ "A",
+      condition == "ABC" & study_week <= 4       ~ "B",
+      condition == "ABC"                         ~ "C",
+      condition == "ACC" & study_week <= 2       ~ "A",
+      condition == "ACC"                         ~ "C",
+      condition == "BCC" & study_week <= 2       ~ "B",
+      condition == "BCC"                         ~ "C",
+      TRUE ~ NA_character_
+    ),
+    delay_secs = case_when(
+      delay_type == "A" ~ 3,
+      delay_type == "B" ~ 6,
+      delay_type == "C" ~ 10
+    )
+  )
+
+cat("\nWeekly rows (participant × week):", nrow(dat_processed_weekly), "\n")
+cat("Filled-zero weeks:",
+    sum(dat_processed_weekly$attempted == 0 &
+        dat_processed_weekly$dismissed == 0 &
+        dat_processed_weekly$executed  == 0),
+    "\n")
 ```
 
 # Save
@@ -421,6 +467,7 @@ dir.create("../data/processed", showWarnings = FALSE)
 write_rds(dat_processed, "../data/processed/data_processed_behavioral_data_all.rds", compress = "gz")
 write_csv(dat_processed_dropout, "../data/processed/data_processed_behavioral_data_dropout.csv")
 write_csv(dat_processed_open_attempts, "../data/processed/data_processed_behavioral_data_open_attempts.csv")
+write_csv(dat_processed_weekly, "../data/processed/data_processed_behavioral_data_weekly.csv")
 ```
 
 # Verification checks

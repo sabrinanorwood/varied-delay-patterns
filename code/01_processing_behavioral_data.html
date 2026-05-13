@@ -1663,7 +1663,7 @@ border-radius: 0px;
 
 <h1 class="title toc-ignore">Data processing for behavioral data</h1>
 <h4 class="author">Sabrina Norwood</h4>
-<h4 class="date">04 May, 2026</h4>
+<h4 class="date">05 May, 2026</h4>
 
 </div>
 
@@ -1687,15 +1687,11 @@ behavioral data in week 6.</li>
 </div>
 <div id="todo" class="section level1">
 <h1>TODO</h1>
-<ol style="list-style-type: decimal">
-<li>“Never started” participants (N=1,275): completed pre-survey but
-generated no behavioral data. These do not count towards dropouts, they
-are excluded entirely.</li>
-<li>why does RQ 2 only have unique participants: 218?</li>
+<ul>
 <li>interventionDuration codes are 1.5, 3, 6, and NA, not 3, 6, 10 as
 per design. Is this a coding error or did the intervention not occur as
 planned?</li>
-</ol>
+</ul>
 </div>
 <div id="data-format-differences-phase-1-vs-phase-2" class="section level1">
 <h1>Data format differences: Phase 1 vs Phase 2</h1>
@@ -2153,39 +2149,90 @@ and dismissal, following Hanna’s approach. Confirm if correct.</p>
 <span id="cb60-20"><a href="#cb60-20" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">RQ2 — unique participants:&quot;</span>, <span class="fu">n_distinct</span>(dat_processed_open_attempts<span class="sc">$</span>participant_id), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
 ## RQ2 — unique participants: 1641</code></pre>
+<div class="sourceCode" id="cb62"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb62-1"><a href="#cb62-1" tabindex="-1"></a><span class="co"># Weekly aggregation for longitudinal models.</span></span>
+<span id="cb62-2"><a href="#cb62-2" tabindex="-1"></a><span class="co"># Each participant gets a row for every week between 1 and their last_week,</span></span>
+<span id="cb62-3"><a href="#cb62-3" tabindex="-1"></a><span class="co"># with zeros filled in for weeks where they were active but had no events of</span></span>
+<span id="cb62-4"><a href="#cb62-4" tabindex="-1"></a><span class="co"># the relevant type. Weeks past last_week are NOT filled — those are</span></span>
+<span id="cb62-5"><a href="#cb62-5" tabindex="-1"></a><span class="co"># post-dropout and not informative zeros.</span></span>
+<span id="cb62-6"><a href="#cb62-6" tabindex="-1"></a>dat_processed_weekly <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb62-7"><a href="#cb62-7" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="sc">!</span>flag_resolution_missing) <span class="sc">%&gt;%</span></span>
+<span id="cb62-8"><a href="#cb62-8" tabindex="-1"></a>  <span class="fu">group_by</span>(participant_id, condition, phase, study_week) <span class="sc">%&gt;%</span></span>
+<span id="cb62-9"><a href="#cb62-9" tabindex="-1"></a>  <span class="fu">summarise</span>(</span>
+<span id="cb62-10"><a href="#cb62-10" tabindex="-1"></a>    <span class="at">attempted =</span> <span class="fu">sum</span>(initial_attempt),</span>
+<span id="cb62-11"><a href="#cb62-11" tabindex="-1"></a>    <span class="at">dismissed =</span> <span class="fu">sum</span>(dismissed),</span>
+<span id="cb62-12"><a href="#cb62-12" tabindex="-1"></a>    <span class="at">executed  =</span> <span class="fu">sum</span>(executed),</span>
+<span id="cb62-13"><a href="#cb62-13" tabindex="-1"></a>    <span class="at">.groups   =</span> <span class="st">&quot;drop&quot;</span></span>
+<span id="cb62-14"><a href="#cb62-14" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb62-15"><a href="#cb62-15" tabindex="-1"></a>  <span class="fu">group_by</span>(participant_id, condition, phase) <span class="sc">%&gt;%</span></span>
+<span id="cb62-16"><a href="#cb62-16" tabindex="-1"></a>  <span class="fu">complete</span>(</span>
+<span id="cb62-17"><a href="#cb62-17" tabindex="-1"></a>    <span class="at">study_week =</span> <span class="fu">seq.int</span>(<span class="dv">1</span><span class="dt">L</span>, <span class="fu">max</span>(study_week)),</span>
+<span id="cb62-18"><a href="#cb62-18" tabindex="-1"></a>    <span class="at">fill =</span> <span class="fu">list</span>(<span class="at">attempted =</span> <span class="dv">0</span><span class="dt">L</span>, <span class="at">dismissed =</span> <span class="dv">0</span><span class="dt">L</span>, <span class="at">executed =</span> <span class="dv">0</span><span class="dt">L</span>)</span>
+<span id="cb62-19"><a href="#cb62-19" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb62-20"><a href="#cb62-20" tabindex="-1"></a>  <span class="fu">ungroup</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb62-21"><a href="#cb62-21" tabindex="-1"></a>  <span class="co"># Re-derive delay_type / delay_secs after complete() (filled rows lack it).</span></span>
+<span id="cb62-22"><a href="#cb62-22" tabindex="-1"></a>  <span class="co"># Same rule as Step 5: A=3s, B=6s, C=10s.</span></span>
+<span id="cb62-23"><a href="#cb62-23" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
+<span id="cb62-24"><a href="#cb62-24" tabindex="-1"></a>    <span class="at">delay_type =</span> <span class="fu">case_when</span>(</span>
+<span id="cb62-25"><a href="#cb62-25" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;CCC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
+<span id="cb62-26"><a href="#cb62-26" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">2</span>       <span class="sc">~</span> <span class="st">&quot;A&quot;</span>,</span>
+<span id="cb62-27"><a href="#cb62-27" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">4</span>       <span class="sc">~</span> <span class="st">&quot;B&quot;</span>,</span>
+<span id="cb62-28"><a href="#cb62-28" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ABC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
+<span id="cb62-29"><a href="#cb62-29" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ACC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">2</span>       <span class="sc">~</span> <span class="st">&quot;A&quot;</span>,</span>
+<span id="cb62-30"><a href="#cb62-30" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;ACC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
+<span id="cb62-31"><a href="#cb62-31" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;BCC&quot;</span> <span class="sc">&amp;</span> study_week <span class="sc">&lt;=</span> <span class="dv">2</span>       <span class="sc">~</span> <span class="st">&quot;B&quot;</span>,</span>
+<span id="cb62-32"><a href="#cb62-32" tabindex="-1"></a>      condition <span class="sc">==</span> <span class="st">&quot;BCC&quot;</span>                         <span class="sc">~</span> <span class="st">&quot;C&quot;</span>,</span>
+<span id="cb62-33"><a href="#cb62-33" tabindex="-1"></a>      <span class="cn">TRUE</span> <span class="sc">~</span> <span class="cn">NA_character_</span></span>
+<span id="cb62-34"><a href="#cb62-34" tabindex="-1"></a>    ),</span>
+<span id="cb62-35"><a href="#cb62-35" tabindex="-1"></a>    <span class="at">delay_secs =</span> <span class="fu">case_when</span>(</span>
+<span id="cb62-36"><a href="#cb62-36" tabindex="-1"></a>      delay_type <span class="sc">==</span> <span class="st">&quot;A&quot;</span> <span class="sc">~</span> <span class="dv">3</span>,</span>
+<span id="cb62-37"><a href="#cb62-37" tabindex="-1"></a>      delay_type <span class="sc">==</span> <span class="st">&quot;B&quot;</span> <span class="sc">~</span> <span class="dv">6</span>,</span>
+<span id="cb62-38"><a href="#cb62-38" tabindex="-1"></a>      delay_type <span class="sc">==</span> <span class="st">&quot;C&quot;</span> <span class="sc">~</span> <span class="dv">10</span></span>
+<span id="cb62-39"><a href="#cb62-39" tabindex="-1"></a>    )</span>
+<span id="cb62-40"><a href="#cb62-40" tabindex="-1"></a>  )</span>
+<span id="cb62-41"><a href="#cb62-41" tabindex="-1"></a></span>
+<span id="cb62-42"><a href="#cb62-42" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Weekly rows (participant × week):&quot;</span>, <span class="fu">nrow</span>(dat_processed_weekly), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## 
+## Weekly rows (participant × week): 5669</code></pre>
+<div class="sourceCode" id="cb64"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb64-1"><a href="#cb64-1" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;Filled-zero weeks:&quot;</span>,</span>
+<span id="cb64-2"><a href="#cb64-2" tabindex="-1"></a>    <span class="fu">sum</span>(dat_processed_weekly<span class="sc">$</span>attempted <span class="sc">==</span> <span class="dv">0</span> <span class="sc">&amp;</span></span>
+<span id="cb64-3"><a href="#cb64-3" tabindex="-1"></a>        dat_processed_weekly<span class="sc">$</span>dismissed <span class="sc">==</span> <span class="dv">0</span> <span class="sc">&amp;</span></span>
+<span id="cb64-4"><a href="#cb64-4" tabindex="-1"></a>        dat_processed_weekly<span class="sc">$</span>executed  <span class="sc">==</span> <span class="dv">0</span>),</span>
+<span id="cb64-5"><a href="#cb64-5" tabindex="-1"></a>    <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<pre><code>## Filled-zero weeks: 38</code></pre>
 </div>
 <div id="save" class="section level1">
 <h1>Save</h1>
-<div class="sourceCode" id="cb62"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb62-1"><a href="#cb62-1" tabindex="-1"></a><span class="fu">dir.create</span>(<span class="st">&quot;../data/processed&quot;</span>, <span class="at">showWarnings =</span> <span class="cn">FALSE</span>)</span>
-<span id="cb62-2"><a href="#cb62-2" tabindex="-1"></a></span>
-<span id="cb62-3"><a href="#cb62-3" tabindex="-1"></a><span class="co"># saveRDS(dat_processed,      &quot;../data/processed/dat_processed_behavioral_data.rds&quot;)</span></span>
-<span id="cb62-4"><a href="#cb62-4" tabindex="-1"></a><span class="co"># saveRDS(df_rq1,         &quot;../data/processed/df_rq1.rds&quot;)</span></span>
-<span id="cb62-5"><a href="#cb62-5" tabindex="-1"></a><span class="co"># saveRDS(df_rq2,         &quot;../data/processed/df_rq2.rds&quot;)</span></span>
-<span id="cb62-6"><a href="#cb62-6" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_1_model, &quot;../data/processed/df_rq2_1_model.rds&quot;)</span></span>
-<span id="cb62-7"><a href="#cb62-7" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_2_model, &quot;../data/processed/df_rq2_2_model.rds&quot;)</span></span>
-<span id="cb62-8"><a href="#cb62-8" tabindex="-1"></a></span>
-<span id="cb62-9"><a href="#cb62-9" tabindex="-1"></a><span class="fu">write_rds</span>(dat_processed, <span class="st">&quot;../data/processed/data_processed_behavioral_data_all.rds&quot;</span>, <span class="at">compress =</span> <span class="st">&quot;gz&quot;</span>)</span>
-<span id="cb62-10"><a href="#cb62-10" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_dropout, <span class="st">&quot;../data/processed/data_processed_behavioral_data_dropout.csv&quot;</span>)</span>
-<span id="cb62-11"><a href="#cb62-11" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_open_attempts, <span class="st">&quot;../data/processed/data_processed_behavioral_data_open_attempts.csv&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb66"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb66-1"><a href="#cb66-1" tabindex="-1"></a><span class="fu">dir.create</span>(<span class="st">&quot;../data/processed&quot;</span>, <span class="at">showWarnings =</span> <span class="cn">FALSE</span>)</span>
+<span id="cb66-2"><a href="#cb66-2" tabindex="-1"></a></span>
+<span id="cb66-3"><a href="#cb66-3" tabindex="-1"></a><span class="co"># saveRDS(dat_processed,      &quot;../data/processed/dat_processed_behavioral_data.rds&quot;)</span></span>
+<span id="cb66-4"><a href="#cb66-4" tabindex="-1"></a><span class="co"># saveRDS(df_rq1,         &quot;../data/processed/df_rq1.rds&quot;)</span></span>
+<span id="cb66-5"><a href="#cb66-5" tabindex="-1"></a><span class="co"># saveRDS(df_rq2,         &quot;../data/processed/df_rq2.rds&quot;)</span></span>
+<span id="cb66-6"><a href="#cb66-6" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_1_model, &quot;../data/processed/df_rq2_1_model.rds&quot;)</span></span>
+<span id="cb66-7"><a href="#cb66-7" tabindex="-1"></a><span class="co"># saveRDS(df_rq2_2_model, &quot;../data/processed/df_rq2_2_model.rds&quot;)</span></span>
+<span id="cb66-8"><a href="#cb66-8" tabindex="-1"></a></span>
+<span id="cb66-9"><a href="#cb66-9" tabindex="-1"></a><span class="fu">write_rds</span>(dat_processed, <span class="st">&quot;../data/processed/data_processed_behavioral_data_all.rds&quot;</span>, <span class="at">compress =</span> <span class="st">&quot;gz&quot;</span>)</span>
+<span id="cb66-10"><a href="#cb66-10" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_dropout, <span class="st">&quot;../data/processed/data_processed_behavioral_data_dropout.csv&quot;</span>)</span>
+<span id="cb66-11"><a href="#cb66-11" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_open_attempts, <span class="st">&quot;../data/processed/data_processed_behavioral_data_open_attempts.csv&quot;</span>)</span>
+<span id="cb66-12"><a href="#cb66-12" tabindex="-1"></a><span class="fu">write_csv</span>(dat_processed_weekly, <span class="st">&quot;../data/processed/data_processed_behavioral_data_weekly.csv&quot;</span>)</span></code></pre></div>
 </div>
 <div id="verification-checks" class="section level1">
 <h1>Verification checks</h1>
-<div class="sourceCode" id="cb63"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb63-1"><a href="#cb63-1" tabindex="-1"></a>multi_cond <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
-<span id="cb63-2"><a href="#cb63-2" tabindex="-1"></a>  <span class="fu">distinct</span>(participant_id, condition) <span class="sc">%&gt;%</span></span>
-<span id="cb63-3"><a href="#cb63-3" tabindex="-1"></a>  <span class="fu">count</span>(participant_id) <span class="sc">%&gt;%</span></span>
-<span id="cb63-4"><a href="#cb63-4" tabindex="-1"></a>  <span class="fu">filter</span>(n <span class="sc">&gt;</span> <span class="dv">1</span>)</span>
-<span id="cb63-5"><a href="#cb63-5" tabindex="-1"></a></span>
-<span id="cb63-6"><a href="#cb63-6" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Participants in multiple conditions (should be 0):&quot;</span>, <span class="fu">nrow</span>(multi_cond), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb67"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb67-1"><a href="#cb67-1" tabindex="-1"></a>multi_cond <span class="ot">&lt;-</span> dat_processed <span class="sc">%&gt;%</span></span>
+<span id="cb67-2"><a href="#cb67-2" tabindex="-1"></a>  <span class="fu">distinct</span>(participant_id, condition) <span class="sc">%&gt;%</span></span>
+<span id="cb67-3"><a href="#cb67-3" tabindex="-1"></a>  <span class="fu">count</span>(participant_id) <span class="sc">%&gt;%</span></span>
+<span id="cb67-4"><a href="#cb67-4" tabindex="-1"></a>  <span class="fu">filter</span>(n <span class="sc">&gt;</span> <span class="dv">1</span>)</span>
+<span id="cb67-5"><a href="#cb67-5" tabindex="-1"></a></span>
+<span id="cb67-6"><a href="#cb67-6" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;</span><span class="sc">\n</span><span class="st">Participants in multiple conditions (should be 0):&quot;</span>, <span class="fu">nrow</span>(multi_cond), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## 
 ## Participants in multiple conditions (should be 0): 0</code></pre>
-<div class="sourceCode" id="cb65"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb65-1"><a href="#cb65-1" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">nrow</span>(multi_cond) <span class="sc">&gt;</span> <span class="dv">0</span>) <span class="fu">print</span>(multi_cond)</span>
-<span id="cb65-2"><a href="#cb65-2" tabindex="-1"></a></span>
-<span id="cb65-3"><a href="#cb65-3" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;delay_type NAs (should be 0):&quot;</span>, <span class="fu">sum</span>(<span class="fu">is.na</span>(dat_processed<span class="sc">$</span>delay_type)), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb69"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb69-1"><a href="#cb69-1" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">nrow</span>(multi_cond) <span class="sc">&gt;</span> <span class="dv">0</span>) <span class="fu">print</span>(multi_cond)</span>
+<span id="cb69-2"><a href="#cb69-2" tabindex="-1"></a></span>
+<span id="cb69-3"><a href="#cb69-3" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">&quot;delay_type NAs (should be 0):&quot;</span>, <span class="fu">sum</span>(<span class="fu">is.na</span>(dat_processed<span class="sc">$</span>delay_type)), <span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>)</span></code></pre></div>
 <pre><code>## delay_type NAs (should be 0): 0</code></pre>
 </div>
 <div id="session-info" class="section level1">
 <h1>Session info</h1>
-<div class="sourceCode" id="cb67"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb67-1"><a href="#cb67-1" tabindex="-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div>
+<div class="sourceCode" id="cb71"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb71-1"><a href="#cb71-1" tabindex="-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div>
 <pre><code>## R version 4.5.2 (2025-10-31)
 ## Platform: aarch64-apple-darwin20
 ## Running under: macOS Tahoe 26.3
