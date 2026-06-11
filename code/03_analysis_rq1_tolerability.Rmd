@@ -143,6 +143,50 @@ write_csv(pairwise_rq1, "../reports/results_rq1_tolerability/pairwise_rq1.csv")
 
 ```
 
+## Estimated marginal means: predicted dropout probability per condition
+
+```{r}
+
+condition_order <- c("ABC", "ACC", "BCC", "CCC")
+
+em_pred_rq1 <- emmeans(model_rq1, ~ condition, type = "response") |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(condition = factor(condition, levels = condition_order)) |>
+  arrange(condition)
+
+em_pred_rq1_table <- em_pred_rq1 |>
+  mutate(
+    `Pr(dropout)` = signif(prob, 3),
+    `95% CI`      = paste0("[", signif(asymp.LCL, 3), ", ", signif(asymp.UCL, 3), "]")
+  ) |>
+  dplyr::select(Condition = condition, `Pr(dropout)`, `95% CI`)
+
+em_pred_rq1_table |> kable() |> kable_classic()
+
+write_csv(em_pred_rq1_table, "../reports/results_rq1_tolerability/emmeans_rq1.csv")
+
+```
+
+```{r}
+
+p_em_rq1 <- ggplot(em_pred_rq1,
+                   aes(x = condition, y = prob, ymin = asymp.LCL, ymax = asymp.UCL)) +
+  geom_point(size = 3) +
+  geom_errorbar(width = 0.2) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1),
+                     limits = c(0, 1)) +
+  labs(x = "Condition", y = "Predicted dropout probability",
+       title = "RQ1: Estimated marginal means — dropout probability by condition") +
+  theme_linedraw()
+
+p_em_rq1
+
+ggsave("../reports/results_rq1_tolerability/emmeans_rq1_plot.png",
+       p_em_rq1, width = 5, height = 4, dpi = 150)
+
+```
+
 ## Word table
 
 ```{r}
@@ -150,6 +194,9 @@ write_csv(pairwise_rq1, "../reports/results_rq1_tolerability/pairwise_rq1.csv")
 doc <- read_docx() %>%
   body_add_par("RQ1: Logistic Regression — Dropout by Condition", style = "heading 1") %>%
   body_add_flextable(flextable(results_rq1) %>% autofit()) %>%
+  body_add_par("", style = "Normal") %>%
+  body_add_par("Estimated Marginal Means (predicted dropout probability)", style = "heading 2") %>%
+  body_add_flextable(flextable(em_pred_rq1_table) %>% autofit()) %>%
   body_add_par("", style = "Normal") %>%
   body_add_par("Pairwise Comparisons (odds ratios)", style = "heading 2") %>%
   body_add_flextable(flextable(pairwise_rq1 %>%
@@ -268,6 +315,139 @@ write_csv(em_hazard_by_dose,
 ```
 
 - Hypothesis test provided by the delay_secs parameter.
+
+## Hazard-implied per-condition cumulative dropout
+
+The hazard model predicts dropout *per week, per delay dose*. To put it on
+the same scale as the preregistered logistic (which predicts whole-study
+dropout per condition), we chain the per-week hazards using each condition's
+actual delay schedule: cumulative dropout by Week 6 is
+$1 - \prod_{w=2}^{6}(1 - h(\text{delay}_w, w))$.
+
+Neither model uses a random effect, so both estimates are already marginal
+(population-averaged) — no Jensen correction needed.
+
+```{r}
+
+# Each condition's delay schedule across the at-risk weeks (2..6).
+condition_schedule <- tribble(
+  ~condition, ~week, ~delay_secs,
+  "ABC", 2,  3, "ABC", 3,  6, "ABC", 4,  6, "ABC", 5, 10, "ABC", 6, 10,
+  "ACC", 2,  3, "ACC", 3, 10, "ACC", 4, 10, "ACC", 5, 10, "ACC", 6, 10,
+  "BCC", 2,  6, "BCC", 3, 10, "BCC", 4, 10, "BCC", 5, 10, "BCC", 6, 10,
+  "CCC", 2, 10, "CCC", 3, 10, "CCC", 4, 10, "CCC", 5, 10, "CCC", 6, 10
+) |>
+  mutate(week = factor(week, levels = 2:6))
+
+# Design matrix in the model's parameterisation.
+mm <- model.matrix(formula(m_hazard)[-2], data = condition_schedule)
+
+# Point estimates: predicted per-week hazard → cumulative dropout per condition.
+beta_hat <- coef(m_hazard)
+condition_schedule$hazard <- plogis(as.numeric(mm %*% beta_hat))
+
+cum_point <- condition_schedule |>
+  group_by(condition) |>
+  summarise(prob = 1 - prod(1 - hazard), .groups = "drop")
+
+# Parametric bootstrap CIs (delta method awkward through the chained product).
+set.seed(42)
+n_sim     <- 2000
+beta_sim  <- MASS::mvrnorm(n_sim, mu = beta_hat, Sigma = vcov(m_hazard))
+cum_boot  <- apply(beta_sim, 1, function(b) {
+  h <- plogis(as.numeric(mm %*% b))
+  tapply(h, condition_schedule$condition, function(hs) 1 - prod(1 - hs))
+})
+ci <- t(apply(cum_boot, 1, quantile, probs = c(0.025, 0.975)))
+
+em_hazard_by_condition <- tibble(
+  condition = rownames(ci),
+  prob      = cum_point$prob[match(condition, cum_point$condition)],
+  ci_lower  = ci[, 1],
+  ci_upper  = ci[, 2]
+) |>
+  mutate(condition = factor(condition, levels = condition_order)) |>
+  arrange(condition)
+
+em_hazard_by_condition_table <- em_hazard_by_condition |>
+  mutate(
+    `Pr(dropout)` = signif(prob, 3),
+    `95% CI`      = paste0("[", signif(ci_lower, 3), ", ",
+                                signif(ci_upper, 3), "]")
+  ) |>
+  dplyr::select(Condition = condition, `Pr(dropout)`, `95% CI`)
+
+em_hazard_by_condition_table |> kable() |> kable_classic()
+
+write_csv(em_hazard_by_condition_table,
+          "../reports/results_rq1_tolerability/hazard_by_condition_emmeans.csv")
+
+# Standalone plot in the same style as the preregistered EMM plot.
+p_hazard_by_condition <- ggplot(em_hazard_by_condition,
+  aes(x = condition, y = prob, ymin = ci_lower, ymax = ci_upper)) +
+  geom_point(size = 3) +
+  geom_errorbar(width = 0.2) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1),
+                     limits = c(0, 1)) +
+  labs(x = "Condition", y = "Hazard-implied Pr(dropout by week 6)",
+       title = "RQ1 (exploratory): hazard-implied cumulative dropout by condition") +
+  theme_linedraw()
+
+p_hazard_by_condition
+
+ggsave("../reports/results_rq1_tolerability/hazard_by_condition_plot.png",
+       p_hazard_by_condition, width = 5, height = 4, dpi = 150)
+
+```
+
+## Combined comparison: Preregistered vs Exploratory at Week 6
+
+```{r}
+
+dropout_combined <- bind_rows(
+  em_pred_rq1 |>
+    mutate(
+      condition = factor(condition, levels = condition_order),
+      estimate  = prob,
+      lower     = asymp.LCL,
+      upper     = asymp.UCL,
+      Analysis  = "Preregistered (logistic, condition contrast)"
+    ),
+  em_hazard_by_condition |>
+    mutate(
+      estimate = prob,
+      lower    = ci_lower,
+      upper    = ci_upper,
+      Analysis = "Exploratory (hazard model, dose-response)"
+    )
+) |>
+  mutate(Analysis = factor(Analysis,
+                           levels = c("Preregistered (logistic, condition contrast)",
+                                      "Exploratory (hazard model, dose-response)")))
+
+p_dropout_combined <- ggplot(dropout_combined,
+  aes(x = condition, y = estimate, ymin = lower, ymax = upper,
+      colour = Analysis, shape = Analysis, group = Analysis)) +
+  geom_point(size = 3, position = position_dodge(0.4)) +
+  geom_errorbar(width = 0.2, position = position_dodge(0.4)) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1),
+                     limits = c(0, 1)) +
+  scale_colour_manual(values = c("Preregistered (logistic, condition contrast)"   = "#2166ac",
+                                 "Exploratory (hazard model, dose-response)"  = "#d6604d")) +
+  scale_shape_manual(values  = c("Preregistered (logistic, condition contrast)"   = 16,
+                                 "Exploratory (hazard model, dose-response)"  = 17)) +
+  labs(x = "Condition", y = "Predicted Pr(dropout by week 6)",
+       title = "RQ1: Cumulative dropout at Week 6 — preregistered vs. exploratory",
+       colour = "Analysis", shape = "Analysis") +
+  theme_linedraw() +
+  theme(legend.position = "bottom")
+
+p_dropout_combined
+
+ggsave("../reports/results_rq1_tolerability/combined_emm_dropout.png",
+       p_dropout_combined, width = 6, height = 5, dpi = 150)
+
+```
 
 # Session info
 

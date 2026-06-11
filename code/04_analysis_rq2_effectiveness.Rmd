@@ -1,5 +1,5 @@
 ---
-title: "RQ2: Effectiveness"
+title: "RQ2: Effectiveness and Efficacy"
 author: "Sabrina Norwood"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
@@ -11,10 +11,13 @@ output:
     toc_float: yes
 ---
 
+# Note on Terminology
+
+**Efficacy vs. Effectiveness:** The preregistered analyses (RQ2.1 and RQ2.2) are restricted to completers — participants with activity in both Week 1 and Week 6 — measuring *efficacy* (intervention effects under controlled conditions). The exploratory GLMM models use the full weekly dataset with all participants who had any activity, approximating intention-to-treat and measuring *effectiveness* (real-world intervention effects).
+
 # TODO
 
-- replace analyses with MLE/multilevel models for proper ITT?
-- check i understand and have implementd 2.1 and 2.2 correctly
+- check i understand and have implemented 2.1 and 2.2 correctly
 
 ```{r setup, include=FALSE}
 
@@ -122,6 +125,48 @@ write_csv(pairwise_rq2_1, "../reports/results_rq2_effectiveness/pairwise_rq2_1.c
 
 ```
 
+## Estimated marginal means: predicted dismissal rate per condition
+
+```{r}
+
+condition_order <- c("ABC", "ACC", "BCC", "CCC")
+
+em_pred_rq2_1 <- emmeans(model_rq2_1, ~ condition, type = "response") |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(condition = factor(condition, levels = condition_order)) |>
+  arrange(condition)
+
+em_pred_rq2_1_table <- em_pred_rq2_1 |>
+  mutate(
+    `95% CI` = paste0("[", signif(asymp.LCL, 3), ", ", signif(asymp.UCL, 3), "]"),
+    across(where(is.numeric), ~ round(.x, 3))
+  ) |>
+  dplyr::select(Condition = condition, `Dismissals per attempt` = response, SE, `95% CI`)
+
+em_pred_rq2_1_table |> kable() |> kable_classic()
+
+write_csv(em_pred_rq2_1_table, "../reports/results_rq2_effectiveness/emmeans_rq2_1.csv")
+
+```
+
+```{r}
+
+p_em_rq2_1 <- ggplot(em_pred_rq2_1,
+                     aes(x = condition, y = response, ymin = asymp.LCL, ymax = asymp.UCL)) +
+  geom_point(size = 3) +
+  geom_errorbar(width = 0.2) +
+  labs(x = "Condition", y = "Predicted dismissals per attempt",
+       title = "RQ2.1: Estimated marginal means — dismissal rate by condition") +
+  theme_linedraw()
+
+p_em_rq2_1
+
+ggsave("../reports/results_rq2_effectiveness/emmeans_rq2_1_plot.png",
+       p_em_rq2_1, width = 5, height = 4, dpi = 150)
+
+```
+
 ## Relative reduction: % dismissed of attempted per condition × week
 
 ```{r}
@@ -197,6 +242,46 @@ write_csv(pairwise_rq2_2, "../reports/results_rq2_effectiveness/pairwise_rq2_2.c
 
 ```
 
+## Estimated marginal means: predicted attempt count per condition
+
+```{r}
+
+em_pred_rq2_2 <- emmeans(model_rq2_2, ~ condition, type = "response") |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(condition = factor(condition, levels = condition_order)) |>
+  arrange(condition)
+
+em_pred_rq2_2_table <- em_pred_rq2_2 |>
+  mutate(
+    `95% CI` = paste0("[", signif(asymp.LCL, 3), ", ", signif(asymp.UCL, 3), "]"),
+    across(where(is.numeric), ~ round(.x, 3))
+  ) |>
+  dplyr::select(Condition = condition, `Mean attempts` = response, SE, `95% CI`)
+
+em_pred_rq2_2_table |> kable() |> kable_classic()
+
+write_csv(em_pred_rq2_2_table, "../reports/results_rq2_effectiveness/emmeans_rq2_2.csv")
+
+```
+
+```{r}
+
+p_em_rq2_2 <- ggplot(em_pred_rq2_2,
+                     aes(x = condition, y = response, ymin = asymp.LCL, ymax = asymp.UCL)) +
+  geom_point(size = 3) +
+  geom_errorbar(width = 0.2) +
+  labs(x = "Condition", y = "Predicted weekly attempts",
+       title = "RQ2.2: Estimated marginal means — attempt count by condition") +
+  theme_linedraw()
+
+p_em_rq2_2
+
+ggsave("../reports/results_rq2_effectiveness/emmeans_rq2_2_plot.png",
+       p_em_rq2_2, width = 5, height = 4, dpi = 150)
+
+```
+
 ## Mean initial attempts per user per condition × week
 
 ```{r}
@@ -240,6 +325,9 @@ doc <- read_docx() %>%
   body_add_par("RQ2.1: NB Regression — Dismissed Openings (Week 6)", style = "heading 1") %>%
   body_add_flextable(flextable(results_rq2_1) %>% autofit()) %>%
   body_add_par("", style = "Normal") %>%
+  body_add_par("Estimated Marginal Means (predicted dismissal rate)", style = "heading 2") %>%
+  body_add_flextable(flextable(em_pred_rq2_1_table) %>% autofit()) %>%
+  body_add_par("", style = "Normal") %>%
   body_add_par("Pairwise Comparisons", style = "heading 2") %>%
   body_add_flextable(flextable(pairwise_rq2_1 %>%
                                  dplyr::select(contrast, ratio, SE, asymp.LCL, asymp.UCL, p)) %>%
@@ -247,6 +335,9 @@ doc <- read_docx() %>%
   body_add_par("", style = "Normal") %>%
   body_add_par("RQ2.2: NB Regression — Initial App Opening Attempts (Week 6)", style = "heading 1") %>%
   body_add_flextable(flextable(results_rq2_2) %>% autofit()) %>%
+  body_add_par("", style = "Normal") %>%
+  body_add_par("Estimated Marginal Means (predicted attempt count)", style = "heading 2") %>%
+  body_add_flextable(flextable(em_pred_rq2_2_table) %>% autofit()) %>%
   body_add_par("", style = "Normal") %>%
   body_add_par("Pairwise Comparisons", style = "heading 2") %>%
   body_add_flextable(flextable(pairwise_rq2_2 %>%
@@ -293,16 +384,33 @@ excluded — they would force `0/0` cells.
 
 ```{r}
 
+# Centre predictors so the main-effect coefficients are interpretable at
+# the mean of the other predictor (otherwise the `delay_secs` main effect
+# would be the slope at study_week = 0, which is outside the data). Matches
+# the parameterisation used by m_attempts below.
+delay_mean <- mean(weekly$delay_secs)
+week_mean  <- mean(weekly$study_week)
+
+weekly_dismiss_c <- weekly |>
+  filter(attempted > 0) |>
+  mutate(
+    delay_secs_c = delay_secs - delay_mean,
+    study_week_c = study_week - week_mean
+  )
+
 m_dismiss <- glmer(
-  cbind(dismissed, attempted - dismissed) ~ delay_secs * study_week + (1 | participant_id),
+  cbind(dismissed, attempted - dismissed) ~ delay_secs_c * study_week_c + (1 | participant_id),
   family  = binomial,
-  data    = filter(weekly, attempted > 0),
+  data    = weekly_dismiss_c,
   control = glmerControl(optimizer = "bobyqa")
 )
 summary(m_dismiss)
 
 # Fixed-effect coefficient table. Binomial GLMM → exponentiated coefficients
-# are odds ratios (per second of delay, per week, and the interaction).
+# are odds ratios. With centring:
+#   delay_secs_c              = per-second dose effect at mean week
+#   study_week_c              = time trend at mean delay
+#   delay_secs_c:study_week_c = interaction (unchanged by centring)
 results_glmm_dismiss <- broom.mixed::tidy(m_dismiss,
                                           effects       = "fixed",
                                           exponentiate  = TRUE,
@@ -322,25 +430,26 @@ write_csv(results_glmm_dismiss,
 write_rds(m_dismiss,
           "../reports/results_rq2_effectiveness/glmm_dismiss.rds")
 
-# Dose slope by week (emtrends).
-# Because of the delay_secs × study_week interaction, the per-second dose
-# effect varies by week. This reports the slope at week 1, mid-study, and
-# week 6, exponentiated to "OR per second of delay".
+# Dose slope by week (emtrends), reported on the original week scale.
+# emtrends is evaluated at centred week values corresponding to weeks 1, 3,
+# 6 on the original scale; the displayed `Study week` column adds the mean
+# back so the table is interpretable.
 em_slopes_dismiss <- emtrends(
-  m_dismiss, ~ study_week,
-  var = "delay_secs",
-  at  = list(study_week = c(1, 3, 6))
+  m_dismiss, ~ study_week_c,
+  var = "delay_secs_c",
+  at  = list(study_week_c = c(1, 3, 6) - week_mean)
 ) |>
   summary(infer = TRUE) |>
   as_tibble() |>
   mutate(
-    OR_per_sec = signif(exp(delay_secs.trend), 3),
-    CI         = paste0("[", signif(exp(asymp.LCL), 3), ", ",
-                              signif(exp(asymp.UCL), 3), "]"),
-    p          = case_when(p.value < .001 ~ "< .001",
-                           TRUE           ~ as.character(round(p.value, 3)))
+    `Study week` = study_week_c + week_mean,
+    OR_per_sec   = signif(exp(delay_secs_c.trend), 3),
+    CI           = paste0("[", signif(exp(asymp.LCL), 3), ", ",
+                                signif(exp(asymp.UCL), 3), "]"),
+    p            = case_when(p.value < .001 ~ "< .001",
+                             TRUE           ~ as.character(round(p.value, 3)))
   ) |>
-  dplyr::select(`Study week`         = study_week,
+  dplyr::select(`Study week`,
                 `OR per sec of delay` = OR_per_sec,
                 `95% CI`              = CI,
                 p)
@@ -350,56 +459,47 @@ write_csv(em_slopes_dismiss,
           "../reports/results_rq2_effectiveness/glmm_dismiss_slopes.csv")
 
 # Predicted dismissal probability at specific (delay, week) combinations.
-# Easier to interpret than OR-per-second: gives the absolute dismissal rate
-# the model expects for a typical participant at each grid point.
+# Model uses centred predictors, so convert original-scale grid points to
+# the centred scale before passing to emmeans, then convert back for display.
 em_pred_dismiss <- emmeans(
-  m_dismiss, ~ delay_secs * study_week,
-  at   = list(delay_secs = c(3, 6, 10), study_week = c(1, 3, 6)),
+  m_dismiss, ~ delay_secs_c * study_week_c,
+  at   = list(
+    delay_secs_c = c(3, 6, 10) - delay_mean,
+    study_week_c = c(1, 3, 6) - week_mean
+  ),
   type = "response"
 ) |>
   summary(infer = TRUE) |>
   as_tibble() |>
   mutate(
+    `Delay (s)`   = delay_secs_c + delay_mean,
+    `Study week`  = study_week_c + week_mean,
     `Pr(dismiss)` = signif(prob, 3),
     `95% CI`      = paste0("[", signif(asymp.LCL, 3), ", ",
                                 signif(asymp.UCL, 3), "]")
   ) |>
-  dplyr::select(`Delay (s)`  = delay_secs,
-                `Study week` = study_week,
-                `Pr(dismiss)`,
-                `95% CI`)
+  dplyr::select(`Delay (s)`, `Study week`, `Pr(dismiss)`, `95% CI`)
 
 em_pred_dismiss |> kable() |> kable_classic()
 write_csv(em_pred_dismiss,
           "../reports/results_rq2_effectiveness/glmm_dismiss_predicted.csv")
 
-# # Predicted dismissal-rate trajectory: one line per delay, all 6 weeks.
-# # Ribbons are 95% CIs.
-# plot_data_dismiss <- emmeans(
-#   m_dismiss, ~ delay_secs * study_week,
-#   at   = list(delay_secs = c(3, 6, 10), study_week = 1:6),
-#   type = "response"
-# ) |>
-#   summary() |>
-#   as_tibble() |>
-#   mutate(`Delay (s)` = factor(delay_secs))
-# 
-# p_dismiss <- ggplot(plot_data_dismiss,
-#                     aes(study_week, prob,
-#                         colour = `Delay (s)`, fill = `Delay (s)`,
-#                         group  = `Delay (s)`)) +
-#   geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
-#               alpha = 0.15, colour = NA) +
-#   geom_line(linewidth = 1) +
-#   geom_point() +
-#   scale_x_continuous(breaks = 1:6) +
-#   labs(x = "Study week", y = "Predicted dismissal probability") +
-#   theme_linedraw()
-# 
-# p_dismiss
-# 
-# ggsave("../reports/results_rq2_effectiveness/glmm_dismiss_trajectory.png",
-#        p_dismiss, width = 6, height = 4, dpi = 150)
+# Full grid of predictions on original scale (needed to filter to observed cells below).
+plot_data_dismiss <- emmeans(
+  m_dismiss, ~ delay_secs_c * study_week_c,
+  at   = list(
+    delay_secs_c = c(3, 6, 10) - delay_mean,
+    study_week_c = (1:6) - week_mean
+  ),
+  type = "response"
+) |>
+  summary() |>
+  as_tibble() |>
+  mutate(
+    `Delay (s)` = factor(delay_secs_c + delay_mean),
+    delay_secs  = delay_secs_c + delay_mean,
+    study_week  = study_week_c + week_mean
+  )
 
 # Companion: condition-level trajectory.
 # The dose-response model above evaluates the linear (delay × week) surface
@@ -443,11 +543,8 @@ p_dismiss_cond
 ggsave("../reports/results_rq2_effectiveness/glmm_dismiss_trajectory_by_condition.png",
        p_dismiss_cond, width = 6, height = 4, dpi = 150)
 
-# Companion: dose-response trajectory restricted to observed cells.
-# Same predictions as the original dose-response plot, but masked to the
-# (delay × week) combinations that actually occurred in the design.
-# The 3s line shows weeks 1–2 only; 6s shows weeks 1–4; 10s spans all 6.
-# This is the honest dose-response view — no late-week 3s extrapolation.
+# Dose-response trajectory restricted to observed (delay × week) cells.
+# 3s shown for weeks 1–2 only; 6s for weeks 1–4; 10s for all 6 weeks.
 observed_cells <- weekly |> distinct(delay_secs, study_week)
 
 plot_data_dismiss_obs <- plot_data_dismiss |>
@@ -462,13 +559,59 @@ p_dismiss_obs <- ggplot(plot_data_dismiss_obs,
   geom_line(linewidth = 1) +
   geom_point() +
   scale_x_continuous(breaks = 1:6) +
-  labs(x = "Study week", y = "Predicted dismissal probability") +
+  labs(x = "Study week", y = "Predicted dismissal probability",
+       colour = "Delay (s)", fill = "Delay (s)") +
   theme_linedraw()
 
 p_dismiss_obs
 
 ggsave("../reports/results_rq2_effectiveness/glmm_dismiss_trajectory_observed.png",
        p_dismiss_obs, width = 6, height = 4, dpi = 150)
+
+# Full-grid dose-response trajectory: all delay × week combinations including
+# those that never occurred in the study (e.g. 3s at week 6). Extrapolation
+# beyond the design, so interpret with caution — but shows the model's full
+# implied surface.
+p_dismiss_full <- ggplot(plot_data_dismiss,
+                         aes(study_week, prob,
+                             colour = `Delay (s)`, fill = `Delay (s)`,
+                             group  = `Delay (s)`)) +
+  geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+              alpha = 0.15, colour = NA) +
+  geom_line(linewidth = 1) +
+  geom_point() +
+  scale_x_continuous(breaks = 1:6) +
+  labs(x = "Study week", y = "Predicted dismissal probability",
+       colour = "Delay (s)", fill = "Delay (s)",
+       caption = "All delay × week combinations shown, including counterfactual cells") +
+  theme_linedraw()
+
+p_dismiss_full
+
+ggsave("../reports/results_rq2_effectiveness/glmm_dismiss_trajectory_full.png",
+       p_dismiss_full, width = 6, height = 4, dpi = 150)
+
+# EMMs at Week 6 only — same format as preregistered EMM plot.
+condition_order <- c("ABC", "ACC", "BCC", "CCC")
+
+em_dismiss_w6 <- plot_data_dismiss_cond |>
+  filter(study_week == 6) |>
+  mutate(condition = factor(condition, levels = condition_order)) |>
+  arrange(condition)
+
+p_dismiss_w6 <- ggplot(em_dismiss_w6,
+                       aes(x = condition, y = prob,
+                           ymin = ci_lower, ymax = ci_upper)) +
+  geom_point(size = 3) +
+  geom_errorbar(width = 0.2) +
+  labs(x = "Condition", y = "Predicted dismissal probability (Week 6)",
+       title = "RQ2.1 (exploratory): EMMs at Week 6 — dismissal rate by condition") +
+  theme_linedraw()
+
+p_dismiss_w6
+
+ggsave("../reports/results_rq2_effectiveness/glmm_dismiss_emm_w6.png",
+       p_dismiss_w6, width = 5, height = 4, dpi = 150)
 
 ```
 
@@ -483,20 +626,11 @@ didn't try to open the app at all"), so the full weekly file is used (no
 
 ```{r}
 
-# Centering predictors before fitting.
-# Without centering, glmer.nb fails to converge with "very large eigenvalue
-# – rescale variables". The interaction delay_secs * study_week has range
-# 3..60, an order of magnitude larger than the main effects, which makes
-# the design matrix poorly conditioned and trips up glmer.nb's outer-loop
-# optimisation of the dispersion parameter theta.
-# Centering at the mean fixes the conditioning problem. The interaction
-# coefficient is unchanged; the main effects are now interpreted at the
-# *mean* of the other predictor (i.e. the dose effect at mid-study, and
-# the time trend at mean dose), which is also more substantively useful
-# than "at zero" — week 0 and 0s delay are both outside the data.
-delay_mean <- mean(weekly$delay_secs)
-week_mean  <- mean(weekly$study_week)
-
+# delay_mean and week_mean were defined in the m_dismiss chunk above.
+# Centring is also needed here for a separate reason: without it, glmer.nb
+# fails to converge ("very large eigenvalue – rescale variables") because
+# the interaction delay_secs * study_week has range 3..60, much larger
+# than the main effects, leaving the design matrix poorly conditioned.
 weekly_c <- weekly |>
   mutate(
     delay_secs_c = delay_secs - delay_mean,
@@ -595,40 +729,22 @@ em_pred_attempts |> kable() |> kable_classic()
 write_csv(em_pred_attempts,
           "../reports/results_rq2_effectiveness/glmm_attempts_predicted.csv")
 
-# # Predicted weekly-attempt trajectory: one line per delay, all 6 weeks.
-# # Ribbons are 95% CIs. Predictors are on the centred scale internally;
-# # convert back to original scale for the plot axes.
-# plot_data_attempts <- emmeans(
-#   m_attempts, ~ delay_secs_c * study_week_c,
-#   at   = list(
-#     delay_secs_c = c(3, 6, 10) - delay_mean,
-#     study_week_c = (1:6) - week_mean
-#   ),
-#   type = "response"
-# ) |>
-#   summary() |>
-#   as_tibble() |>
-#   mutate(
-#     `Delay (s)` = factor(delay_secs_c + delay_mean),
-#     study_week  = study_week_c + week_mean
-#   )
-# 
-# p_attempts <- ggplot(plot_data_attempts,
-#                      aes(study_week, response,
-#                          colour = `Delay (s)`, fill = `Delay (s)`,
-#                          group  = `Delay (s)`)) +
-#   geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
-#               alpha = 0.15, colour = NA) +
-#   geom_line(linewidth = 1) +
-#   geom_point() +
-#   scale_x_continuous(breaks = 1:6) +
-#   labs(x = "Study week", y = "Predicted weekly attempts") +
-#   theme_linedraw()
-# 
-# p_attempts
-# 
-# ggsave("../reports/results_rq2_effectiveness/glmm_attempts_trajectory.png",
-#        p_attempts, width = 6, height = 4, dpi = 150)
+# Full grid of predictions on original scale (needed to filter to observed cells below).
+plot_data_attempts <- emmeans(
+  m_attempts, ~ delay_secs_c * study_week_c,
+  at   = list(
+    delay_secs_c = c(3, 6, 10) - delay_mean,
+    study_week_c = (1:6) - week_mean
+  ),
+  type = "response"
+) |>
+  summary() |>
+  as_tibble() |>
+  mutate(
+    `Delay (s)` = factor(delay_secs_c + delay_mean),
+    delay_secs  = delay_secs_c + delay_mean,
+    study_week  = study_week_c + week_mean
+  )
 
 # Companion: condition-level trajectory.
 # Same logic as the dismissal companion — predicting per condition keeps
@@ -669,11 +785,8 @@ p_attempts_cond
 ggsave("../reports/results_rq2_effectiveness/glmm_attempts_trajectory_by_condition.png",
        p_attempts_cond, width = 6, height = 4, dpi = 150)
 
-# Companion: dose-response trajectory restricted to observed cells.
-# Same logic as the dismissal version. The model uses centred predictors,
-# so recover the original-scale delay column for the semi_join.
+# Dose-response trajectory restricted to observed (delay × week) cells.
 plot_data_attempts_obs <- plot_data_attempts |>
-  mutate(delay_secs = delay_secs_c + delay_mean) |>
   semi_join(observed_cells, by = c("delay_secs", "study_week"))
 
 p_attempts_obs <- ggplot(plot_data_attempts_obs,
@@ -685,7 +798,8 @@ p_attempts_obs <- ggplot(plot_data_attempts_obs,
   geom_line(linewidth = 1) +
   geom_point() +
   scale_x_continuous(breaks = 1:6) +
-  labs(x = "Study week", y = "Predicted weekly attempts") +
+  labs(x = "Study week", y = "Predicted weekly attempts",
+       colour = "Delay (s)", fill = "Delay (s)") +
   theme_linedraw()
 
 p_attempts_obs
@@ -693,9 +807,301 @@ p_attempts_obs
 ggsave("../reports/results_rq2_effectiveness/glmm_attempts_trajectory_observed.png",
        p_attempts_obs, width = 6, height = 4, dpi = 150)
 
+# Full-grid dose-response trajectory: all delay × week combinations including
+# those that never occurred in the study. Extrapolation beyond the design.
+p_attempts_full <- ggplot(plot_data_attempts,
+                          aes(study_week, response,
+                              colour = `Delay (s)`, fill = `Delay (s)`,
+                              group  = `Delay (s)`)) +
+  geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+              alpha = 0.15, colour = NA) +
+  geom_line(linewidth = 1) +
+  geom_point() +
+  scale_x_continuous(breaks = 1:6) +
+  labs(x = "Study week", y = "Predicted weekly attempts",
+       colour = "Delay (s)", fill = "Delay (s)",
+       caption = "All delay × week combinations shown, including counterfactual cells") +
+  theme_linedraw()
+
+p_attempts_full
+
+ggsave("../reports/results_rq2_effectiveness/glmm_attempts_trajectory_full.png",
+       p_attempts_full, width = 6, height = 4, dpi = 150)
+
+# EMMs at Week 6 only — same format as preregistered EMM plot.
+em_attempts_w6 <- plot_data_attempts_cond |>
+  filter(round(study_week) == 6) |>
+  mutate(condition = factor(condition, levels = condition_order)) |>
+  arrange(condition)
+
+p_attempts_w6 <- ggplot(em_attempts_w6,
+                        aes(x = condition, y = response,
+                            ymin = ci_lower, ymax = ci_upper)) +
+  geom_point(size = 3) +
+  geom_errorbar(width = 0.2) +
+  labs(x = "Condition", y = "Predicted weekly attempts (Week 6)",
+       title = "RQ2.2 (exploratory): EMMs at Week 6 — attempt count by condition") +
+  theme_linedraw()
+
+p_attempts_w6
+
+ggsave("../reports/results_rq2_effectiveness/glmm_attempts_emm_w6.png",
+       p_attempts_w6, width = 5, height = 4, dpi = 150)
+
 ```
 
 
+## Combined comparison on a common (marginal) scale: Preregistered (PP, efficacy) vs Exploratory (ITT, effectiveness) at Week 6
+
+The preregistered `glm.nb` predictions are population-averaged (marginal —
+no random effect). The exploratory GLMM `emmeans` would by default return a
+*conditional* mean at random-effect = 0 (a "typical" participant), which under
+Jensen's inequality is smaller than the marginal mean by a factor of
+`exp(σ_u²/2)` (log link) or an analogous adjustment (logit link). To put both
+estimators on the same scale, we recompute the GLMM Week 6 emmeans with
+`bias.adjust = TRUE` so they return marginal/population-averaged predictions.
+Any remaining gap is the genuine selection effect (completers being heavy users).
+
+```{r}
+
+# Mean attempted_w6 in completers — used to normalise the PP dismissal rate
+# (which is on the count scale) to a probability, matching the GLMM scale.
+mean_att <- mean(df_rq2$attempted_w6, na.rm = TRUE)
+
+# --- Random-intercept SDs (link scale) ---
+sigma_dismiss <- sqrt(VarCorr(m_dismiss_cond)$cond$participant_id[1, 1])
+sigma_attempts <- sqrt(VarCorr(m_attempts_cond)$cond$participant_id[1, 1])
+
+cat(sprintf("sigma_u (dismiss, logit link): %.3f\n", sigma_dismiss))
+cat(sprintf("sigma_u (attempts, log link):  %.3f\n", sigma_attempts))
+cat(sprintf("Jensen multiplier for attempts (exp(sigma^2/2)): %.2fx\n",
+            exp(sigma_attempts^2 / 2)))
+
+# --- RQ2.1 dismissals: marginal Week 6 emmeans ---
+em_dismiss_w6_marg <- emmeans(
+  m_dismiss_cond, ~ condition * study_week,
+  at          = list(study_week = 6),
+  type        = "response",
+  bias.adjust = TRUE,
+  sigma       = sigma_dismiss
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  rename_with(~ "ci_lower", any_of(c("asymp.LCL", "lower.CL"))) |>
+  rename_with(~ "ci_upper", any_of(c("asymp.UCL", "upper.CL"))) |>
+  mutate(condition = factor(condition, levels = condition_order)) |>
+  arrange(condition)
+
+# --- RQ2.2 attempts: marginal Week 6 emmeans ---
+em_attempts_w6_marg <- emmeans(
+  m_attempts_cond, ~ condition * study_week_c,
+  at          = list(study_week_c = 6 - week_mean),
+  type        = "response",
+  bias.adjust = TRUE,
+  sigma       = sigma_attempts
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  rename_with(~ "ci_lower", any_of(c("asymp.LCL", "lower.CL"))) |>
+  rename_with(~ "ci_upper", any_of(c("asymp.UCL", "upper.CL"))) |>
+  mutate(
+    study_week = study_week_c + week_mean,
+    condition  = factor(condition, levels = condition_order)
+  ) |>
+  arrange(condition)
+
+# --- RQ2.1 combined plot (marginal scale) ---
+dismiss_combined_marg <- bind_rows(
+  em_pred_rq2_1 |>
+    mutate(
+      condition = factor(condition, levels = condition_order),
+      estimate  = response / mean_att,
+      lower     = asymp.LCL / mean_att,
+      upper     = asymp.UCL / mean_att,
+      Analysis  = "Preregistered (PP, efficacy)"
+    ),
+  em_dismiss_w6_marg |>
+    mutate(
+      estimate = prob,
+      lower    = ci_lower,
+      upper    = ci_upper,
+      Analysis = "Exploratory (ITT, effectiveness)"
+    )
+) |>
+  mutate(Analysis = factor(Analysis,
+                           levels = c("Preregistered (PP, efficacy)",
+                                      "Exploratory (ITT, effectiveness)")))
+
+p_dismiss_combined_marg <- ggplot(dismiss_combined_marg,
+  aes(x = condition, y = estimate, ymin = lower, ymax = upper,
+      colour = Analysis, shape = Analysis, group = Analysis)) +
+  geom_point(size = 3, position = position_dodge(0.4)) +
+  geom_errorbar(width = 0.2, position = position_dodge(0.4)) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  scale_colour_manual(values = c("Preregistered (PP, efficacy)"     = "#2166ac",
+                                 "Exploratory (ITT, effectiveness)" = "#d6604d")) +
+  scale_shape_manual(values  = c("Preregistered (PP, efficacy)"     = 16,
+                                 "Exploratory (ITT, effectiveness)" = 17)) +
+  labs(x = "Condition", y = "Predicted dismissal probability (Week 6)",
+       title = "RQ2.1: Dismissal rate at Week 6 — marginal (population-averaged) estimates",
+       colour = "Analysis", shape = "Analysis") +
+  theme_linedraw() +
+  theme(legend.position = "bottom")
+
+p_dismiss_combined_marg
+
+ggsave("../reports/results_rq2_effectiveness/combined_emm_dismiss_w6_marginal.png",
+       p_dismiss_combined_marg, width = 6, height = 5, dpi = 150)
+
+# --- RQ2.2 combined plot (marginal scale) ---
+attempts_combined_marg <- bind_rows(
+  em_pred_rq2_2 |>
+    mutate(
+      condition = factor(condition, levels = condition_order),
+      estimate  = response,
+      lower     = asymp.LCL,
+      upper     = asymp.UCL,
+      Analysis  = "Preregistered (PP, efficacy)"
+    ),
+  em_attempts_w6_marg |>
+    mutate(
+      estimate = response,
+      lower    = ci_lower,
+      upper    = ci_upper,
+      Analysis = "Exploratory (ITT, effectiveness)"
+    )
+) |>
+  mutate(Analysis = factor(Analysis,
+                           levels = c("Preregistered (PP, efficacy)",
+                                      "Exploratory (ITT, effectiveness)")))
+
+p_attempts_combined_marg <- ggplot(attempts_combined_marg,
+  aes(x = condition, y = estimate, ymin = lower, ymax = upper,
+      colour = Analysis, shape = Analysis, group = Analysis)) +
+  geom_point(size = 3, position = position_dodge(0.4)) +
+  geom_errorbar(width = 0.2, position = position_dodge(0.4)) +
+  scale_colour_manual(values = c("Preregistered (PP, efficacy)"     = "#2166ac",
+                                 "Exploratory (ITT, effectiveness)" = "#d6604d")) +
+  scale_shape_manual(values  = c("Preregistered (PP, efficacy)"     = 16,
+                                 "Exploratory (ITT, effectiveness)" = 17)) +
+  labs(x = "Condition", y = "Predicted weekly attempts (Week 6)",
+       title = "RQ2.2: Attempt count at Week 6 — marginal (population-averaged) estimates",
+       colour = "Analysis", shape = "Analysis") +
+  theme_linedraw() +
+  theme(legend.position = "bottom")
+
+p_attempts_combined_marg
+
+ggsave("../reports/results_rq2_effectiveness/combined_emm_attempts_w6_marginal.png",
+       p_attempts_combined_marg, width = 6, height = 5, dpi = 150)
+
+```
+
+### Proportion change in weekly attempts (Week 1 → Week 6): PP vs ITT
+
+Per-condition proportion change in weekly attempts between Week 1 and Week 6,
+estimated from both analyses. The PP estimate uses a NB GLMM fit to the same
+completer subsample (`df_rq2`) reshaped to long format, with the analogous
+`condition * week + (1 | participant_id)` structure as the ITT model — so the
+two estimates are computed in a directly parallel way. The within-model ratio
+of predicted means cancels the random-effect Jensen factor, so no bias
+adjustment is needed here.
+
+```{r}
+
+# --- PP: long-format GLMM on completers (parallel structure to m_attempts_cond) ---
+df_rq2_long <- df_rq2 |>
+  dplyr::select(participant_id, condition, attempted_w1, attempted_w6) |>
+  pivot_longer(cols      = c(attempted_w1, attempted_w6),
+               names_to  = "week",
+               values_to = "attempted") |>
+  mutate(week = factor(as.integer(str_extract(week, "[0-9]+")),
+                       levels = c(1, 6)))
+
+m_attempts_pp <- glmmTMB(
+  attempted ~ condition * week + (1 | participant_id),
+  data   = df_rq2_long,
+  family = nbinom2
+)
+summary(m_attempts_pp)
+
+# Within-condition W6/W1 rate ratio → proportion change. revpairwise gives
+# (level2 - level1) on the link scale = log(rate ratio); type = "response"
+# back-transforms to the rate ratio.
+get_prop_change <- function(model, week_var, week_at, analysis_label) {
+  em <- emmeans(model, as.formula(paste0("~ ", week_var, " | condition")),
+                at = setNames(list(week_at), week_var))
+  contrast(em, method = "revpairwise") |>
+    summary(infer = TRUE, type = "response") |>
+    as_tibble() |>
+    mutate(
+      condition   = factor(condition, levels = condition_order),
+      prop_change = ratio - 1,
+      prop_lower  = asymp.LCL - 1,
+      prop_upper  = asymp.UCL - 1,
+      Analysis    = analysis_label
+    ) |>
+    arrange(condition)
+}
+
+prop_change_pp <- get_prop_change(
+  m_attempts_pp, "week", factor(c(1, 6), levels = c(1, 6)),
+  "Preregistered (PP, efficacy)"
+)
+
+prop_change_itt <- get_prop_change(
+  m_attempts_cond, "study_week_c", c(1, 6) - week_mean,
+  "Exploratory (ITT, effectiveness)"
+)
+
+prop_change_combined <- bind_rows(prop_change_pp, prop_change_itt) |>
+  mutate(Analysis = factor(Analysis,
+                           levels = c("Preregistered (PP, efficacy)",
+                                      "Exploratory (ITT, effectiveness)")))
+
+prop_change_table <- prop_change_combined |>
+  mutate(
+    `Rate ratio (W6/W1)` = signif(ratio, 3),
+    `Prop. change`       = scales::percent(prop_change, accuracy = 0.1),
+    `95% CI`             = paste0("[",
+                                  scales::percent(prop_lower, accuracy = 0.1),
+                                  ", ",
+                                  scales::percent(prop_upper, accuracy = 0.1),
+                                  "]")
+  ) |>
+  dplyr::select(Analysis, Condition = condition, `Rate ratio (W6/W1)`,
+                `Prop. change`, `95% CI`)
+
+prop_change_table |> kable() |> kable_classic()
+
+write_csv(prop_change_table,
+          "../reports/results_rq2_effectiveness/combined_prop_change.csv")
+
+p_prop_change_combined <- ggplot(prop_change_combined,
+  aes(x = condition, y = prop_change,
+      ymin = prop_lower, ymax = prop_upper,
+      colour = Analysis, shape = Analysis, group = Analysis)) +
+  geom_hline(yintercept = 0, linetype = "dashed", colour = "grey50") +
+  geom_point(size = 3, position = position_dodge(0.4)) +
+  geom_errorbar(width = 0.2, position = position_dodge(0.4)) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  scale_colour_manual(values = c("Preregistered (PP, efficacy)"     = "#2166ac",
+                                 "Exploratory (ITT, effectiveness)" = "#d6604d")) +
+  scale_shape_manual(values  = c("Preregistered (PP, efficacy)"     = 16,
+                                 "Exploratory (ITT, effectiveness)" = 17)) +
+  labs(x = "Condition",
+       y = "Proportion change in weekly attempts (Week 1 → Week 6)",
+       title = "RQ2.2: Within-condition change in attempts — preregistered vs. exploratory",
+       colour = "Analysis", shape = "Analysis") +
+  theme_linedraw() +
+  theme(legend.position = "bottom")
+
+p_prop_change_combined
+
+ggsave("../reports/results_rq2_effectiveness/combined_prop_change.png",
+       p_prop_change_combined, width = 6, height = 5, dpi = 150)
+
+```
 
 # Session info
 

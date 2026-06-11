@@ -1,0 +1,9 @@
+Analysis,Condition,Rate ratio (W6/W1),Prop. change,95% CI
+"Preregistered (PP, efficacy)",ABC,0.568,-43.2%,"[-50.1%, -35.4%]"
+"Preregistered (PP, efficacy)",ACC,0.469,-53.1%,"[-58.6%, -46.7%]"
+"Preregistered (PP, efficacy)",BCC,0.619,-38.1%,"[-46.0%, -29.0%]"
+"Preregistered (PP, efficacy)",CCC,0.579,-42.1%,"[-49.0%, -34.2%]"
+"Exploratory (ITT, effectiveness)",ABC,0.531,-46.9%,"[-52.0%, -41.3%]"
+"Exploratory (ITT, effectiveness)",ACC,0.442,-55.8%,"[-59.9%, -51.2%]"
+"Exploratory (ITT, effectiveness)",BCC,0.506,-49.4%,"[-54.3%, -43.9%]"
+"Exploratory (ITT, effectiveness)",CCC,0.525,-47.5%,"[-52.4%, -42.1%]"
