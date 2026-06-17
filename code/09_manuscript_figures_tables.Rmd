@@ -1,0 +1,591 @@
+---
+title: "Manuscript figures and tables"
+author: "Sabrina Norwood"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document:
+    code_folding: hide
+    highlight: haddock
+    theme: flatly
+    toc: yes
+    toc_float: yes
+---
+
+Produces publication-ready figures and tables from previously saved analysis outputs.
+Outputs saved to `../reports/manuscript/`.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message = FALSE, warning = FALSE, fig.width = 8, fig.height = 4)
+```
+
+# Dependencies
+
+```{r}
+
+library(tidyverse)
+library(patchwork)
+library(flextable)
+library(officer)
+library(emmeans)
+library(lme4)
+library(glmmTMB)
+
+dir.create("../reports/manuscript/", showWarnings = FALSE, recursive = TRUE)
+
+```
+
+# Shared helpers
+
+```{r}
+
+# Add lo/hi columns by parsing a "[lo, hi]" string column
+add_ci_cols <- function(df, col = "95% CI") {
+  nums <- str_extract_all(df[[col]], "[-0-9.eE+]+") |> map(as.numeric)
+  df |> mutate(lo = map_dbl(nums, 1), hi = map_dbl(nums, 2))
+}
+
+# Consistent colour palettes
+cond_pal   <- c(ABC = "#4477AA", ACC = "#EE6677", BCC = "#228833", CCC = "#CCBB44")
+delay_pal  <- c("3" = "#EE6677", "6" = "#228833", "10" = "#4477AA")
+cond_order <- c("ABC", "ACC", "BCC", "CCC")
+
+# Shared theme
+theme_ms <- function(...) {
+  theme_classic(base_size = 12) +
+    theme(
+      strip.background = element_blank(),
+      plot.title       = element_text(size = 11, face = "bold"),
+      ...
+    )
+}
+
+# Minimal flextable formatter
+ms_flextable <- function(df, ...) {
+  flextable(df, ...) |>
+    font(fontname = "Times New Roman", part = "all") |>
+    fontsize(size = 10, part = "all") |>
+    bold(part = "header") |>
+    hline_top(part = "header", border = fp_border(width = 1.5)) |>
+    hline_bottom(part = "header", border = fp_border(width = 1)) |>
+    hline_bottom(part = "body",   border = fp_border(width = 1.5)) |>
+    autofit()
+}
+
+```
+
+---
+
+# Main text tables
+
+## Table 1: Participant flow by condition
+
+```{r table-1}
+
+df_flow <- read_csv("../reports/results_rq1_tolerability/dropout_summary.csv",
+                    show_col_types = FALSE) |>
+  mutate(
+    condition    = factor(condition, levels = cond_order),
+    dropout_rate = sprintf("%.1f%%", dropout_rate)
+  ) |>
+  arrange(condition) |>
+  rename(
+    Condition       = condition,
+    `N enrolled`    = n_total,
+    `N dropped out` = n_dropout,
+    `N completed`   = n_complete,
+    `Dropout rate`  = dropout_rate
+  )
+
+ms_flextable(df_flow) |>
+  set_caption("Table 1. Participant flow by condition.")
+
+write_csv(df_flow, "../reports/manuscript/table1_participant_flow.csv")
+
+```
+
+## Table 2: RQ1 logistic regression — dropout by condition
+
+```{r table-2}
+
+df_rq1_model <- read_csv("../reports/results_rq1_tolerability/model_rq1_results.csv",
+                          show_col_types = FALSE) |>
+  filter(Predictor != "(Intercept)") |>
+  mutate(
+    Predictor = str_remove(Predictor, "^condition"),
+    Predictor = paste0(Predictor, " vs. CCC")
+  ) |>
+  rename(
+    Condition = Predictor,
+    `Odds ratio` = OR,
+    `95% CI`     = `95% CI`,
+    `p`          = p
+  )
+
+ms_flextable(df_rq1_model) |>
+  set_caption("Table 2. RQ1: Logistic regression predicting study dropout by condition (reference = CCC).")
+
+write_csv(df_rq1_model, "../reports/manuscript/table2_rq1_model.csv")
+
+```
+
+## Table 3: RQ2 pairwise comparisons — attempts at Week 6
+
+```{r table-3}
+
+df_pw2 <- read_csv("../reports/results_rq2_effectiveness/pairwise_rq2_2.csv",
+                    show_col_types = FALSE) |>
+  mutate(across(where(is.numeric), ~ round(.x, 3))) |>
+  mutate(
+    `95% CI` = paste0("[", asymp.LCL, ", ", asymp.UCL, "]")
+  ) |>
+  select(
+    Contrast      = contrast,
+    `Rate ratio`  = ratio,
+    SE,
+    `95% CI`,
+    `z`           = z.ratio,
+    `p`           = p
+  )
+
+ms_flextable(df_pw2) |>
+  set_caption(
+    paste("Table 3. RQ2.2: Pairwise comparisons of predicted app open attempt counts at Week 6",
+          "(negative binomial regression; unadjusted p-values).")
+  )
+
+write_csv(df_pw2, "../reports/manuscript/table3_rq2_pairwise_attempts.csv")
+
+```
+
+---
+
+# Main text figures
+
+## Figure 1: Attrition by week
+
+Weekly proportion of participants dropping out (last active week), by condition.
+
+```{r figure-1-attrition-week}
+
+df_weekly_raw <- read_csv("../reports/results_rq1_tolerability/weekly_dropout_counts.csv",
+                           show_col_types = FALSE)
+
+df_n_total <- read_csv("../reports/results_rq1_tolerability/dropout_summary.csv",
+                        show_col_types = FALSE) |>
+  select(condition, n_total)
+
+df_weekly <- df_weekly_raw |>
+  pivot_longer(-last_week,
+               names_to    = "condition",
+               names_prefix = "n_dropouts_",
+               values_to   = "n_dropout") |>
+  left_join(df_n_total, by = "condition") |>
+  mutate(
+    condition   = factor(condition, levels = cond_order),
+    pct_dropout = n_dropout / n_total * 100
+  )
+
+p_fig1 <- ggplot(df_weekly,
+                 aes(x = last_week, y = pct_dropout,
+                     colour = condition, group = condition)) +
+  # Transition at start of Week 3: ABC, ACC, BCC change delay
+  geom_vline(xintercept = 2.5, linetype = "dashed", colour = "grey50", linewidth = 0.6) +
+  # Transition at start of Week 5: ABC only (6s → 10s)
+  geom_vline(xintercept = 4.5, linetype = "dotted", colour = "grey50", linewidth = 0.6) +
+  annotate("text", x = 2.55, y = 39, label = "ABC/ACC/BCC\ntransition",
+           hjust = 0, vjust = 1, size = 2.8, colour = "grey40") +
+  annotate("text", x = 4.55, y = 39, label = "ABC\ntransition",
+           hjust = 0, vjust = 1, size = 2.8, colour = "grey40") +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2.5) +
+  scale_x_continuous(breaks = 1:5,
+                     labels = paste("Week", 1:5)) +
+  scale_y_continuous(labels = scales::percent_format(scale = 1, accuracy = 1),
+                     limits = c(0, 40),
+                     breaks = seq(0, 40, by = 10)) +
+  scale_colour_manual(values = cond_pal) +
+  labs(
+    x      = "Study week",
+    y      = "Participants dropping out (%)",
+    colour = "Condition"
+  ) +
+  theme_ms()
+
+p_fig1
+
+ggsave("../reports/manuscript/figure1_attrition_by_week.png",
+       p_fig1, width = 6, height = 4, dpi = 300)
+
+```
+
+## Figure 2 (supplemental option): RQ1 tolerability — predicted dropout probability by condition
+
+```{r figure-1}
+
+df_emm_logistic <- read_csv("../reports/results_rq1_tolerability/emmeans_rq1.csv",
+                              show_col_types = FALSE) |>
+  add_ci_cols() |>
+  mutate(
+    condition = factor(Condition, levels = cond_order),
+    analysis  = "Preregistered\n(logistic regression)"
+  ) |>
+  rename(est = `Pr(dropout)`)
+
+df_emm_hazard <- read_csv("../reports/results_rq1_tolerability/hazard_by_condition_emmeans.csv",
+                            show_col_types = FALSE) |>
+  add_ci_cols() |>
+  mutate(
+    condition = factor(Condition, levels = cond_order),
+    analysis  = "Exploratory\n(dose-response hazard model)"
+  ) |>
+  rename(est = `Pr(dropout)`)
+
+df_emm_rq1 <- bind_rows(df_emm_logistic, df_emm_hazard) |>
+  mutate(analysis = factor(analysis, levels = c(
+    "Preregistered\n(logistic regression)",
+    "Exploratory\n(dose-response hazard model)"
+  )))
+
+p_rq1 <- ggplot(df_emm_rq1, aes(x = condition, y = est,
+                                   colour = analysis, shape = analysis)) +
+  geom_point(size = 3, position = position_dodge(width = 0.4)) +
+  geom_errorbar(aes(ymin = lo, ymax = hi),
+                width = 0, linewidth = 0.8,
+                position = position_dodge(width = 0.4)) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1),
+                     limits = c(0.4, 1),
+                     breaks = seq(0.4, 1, by = 0.1)) +
+  scale_colour_manual(values = c("#4477AA", "#EE6677")) +
+  scale_shape_manual(values = c(16, 17)) +
+  labs(
+    x      = "Condition",
+    y      = "Predicted Pr(dropout by Week 6)",
+    colour = "Analysis",
+    shape  = "Analysis"
+  ) +
+  theme_ms(legend.position = "bottom") +
+  guides(colour = guide_legend(nrow = 2), shape = guide_legend(nrow = 2))
+
+p_rq1
+
+ggsave("../reports/manuscript/figure1_rq1_tolerability.png",
+       p_rq1, width = 6, height = 5, dpi = 300)
+
+```
+
+## Figure 2: RQ2 app open attempts — preregistered and dose-response
+
+Panel A: Estimated marginal means at Week 6 by condition (preregistered NB model).
+Panel B: Predicted weekly attempts by delay length (exploratory GLMM; observed delay × week cells only).
+
+```{r figure-2-panel-a}
+
+df_emm_att <- read_csv("../reports/results_rq2_effectiveness/emmeans_rq2_2.csv",
+                        show_col_types = FALSE) |>
+  add_ci_cols() |>
+  mutate(condition = factor(Condition, levels = cond_order))
+
+p2a <- ggplot(df_emm_att,
+              aes(x = condition, y = `Mean attempts`, ymin = lo, ymax = hi)) +
+  geom_point(size = 3) +
+  geom_errorbar(width = 0, linewidth = 0.8) +
+  labs(
+    x     = "Condition",
+    y     = "Predicted weekly attempts (Week 6)",
+    title = "(A) Preregistered: Week 6 by condition"
+  ) +
+  theme_ms()
+
+```
+
+```{r figure-2-panel-b}
+
+# Load the saved GLMM and reconstruct observed-cell predictions
+weekly <- read_csv("../data/processed/data_processed_behavioral_data_weekly.csv",
+                   show_col_types = FALSE)
+
+delay_mean <- mean(weekly$delay_secs)
+week_mean  <- mean(weekly$study_week)
+
+m_attempts <- read_rds("../reports/results_rq2_effectiveness/glmm_attempts.rds")
+
+plot_data_att <- emmeans(
+  m_attempts, ~ delay_secs_c * study_week_c,
+  at   = list(
+    delay_secs_c = c(3, 6, 10) - delay_mean,
+    study_week_c = (1:6) - week_mean
+  ),
+  type = "response"
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(
+    delay_secs = round(delay_secs_c + delay_mean),
+    study_week = round(study_week_c + week_mean),
+    `Delay (s)` = factor(delay_secs)
+  )
+
+observed_cells <- weekly |> distinct(delay_secs, study_week)
+
+plot_data_att_obs <- plot_data_att |>
+  semi_join(observed_cells, by = c("delay_secs", "study_week"))
+
+p2b <- ggplot(plot_data_att_obs,
+              aes(study_week, response,
+                  colour = `Delay (s)`, fill = `Delay (s)`,
+                  group  = `Delay (s)`)) +
+  geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+              alpha = 0.15, colour = NA) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2) +
+  scale_x_continuous(breaks = 1:6) +
+  scale_colour_manual(values = delay_pal) +
+  scale_fill_manual(values = delay_pal) +
+  labs(
+    x      = "Study week",
+    y      = "Predicted weekly attempts",
+    colour = "Delay (s)",
+    fill   = "Delay (s)",
+    title  = "(B) Exploratory: Dose-response trajectory"
+  ) +
+  theme_ms()
+
+```
+
+```{r figure-2-combine}
+
+fig2 <- p2a + p2b + plot_layout(widths = c(1, 1.4))
+
+fig2
+
+ggsave("../reports/manuscript/figure2_rq2_attempts.png",
+       fig2, width = 10, height = 4.5, dpi = 300)
+
+```
+
+## Figure 3: RQ2 dismissal rate — preregistered and dose-response
+
+Panel A: Estimated marginal means at Week 6 by condition (preregistered NB model).
+Panel B: Predicted dismissal probability by delay length (exploratory binomial GLMM; observed cells only).
+
+```{r figure-3-panel-a}
+
+df_emm_dis <- read_csv("../reports/results_rq2_effectiveness/emmeans_rq2_1.csv",
+                        show_col_types = FALSE) |>
+  add_ci_cols() |>
+  mutate(condition = factor(Condition, levels = cond_order))
+
+p3a <- ggplot(df_emm_dis,
+              aes(x = condition,
+                  y = `Dismissals per attempt`,
+                  ymin = lo, ymax = hi)) +
+  geom_point(size = 3) +
+  geom_errorbar(width = 0, linewidth = 0.8) +
+  labs(
+    x     = "Condition",
+    y     = "Predicted dismissals per attempt (Week 6)",
+    title = "(A) Preregistered: Week 6 by condition"
+  ) +
+  theme_ms()
+
+```
+
+```{r figure-3-panel-b}
+
+m_dismiss <- read_rds("../reports/results_rq2_effectiveness/glmm_dismiss.rds")
+
+plot_data_dis <- emmeans(
+  m_dismiss, ~ delay_secs_c * study_week_c,
+  at   = list(
+    delay_secs_c = c(3, 6, 10) - delay_mean,
+    study_week_c = (1:6) - week_mean
+  ),
+  type = "response"
+) |>
+  summary(infer = TRUE) |>
+  as_tibble() |>
+  mutate(
+    delay_secs  = round(delay_secs_c + delay_mean),
+    study_week  = round(study_week_c + week_mean),
+    `Delay (s)` = factor(delay_secs)
+  )
+
+observed_cells_dis <- weekly |>
+  filter(attempted > 0) |>
+  distinct(delay_secs, study_week)
+
+plot_data_dis_obs <- plot_data_dis |>
+  semi_join(observed_cells_dis, by = c("delay_secs", "study_week"))
+
+p3b <- ggplot(plot_data_dis_obs,
+              aes(study_week, prob,
+                  colour = `Delay (s)`, fill = `Delay (s)`,
+                  group  = `Delay (s)`)) +
+  geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
+              alpha = 0.15, colour = NA) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2) +
+  scale_x_continuous(breaks = 1:6) +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
+  scale_colour_manual(values = delay_pal) +
+  scale_fill_manual(values = delay_pal) +
+  labs(
+    x      = "Study week",
+    y      = "Predicted dismissal probability",
+    colour = "Delay (s)",
+    fill   = "Delay (s)",
+    title  = "(B) Exploratory: Dose-response trajectory"
+  ) +
+  theme_ms()
+
+```
+
+```{r figure-3-combine}
+
+fig3 <- p3a + p3b + plot_layout(widths = c(1, 1.4))
+
+fig3
+
+ggsave("../reports/manuscript/figure3_rq2_dismissals.png",
+       fig3, width = 10, height = 4.5, dpi = 300)
+
+```
+
+---
+
+# Supplemental materials
+
+## Table S1: RQ3 satisfaction descriptives by condition
+
+```{r table-s1}
+
+df_post <- read_csv("../data/processed/data_processed_selfreport_post.csv",
+                     show_col_types = FALSE) |>
+  mutate(condition = factor(condition, levels = cond_order))
+
+satisfaction_items <- c(
+  solved_problems  = "Solved consumption problems",
+  achieved_goals   = "Achieved consumption goals",
+  helpful_problems = "Helpful for solving problems",
+  helpful_goals    = "Helpful for achieving goals",
+  satisfied_interv = "Satisfied with intervention",
+  satisfied_progr  = "Satisfied with progress"
+)
+
+df_sat_raw <- map_dfr(names(satisfaction_items), function(item) {
+  df_post |>
+    group_by(condition) |>
+    summarise(
+      item = item,
+      n    = sum(!is.na(.data[[item]])),
+      mean = round(mean(.data[[item]], na.rm = TRUE), 2),
+      sd   = round(sd(.data[[item]],   na.rm = TRUE), 2),
+      .groups = "drop"
+    )
+}) |>
+  mutate(Item = satisfaction_items[item])
+
+df_sat <- df_sat_raw |>
+  mutate(`M (SD)` = paste0(mean, " (", sd, ")")) |>
+  select(Item, Condition = condition, n, `M (SD)`) |>
+  pivot_wider(names_from = Condition, values_from = c(n, `M (SD)`),
+              names_glue = "{Condition}_{.value}") |>
+  select(Item,
+         starts_with("ABC"), starts_with("ACC"),
+         starts_with("BCC"), starts_with("CCC"))
+
+names(df_sat) <- names(df_sat) |>
+  str_replace("_n$", " n") |>
+  str_replace("_M \\(SD\\)$", " M (SD)")
+
+ms_flextable(df_sat) |>
+  set_caption(
+    "Table S1. RQ3: Satisfaction descriptives (means and SDs on 1–7 scales) by condition."
+  )
+
+write_csv(df_sat, "../reports/manuscript/tableS1_rq3_satisfaction.csv")
+
+```
+
+## Table S2: RQ5 preferred delay pattern
+
+Among respondents who expressed a preference for increasing delays (`prefer_increasing == "Yes"`).
+
+```{r table-s2}
+
+# NOTE: Pattern option labels (Option 1/2/3) come from the survey instrument.
+# Add a Description column here once you confirm what each option means.
+
+df_pref <- df_post |>
+  filter(prefer_increasing == "Yes", !is.na(pref_pattern)) |>
+  count(pref_pattern) |>
+  mutate(pct = round(n / sum(n) * 100, 1)) |>
+  arrange(desc(n)) |>
+  select(Pattern = pref_pattern, N = n, `%` = pct) |>
+  mutate(`%` = paste0(`%`, "%"))
+
+cat("Preferred pattern N (among prefer_increasing == 'Yes'):", sum(df_pref$N), "\n")
+
+ms_flextable(df_pref) |>
+  set_caption(
+    paste0("Table S2. RQ5: Preferred delay pattern among post-survey completers who preferred ",
+           "increasing delays (N = ", sum(df_pref$N), ").")
+  )
+
+write_csv(df_pref, "../reports/manuscript/tableS2_rq5_preferred_pattern.csv")
+
+```
+
+## Figure S1: RQ2 within-condition change from Week 1 to Week 6
+
+```{r figure-s1}
+
+df_change <- read_csv(
+  "../reports/results_rq2_effectiveness/combined_prop_change.csv",
+  show_col_types = FALSE
+) |>
+  add_ci_cols() |>
+  mutate(
+    condition   = factor(Condition, levels = cond_order),
+    Analysis    = factor(Analysis, levels = unique(Analysis)),
+    prop_change = as.numeric(str_remove(`Prop. change`, "%"))
+  )
+
+p_s1 <- ggplot(df_change,
+               aes(x = condition, y = prop_change,
+                   colour = Analysis, shape = Analysis)) +
+  geom_hline(yintercept = 0, linetype = "dashed", colour = "grey50") +
+  geom_point(size = 3, position = position_dodge(width = 0.4)) +
+  geom_errorbar(aes(ymin = lo, ymax = hi),
+                width = 0, linewidth = 0.8,
+                position = position_dodge(width = 0.4)) +
+  scale_y_continuous(labels = scales::percent_format(scale = 1, accuracy = 1)) +
+  scale_colour_manual(values = c("#4477AA", "#EE6677")) +
+  scale_shape_manual(values = c(16, 17)) +
+  labs(
+    x      = "Condition",
+    y      = "Change in weekly attempts, Week 1 → Week 6",
+    colour = "Analysis",
+    shape  = "Analysis"
+  ) +
+  theme_ms(legend.position = "bottom") +
+  guides(colour = guide_legend(nrow = 2), shape = guide_legend(nrow = 2))
+
+p_s1
+
+ggsave("../reports/manuscript/figureS1_rq2_prop_change.png",
+       p_s1, width = 6, height = 5, dpi = 300)
+
+```
+
+---
+
+# Summary of outputs
+
+```{r summary}
+
+outputs <- list.files("../reports/manuscript/", full.names = FALSE)
+cat("Files saved to reports/manuscript/:\n")
+cat(paste0("  ", outputs), sep = "\n")
+
+```
