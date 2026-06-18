@@ -279,101 +279,31 @@ ggsave("../reports/manuscript/figure1_rq1_tolerability.png",
 
 ```
 
-## Figure 2: RQ2 app open attempts — preregistered and dose-response
+## Figure 2: App opening attempts at Week 6 by condition
 
-Panel A: Estimated marginal means at Week 6 by condition (preregistered NB model).
-Panel B: Predicted weekly attempts by delay length (exploratory GLMM; observed delay × week cells only).
+Estimated marginal means from preregistered negative binomial model (controlling for Week 1 attempts).
 
-```{r figure-2-panel-a}
+```{r figure-2}
 
 df_emm_att <- read_csv("../reports/results_rq2_effectiveness/emmeans_rq2_2.csv",
                         show_col_types = FALSE) |>
   add_ci_cols() |>
   mutate(condition = factor(Condition, levels = cond_order))
 
-p2a <- ggplot(df_emm_att,
-              aes(x = condition, y = `Mean attempts`, ymin = lo, ymax = hi)) +
+p_fig2 <- ggplot(df_emm_att,
+                 aes(x = condition, y = `Mean attempts`, ymin = lo, ymax = hi)) +
   geom_point(size = 3) +
   geom_errorbar(width = 0, linewidth = 0.8) +
   labs(
-    x     = "Condition",
-    y     = "Predicted weekly attempts (Week 6)",
-    title = "(A) Preregistered: Week 6 by condition"
+    x = "Condition",
+    y = "Predicted weekly attempts (Week 6)"
   ) +
   theme_ms()
 
-```
+p_fig2
 
-```{r figure-2-panel-b}
-
-weekly_raw <- read_csv("../data/processed/data_processed_behavioral_data_weekly.csv",
-                      show_col_types = FALSE)
-
-delay_mean <- mean(weekly_raw$delay_secs)
-week_mean  <- mean(weekly_raw$study_week)
-
-# Recreate the centred dataset emmeans needs to reconstruct the reference grid
-weekly_c <- weekly_raw |>
-  mutate(
-    delay_secs_c = delay_secs - delay_mean,
-    study_week_c = study_week - week_mean
-  )
-
-m_attempts <- read_rds("../reports/results_rq2_effectiveness/glmm_attempts.rds")
-
-plot_data_att <- emmeans(
-  m_attempts, ~ delay_secs_c * study_week_c,
-  at   = list(
-    delay_secs_c = c(3, 6, 10) - delay_mean,
-    study_week_c = (1:6) - week_mean
-  ),
-  type = "response",
-  data = weekly_c
-) |>
-  summary(infer = TRUE) |>
-  as_tibble() |>
-  mutate(
-    delay_secs = round(delay_secs_c + delay_mean),
-    study_week = round(study_week_c + week_mean),
-    `Delay (s)` = factor(delay_secs)
-  )
-
-# 2. FIX: Updated 'weekly' to 'weekly_c' here
-observed_cells <- weekly_c |> distinct(delay_secs, study_week)
-
-plot_data_att_obs <- plot_data_att |>
-  semi_join(observed_cells, by = c("delay_secs", "study_week"))
-
-p2b <- ggplot(plot_data_att_obs,
-              aes(study_week, response,
-                  colour = `Delay (s)`, fill = `Delay (s)`,
-                  group  = `Delay (s)`)) +
-  geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
-              alpha = 0.15, colour = NA) +
-  geom_line(linewidth = 1) +
-  geom_point(size = 2) +
-  scale_x_continuous(breaks = 1:6) +
-  scale_colour_manual(values = delay_pal) +
-  scale_fill_manual(values = delay_pal) +
-  labs(
-    x      = "Study week",
-    y      = "Predicted weekly attempts",
-    colour = "Delay (s)",
-    fill   = "Delay (s)",
-    title  = "(B) Exploratory: Dose-response trajectory"
-  ) +
-  theme_ms()
-
-```
-
-```{r figure-2-combine}
-
-fig2 <- p2a + p2b + plot_layout(widths = c(1, 1.4))
-
-fig2
-
-ggsave("../reports/manuscript/figure2_rq2_attempts.png",
-       fig2, width = 10, height = 4.5, dpi = 300)
+ggsave("../reports/manuscript/figure2_rq2_attempts_w6.png",
+       p_fig2, width = 5, height = 4, dpi = 300)
 
 ```
 
