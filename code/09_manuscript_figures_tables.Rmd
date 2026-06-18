@@ -167,6 +167,10 @@ Weekly proportion of participants dropping out (last active week), by condition.
 
 ```{r figure-1-attrition-week}
 
+install.packages("wesanderson")
+library(wesanderson)
+
+fox_subset <- wes_palette("FantasticFox1")[c(1, 2, 3, 5)]
 df_weekly_raw <- read_csv("../reports/results_rq1_tolerability/weekly_dropout_counts.csv",
                            show_col_types = FALSE)
 
@@ -184,6 +188,8 @@ df_weekly <- df_weekly_raw |>
     condition   = factor(condition, levels = cond_order),
     pct_dropout = n_dropout / n_total * 100
   )
+
+wes_pal <- wes_palette("FantasticFox1", n = length(cond_order))
 
 p_fig1 <- ggplot(df_weekly,
                  aes(x = last_week, y = pct_dropout,
@@ -203,7 +209,7 @@ p_fig1 <- ggplot(df_weekly,
   scale_y_continuous(labels = scales::percent_format(scale = 1, accuracy = 1),
                      limits = c(0, 40),
                      breaks = seq(0, 40, by = 10)) +
-  scale_colour_manual(values = cond_pal) +
+  scale_colour_manual(values = fox_subset) +
   labs(
     x      = "Study week",
     y      = "Participants dropping out (%)",
@@ -300,12 +306,18 @@ p2a <- ggplot(df_emm_att,
 
 ```{r figure-2-panel-b}
 
-# Load the saved GLMM and reconstruct observed-cell predictions
-weekly <- read_csv("../data/processed/data_processed_behavioral_data_weekly.csv",
-                   show_col_types = FALSE)
+weekly_raw <- read_csv("../data/processed/data_processed_behavioral_data_weekly.csv",
+                      show_col_types = FALSE)
 
-delay_mean <- mean(weekly$delay_secs)
-week_mean  <- mean(weekly$study_week)
+delay_mean <- mean(weekly_raw$delay_secs)
+week_mean  <- mean(weekly_raw$study_week)
+
+# Recreate the centred dataset emmeans needs to reconstruct the reference grid
+weekly_c <- weekly_raw |>
+  mutate(
+    delay_secs_c = delay_secs - delay_mean,
+    study_week_c = study_week - week_mean
+  )
 
 m_attempts <- read_rds("../reports/results_rq2_effectiveness/glmm_attempts.rds")
 
@@ -315,7 +327,8 @@ plot_data_att <- emmeans(
     delay_secs_c = c(3, 6, 10) - delay_mean,
     study_week_c = (1:6) - week_mean
   ),
-  type = "response"
+  type = "response",
+  data = weekly_c
 ) |>
   summary(infer = TRUE) |>
   as_tibble() |>
@@ -325,7 +338,8 @@ plot_data_att <- emmeans(
     `Delay (s)` = factor(delay_secs)
   )
 
-observed_cells <- weekly |> distinct(delay_secs, study_week)
+# 2. FIX: Updated 'weekly' to 'weekly_c' here
+observed_cells <- weekly_c |> distinct(delay_secs, study_week)
 
 plot_data_att_obs <- plot_data_att |>
   semi_join(observed_cells, by = c("delay_secs", "study_week"))
@@ -394,13 +408,22 @@ p3a <- ggplot(df_emm_dis,
 
 m_dismiss <- read_rds("../reports/results_rq2_effectiveness/glmm_dismiss.rds")
 
+# Recreate the centred + filtered dataset the dismiss model was fit on
+weekly_dismiss_c <- weekly_raw |>
+  filter(attempted > 0) |>
+  mutate(
+    delay_secs_c = delay_secs - delay_mean,
+    study_week_c = study_week - week_mean
+  )
+
 plot_data_dis <- emmeans(
   m_dismiss, ~ delay_secs_c * study_week_c,
   at   = list(
     delay_secs_c = c(3, 6, 10) - delay_mean,
     study_week_c = (1:6) - week_mean
   ),
-  type = "response"
+  type = "response",
+  data = weekly_dismiss_c
 ) |>
   summary(infer = TRUE) |>
   as_tibble() |>
@@ -410,8 +433,7 @@ plot_data_dis <- emmeans(
     `Delay (s)` = factor(delay_secs)
   )
 
-observed_cells_dis <- weekly |>
-  filter(attempted > 0) |>
+observed_cells_dis <- weekly_dismiss_c |>
   distinct(delay_secs, study_week)
 
 plot_data_dis_obs <- plot_data_dis |>
