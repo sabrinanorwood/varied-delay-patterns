@@ -258,8 +258,8 @@ p_fig1 <- ggplot(df_weekly,
   scale_x_continuous(breaks = 1:5,
                      labels = paste("Week", 1:5)) +
   scale_y_continuous(labels = scales::percent_format(scale = 1, accuracy = 1),
-                     limits = c(0, 30),
-                     breaks = seq(0, 30, by = 10)) +
+                     limits = c(0, 40),
+                     breaks = seq(0, 40, by = 10)) +
   scale_colour_manual(values = fox_subset) +
   labs(
     x      = "Study week",
