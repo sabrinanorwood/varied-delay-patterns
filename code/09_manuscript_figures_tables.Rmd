@@ -313,9 +313,11 @@ df_emm_dis <- read_csv("../reports/results_rq2_effectiveness/emmeans_rq2_1.csv",
 p3a <- ggplot(df_emm_dis,
               aes(x = condition,
                   y = `Dismissals per attempt`,
-                  ymin = lo, ymax = hi)) +
+                  ymin = lo, ymax = hi,
+                  colour = condition)) +
   geom_point(size = 3) +
   geom_errorbar(width = 0, linewidth = 0.8) +
+  scale_colour_manual(values = fox_subset) +
   labs(
     x     = "Condition",
     y     = "Estimated dismissal rate at Week 6\n(adjusted for Week 1 behaviour)",
@@ -329,15 +331,17 @@ df_emm_att <- read_csv("../reports/results_rq2_effectiveness/emmeans_rq2_2.csv",
   mutate(condition = factor(Condition, levels = cond_order))
 
 p3b <- ggplot(df_emm_att,
-              aes(x = condition, y = `Mean attempts`, ymin = lo, ymax = hi)) +
+              aes(x = condition, y = `Mean attempts`, ymin = lo, ymax = hi,
+                  colour = condition)) +
   geom_point(size = 3) +
   geom_errorbar(width = 0, linewidth = 0.8) +
+  scale_colour_manual(values = fox_subset) +
   labs(
     x     = "Condition",
     y     = "Estimated attempts at Week 6\n(adjusted for Week 1 behaviour)",
     title = "(B) Initial attempts"
   ) +
-  theme_ms()
+  theme_ms() 
 
 fig3 <- p3a + p3b
 
