@@ -297,8 +297,11 @@ m_dismiss  <- read_rds("../reports/results_rq2_effectiveness/glmm_dismiss.rds")
 
 ## Figure 3: RQ2 estimated means at Week 6 (preregistered)
 
-Panel A: predicted dismissals per attempt. Panel B: predicted attempt count.
-Both from preregistered negative binomial models, controlling for Week 1 behaviour.
+Both panels show model-estimated marginal means (± 95% CI) from the preregistered
+negative binomial models, adjusted for Week 1 behaviour. Panel A shows the
+dismissal rate (dismissed openings per attempt) and Panel B shows total app-opening
+attempts — presented together because they reflect two complementary aspects of
+the same RQ2 outcome measure at Week 6.
 
 ```{r figure-3}
 
@@ -315,7 +318,7 @@ p3a <- ggplot(df_emm_dis,
   geom_errorbar(width = 0, linewidth = 0.8) +
   labs(
     x     = "Condition",
-    y     = "Predicted dismissals per attempt (Week 6)",
+    y     = "Estimated dismissal rate at Week 6\n(adjusted for Week 1 behaviour)",
     title = "(A) Dismissed openings"
   ) +
   theme_ms()
@@ -331,7 +334,7 @@ p3b <- ggplot(df_emm_att,
   geom_errorbar(width = 0, linewidth = 0.8) +
   labs(
     x     = "Condition",
-    y     = "Predicted weekly attempts (Week 6)",
+    y     = "Estimated attempts at Week 6\n(adjusted for Week 1 behaviour)",
     title = "(B) Initial attempts"
   ) +
   theme_ms()
