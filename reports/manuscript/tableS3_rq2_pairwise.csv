@@ -1,0 +1,13 @@
+Outcome,Contrast,Rate ratio,SE,95% CI,z,p
+Dismissed openings (Week 6),CCC / ABC,0.906,0.059,"[0.798, 1.029]",-1.525,0.127
+Dismissed openings (Week 6),CCC / ACC,0.91,0.059,"[0.801, 1.033]",-1.454,0.146
+Dismissed openings (Week 6),CCC / BCC,0.997,0.067,"[0.874, 1.136]",-0.05,0.96
+Dismissed openings (Week 6),ABC / ACC,1.004,0.065,"[0.885, 1.139]",0.065,0.948
+Dismissed openings (Week 6),ABC / BCC,1.1,0.073,"[0.965, 1.254]",1.429,0.153
+Dismissed openings (Week 6),ACC / BCC,1.095,0.074,"[0.96, 1.25]",1.357,0.175
+Initial attempts (Week 6),CCC / ABC,0.981,0.088,"[0.822, 1.169]",-0.217,0.828
+Initial attempts (Week 6),CCC / ACC,1.205,0.107,"[1.012, 1.434]",2.095,0.036
+Initial attempts (Week 6),CCC / BCC,0.982,0.091,"[0.819, 1.177]",-0.201,0.841
+Initial attempts (Week 6),ABC / ACC,1.229,0.11,"[1.031, 1.465]",2.298,0.022
+Initial attempts (Week 6),ABC / BCC,1.001,0.093,"[0.834, 1.202]",0.01,0.992
+Initial attempts (Week 6),ACC / BCC,0.815,0.075,"[0.68, 0.976]",-2.218,0.027
