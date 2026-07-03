@@ -570,6 +570,66 @@ write_csv(df_pw_all, "../reports/manuscript/tableS3_rq2_pairwise.csv")
 
 ```
 
+## Table S4: Exploratory GLMM fixed effects — attempts and dismissed openings
+
+```{r table-s4}
+
+df_glmm_att <- read_csv("../reports/results_rq2_effectiveness/glmm_attempts_results.csv",
+                          show_col_types = FALSE) |>
+  mutate(Outcome = "App-opening attempts (NB GLMM)")
+
+df_glmm_dis <- read_csv("../reports/results_rq2_effectiveness/glmm_dismiss_results.csv",
+                          show_col_types = FALSE) |>
+  mutate(Outcome = "Dismissed openings (binomial GLMM)")
+
+df_glmm_all <- bind_rows(df_glmm_att, df_glmm_dis) |>
+  mutate(
+    Predictor = recode(Predictor,
+      "(Intercept)"              = "Intercept",
+      "delay_secs_c"             = "Delay (seconds, centred)",
+      "study_week_c"             = "Study week (centred)",
+      "delay_secs_c:study_week_c" = "Delay × Week"
+    )
+  ) |>
+  select(Outcome, Predictor, everything())
+
+ms_flextable(df_glmm_all) |>
+  set_caption(
+    paste("Table S4. Exploratory GLMM fixed effects for app-opening attempts",
+          "(negative binomial, IRRs) and dismissed openings (binomial, ORs).",
+          "Predictors are mean-centred. Reference: mean delay (7.5s), mean week (2.9).")
+  )
+
+write_csv(df_glmm_all, "../reports/manuscript/tableS4_glmm_fixed_effects.csv")
+
+```
+
+## Table S5: Exploratory GLMM per-week delay slopes — attempts and dismissed openings
+
+```{r table-s5}
+
+df_slopes_att <- read_csv("../reports/results_rq2_effectiveness/glmm_attempts_slopes.csv",
+                            show_col_types = FALSE) |>
+  mutate(Outcome = "App-opening attempts (IRR per second of delay)")
+
+df_slopes_dis <- read_csv("../reports/results_rq2_effectiveness/glmm_dismiss_slopes.csv",
+                            show_col_types = FALSE) |>
+  mutate(Outcome = "Dismissed openings (OR per second of delay)")
+
+df_slopes_all <- bind_rows(df_slopes_att, df_slopes_dis) |>
+  select(Outcome, `Study week`, everything())
+
+ms_flextable(df_slopes_all) |>
+  set_caption(
+    paste("Table S5. Exploratory GLMM: estimated effect of delay duration",
+          "(per additional second) on app-opening attempts and dismissed openings",
+          "at Weeks 1, 3, and 6, derived from the delay × week interaction.")
+  )
+
+write_csv(df_slopes_all, "../reports/manuscript/tableS5_glmm_slopes.csv")
+
+```
+
 ## Table S1: RQ3 satisfaction descriptives by condition
 
 ```{r table-s1}
