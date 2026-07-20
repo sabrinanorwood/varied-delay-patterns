@@ -1,0 +1,9 @@
+Outcome,Predictor,Rate Ratio,95% CI,p,OR
+App-opening attempts (NB GLMM),Intercept,31.45,"[28.75, 34.404]",< .001,NA
+App-opening attempts (NB GLMM),"Delay (seconds, centred)",1,"[0.988, 1.011]",0.962,NA
+App-opening attempts (NB GLMM),Study week (centred),0.863,"[0.847, 0.879]",< .001,NA
+App-opening attempts (NB GLMM),Delay × Week,1.014,"[1.008, 1.02]",< .001,NA
+Dismissed openings (binomial GLMM),Intercept,NA,"[0.298, 0.326]",< .001,0.312
+Dismissed openings (binomial GLMM),"Delay (seconds, centred)",NA,"[1.112, 1.123]",< .001,1.118
+Dismissed openings (binomial GLMM),Study week (centred),NA,"[0.821, 0.833]",< .001,0.827
+Dismissed openings (binomial GLMM),Delay × Week,NA,"[1.032, 1.037]",< .001,1.035

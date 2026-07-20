@@ -1,0 +1,7 @@
+Outcome,Study week,RR per sec of delay,95% CI,p,OR per sec of delay
+App-opening attempts (IRR per second of delay),1,0.974,"[0.964, 0.985]",< .001,NA
+App-opening attempts (IRR per second of delay),3,1,"[0.989, 1.01]",0.843,NA
+App-opening attempts (IRR per second of delay),6,1.04,"[1.02, 1.07]",0.002,NA
+Dismissed openings (OR per second of delay),1,NA,"[1.04, 1.05]",< .001,1.05
+Dismissed openings (OR per second of delay),3,NA,"[1.12, 1.13]",< .001,1.12
+Dismissed openings (OR per second of delay),6,NA,"[1.23, 1.26]",< .001,1.24
