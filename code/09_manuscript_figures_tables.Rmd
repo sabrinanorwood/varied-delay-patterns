@@ -167,41 +167,105 @@ write_csv(df_rq2_model, "../reports/manuscript/table3_rq2_model.csv")
 
 ```{r figure-1-flow}
 
-# NOTE: the pre-survey "started" count (4,483 in the manuscript draft) is not
-# computed anywhere in 01_processing_behavioral_data.Rmd or
-# 02_processing_surveys.Rmd. Confirm its source (raw Qualtrics export row
-# count) and set it explicitly here before using this figure -- do not
-# hardcode a number that hasn't been traced back to a script.
-n_presurvey_started   <- NA_integer_   # TODO: confirm and fill in
-n_presurvey_completed <- 2158
-n_behavioral          <- 1641
-n_excluded_no_activity <- n_presurvey_completed - n_behavioral
-n_completers_w1w6     <- 539
+# --- Numbers, computed from the processed data (per condition) ---
+# The pre-survey "started" count is the only number not derivable from the
+# processed pipeline: it is the number of rows that reached the Qualtrics
+# enrolment survey (survey starters, incl. non-finishers), taken from the raw
+# Qualtrics export. Set it here explicitly.
+n_initiated <- 4483
 
-flow_boxes <- tribble(
-  ~step, ~label,                                                ~n,   ~x, ~y,
-  1,     "Pre-survey started",                                  n_presurvey_started,   0, 5,
-  2,     "Completed pre-survey & randomised",                   n_presurvey_completed, 0, 4,
-  3,     "Excluded: no behavioural activity",                   n_excluded_no_activity, 1.6, 3.5,
-  4,     "Behavioural sample (RQ1 attrition analyses)",         n_behavioral,           0, 3,
-  5,     "Completers: active Week 1 and Week 6 (RQ2 efficacy)", n_completers_w1w6,      0, 2
-) |>
-  mutate(text = paste0(label, "\n(N = ", ifelse(is.na(n), "?", n), ")"))
+pre_flow    <- read_csv("../data/processed/data_processed_selfreport_pre.csv",
+                        show_col_types = FALSE)
+weekly_flow <- read_csv("../data/processed/data_processed_behavioral_data_weekly.csv",
+                        show_col_types = FALSE)
 
-p_flow <- ggplot(flow_boxes) +
-  geom_segment(data = filter(flow_boxes, step %in% c(1,2,4,5)),
-               aes(x = x, xend = x, y = y, yend = lead(y)),
-               linewidth = 0.5, colour = "grey40",
-               arrow = arrow(length = unit(0.15, "cm")), na.rm = TRUE) +
-  geom_label(aes(x = x, y = y, label = text), size = 3.2, label.size = 0.4,
-             hjust = 0.5) +
-  coord_cartesian(xlim = c(-1, 3), ylim = c(1.5, 5.5)) +
+behav_ids     <- unique(weekly_flow$participant_id)
+completer_ids <- intersect(
+  weekly_flow |> filter(study_week == 1, attempted > 0) |> pull(participant_id),
+  weekly_flow |> filter(study_week == 6, attempted > 0) |> pull(participant_id)
+)
+
+flow_n <- pre_flow |>
+  mutate(condition = factor(condition, levels = cond_order)) |>
+  group_by(condition) |>
+  summarise(
+    allocated    = n(),
+    analysed_rq1 = sum(participant_id %in% behav_ids),
+    analysed_rq2 = sum(participant_id %in% completer_ids),
+    .groups = "drop"
+  ) |>
+  arrange(condition) |>
+  mutate(
+    excl_noevent = allocated - analysed_rq1,
+    excl_notboth = analysed_rq1 - analysed_rq2
+  )
+
+n_randomised   <- sum(flow_n$allocated)
+n_not_complete <- n_initiated - n_randomised
+cx   <- c(2.6, 6.2, 9.8, 13.4)
+hw   <- 1.62; hh <- 0.66
+xmid <- mean(cx)
+fmtc <- function(x) format(x, big.mark = ",")
+
+# --- Box + arrow builders ---
+add_box <- function(b, label, x, y, hw = 1.62, hh = 0.66,
+                    fill = "white", border = "black", size = 2.7)
+  bind_rows(b, tibble(label, x, y, hw, hh, fill, border, size))
+seg <- function(x, y, xend, yend) tibble(x, y, xend, yend)
+
+boxes <- tibble()
+boxes <- add_box(boxes, sprintf("Initiated enrolment survey (N = %s)", fmtc(n_initiated)),
+                 xmid, 13.4, hw = 3.6)
+boxes <- add_box(boxes, sprintf("Did not complete\nenrolment survey\n(n = %s)", fmtc(n_not_complete)),
+                 13.4, 12.0, hw = 1.75, fill = "grey92", border = "grey45", size = 2.5)
+boxes <- add_box(boxes, sprintf("Completed enrolment and randomised (N = %s)", fmtc(n_randomised)),
+                 xmid, 10.7, hw = 3.6)
+for (i in seq_len(nrow(flow_n))) {
+  boxes <- add_box(boxes, sprintf("Allocated to %s\n(n = %d)", flow_n$condition[i], flow_n$allocated[i]),
+                   cx[i], 9.0)
+  boxes <- add_box(boxes, sprintf("Excluded: no intervention\nevents (n = %d)", flow_n$excl_noevent[i]),
+                   cx[i], 7.4, fill = "grey92", border = "grey45", size = 2.5)
+  boxes <- add_box(boxes, sprintf("Analysed: retention\n(RQ1; n = %d)", flow_n$analysed_rq1[i]),
+                   cx[i], 5.8)
+  boxes <- add_box(boxes, sprintf("Not active in both\nWeeks 1 & 6 (n = %d)", flow_n$excl_notboth[i]),
+                   cx[i], 4.2, fill = "grey92", border = "grey45", size = 2.5)
+  boxes <- add_box(boxes, sprintf("Analysed: efficacy\n(RQ2; n = %d)", flow_n$analysed_rq2[i]),
+                   cx[i], 2.6)
+}
+
+arrows <- bind_rows(
+  seg(xmid, 13.4 - hh, xmid, 10.7 + hh),
+  seg(xmid, 12.0, 13.4 - 1.75, 12.0),
+  seg(xmid, 10.7 - hh, xmid, 9.8),
+  seg(cx[1], 9.8, cx[length(cx)], 9.8),
+  do.call(bind_rows, lapply(cx, function(x) seg(x, 9.8, x, 9.0 + hh))),
+  do.call(bind_rows, lapply(cx, function(x) seg(x, 9.0 - hh, x, 7.4 + hh))),
+  do.call(bind_rows, lapply(cx, function(x) seg(x, 7.4 - hh, x, 5.8 + hh))),
+  do.call(bind_rows, lapply(cx, function(x) seg(x, 5.8 - hh, x, 4.2 + hh))),
+  do.call(bind_rows, lapply(cx, function(x) seg(x, 4.2 - hh, x, 2.6 + hh)))
+)
+
+stages <- tibble(label = c("Enrollment", "Allocation", "Analysis"),
+                 x = -0.2, y = c(12.05, 9.0, 4.2))
+
+p_flow <- ggplot() +
+  geom_segment(data = arrows, aes(x, y, xend = xend, yend = yend),
+               arrow = arrow(length = unit(0.11, "cm"), type = "closed"),
+               linewidth = 0.4, colour = "grey35", lineend = "round") +
+  geom_rect(data = boxes,
+            aes(xmin = x - hw, xmax = x + hw, ymin = y - hh, ymax = y + hh,
+                fill = fill, colour = border), linewidth = 0.4) +
+  geom_text(data = boxes, aes(x, y, label = label, size = size), lineheight = 0.9) +
+  geom_text(data = stages, aes(x, y, label = label), angle = 90,
+            fontface = "bold", size = 3.1, colour = "grey35") +
+  scale_fill_identity() + scale_colour_identity() + scale_size_identity() +
+  coord_cartesian(xlim = c(-0.6, 15.2), ylim = c(1.8, 14.2)) +
   theme_void()
 
 p_flow
 
 ggsave("../reports/manuscript/figure1_participant_flow.png",
-       p_flow, width = 6, height = 6, dpi = 300)
+       p_flow, width = 9.5, height = 10.5, dpi = 300)
 
 ```
 
@@ -374,7 +438,7 @@ p3a <- ggplot(df_emm_dis,
   labs(
     x     = "Condition",
     y     = "Estimated dismissal rate at Week 6, %\n(adjusted for Week 1 behaviour)",
-    title = "(A) Dismissed openings"
+    title = "(B) Dismissed openings"
   ) +
   theme_ms()
 
@@ -392,11 +456,11 @@ p3b <- ggplot(df_emm_att,
   labs(
     x     = "Condition",
     y     = "Estimated attempts at Week 6\n(adjusted for Week 1 behaviour)",
-    title = "(B) Initial attempts"
+    title = "(A) Initial attempts"
   ) +
   theme_ms() 
 
-fig3 <- p3a + p3b
+fig3 <- p3b + p3a
 
 fig3
 
@@ -525,7 +589,7 @@ p4b <- ggplot(plot_data_dis_obs,
   scale_fill_manual(values = delay_pal) +
   labs(
     x      = NULL,
-    y      = "Predicted dismissal probability",
+    y      = "Predicted dismissal rate",
     title  = "(B) Dismissed openings"
   ) +
   theme_ms()
