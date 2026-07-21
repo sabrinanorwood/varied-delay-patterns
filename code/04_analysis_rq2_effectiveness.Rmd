@@ -131,7 +131,11 @@ write_csv(pairwise_rq2_1, "../reports/results_rq2_effectiveness/pairwise_rq2_1.c
 
 condition_order <- c("ABC", "ACC", "BCC", "CCC")
 
-em_pred_rq2_1 <- emmeans(model_rq2_1, ~ condition, type = "response") |>
+# offset = 0 sets attempted openings to 1, so `response` is the model-estimated
+# dismissal rate PER attempt (a proportion), not an expected count. With the
+# default offset, emmeans returns the expected count of dismissals at the mean
+# attempt volume (~86), which is not a per-attempt rate. Expressed below as %.
+em_pred_rq2_1 <- emmeans(model_rq2_1, ~ condition, type = "response", offset = 0) |>
   summary(infer = TRUE) |>
   as_tibble() |>
   mutate(condition = factor(condition, levels = condition_order)) |>
@@ -139,10 +143,11 @@ em_pred_rq2_1 <- emmeans(model_rq2_1, ~ condition, type = "response") |>
 
 em_pred_rq2_1_table <- em_pred_rq2_1 |>
   mutate(
-    `95% CI` = paste0("[", signif(asymp.LCL, 3), ", ", signif(asymp.UCL, 3), "]"),
-    across(where(is.numeric), ~ round(.x, 3))
+    `95% CI` = paste0("[", signif(asymp.LCL * 100, 3), ", ", signif(asymp.UCL * 100, 3), "]"),
+    `Dismissal rate (%)` = round(response * 100, 1),
+    SE = round(SE * 100, 2)
   ) |>
-  dplyr::select(Condition = condition, `Dismissals per attempt` = response, SE, `95% CI`)
+  dplyr::select(Condition = condition, `Dismissal rate (%)`, SE, `95% CI`)
 
 em_pred_rq2_1_table |> kable() |> kable_classic()
 
@@ -153,10 +158,11 @@ write_csv(em_pred_rq2_1_table, "../reports/results_rq2_effectiveness/emmeans_rq2
 ```{r}
 
 p_em_rq2_1 <- ggplot(em_pred_rq2_1,
-                     aes(x = condition, y = response, ymin = asymp.LCL, ymax = asymp.UCL)) +
+                     aes(x = condition, y = response * 100,
+                         ymin = asymp.LCL * 100, ymax = asymp.UCL * 100)) +
   geom_point(size = 3) +
   geom_errorbar(width = 0.2) +
-  labs(x = "Condition", y = "Predicted dismissals per attempt",
+  labs(x = "Condition", y = "Estimated dismissal rate (%)",
        title = "RQ2.1: Estimated marginal means — dismissal rate by condition") +
   theme_linedraw()
 
@@ -431,13 +437,13 @@ write_rds(m_dismiss,
           "../reports/results_rq2_effectiveness/glmm_dismiss.rds")
 
 # Dose slope by week (emtrends), reported on the original week scale.
-# emtrends is evaluated at centred week values corresponding to weeks 1, 3,
-# 6 on the original scale; the displayed `Study week` column adds the mean
-# back so the table is interpretable.
+# emtrends is evaluated at centred week values corresponding to each study
+# week (1 through 6); the displayed `Study week` column adds the mean back so
+# the table is interpretable.
 em_slopes_dismiss <- emtrends(
   m_dismiss, ~ study_week_c,
   var = "delay_secs_c",
-  at  = list(study_week_c = c(1, 3, 6) - week_mean)
+  at  = list(study_week_c = (1:6) - week_mean)
 ) |>
   summary(infer = TRUE) |>
   as_tibble() |>
@@ -676,13 +682,13 @@ write_rds(m_attempts,
           "../reports/results_rq2_effectiveness/glmm_attempts.rds")
 
 # Dose slope by week (emtrends), reported on the original week scale.
-# emtrends is evaluated at centred week values corresponding to weeks 1, 3,
-# 6 on the original scale; the displayed `Study week` column adds the mean
-# back so the table is interpretable.
+# emtrends is evaluated at centred week values corresponding to each study
+# week (1 through 6); the displayed `Study week` column adds the mean back so
+# the table is interpretable.
 em_slopes_attempts <- emtrends(
   m_attempts, ~ study_week_c,
   var = "delay_secs_c",
-  at  = list(study_week_c = c(1, 3, 6) - week_mean)
+  at  = list(study_week_c = (1:6) - week_mean)
 ) |>
   summary(infer = TRUE) |>
   as_tibble() |>

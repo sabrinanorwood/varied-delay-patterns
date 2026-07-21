@@ -181,7 +181,7 @@ n_completers_w1w6     <- 539
 flow_boxes <- tribble(
   ~step, ~label,                                                ~n,   ~x, ~y,
   1,     "Pre-survey started",                                  n_presurvey_started,   0, 5,
-  2,     "Pre-survey completed",                                n_presurvey_completed, 0, 4,
+  2,     "Completed pre-survey & randomised",                   n_presurvey_completed, 0, 4,
   3,     "Excluded: no behavioural activity",                   n_excluded_no_activity, 1.6, 3.5,
   4,     "Behavioural sample (RQ1 attrition analyses)",         n_behavioral,           0, 3,
   5,     "Completers: active Week 1 and Week 6 (RQ2 efficacy)", n_completers_w1w6,      0, 2
@@ -207,7 +207,10 @@ ggsave("../reports/manuscript/figure1_participant_flow.png",
 
 ## Figure 2: Attrition by week
 
-Weekly proportion of participants dropping out (last active week), by condition.
+Weekly proportion of at-risk participants dropping out (first week with no
+recorded activity), by condition. Percentages are relative to participants still
+active the previous week; Week 1 is empty by construction, because retention
+requires later activity. Error bars are Wilson 95% CIs.
 
 ```{r figure-1-attrition-week}
 
@@ -233,37 +236,54 @@ df_weekly <- df_weekly_raw |>
   arrange(condition, last_week) |>
   group_by(condition) |>
   mutate(
-    # at-risk this week = total N minus everyone who dropped out in prior weeks
-    n_at_risk   = n_total - lag(cumsum(n_dropout), default = 0),
-    pct_dropout = n_dropout / n_at_risk * 100,
-    condition   = factor(condition, levels = cond_order)
+    # at-risk at the start of this dropout week = total N minus everyone who
+    # already dropped out in earlier weeks
+    n_at_risk    = n_total - lag(cumsum(n_dropout), default = 0),
+    pct_dropout  = n_dropout / n_at_risk * 100,
+    # dropout is recorded in the first week with no activity (last active + 1);
+    # nobody can drop out in Week 1, so the series runs Weeks 2-6
+    dropout_week = last_week + 1L,
+    condition    = factor(condition, levels = cond_order)
   ) |>
-  ungroup()
+  ungroup() |>
+  # Wilson 95% CI for each weekly dropout proportion
+  mutate(
+    .z    = qnorm(0.975),
+    .phat = n_dropout / n_at_risk,
+    .ctr  = (.phat + .z^2 / (2 * n_at_risk)) / (1 + .z^2 / n_at_risk),
+    .hw   = .z * sqrt(.phat * (1 - .phat) / n_at_risk +
+                      .z^2 / (4 * n_at_risk^2)) / (1 + .z^2 / n_at_risk),
+    ci_lo = pmax(0,   (.ctr - .hw) * 100),
+    ci_hi = pmin(100, (.ctr + .hw) * 100)
+  )
 
 wes_pal <- wes_palette("FantasticFox1", n = length(cond_order))
+dodge   <- position_dodge(width = 0.3)
 
 p_fig1 <- ggplot(df_weekly,
-                 aes(x = last_week, y = pct_dropout,
+                 aes(x = dropout_week, y = pct_dropout,
                      colour = condition, group = condition)) +
-  # Transition at start of Week 3: ABC, ACC, BCC change delay
+  # Delay change at start of Week 3: ABC, ACC, BCC
   geom_vline(xintercept = 2.5, linetype = "dashed", colour = "grey50", linewidth = 0.6) +
-  # Transition at start of Week 5: ABC only (6s → 10s)
+  # Delay change at start of Week 5: ABC only (6s → 10s)
   geom_vline(xintercept = 4.5, linetype = "dotted", colour = "grey50", linewidth = 0.6) +
-  annotate("text", x = 2.55, y = 29, label = "ABC/ACC/BCC\ntransition",
+  annotate("text", x = 2.55, y = 42, label = "ABC/ACC/BCC\ntransition",
            hjust = 0, vjust = 1, size = 2.8, colour = "grey40") +
-  annotate("text", x = 4.55, y = 29, label = "ABC\ntransition",
+  annotate("text", x = 4.55, y = 42, label = "ABC\ntransition",
            hjust = 0, vjust = 1, size = 2.8, colour = "grey40") +
   geom_line(linewidth = 1) +
-  geom_point(size = 2.5) +
-  scale_x_continuous(breaks = 1:5,
-                     labels = paste("Week", 1:5)) +
+  geom_errorbar(aes(ymin = ci_lo, ymax = ci_hi), width = 0.2,
+                linewidth = 0.5, alpha = 0.7, position = dodge) +
+  geom_point(size = 2.5, position = dodge) +
+  scale_x_continuous(breaks = 1:6, labels = paste("Week", 1:6),
+                     limits = c(0.5, 6.5)) +
   scale_y_continuous(labels = scales::percent_format(scale = 1, accuracy = 1),
-                     limits = c(0, 40),
+                     limits = c(0, 45),
                      breaks = seq(0, 40, by = 10)) +
   scale_colour_manual(values = fox_subset) +
   labs(
     x      = "Study week",
-    y      = "Participants dropping out (%)",
+    y      = "At-risk participants dropping out (%)",
     colour = "Condition"
   ) +
   theme_ms()
@@ -293,6 +313,39 @@ week_mean  <- mean(weekly_raw$study_week)
 m_attempts <- read_rds("../reports/results_rq2_effectiveness/glmm_attempts.rds")
 m_dismiss  <- read_rds("../reports/results_rq2_effectiveness/glmm_dismiss.rds")
 
+# Population-averaged predictions for Figure 4 via g-computation (average
+# adjusted predictions): for each delay x week cell we evaluate the fitted
+# response for every participant using their own estimated random intercept and
+# average over participants. Unlike integrating over an assumed Normal random-
+# effect distribution, this does not rely on RE normality (which is violated
+# here: the RE distribution is right-skewed, so a Normal integral would badly
+# overshoot the observed scale) and reproduces the observed data scale.
+# 95% CIs propagate fixed-effect uncertainty by parametric simulation from the
+# coefficient covariance matrix (random effects held at their fitted values,
+# matching a re.form = NULL average-prediction).
+set.seed(20260721)
+gcomp_predict <- function(beta, Vb, re, invlink, delays, weeks, nsim = 2000){
+  cn   <- names(beta)
+  xvec <- function(d, w){
+    dc <- d - delay_mean; wc <- w - week_mean
+    v <- c("(Intercept)" = 1, "delay_secs_c" = dc, "study_week_c" = wc,
+           "delay_secs_c:study_week_c" = dc * wc)
+    v[cn]
+  }
+  B   <- MASS::mvrnorm(nsim, mu = beta, Sigma = Vb)
+  out <- tidyr::expand_grid(delay = delays, week = weeks)
+  out$est <- NA_real_; out$lo <- NA_real_; out$hi <- NA_real_
+  for (i in seq_len(nrow(out))){
+    xv <- xvec(out$delay[i], out$week[i])
+    out$est[i] <- mean(invlink(sum(beta * xv) + re))
+    sim <- vapply(as.numeric(B %*% xv),
+                  function(e) mean(invlink(e + re)), numeric(1))
+    out$lo[i] <- stats::quantile(sim, 0.025)
+    out$hi[i] <- stats::quantile(sim, 0.975)
+  }
+  out
+}
+
 ```
 
 ## Figure 3: RQ2 estimated means at Week 6 (preregistered)
@@ -312,7 +365,7 @@ df_emm_dis <- read_csv("../reports/results_rq2_effectiveness/emmeans_rq2_1.csv",
 
 p3a <- ggplot(df_emm_dis,
               aes(x = condition,
-                  y = `Dismissals per attempt`,
+                  y = `Dismissal rate (%)`,
                   ymin = lo, ymax = hi,
                   colour = condition)) +
   geom_point(size = 3) +
@@ -320,7 +373,7 @@ p3a <- ggplot(df_emm_dis,
   scale_colour_manual(values = fox_subset) +
   labs(
     x     = "Condition",
-    y     = "Estimated dismissal rate at Week 6\n(adjusted for Week 1 behaviour)",
+    y     = "Estimated dismissal rate at Week 6, %\n(adjusted for Week 1 behaviour)",
     title = "(A) Dismissed openings"
   ) +
   theme_ms()
@@ -354,32 +407,34 @@ ggsave("../reports/manuscript/figure3_rq2_week6_emmeans.png",
 
 ## Figure 4: Exploratory dose-response trajectories
 
-Panel A: predicted attempt count by delay length and study week (exploratory
-negative binomial GLMM; observed cells only). Panel B: predicted dismissal
-probability by delay length and study week (exploratory binomial GLMM;
-observed cells only). Not preregistered.
+Panels A and B show population-averaged predictions (average adjusted
+predictions / g-computation over the participant random-effect distribution),
+so the level is on the observed data scale rather than the subject-specific
+(random effect = 0) scale. Panel A: predicted attempt count by delay length and
+study week (exploratory negative binomial GLMM; observed cells only). Panel B:
+predicted dismissal probability by delay length and study week (exploratory
+binomial GLMM; observed cells only). Panel C: number of participants still active each week,
+grouped by condition and coloured by the delay each condition was under that
+week. Shaded bands mark the weeks where all three delays were observed
+(Weeks 1-2) versus where all conditions had converged on 10 s, leaving no delay
+variation (Weeks 5-6). Not preregistered.
 
 ```{r figure-4-panel-a}
 
-plot_data_att <- emmeans(
-  m_attempts, ~ delay_secs_c * study_week_c,
-  at   = list(
-    delay_secs_c = c(3, 6, 10) - delay_mean,
-    study_week_c = (1:6) - week_mean
-  ),
-  type = "response",
-  data = weekly_raw |>
-    mutate(
-      delay_secs_c = delay_secs - delay_mean,
-      study_week_c = study_week - week_mean
-    )
+plot_data_att <- gcomp_predict(
+  beta    = glmmTMB::fixef(m_attempts)$cond,
+  Vb      = as.matrix(vcov(m_attempts)$cond),
+  re      = glmmTMB::ranef(m_attempts)$cond$participant_id[[1]],
+  invlink = exp,
+  delays  = c(3, 6, 10), weeks = 1:6
 ) |>
-  summary(infer = TRUE) |>
-  as_tibble() |>
-  mutate(
-    delay_secs  = round(delay_secs_c + delay_mean),
-    study_week  = round(study_week_c + week_mean),
-    `Delay (s)` = factor(delay_secs)
+  transmute(
+    study_week  = week,
+    delay_secs  = delay,
+    `Delay (s)` = factor(delay_secs),
+    response    = est,
+    asymp.LCL   = lo,
+    asymp.UCL   = hi
   )
 
 observed_cells_att <- weekly_raw |>
@@ -388,22 +443,36 @@ observed_cells_att <- weekly_raw |>
 plot_data_att_obs <- plot_data_att |>
   semi_join(observed_cells_att, by = c("delay_secs", "study_week"))
 
+# Shaded bands: Weeks 1-2 (all three delays present) and Weeks 5-6 (all
+# conditions at 10 s, no delay variation). Reused across all three panels.
+# Only Panel C draws the "Delay (s)" legend; the trajectory layers set
+# show.legend = FALSE so patchwork collects a single legend.
+dose_bands <- list(
+  annotate("rect", xmin = 0.5, xmax = 2.5, ymin = -Inf, ymax = Inf,
+           fill = "grey70", alpha = 0.18),
+  annotate("rect", xmin = 4.5, xmax = 6.5, ymin = -Inf, ymax = Inf,
+           fill = "grey70", alpha = 0.18)
+)
+
 p4a <- ggplot(plot_data_att_obs,
               aes(study_week, response,
                   colour = `Delay (s)`, fill = `Delay (s)`,
                   group  = `Delay (s)`)) +
+  dose_bands +
   geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
-              alpha = 0.15, colour = NA) +
-  geom_line(linewidth = 1) +
-  geom_point(size = 2) +
-  scale_x_continuous(breaks = 1:6) +
+              alpha = 0.15, colour = NA, show.legend = FALSE) +
+  geom_line(linewidth = 1, show.legend = FALSE) +
+  geom_point(size = 2, show.legend = FALSE) +
+  annotate("text", x = 1.5, y = Inf, label = "All three delays observed",
+           vjust = 1.6, size = 2.8, colour = "grey30") +
+  annotate("text", x = 5.5, y = Inf, label = "No delay variation",
+           vjust = 1.6, size = 2.8, colour = "grey30") +
+  scale_x_continuous(breaks = 1:6, limits = c(0.5, 6.5)) +
   scale_colour_manual(values = delay_pal) +
   scale_fill_manual(values = delay_pal) +
   labs(
-    x      = "Study week",
+    x      = NULL,
     y      = "Predicted weekly attempts",
-    colour = "Delay (s)",
-    fill   = "Delay (s)",
     title  = "(A) Attempts"
   ) +
   theme_ms()
@@ -419,21 +488,20 @@ weekly_dismiss_c <- weekly_raw |>
     study_week_c = study_week - week_mean
   )
 
-plot_data_dis <- emmeans(
-  m_dismiss, ~ delay_secs_c * study_week_c,
-  at   = list(
-    delay_secs_c = c(3, 6, 10) - delay_mean,
-    study_week_c = (1:6) - week_mean
-  ),
-  type = "response",
-  data = weekly_dismiss_c
+plot_data_dis <- gcomp_predict(
+  beta    = lme4::fixef(m_dismiss),
+  Vb      = as.matrix(vcov(m_dismiss)),
+  re      = lme4::ranef(m_dismiss)$participant_id[[1]],
+  invlink = plogis,
+  delays  = c(3, 6, 10), weeks = 1:6
 ) |>
-  summary(infer = TRUE) |>
-  as_tibble() |>
-  mutate(
-    delay_secs  = round(delay_secs_c + delay_mean),
-    study_week  = round(study_week_c + week_mean),
-    `Delay (s)` = factor(delay_secs)
+  transmute(
+    study_week  = week,
+    delay_secs  = delay,
+    `Delay (s)` = factor(delay_secs),
+    prob        = est,
+    asymp.LCL   = lo,
+    asymp.UCL   = hi
   )
 
 observed_cells_dis <- weekly_dismiss_c |>
@@ -446,33 +514,64 @@ p4b <- ggplot(plot_data_dis_obs,
               aes(study_week, prob,
                   colour = `Delay (s)`, fill = `Delay (s)`,
                   group  = `Delay (s)`)) +
+  dose_bands +
   geom_ribbon(aes(ymin = asymp.LCL, ymax = asymp.UCL),
-              alpha = 0.15, colour = NA) +
-  geom_line(linewidth = 1) +
-  geom_point(size = 2) +
-  scale_x_continuous(breaks = 1:6) +
+              alpha = 0.15, colour = NA, show.legend = FALSE) +
+  geom_line(linewidth = 1, show.legend = FALSE) +
+  geom_point(size = 2, show.legend = FALSE) +
+  scale_x_continuous(breaks = 1:6, limits = c(0.5, 6.5)) +
   scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
   scale_colour_manual(values = delay_pal) +
   scale_fill_manual(values = delay_pal) +
   labs(
-    x      = "Study week",
+    x      = NULL,
     y      = "Predicted dismissal probability",
-    colour = "Delay (s)",
-    fill   = "Delay (s)",
     title  = "(B) Dismissed openings"
   ) +
   theme_ms()
 
 ```
 
-```{r figure-4-combine}
+```{r figure-4-panel-c}
 
-fig4 <- p4a + p4b
+# Active participants per condition per week, with the delay each condition was
+# under that week (drives the fill colour, shared with Panels A and B).
+n_active_wk <- weekly_raw |>
+  group_by(condition, study_week) |>
+  summarise(n_active   = n_distinct(participant_id),
+            delay_secs = first(delay_secs), .groups = "drop") |>
+  mutate(
+    `Delay (s)` = factor(delay_secs, levels = c(3, 6, 10)),
+    condition   = factor(condition, levels = cond_order)
+  )
+
+p4c <- ggplot(n_active_wk,
+              aes(study_week, n_active, fill = `Delay (s)`, group = condition)) +
+  dose_bands +
+  geom_col(position = position_dodge(width = 0.85), width = 0.8,
+           colour = "white", linewidth = 0.2) +
+  geom_text(aes(y = 8, label = condition),
+            position = position_dodge(width = 0.85),
+            angle = 90, hjust = 0, size = 2.3, colour = "white") +
+  scale_x_continuous(breaks = 1:6, limits = c(0.5, 6.5)) +
+  scale_fill_manual(values = delay_pal) +
+  labs(
+    x     = "Study week",
+    y     = "Active participants",
+    title = "(C) Active participants by condition"
+  ) +
+  theme_ms()
+
+```
+
+```{r figure-4-combine, fig.width=8, fig.height=10.5}
+
+fig4 <- p4a / p4b / p4c + plot_layout(guides = "collect")
 
 fig4
 
 ggsave("../reports/manuscript/figure4_dose_response.png",
-       fig4, width = 10, height = 4.5, dpi = 300)
+       fig4, width = 8, height = 10.5, dpi = 300)
 
 ```
 
