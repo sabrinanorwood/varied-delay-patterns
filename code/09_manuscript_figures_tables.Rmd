@@ -845,47 +845,64 @@ write_csv(df_sat, "../reports/manuscript/tableS1_rq3_satisfaction.csv")
 ## Table S2: RQ5 delay preferences
 
 Descriptive summary across all post-survey respondents (irrespective of assigned
-condition, per the preregistration). NOTE: pattern option labels (Option 1/2/3)
-come from the survey instrument; confirm which escalating schedule each option
-depicted before finalising the labels.
+condition, per the preregistration). The three escalating options shown in the
+survey correspond to the study schedules: Option 1 = 3 → 6 → 10 s (ABC),
+Option 2 = 3 → 10 → 10 s (ACC), Option 3 = 6 → 10 → 10 s (BCC).
 
 ```{r table-s2}
 
-n_post <- nrow(df_post)
-pct <- function(k, d = n_post) sprintf("%d (%.1f%%)", k, 100 * k / d)
+# Retention status (active in Week 6) lets us show the preference split that
+# addresses the survivorship concern: respondents include both dropouts and
+# retained participants, whose preferences are near-identical.
+retained_ids <- weekly_raw |>
+  filter(study_week == 6, attempted > 0) |>
+  distinct(participant_id) |> pull()
+df_post <- df_post |>
+  mutate(.status = if_else(participant_id %in% retained_ids, "Retained", "Dropped out"))
 
-# (a) prefer to set own delay; (b) prefer increasing delay; (c) which pattern
-q_own  <- count(df_post, prefer_own_delay)
-q_inc  <- count(df_post, prefer_increasing)
-n_inc  <- sum(df_post$prefer_increasing == "Yes", na.rm = TRUE)
-med_own <- median(suppressWarnings(as.numeric(
-  df_post$pref_delay_secs[df_post$prefer_own_delay == "Yes"])), na.rm = TRUE)
+pattern_order  <- c("Option 1 (3 → 6 → 10 s)", "Option 2 (3 → 10 → 10 s)",
+                    "Option 3 (6 → 10 → 10 s)", "Other")
+pattern_labels <- setNames(pattern_order, c("Option 1", "Option 2", "Option 3", "Other"))
 
-pat <- df_post |>
-  filter(prefer_increasing == "Yes", !is.na(pref_pattern)) |>
-  count(pref_pattern) |> arrange(desc(n))
+# One column of n (%) strings (own-delay, increasing, pattern) for a subgroup
+pref_col <- function(d) {
+  np    <- function(k, dn) sprintf("%d (%.1f%%)", k, if (dn > 0) 100 * k / dn else 0)
+  n_all <- nrow(d)
+  n_inc <- sum(d$prefer_increasing == "Yes", na.rm = TRUE)
+  med   <- median(suppressWarnings(as.numeric(
+             d$pref_delay_secs[d$prefer_own_delay == "Yes"])), na.rm = TRUE)
+  patk  <- function(opt) sum(d$prefer_increasing == "Yes" &
+             unname(pattern_labels[as.character(d$pref_pattern)]) == opt, na.rm = TRUE)
+  c(np(sum(d$prefer_own_delay == "Yes", na.rm = TRUE), n_all),
+    np(sum(d$prefer_own_delay == "No",  na.rm = TRUE), n_all),
+    sprintf("%g s", med),
+    np(n_inc, n_all),
+    np(sum(d$prefer_increasing == "No", na.rm = TRUE), n_all),
+    np(patk(pattern_order[1]), n_inc), np(patk(pattern_order[2]), n_inc),
+    np(patk(pattern_order[3]), n_inc), np(patk(pattern_order[4]), n_inc))
+}
 
-df_pref <- bind_rows(
-  tibble(Question = "Would set own delay duration",
-         Response = c("Yes", "No"),
-         `n (%)`  = c(pct(sum(df_post$prefer_own_delay == "Yes", na.rm = TRUE)),
-                      pct(sum(df_post$prefer_own_delay == "No",  na.rm = TRUE)))),
-  tibble(Question = sprintf("Preferred own duration (median s; among %d 'Yes')",
-                            sum(df_post$prefer_own_delay == "Yes", na.rm = TRUE)),
-         Response = "—", `n (%)` = sprintf("%g s", med_own)),
-  tibble(Question = "Would prefer increasing delay",
-         Response = c("Yes", "No"),
-         `n (%)`  = c(pct(n_inc),
-                      pct(sum(df_post$prefer_increasing == "No", na.rm = TRUE)))),
-  tibble(Question = sprintf("Preferred escalating pattern (among %d 'Yes')", n_inc),
-         Response = pat$pref_pattern,
-         `n (%)`  = pct(pat$n, n_inc))
+n_ret  <- sum(df_post$.status == "Retained")
+n_drop <- sum(df_post$.status == "Dropped out")
+
+df_pref <- tibble(
+  Question = c("Would set own delay duration", "", "Preferred own duration (median)",
+               "Would prefer increasing delay", "", "Preferred escalating pattern", "", "", ""),
+  Response = c("Yes", "No", "—", "Yes", "No", pattern_order),
+  overall  = pref_col(df_post),
+  retained = pref_col(filter(df_post, .status == "Retained")),
+  dropped  = pref_col(filter(df_post, .status == "Dropped out"))
 )
+names(df_pref)[3:5] <- c(sprintf("Overall (n = %d)", nrow(df_post)),
+                         sprintf("Retained (n = %d)", n_ret),
+                         sprintf("Dropped out (n = %d)", n_drop))
 
 ms_flextable(df_pref) |>
   set_caption(
-    paste0("Table S2. RQ5: Delay preferences among post-survey respondents (n = ",
-           n_post, ").")
+    paste("Table S2. RQ5: Delay preferences among post-survey respondents (n = 199),",
+          "overall and split by whether the respondent was retained (active in Week 6)",
+          "or had dropped out. Pattern percentages are of those preferring an increasing",
+          "delay within each column.")
   )
 
 write_csv(df_pref, "../reports/manuscript/tableS2_rq5_preferred_pattern.csv")
