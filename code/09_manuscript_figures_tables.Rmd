@@ -477,9 +477,9 @@ so the level is on the observed data scale rather than the subject-specific
 (random effect = 0) scale. Panel A: predicted attempt count by delay length and
 study week (exploratory negative binomial GLMM; observed cells only). Panel B:
 predicted dismissal probability by delay length and study week (exploratory
-binomial GLMM; observed cells only). Panel C: number of participants still active each week,
-grouped by condition and coloured by the delay each condition was under that
-week. Shaded bands mark the weeks where all three delays were observed
+binomial GLMM; observed cells only). Panel C: number of participants still active
+each week, stacked by the delay in force that week (conditions sharing a delay
+are summed). Shaded bands mark the weeks where all three delays were observed
 (Weeks 1-2) versus where all conditions had converged on 10 s, leaving no delay
 variation (Weeks 5-6). Not preregistered.
 
@@ -598,44 +598,37 @@ p4b <- ggplot(plot_data_dis_obs,
 
 ```{r figure-4-panel-c}
 
-# Active participants per condition per week, with the delay each condition was
-# under that week (drives the fill colour, shared with Panels A and B).
+# Active participants per week, aggregated by the delay in force that week
+# (conditions sharing a delay are summed). Stacked so each week is a single bar
+# whose height is the active sample and whose segments are the delays present.
 n_active_wk <- weekly_raw |>
-  group_by(condition, study_week) |>
-  summarise(n_active   = n_distinct(participant_id),
-            delay_secs = first(delay_secs), .groups = "drop") |>
-  mutate(
-    `Delay (s)` = factor(delay_secs, levels = c(3, 6, 10)),
-    condition   = factor(condition, levels = cond_order)
-  )
+  group_by(study_week, delay_secs) |>
+  summarise(n_active = n_distinct(participant_id), .groups = "drop") |>
+  mutate(`Delay (s)` = factor(delay_secs, levels = c(3, 6, 10)))
 
 p4c <- ggplot(n_active_wk,
-              aes(study_week, n_active, fill = `Delay (s)`, group = condition)) +
+              aes(study_week, n_active, fill = `Delay (s)`)) +
   dose_bands +
-  geom_col(position = position_dodge(width = 0.85), width = 0.8,
-           colour = "white", linewidth = 0.2) +
-  geom_text(aes(y = 8, label = condition),
-            position = position_dodge(width = 0.85),
-            angle = 90, hjust = 0, size = 2.3, colour = "white") +
+  geom_col(width = 0.8, colour = "white", linewidth = 0.2) +
   scale_x_continuous(breaks = 1:6, limits = c(0.5, 6.5)) +
   scale_fill_manual(values = delay_pal) +
   labs(
     x     = "Study week",
     y     = "Active participants",
-    title = "(C) Active participants by condition"
+    title = "(C) Active participants by delay"
   ) +
   theme_ms()
 
 ```
 
-```{r figure-4-combine, fig.width=8, fig.height=10.5}
+```{r figure-4-combine, fig.width=8, fig.height=9}
 
-fig4 <- p4a / p4b / p4c + plot_layout(guides = "collect")
+fig4 <- p4a / p4b / p4c + plot_layout(guides = "collect", heights = c(1, 1, 0.7))
 
 fig4
 
 ggsave("../reports/manuscript/figure4_dose_response.png",
-       fig4, width = 8, height = 10.5, dpi = 300)
+       fig4, width = 8, height = 9, dpi = 300)
 
 ```
 
