@@ -810,64 +810,82 @@ satisfaction_items <- c(
   satisfied_progr  = "Satisfied with progress"
 )
 
-df_sat_raw <- map_dfr(names(satisfaction_items), function(item) {
-  df_post |>
-    group_by(condition) |>
-    summarise(
-      item = item,
-      n    = sum(!is.na(.data[[item]])),
-      mean = round(mean(.data[[item]], na.rm = TRUE), 2),
-      sd   = round(sd(.data[[item]],   na.rm = TRUE), 2),
-      .groups = "drop"
-    )
-}) |>
-  mutate(Item = satisfaction_items[item])
+# Preregistered RQ3 analysis: for each item, a linear regression of the rating
+# on condition (CCC reference); the omnibus F-test p indexes whether ratings
+# differ by condition. Also report the overall and by-condition mean (SD).
+msd <- function(x) sprintf("%.2f (%.2f)", mean(x, na.rm = TRUE), sd(x, na.rm = TRUE))
 
-df_sat <- df_sat_raw |>
-  mutate(`M (SD)` = paste0(mean, " (", sd, ")")) |>
-  select(Item, Condition = condition, n, `M (SD)`) |>
-  pivot_wider(names_from = Condition, values_from = c(n, `M (SD)`),
-              names_glue = "{Condition}_{.value}") |>
-  select(Item,
-         starts_with("ABC"), starts_with("ACC"),
-         starts_with("BCC"), starts_with("CCC"))
-
-names(df_sat) <- names(df_sat) |>
-  str_replace("_n$", " n") |>
-  str_replace("_M \\(SD\\)$", " M (SD)")
+df_sat <- map_dfr(names(satisfaction_items), function(item) {
+  d   <- df_post |> mutate(condition = relevel(factor(condition), ref = "CCC"))
+  fit <- lm(reformulate("condition", item), data = d)
+  fst <- summary(fit)$fstatistic
+  p   <- pf(fst[1], fst[2], fst[3], lower.tail = FALSE)
+  by  <- d |> group_by(condition) |> summarise(v = msd(.data[[item]]), .groups = "drop") |>
+    deframe()
+  tibble(
+    Item            = satisfaction_items[item],
+    `Overall M (SD)`= msd(df_post[[item]]),
+    n               = sum(!is.na(df_post[[item]])),
+    ABC = by[["ABC"]], ACC = by[["ACC"]], BCC = by[["BCC"]], CCC = by[["CCC"]],
+    `Condition p`   = ifelse(p < .001, "< .001", sprintf("%.3f", p))
+  )
+})
 
 ms_flextable(df_sat) |>
   set_caption(
-    "Table S1. RQ3: Satisfaction descriptives (means and SDs on 1–7 scales) by condition."
+    paste("Table S1. RQ3: Satisfaction by condition (item means and SDs on 7-point",
+          "scales; n = 199). 'Condition p' is the omnibus test from a linear",
+          "regression of each item on condition (reference = CCC).")
   )
 
 write_csv(df_sat, "../reports/manuscript/tableS1_rq3_satisfaction.csv")
 
 ```
 
-## Table S2: RQ5 preferred delay pattern
+## Table S2: RQ5 delay preferences
 
-Among respondents who expressed a preference for increasing delays (`prefer_increasing == "Yes"`).
+Descriptive summary across all post-survey respondents (irrespective of assigned
+condition, per the preregistration). NOTE: pattern option labels (Option 1/2/3)
+come from the survey instrument; confirm which escalating schedule each option
+depicted before finalising the labels.
 
 ```{r table-s2}
 
-# NOTE: Pattern option labels (Option 1/2/3) come from the survey instrument.
-# Add a Description column here once you confirm what each option means.
+n_post <- nrow(df_post)
+pct <- function(k, d = n_post) sprintf("%d (%.1f%%)", k, 100 * k / d)
 
-df_pref <- df_post |>
+# (a) prefer to set own delay; (b) prefer increasing delay; (c) which pattern
+q_own  <- count(df_post, prefer_own_delay)
+q_inc  <- count(df_post, prefer_increasing)
+n_inc  <- sum(df_post$prefer_increasing == "Yes", na.rm = TRUE)
+med_own <- median(suppressWarnings(as.numeric(
+  df_post$pref_delay_secs[df_post$prefer_own_delay == "Yes"])), na.rm = TRUE)
+
+pat <- df_post |>
   filter(prefer_increasing == "Yes", !is.na(pref_pattern)) |>
-  count(pref_pattern) |>
-  mutate(pct = round(n / sum(n) * 100, 1)) |>
-  arrange(desc(n)) |>
-  select(Pattern = pref_pattern, N = n, `%` = pct) |>
-  mutate(`%` = paste0(`%`, "%"))
+  count(pref_pattern) |> arrange(desc(n))
 
-cat("Preferred pattern N (among prefer_increasing == 'Yes'):", sum(df_pref$N), "\n")
+df_pref <- bind_rows(
+  tibble(Question = "Would set own delay duration",
+         Response = c("Yes", "No"),
+         `n (%)`  = c(pct(sum(df_post$prefer_own_delay == "Yes", na.rm = TRUE)),
+                      pct(sum(df_post$prefer_own_delay == "No",  na.rm = TRUE)))),
+  tibble(Question = sprintf("Preferred own duration (median s; among %d 'Yes')",
+                            sum(df_post$prefer_own_delay == "Yes", na.rm = TRUE)),
+         Response = "—", `n (%)` = sprintf("%g s", med_own)),
+  tibble(Question = "Would prefer increasing delay",
+         Response = c("Yes", "No"),
+         `n (%)`  = c(pct(n_inc),
+                      pct(sum(df_post$prefer_increasing == "No", na.rm = TRUE)))),
+  tibble(Question = sprintf("Preferred escalating pattern (among %d 'Yes')", n_inc),
+         Response = pat$pref_pattern,
+         `n (%)`  = pct(pat$n, n_inc))
+)
 
 ms_flextable(df_pref) |>
   set_caption(
-    paste0("Table S2. RQ5: Preferred delay pattern among post-survey completers who preferred ",
-           "increasing delays (N = ", sum(df_pref$N), ").")
+    paste0("Table S2. RQ5: Delay preferences among post-survey respondents (n = ",
+           n_post, ").")
   )
 
 write_csv(df_pref, "../reports/manuscript/tableS2_rq5_preferred_pattern.csv")

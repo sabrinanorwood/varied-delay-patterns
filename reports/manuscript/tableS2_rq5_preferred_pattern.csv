@@ -1,5 +1,10 @@
-Pattern,N,%
-Option 1,76,46.6%
-Option 3,61,37.4%
-Other,15,9.2%
-Option 2,11,6.7%
+Question,Response,n (%)
+Would set own delay duration,Yes,123 (61.8%)
+Would set own delay duration,No,76 (38.2%)
+Preferred own duration (median s; among 123 'Yes'),<e2><80><94>,15 s
+Would prefer increasing delay,Yes,163 (81.9%)
+Would prefer increasing delay,No,36 (18.1%)
+Preferred escalating pattern (among 163 'Yes'),Option 1,76 (46.6%)
+Preferred escalating pattern (among 163 'Yes'),Option 3,61 (37.4%)
+Preferred escalating pattern (among 163 'Yes'),Other,15 (9.2%)
+Preferred escalating pattern (among 163 'Yes'),Option 2,11 (6.7%)
