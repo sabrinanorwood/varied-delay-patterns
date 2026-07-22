@@ -691,9 +691,9 @@ ggsave("../reports/manuscript/figureS1_rq1_tolerability.png",
 
 ```
 
-## Table S3: RQ2 pairwise comparisons — dismissed openings and attempts at Week 6
+## Table S1: RQ2 pairwise comparisons — dismissed openings and attempts at Week 6
 
-```{r table-s3}
+```{r table-pairwise}
 
 df_pw1 <- read_csv("../reports/results_rq2_effectiveness/pairwise_rq2_1.csv",
                     show_col_types = FALSE) |>
@@ -718,17 +718,17 @@ df_pw_all <- bind_rows(df_pw1, df_pw2) |>
 
 ms_flextable(df_pw_all) |>
   set_caption(
-    paste("Table S3. RQ2: Pairwise comparisons of model-estimated dismissed openings and",
+    paste("Table S1. RQ2: Pairwise comparisons of model-estimated dismissed openings and",
           "initial attempt counts at Week 6 (negative binomial regression; unadjusted p-values).")
   )
 
-write_csv(df_pw_all, "../reports/manuscript/tableS3_rq2_pairwise.csv")
+write_csv(df_pw_all, "../reports/manuscript/tableS1_rq2_pairwise.csv")
 
 ```
 
-## Table S4: Exploratory GLMM fixed effects — attempts and dismissed openings
+## Table S2: Exploratory GLMM fixed effects — attempts and dismissed openings
 
-```{r table-s4}
+```{r table-fixed-effects}
 
 df_glmm_att <- read_csv("../reports/results_rq2_effectiveness/glmm_attempts_results.csv",
                           show_col_types = FALSE) |>
@@ -751,18 +751,18 @@ df_glmm_all <- bind_rows(df_glmm_att, df_glmm_dis) |>
 
 ms_flextable(df_glmm_all) |>
   set_caption(
-    paste("Table S4. Exploratory GLMM fixed effects for app-opening attempts",
+    paste("Table S2. Exploratory GLMM fixed effects for app-opening attempts",
           "(negative binomial, IRRs) and dismissed openings (binomial, ORs).",
           "Predictors are mean-centred. Reference: mean delay (7.5s), mean week (2.9).")
   )
 
-write_csv(df_glmm_all, "../reports/manuscript/tableS4_glmm_fixed_effects.csv")
+write_csv(df_glmm_all, "../reports/manuscript/tableS2_glmm_fixed_effects.csv")
 
 ```
 
-## Table S5: Exploratory GLMM per-week delay slopes — attempts and dismissed openings
+## Table S3: Exploratory GLMM per-week delay slopes — attempts and dismissed openings
 
-```{r table-s5}
+```{r table-slopes}
 
 df_slopes_att <- read_csv("../reports/results_rq2_effectiveness/glmm_attempts_slopes.csv",
                             show_col_types = FALSE) |>
@@ -777,18 +777,22 @@ df_slopes_all <- bind_rows(df_slopes_att, df_slopes_dis) |>
 
 ms_flextable(df_slopes_all) |>
   set_caption(
-    paste("Table S5. Exploratory GLMM: estimated effect of delay duration",
+    paste("Table S3. Exploratory GLMM: estimated effect of delay duration",
           "(per additional second) on app-opening attempts and dismissed openings",
-          "at Weeks 1, 3, and 6, derived from the delay × week interaction.")
+          "at each study week (Weeks 1-6), derived from the delay x week interaction.",
+          "Note: delay varied across conditions only through Week 4; all conditions",
+          "reached the 10-second delay by Week 5, so the Week 5-6 attempt slopes are",
+          "extrapolations of the fitted linear interaction beyond observed delay",
+          "variation and should not be read as a reversal.")
   )
 
-write_csv(df_slopes_all, "../reports/manuscript/tableS5_glmm_slopes.csv")
+write_csv(df_slopes_all, "../reports/manuscript/tableS3_glmm_slopes.csv")
 
 ```
 
-## Table S1: RQ3 satisfaction descriptives by condition
+## Table S4: RQ3 satisfaction descriptives by condition
 
-```{r table-s1}
+```{r table-satisfaction}
 
 df_post <- read_csv("../data/processed/data_processed_selfreport_post.csv",
                      show_col_types = FALSE) |>
@@ -826,23 +830,23 @@ df_sat <- map_dfr(names(satisfaction_items), function(item) {
 
 ms_flextable(df_sat) |>
   set_caption(
-    paste("Table S1. RQ3: Satisfaction by condition (item means and SDs on 7-point",
+    paste("Table S4. RQ3: Satisfaction by condition (item means and SDs on 7-point",
           "scales; n = 199). 'Condition p' is the omnibus test from a linear",
           "regression of each item on condition (reference = CCC).")
   )
 
-write_csv(df_sat, "../reports/manuscript/tableS1_rq3_satisfaction.csv")
+write_csv(df_sat, "../reports/manuscript/tableS4_rq3_satisfaction.csv")
 
 ```
 
-## Table S2: RQ5 delay preferences
+## Table S5: RQ5 delay preferences
 
 Descriptive summary across all post-survey respondents (irrespective of assigned
 condition, per the preregistration). The three escalating options shown in the
 survey correspond to the study schedules: Option 1 = 3 → 6 → 10 s (ABC),
 Option 2 = 3 → 10 → 10 s (ACC), Option 3 = 6 → 10 → 10 s (BCC).
 
-```{r table-s2}
+```{r table-preferences}
 
 # Retention status (active in Week 6) lets us show the preference split that
 # addresses the survivorship concern: respondents include both dropouts and
@@ -892,13 +896,13 @@ names(df_pref)[3:5] <- c(sprintf("Overall (n = %d)", nrow(df_post)),
 
 ms_flextable(df_pref) |>
   set_caption(
-    paste("Table S2. RQ5: Delay preferences among post-survey respondents (n = 199),",
+    paste("Table S5. RQ5: Delay preferences among post-survey respondents (n = 199),",
           "overall and split by whether the respondent was retained (active in Week 6)",
           "or had dropped out. Pattern percentages are of those preferring an increasing",
           "delay within each column.")
   )
 
-write_csv(df_pref, "../reports/manuscript/tableS2_rq5_preferred_pattern.csv")
+write_csv(df_pref, "../reports/manuscript/tableS5_rq5_preferred_pattern.csv")
 
 ```
 
@@ -912,7 +916,7 @@ happiness runs 1 = very unhappy to 7 = totally happy; the comparison item runs
 single-group pre-post comparison among the 199 paired respondents (no
 non-intervention control), so it cannot isolate an intervention effect.
 
-```{r table-s6}
+```{r table-consumption}
 
 df_pre_sr <- read_csv("../data/processed/data_processed_selfreport_pre.csv",
                       show_col_types = FALSE)
