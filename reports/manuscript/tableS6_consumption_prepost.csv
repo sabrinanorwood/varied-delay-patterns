@@ -1,0 +1,5 @@
+Measure,n,Pre M (SD),Post M (SD),Change [95% CI],p,dz
+Own consumption problematic,199,5.62 (1.24),5.20 (1.31),"-0.42 [-0.62, -0.22]",< .001,-0.30
+Happiness with consumption,199,2.31 (1.12),3.45 (1.54),"+1.15 [+0.91, +1.38]",< .001,0.68
+Consumption problematic in general,199,6.46 (0.88),6.46 (0.91),"+0.00 [-0.16, +0.16]",1.000,0.00
+Consumption vs. average,199,4.56 (1.47),3.88 (1.54),"-0.68 [-0.88, -0.47]",< .001,-0.46

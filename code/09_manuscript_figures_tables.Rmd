@@ -902,6 +902,64 @@ write_csv(df_pref, "../reports/manuscript/tableS2_rq5_preferred_pattern.csv")
 
 ```
 
+## Table S6: Pre-post change in consumption self-evaluation (exploratory)
+
+Four consumption self-evaluation items were measured in both the pre- and
+post-survey (7-point scales). Anchors: the two "problematic" items run
+1 = very unproblematic to 7 = very problematic (so a decrease is an improvement);
+happiness runs 1 = very unhappy to 7 = totally happy; the comparison item runs
+1 = very below average to 7 = very above average. This is an uncontrolled
+single-group pre-post comparison among the 199 paired respondents (no
+non-intervention control), so it cannot isolate an intervention effect.
+
+```{r table-s6}
+
+df_pre_sr <- read_csv("../data/processed/data_processed_selfreport_pre.csv",
+                      show_col_types = FALSE)
+
+consumption_items <- tribble(
+  ~pre,                  ~post,                  ~Measure,
+  "sm_problematic_pre",  "sm_problematic_post",  "Own consumption problematic",
+  "sm_happiness_pre",    "sm_happiness_post",    "Happiness with consumption",
+  "sm_general_prob_pre", "sm_general_prob_post", "Consumption problematic in general",
+  "sm_comparison_pre",   "sm_comparison_post",   "Consumption vs. average"
+)
+
+paired <- df_post |>
+  select(participant_id, all_of(consumption_items$post)) |>
+  inner_join(select(df_pre_sr, participant_id, all_of(consumption_items$pre)),
+             by = "participant_id")
+
+df_consump <- map_dfr(seq_len(nrow(consumption_items)), function(i) {
+  pr <- paired[[consumption_items$pre[i]]]; po <- paired[[consumption_items$post[i]]]
+  ok <- !is.na(pr) & !is.na(po); pr <- pr[ok]; po <- po[ok]; d <- po - pr
+  tt <- t.test(po, pr, paired = TRUE)
+  tibble(
+    Measure           = consumption_items$Measure[i],
+    n                 = length(d),
+    `Pre M (SD)`      = sprintf("%.2f (%.2f)", mean(pr), sd(pr)),
+    `Post M (SD)`     = sprintf("%.2f (%.2f)", mean(po), sd(po)),
+    `Change [95% CI]` = sprintf("%+.2f [%+.2f, %+.2f]", mean(d), tt$conf.int[1], tt$conf.int[2]),
+    p                 = ifelse(tt$p.value < .001, "< .001", sprintf("%.3f", tt$p.value)),
+    dz                = sprintf("%.2f", mean(d) / sd(d))
+  )
+})
+
+ms_flextable(df_consump) |>
+  set_caption(
+    paste("Table S6. Exploratory pre-post change in consumption self-evaluation",
+          "(7-point items; n = 199 paired respondents). 'Problematic' items:",
+          "1 = very unproblematic to 7 = very problematic; happiness: 1 = very",
+          "unhappy to 7 = totally happy; comparison: 1 = very below to 7 = very",
+          "above average. Change = post - pre; dz is Cohen's d for paired samples.",
+          "As an uncontrolled single-group comparison, changes cannot be",
+          "attributed to the intervention.")
+  )
+
+write_csv(df_consump, "../reports/manuscript/tableS6_consumption_prepost.csv")
+
+```
+
 ## Figure S2: RQ2 within-condition change from Week 1 to Week 6
 
 ```{r figure-s1}
