@@ -726,6 +726,45 @@ write_csv(df_pw_all, "../reports/manuscript/tableS1_rq2_pairwise.csv")
 
 ```
 
+## Figure (alt. to Table S1): Forest plot of RQ2 pairwise comparisons
+
+Visual alternative to Table S1: rate ratios (± 95% CI) for every pairwise
+condition contrast, by outcome. Contrasts whose CI excludes 1 are highlighted.
+
+```{r figure-pairwise-forest}
+
+sig_pal <- c("Significant (p < .05)" = "#CC3311", "Not significant" = "grey45")
+
+df_forest <- bind_rows(
+  read_csv("../reports/results_rq2_effectiveness/pairwise_rq2_2.csv",
+           show_col_types = FALSE) |> mutate(Outcome = "Initial attempts"),
+  read_csv("../reports/results_rq2_effectiveness/pairwise_rq2_1.csv",
+           show_col_types = FALSE) |> mutate(Outcome = "Dismissed openings")
+) |>
+  mutate(
+    Outcome  = factor(Outcome, levels = c("Initial attempts", "Dismissed openings")),
+    contrast = factor(contrast, levels = rev(unique(contrast))),
+    Sig      = if_else(p < .05, "Significant (p < .05)", "Not significant")
+  )
+
+p_forest <- ggplot(df_forest, aes(ratio, contrast, colour = Sig)) +
+  geom_vline(xintercept = 1, linetype = "dashed", colour = "grey55") +
+  geom_errorbarh(aes(xmin = asymp.LCL, xmax = asymp.UCL),
+                 height = 0.25, linewidth = 0.7) +
+  geom_point(size = 2.6) +
+  facet_wrap(~ Outcome) +
+  scale_x_log10(breaks = c(0.7, 0.85, 1, 1.2, 1.4)) +
+  scale_colour_manual(values = sig_pal) +
+  labs(x = "Rate ratio (log scale; reference = 1)", y = "Contrast", colour = NULL) +
+  theme_ms(legend.position = "bottom")
+
+p_forest
+
+ggsave("../reports/manuscript/figureS_pairwise_forest.png",
+       p_forest, width = 8, height = 4, dpi = 300)
+
+```
+
 ## Table S2: Exploratory GLMM fixed effects — attempts and dismissed openings
 
 ```{r table-fixed-effects}
@@ -961,6 +1000,40 @@ ms_flextable(df_consump) |>
   )
 
 write_csv(df_consump, "../reports/manuscript/tableS6_consumption_prepost.csv")
+
+```
+
+## Figure (alt. to Table S6): Pre-post change in consumption self-evaluation
+
+Visual alternative to Table S6: mean pre-post change (± 95% CI) per item; a
+change excluding 0 is highlighted. Uncontrolled single-group comparison.
+
+```{r figure-consumption-change}
+
+df_change_fig <- map_dfr(seq_len(nrow(consumption_items)), function(i) {
+  pr <- paired[[consumption_items$pre[i]]]; po <- paired[[consumption_items$post[i]]]
+  ok <- !is.na(pr) & !is.na(po); d <- po[ok] - pr[ok]; tt <- t.test(d)
+  tibble(Measure = consumption_items$Measure[i], change = mean(d),
+         lo = tt$conf.int[1], hi = tt$conf.int[2], p = tt$p.value)
+}) |>
+  mutate(
+    Measure = str_wrap(Measure, 18),
+    Measure = factor(Measure, levels = rev(unique(Measure))),
+    Sig     = if_else(p < .05, "Significant (p < .05)", "Not significant")
+  )
+
+p_change <- ggplot(df_change_fig, aes(change, Measure, colour = Sig)) +
+  geom_vline(xintercept = 0, linetype = "dashed", colour = "grey55") +
+  geom_errorbarh(aes(xmin = lo, xmax = hi), height = 0.25, linewidth = 0.7) +
+  geom_point(size = 2.6) +
+  scale_colour_manual(values = sig_pal) +
+  labs(x = "Mean change, post - pre (7-point scale)", y = NULL, colour = NULL) +
+  theme_ms(legend.position = "bottom")
+
+p_change
+
+ggsave("../reports/manuscript/figureS_consumption_change.png",
+       p_change, width = 7, height = 3.4, dpi = 300)
 
 ```
 
