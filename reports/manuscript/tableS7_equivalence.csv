@@ -1,0 +1,4 @@
+Contrast,Dropout difference (pp),90% CI (pp),TOST p (15-pp margin),Equivalent
+ABC vs. CCC,-1.4,"[-6.9, +4.1]",< .001,Yes
+ACC vs. CCC,+0.7,"[-4.6, +6.0]",< .001,Yes
+BCC vs. CCC,+4.2,"[-1.2, +9.5]",< .001,Yes

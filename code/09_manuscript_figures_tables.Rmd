@@ -691,6 +691,55 @@ ggsave("../reports/manuscript/figureS1_rq1_tolerability.png",
 
 ```
 
+## Table S7: Equivalence tests (TOST) on the primary retention outcome
+
+Two one-sided tests for each escalation condition vs. CCC against the
+preregistered smallest effect size of interest: a 15-percentage-point difference
+in retention. A 90% CI falling entirely within the +/- 15-point margin
+(TOST p < .05) indicates statistical equivalence, i.e. no difference larger than
+the smallest effect the study was designed to detect.
+
+```{r table-equivalence}
+
+d_eq  <- read_csv("../reports/results_rq1_tolerability/dropout_summary.csv",
+                  show_col_types = FALSE)
+ccc   <- d_eq |> filter(condition == "CCC")
+delta <- 0.15   # preregistered SESOI: 15-pp difference in retention
+
+tost_rd <- function(x1, n1, x2, n2, delta, alpha = 0.05) {
+  p1 <- x1 / n1; p2 <- x2 / n2; rd <- p1 - p2
+  se <- sqrt(p1 * (1 - p1) / n1 + p2 * (1 - p2) / n2)
+  p_tost <- max(1 - pnorm((rd + delta) / se), pnorm((rd - delta) / se))
+  ci <- rd + c(-1, 1) * qnorm(1 - alpha) * se
+  tibble(rd = rd, lo = ci[1], hi = ci[2], p_tost = p_tost)
+}
+
+df_eq <- map_dfr(c("ABC", "ACC", "BCC"), function(cond) {
+  r <- d_eq |> filter(condition == cond)
+  tost_rd(r$n_dropout, r$n_total, ccc$n_dropout, ccc$n_total, delta) |>
+    mutate(Contrast = paste(cond, "vs. CCC"))
+}) |>
+  transmute(
+    Contrast,
+    `Dropout difference (pp)` = sprintf("%+.1f", rd * 100),
+    `90% CI (pp)`             = sprintf("[%+.1f, %+.1f]", lo * 100, hi * 100),
+    `TOST p (15-pp margin)`   = ifelse(p_tost < .001, "< .001", sprintf("%.3f", p_tost)),
+    Equivalent                = ifelse(p_tost < .05, "Yes", "No")
+  )
+
+ms_flextable(df_eq) |>
+  set_caption(
+    paste("Table S7. Equivalence tests (two one-sided tests) for the primary",
+          "retention outcome: each escalation condition vs. CCC against the",
+          "preregistered smallest effect size of interest (15-percentage-point",
+          "difference in dropout). A 90% CI within the margin indicates",
+          "statistical equivalence.")
+  )
+
+write_csv(df_eq, "../reports/manuscript/tableS7_equivalence.csv")
+
+```
+
 ## Table S1: RQ2 pairwise comparisons — dismissed openings and attempts at Week 6
 
 ```{r table-pairwise}
